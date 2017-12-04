@@ -1,6 +1,6 @@
 > Horowitz – The Last Romantic
 > Vladimir Horowitz
-> 1 / 2
+> 1 / 1
 > Classical | 1985 | Deutsche Grammophon
 > 80ddd0bee51219d27313b395421b0c8b | 91783a31e767f6433057a2b615f09ea4
 > 4339527 | B000001G76
