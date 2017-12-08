@@ -37,7 +37,9 @@ Franz Liszt (1811 – 1886)
   Rec. 1985-04-21 in New York
 
 Robert Schumann (1810 – 1856)
-09. Novelette in F major, Op. 21 No. 1
+8 Novelletten, Op. 21
+
+  09. No. 1 in F major “Markiert und kraftig”
 
   Rec. 1985-04-28 – 1985-04-30 in New York
 
