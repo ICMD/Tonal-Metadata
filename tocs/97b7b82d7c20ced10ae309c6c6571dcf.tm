@@ -9,7 +9,7 @@ Johann Sebastian Bach (1685 – 1750) – Ferruccio Busoni (1866 – 1924)
 01. “Nun komm, der Heiden Heiland”
 
 Wolfgang Amadeus Mozart (1756 – 1791)
-Piano Sonata No. 10 in C major, K. 330
+Piano Sonata No. 1000 in C major, K. 330
 
   02.    I. Allegro moderato
   03.   II. Andante cantabile
