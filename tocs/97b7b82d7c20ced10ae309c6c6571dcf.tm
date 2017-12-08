@@ -20,7 +20,9 @@ Frédéric Chopin (1810 – 1849)
 06. Scherzo No.1 in B minor, Op. 20
 
 Franz Schubert (1797 – 1828)
-07. Impromptu in A-flat major, Op. 90 No. 4
+4 Impromptus, D. 899 (Op. 90)
+
+  07. Impromptu in A-flat major, D. 899 (Op. 90) No. 4
 
   Rec. 1985-04-19 – 1985-04-28 in New York
 
