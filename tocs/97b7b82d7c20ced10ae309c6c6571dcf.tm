@@ -35,7 +35,7 @@ Robert Schumann (1810 – 1856)
   Rec. 1985-04-28 – 1985-04-30 in New York
 
 Sergei Rachmaninoff (1873 – 1943)
-Preludes, Op. 32
+13 Preludes, Op. 32
 
   10. Prelude in G minor, Op. 32 No. 12
 
