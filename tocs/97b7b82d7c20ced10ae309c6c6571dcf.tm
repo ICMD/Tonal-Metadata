@@ -30,7 +30,9 @@ Franz Schubert (1797 – 1828)
   Rec. 1985-04-19 – 1985-04-28 in New York
 
 Franz Liszt (1811 – 1886)
-08. Consolation No. 3 in D-flat major
+6 Consolations S. 172
+
+  08. Consolation in D-flat major, S. 172 No. 3
 
   Rec. 1985-04-21 in New York
 
