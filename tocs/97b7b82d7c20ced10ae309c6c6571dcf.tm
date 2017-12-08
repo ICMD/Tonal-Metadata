@@ -16,7 +16,10 @@ Piano Sonata No. 10 in C major, K. 330
   04.  III. Allegretto
 
 Frédéric Chopin (1810 – 1849)
-05. Mazurka in A minor, Op. 17 No. 4
+4 Mazurkas, Op. 17
+
+  05. Mazurka in A minor, Op. 17 No. 4
+
 06. Scherzo No.1 in B minor, Op. 20
 
 Franz Schubert (1797 – 1828)
