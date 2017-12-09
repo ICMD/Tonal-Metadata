@@ -1,9 +1,9 @@
-> Rattle Edition – Stravinsky
-> Sir Simon Rattle, et al.
-> 2 / 4
-> Orchestral | 2009 | Warner Classics
-> 104e2987fbb1715f4678838376af8ff1 | 
->  | B0026DHX40
+> Horowitz – The Last Romantic
+> Vladimir Horowitz
+> 1 / 1
+> Classical / Solo Instrumental / Piano | 1985 | Deutsche Grammophon
+> 80ddd0bee51219d27313b395421b0c8b | 91783a31e767f6433057a2b615f09ea4
+> 4339527 | B000001G76
 
 Johann Sebastian Bach (1685 – 1750) – Ferruccio Busoni (1866 – 1924)
 01. “Nun komm, der Heiden Heiland”
