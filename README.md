@@ -1,2 +1,2 @@
-# Tonal-metadata
-Metadata for Tonal App in Tonal Syntax
+# Tonal-Metadata
+Music metadata for Tonal app.
