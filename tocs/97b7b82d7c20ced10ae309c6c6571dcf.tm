@@ -16,37 +16,26 @@ Piano Sonata No. 10 in C major, K. 330
   04.  III. Allegretto
 
 Frédéric Chopin (1810 – 1849)
-4 Mazurkas, Op. 17
-
-  05. Mazurka in A minor, Op. 17 No. 4
-
+05. Mazurka in A minor, Op. 17 No. 4
 06. Scherzo No.1 in B minor, Op. 20
 
 Franz Schubert (1797 – 1828)
-4 Impromptus, D. 899 (Op. 90)
-
-  07. Impromptu in A-flat major, D. 899 (Op. 90) No. 4
+07. Impromptu in A-flat major, Op. 90 No. 4
 
   Rec. 1985-04-19 – 1985-04-28 in New York
 
 Franz Liszt (1811 – 1886)
-6 Consolations S. 172
-
-  08. Consolation in D-flat major, S. 172 No. 3
+08. Consolation No. 3 in D-flat major
 
   Rec. 1985-04-21 in New York
 
 Robert Schumann (1810 – 1856)
-8 Novelletten, Op. 21
-
-  09. No. 1 in F major “Markiert und kraftig”
+09. Novelette in F major, Op. 21 No. 1
 
   Rec. 1985-04-28 – 1985-04-30 in New York
 
 Sergei Rachmaninoff (1873 – 1943)
-13 Preludes, Op. 32
-
-  10. Prelude in G minor, Op. 32 No. 12
+10. Prelude in G minor, Op. 32 No. 12
 
   Rec. 1985-04-25 – 1985-04-28 in New York
 
@@ -61,9 +50,7 @@ Frédéric Chopin (1810 – 1849)
   Rec. 1985-04-19 – 1985-04-30 in New York
 
 Moritz Moszkowski (1854 – 1925)
-15 Études de Virtuosité, Op. 72
-
-  13. Étude in F major, Op. 72 No. 6
+13. Étude in F major, Op. 72 No. 6
 
   Vladimir Horowitz, Piano
   Rec. 1985-04-30 in New York
