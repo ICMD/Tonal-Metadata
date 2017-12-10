@@ -2,35 +2,39 @@
 > Sir Simon Rattle, et al.
 > 1 / 4 BOXSET
 > Classical / Orchestral | 2009 | Warner Classics
-> 104e2987fbb1715f4678838376af8ff1 | 
+> 80ddd0bee51219d27313b395421b0c8b | 
 >  | B0026DHX40
 
-Igor Stravinsky (1882 – 1971)
-Ballet “The Firebird” (1910 Version)
+Johann Sebastiann Bach (1685 – 1750)
+The Well-Tempered Clavier, Book I, BWV 846–893
 
-  01. Introduction
+  Prelude and Fugue in F sharp major, BWV 858
+  01. Prelude
+  02. Fugue
 
-  Scene 1
-  02.    I. Dance of the Firebird
-  03.   II. The princesses’ game with the golden apples
-  04.  III. Sudden appearance of Ivan Tsarevich
-  05.   IV. Dance of Kaschei's retinue under Firebird’s spell
-  06.    V. Lullaby (Firebird)
+  Prelude and Fugue in F sharp minor, BWV 859
+  03. Prelude
+  04. Fugue
 
-  Scene 2
-  07. Disappearance of the palace and dissolution of Kaschei’s enchantments
+  Prelude and Fugue in F sharp major, BWV 858
+  05. Prelude
+  06. Fugue
 
-08. Scherzo à la russe (Original Jazz Version)
+  Prelude and Fugue in F sharp minor, BWV 859
+  07. Prelude
+  08. Fugue
 
-Four Studies (1952 Version)
+    Glenn Gould, Piano
 
-  09.    I. Danse
-  10.   II. Excentrique
-  11.  III. Cantique
-  12.   IV. Madrid
+  Prelude and Fugue in F sharp major, BWV 858
+  09. Prelude
+  10. Fugue
 
-13. Scherzo à la russe (Orchestral Version)
+  Prelude and Fugue in F sharp minor, BWV 859
+  11. Prelude
+  12. Fugue
 
-  City of Birmingham Symphony Orchestra
-  Sir Simon Rattle, Conductor
-  Rec. 1987-10-16 – 1987-10-17
+  Prelude and Fugue in F sharp major, BWV 858
+  13. Prelude
+
+  Vladimir Horowitz, Piano
