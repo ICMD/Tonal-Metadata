@@ -1,4 +1,4 @@
-> Rattle Edition – Stravinsky?
+> Rattle Edition – Stravinsky
 > Sir Simon Rattle, et al.
 > 1 / 4 BOXSET
 > Classical / Orchestral | 2009 | Warner Classics
