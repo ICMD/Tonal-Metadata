@@ -32,5 +32,5 @@ Four Studies (1952 Version)
 13. Scherzo à la russe (Orchestral Version)
 
   City of Birmingham Symphony Orchestra
-  Sir Simon Ratttle, Conductor
+  Sir Simon Rattle, Conductor
   Rec. 1987-10-16 – 1987-10-17
