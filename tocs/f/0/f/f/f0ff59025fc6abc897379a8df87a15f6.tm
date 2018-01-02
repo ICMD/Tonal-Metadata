@@ -1,36 +1,31 @@
-> Rattle Edition – Stravinsky
-> Sir Simon Rattle, et al.
-> 1 / 4 BOXSET
-> Classical / Orchestral | 2009 | Warner Classics
-> 104e2987fbb1715f4678838376af8ff1 | 
->  | B0026DHX40
+> Stravinsky: Firebird Suite (1919), Scherzo a la Russe, 4 Studies
+> Simon Rattle & City of Birmingham Symphony Orchestra
+> 1 / 1
+> Classical | 1989 | EMI
+> c5e01f27320e55da790ee0a4a516610c | 
+>  | 
 
 Igor Stravinsky (1882 – 1971)
-Ballet “The Firebird” (1910 Version)
+Firebird Suite (1919)
 
-  01. Introduction
+  01.    I. Introduction
+  02.   II. Dance of the Firebird
+  03.  III. The Princesses’ Game With the Golden Apples
+  04.   IV. Sudden Appearance of Ivan Tsarevich
+  05.    V. Dance of Kashchey’s Retinue Under Firebird’s Spell
+  06.   VI. Lullaby
 
-  Scene 1
-  02.    I. Dance of the Firebird
-  03.   II. The princesses’ game with the golden apples
-  04.  III. Sudden appearance of Ivan Tsarevich
-  05.   IV. Dance of Kaschei's retinue under Firebird’s spell
-  06.    V. Lullaby (Firebird)
+07. Firebird Suite (1919): VII. Disappearance of the Palace
+08. Scherzo a la Russe (Jazz Band Version)
 
-  Scene 2
-  07. Disappearance of the palace and dissolution of Kaschei’s enchantments
-
-08. Scherzo à la russe (Original Jazz Version)
-
-Four Studies (1952 Version)
+4 Studies
 
   09.    I. Danse
   10.   II. Excentrique
   11.  III. Cantique
-  12.   IV. Madrid
 
-13. Scherzo à la russe (Orchestral Version)
+12. 4 Studies: IV. Madrid
+13. Scherzo a la Russe (Orchestral Version)
 
   City of Birmingham Symphony Orchestra
-  Sir Simon Rattle, Conductor
-  Rec. 1987-10-16 – 1987-10-17
+  Simon Rattle, Conductor
