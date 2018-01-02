@@ -38,7 +38,8 @@ Four Studies
   10.   II. Excentrique
   11.  III. Cantique
   12.   IV. Madrid
-  13. usse (Orchestral Version)
+
+13. Scherzo À la Russe (Orchestral Version)
 
   City of Birmingham Symphony Orchestra
   Simon Rattle, Conductor
