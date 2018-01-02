@@ -28,8 +28,8 @@ L’Oiseau de Feu (1947 Version)
   04. Tableau I. Brusque apparition d'Ivan Tsarévitch – Khorovode des princesses (Ronde) – Lever du jour – Ivan Tsarévitch pénètre dans le palais de Kachtcheï – Carillon féerique – Apparition des monstres – gardiens de Kachtcheï 
   05. Tableau I. Danse de la suite de Kachtcheî enchantée par L’Oiseau de feu – Danse infernale de tous les sujets de Kachtcheï
   06. Tableau I. Berceuse (L’Oiseau de feu) – Réveil de Kachtcheï – Mort de Kachtcheï – Profonds ténébres
+  07. Tableau II. Disparation de palais et des sortilèges de Kachtcheï – Animation des chevaliers pétrifiés – Allégresse générale
 
-07. L’Oiseau de Feu (1947 Version): Tableau II. Disparation de palais et des sortilèges de Kachtcheï – Animation des chevaliers pétrifiés – Allégresse générale
 08. Scherzo À la Russe (Jazz Band Version)
 
 Four Studies
@@ -37,9 +37,8 @@ Four Studies
   09.    I. Danse
   10.   II. Excentrique
   11.  III. Cantique
-
-12. Four Studies: IV. Madrid
-13. Scherzo À la Russe (Orchestral Version)
+  12.   IV. Madrid
+  13. usse (Orchestral Version)
 
   City of Birmingham Symphony Orchestra
   Simon Rattle, Conductor
