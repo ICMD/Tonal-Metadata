@@ -1,30 +1,116 @@
-> Echoes
-> Pink Floyd
-> 1 / 1
-> Rock | 2016 | 
-> f31f0c51d75fbcbd7b6da576fd12f1d2 | 
->  | 
-
 > Echoes: The Best of Pink Floyd
 > Pink Floyd
 > 1 / 2
-> Rock | 2001 | Capitol
-> f31f0c51d75fbcbd7b6da576fd12f1d2 | 
->  | 
+> Classical | 2016 | Capitol Records
+> 8d8ef6e834f9df21b14d012cd4e3f1f2 | 
+> 734652255, 1066497829 | B00LSOKV3S, B0195Z3L2Y, B00005QDW5, B01FWX6ZA8, B00G2I65OO, B01K8NAM7E, B01A9L8CA4, B01G99Y1G4
 
-Echoes
-01. Shine on You Crazy Diamond (Parts 1 – 7)
-02. Time
-03. The Fletcher Memorial Home
-04. Comfortably Numb
-05. When the Tigers Broke Free
-06. One of These Days
-07. Us and Them
-08. Learning to Fly
-09. Arnold Layne
-10. Wish You Were Here
-11. Jugband Blues
-12. High Hopes
-13. Bike
+Syd Barrett
+01. Astronomy Domine (1967)
+02. See Emily Play (1967)
 
+  Roger Waters, Bass
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  Pink Floyd
+
+Roger Waters
+03. The Happiest Days of Our Lives (1979)
+
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  David Gilmour, Guitars
+  Pink Floyd
+  Rec. Unknown
+
+04. Another Brick in the Wall, Part 2
+
+  Nick Mason, Drums
+  David Gilmour, Guitars & Lead Vocals
+  Richard Wright, Hammond Organ & Synthesizer
+  Children of Islington Green School
+  Pink Floyd
+  Rec. Brittania Row Studios, London
+
+Richard Wright, Roger Waters, Nick Mason, David Gilmour & Pink Floyd
+05. Echoes (Edit)
+
+  Roger Waters, Bass
+  Nick Mason, Drums
+  David Gilmour, Guitars & Vocal
+  Pink Floyd
+
+Roger Waters
+06. Hey You (1979)
+
+  Pink Floyd
+
+Richard Wright & David Gilmour
+07. Marooned (Excerpt)
+
+  Guy Pratt, Bass
+  Jon Carin, Keyboard
+  Nick Mason, Drums
+  David Gilmour, Guitars
+  Pink Floyd
+
+Richard Wright, Clare Torry & Roger Waters
+08. The Great Gig in the Sky (1973)
+
+  Clare Torry, Vocal
+  Roger Waters, Bass
+  Nick Mason, Drums
+  David Gilmour, Guitars
+  Pink Floyd
+
+Roger Waters
+09. Set the Controls for the Heart of the Sun (1968)
+
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  Syd Barrett, Guitars
+  David Gilmour, Guitars
+  Pink Floyd
+
+10. Money (1973)
+
+  Dick Parry, Saxophone
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  David Gilmour, Guitars & Vocal
+  Pink Floyd
+
+Richard Wright, Polly Samson & David Gilmour
+11. Keep Talking (1994)
+
+  Jackie Sheridan, Vocal
+  Guy Pratt, Bass
+  Jon Carin, Keyboard
+  Nick Mason, Drums
+  Carol Kenyon, Background Vocals
+  Durga McBroom, Background Vocals
+  Rebecca Leigh-White, Background Vocals
+  Sam Brown, Background Vocals
+  David Gilmour, Guitars & Vocal
+  Pink Floyd
+
+Roger Waters
+12. Sheep (1977)
+
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  David Gilmour, Guitars
+  Pink Floyd
+
+David Gilmour
+13. Sorrow (1987)
+
+  Tony Levin, Bass
+  Jon Carin, Keyboard
+  Richard Wright, Keyboard
+  Nick Mason, Drums
+  Carmen Twillie, Background Vocals
+  Phyllis St. James, Background Vocals
+  Darlene Koldenhoven, Background Vocals
+  Donnie Gerrard, Background Vocals
   Pink Floyd
