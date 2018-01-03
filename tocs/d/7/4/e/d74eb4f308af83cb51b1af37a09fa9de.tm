@@ -5,10 +5,10 @@
 > 32dc778e618654528109396688b16ef6 | 
 > 704316542, 1065976549 | B005NNV4TU, B019HNVYJQ, B019VQSBQI, B014I3BCHO, B00FT0KZRE
 
-> Oh by the Way
+> Oh, by the Way
 > Pink Floyd
 > 16 / 16 BOXSET
-> Rock | 2007 | EMI
+> Rock | 2007 | EMI Records
 >  | 
 >  | B006DI1HMS
 
