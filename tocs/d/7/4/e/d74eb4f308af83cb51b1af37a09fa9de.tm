@@ -1,5 +1,5 @@
 > The Division Bell
-> Pink Floyd y
+> Pink Floyd
 > 1 / 1
 > Rock | 2016 | Columbia
 > 32dc778e618654528109396688b16ef6 | 
