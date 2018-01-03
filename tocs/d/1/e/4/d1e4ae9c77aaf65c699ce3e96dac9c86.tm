@@ -1,7 +1,7 @@
 > Stadium Arcadium
 > Red Hot Chili Peppers
 > 1 / 2
-> Alternative | 2006 | Warner Bros. Records
+> Classical | 2006 | Warner Bros. Records
 > 9862e07def21eb3cc77a199172311dbb | 
 > 945562992 | B003YPU75G, B0011Z92YS, B000EMGAOY, B01A9LCQOW
 
