@@ -8,14 +8,14 @@
 > Oh by the Way
 > Pink Floyd
 > 16 / 16 BOXSET
-> Rock | 2007 | EMI
+> Misc | 2007 | EMI
 >  | 
 >  | B006DI1HMS
 
 > Discovery
 > Pink Floyd
 > 16 / 16 BOXSET
-> Rock | 2011 | EMI
+> Misc | 2011 | EMI
 > b605f7192bc3a54ef8c2a32a31e246ad | 
 >  | 
 
