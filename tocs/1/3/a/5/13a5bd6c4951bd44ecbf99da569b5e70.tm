@@ -8,7 +8,7 @@
 > Coldplay 4 CD Catalogue Set
 > Coldplay
 > 1 / 4 BOXSET
-> Rock | 2012 | Parlophone
+> Indie Rock | 2012 | Parlophone
 > 3afb7002ad05b0246747a97857b853b2 | 
 >  | B009TO99TG
 
