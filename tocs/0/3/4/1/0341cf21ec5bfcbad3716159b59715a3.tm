@@ -1,9 +1,9 @@
 > The Wall
 > Pink Floyd
 > 1 / 2
-> Rock | 2016 | Columbia
-> d87477b98b9befe70baf0855d1892ec7 | 
-> 704273346, 1065975633 | B019HKKVDE, B005NPBT5M, B009M34XVS, B0000025H6, B000006TRV
+> Rock | 1979 | Capitol
+> 52e654bc1f224e77b3398cb73701a587 | 
+>  | 
 
 > Shine On
 > Pink Floyd
