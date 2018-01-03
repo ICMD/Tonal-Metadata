@@ -1,9 +1,9 @@
 > Echoes: The Best of Pink Floyd
 > Pink Floyd
 > 1 / 2
-> Classical | 2016 | Capitol Records
-> 8d8ef6e834f9df21b14d012cd4e3f1f2 | 
-> 734652255, 1066497829 | B00LSOKV3S, B0195Z3L2Y, B00005QDW5, B01FWX6ZA8, B00G2I65OO, B01K8NAM7E, B01A9L8CA4, B01G99Y1G4
+> Rock | 2001 | Capitol Records
+> f31f0c51d75fbcbd7b6da576fd12f1d2 | 
+>  | 
 
 Syd Barrett
 01. Astronomy Domine (1967)
