@@ -1,4 +1,4 @@
-> Hardwired … to Self-Destruct
+> HARDWIRED … to SELF-DESTRUCT
 > Metallica
 > 2 / 2
 > Metal | 2016 | Blackened
