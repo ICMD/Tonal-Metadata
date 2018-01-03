@@ -8,7 +8,7 @@
 > Shine On
 > Pink Floyd
 > 3 / 9 BOXSET
-> Classical | 1992 | Sony Records
+> Rock | 1992 | Sony Records
 >  | 
 >  | B000025MKW
 
