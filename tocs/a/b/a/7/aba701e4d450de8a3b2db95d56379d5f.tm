@@ -8,9 +8,9 @@
 > The Metallica Collection
 > Metallica
 > 5 / 19 BOXSET
-> Rock | 2015 | Vertigo
+> Classical | 2015 | Vertigo
 > 6ea9e86ab528b60111a38b43c6d9e5c8 | 
-> 1009476676 | B00O5E8RHK
+> 1009476676 | B00O5E8RHK, B00EUUJ3RC, B00LYHXGZO, B01M6AHJLS, B00U7H347W, B01KBHRE8W
 
 Kirk Hammett, Lars Ulrich & James Hetfield
 01. Enter Sandman
