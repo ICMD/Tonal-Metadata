@@ -55,7 +55,7 @@ Alexander Scriabin (1872 – 1915)
 
   Rec. 1985-04-23 – 1985-04-30 in New York
 
-Frédéric Chopin (1810 – 1849)
+Frédéric Chopinn (1810 – 1849)
 12. Polonaise No. 6 in A-flat major, Op. 53 “Heroic”
 
   Rec. 1985-04-19 – 1985-04-30 in New York
