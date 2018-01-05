@@ -60,7 +60,7 @@ Frédéric Chopin (1810 – 1849)
 
   Rec. 1985-04-19 – 1985-04-30 in New York
 
-Moritz Moszkowski (1854 – 1925)
+UNKNOWN COMPOSER
 15 Études de Virtuosité, Op. 72
 
   13. Étude in F major, Op. 72 No. 6
