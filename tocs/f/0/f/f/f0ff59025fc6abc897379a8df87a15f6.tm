@@ -1,46 +1,36 @@
-> Stravinsky: The Firebird
-> Simon Rattle & City of Birmingham Symphony Orchestra
-> 1 / 1
-> Classical | 1989 | EMI Digital
->  | 
->  | B00000DNJL
-
-> Stravinsky: Petrushka
-> Igor Stravinsky, Sir Simon Rattle & City of Birmingham Symphony Orchestra
-> 1 / 2
-> Classical | 2003 | EMI Classics
-> 7b1c9f12c64fed8d7c7b92c43b4e3352 | 
->  | B0000CE7FY
-
-> The CBSO Years
-> City of Birmingham Symphony Orchestra & Simon Rattle
-> 19 / 52 BOXSET
-> Classical | 2015 | Warner Classics
-> fee698a61f31da8c30f659a8f233ef22 | 
->  | B0116CI6WO
+> Rattle Edition – Stravinsky
+> Sir Simon Rattle, et al.
+> 1 / 4 BOXSET
+> Classical / Orchestral | 2009 | Warner Classics
+> 104e2987fbb1715f4678838376af8ff1 | 
+>  | B0026DHX40
 
 Igor Stravinsky (1882 – 1971)
-L’Oiseau de Feu (1947 Version)
+Ballet “The Firebird” (1910 Version)
 
   01. Introduction
-  02. Tableau I. Le jardin enchanté de Kachtcheï – Apparition de L’Oiseau de feu poursuivi par Ivan Tsarévitch
-  03. Tableau I. Danse de L’Oiseau de feu – Capture de L’Oiseau de feu par Ivan Tsarévitch – Supplications de L’Oiseau de feu – Apparition des treize princesses enchantées
-  04. Tableau I. Brusque apparition d'Ivan Tsarévitch – Khorovode des princesses (Ronde) – Lever du jour – Ivan Tsarévitch pénètre dans le palais de Kachtcheï – Carillon féerique – Apparition des monstres – gardiens de Kachtcheï 
-  05. Tableau I. Danse de la suite de Kachtcheî enchantée par L’Oiseau de feu – Danse infernale de tous les sujets de Kachtcheï
-  06. Tableau I. Berceuse (L’Oiseau de feu) – Réveil de Kachtcheï – Mort de Kachtcheï – Profonds ténébres
-  07. Tableau II. Disparation de palais et des sortilèges de Kachtcheï – Animation des chevaliers pétrifiés – Allégresse générale
 
-08. Scherzo À la Russe (Jazz Band Version)
+  Scene 1
+  02.    I. Dance of the Firebird
+  03.   II. The princesses’ game with the golden apples
+  04.  III. Sudden appearance of Ivan Tsarevich
+  05.   IV. Dance of Kaschei's retinue under Firebird’s spell
+  06.    V. Lullaby (Firebird)
 
-Four Studies
+  Scene 2
+  07. Disappearance of the palace and dissolution of Kaschei’s enchantments
+
+08. Scherzo à la russe (Original Jazz Version)
+
+Four Studies (1952 Version)
 
   09.    I. Danse
   10.   II. Excentrique
   11.  III. Cantique
   12.   IV. Madrid
 
-13. Scherzo À la Russe (Orchestral Version)
+13. Scherzo à la russe (Orchestral Version)
 
   City of Birmingham Symphony Orchestra
-  Simon Rattle, Conductor
-  Rec. 1987-10-16 – 1987-10-17 in Warwick Arts Centre, Coventry
+  Sir Simon Rattle, Conductor
+  Rec. 1987-10-16 – 1987-10-17
