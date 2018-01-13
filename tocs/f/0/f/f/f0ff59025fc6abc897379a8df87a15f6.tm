@@ -14,7 +14,7 @@ Ballet “The Firebird” (1910 Version)
   02.    I. Dance of the Firebird
   03.   II. The princesses’ game with the golden apples
   04.  III. Sudden appearance of Ivan Tsarevich
-  05.   IV. Dance of Kaschei's retinue under Firebird’s spell
+  05.   IV. Dance of Kaschei’s retinue under Firebird’s spell
   06.    V. Lullaby (Firebird)
 
   Scene 2
