@@ -5,6 +5,13 @@
 > 80ddd0bee51219d27313b395421b0c8b | 91783a31e767f6433057a2b615f09ea4
 > 4339527 | B000001G76
 
+> Rattle Edition – Stravinsky
+> Sir Simon Rattle, et al.
+> 2 / 4 BOXSET
+> Classical / Orchestral | 2009 | Warner Classics
+> 104e2987fbb1715f4678838376af8ff1 | 
+>  | B0026DHX40
+
 Johann Sebastian Bach (1685 – 1750) – Ferruccio Busoni (1866 – 1924)
 01. “Nun komm, der Heiden Heiland”
 
