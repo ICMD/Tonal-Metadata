@@ -1,4 +1,4 @@
-> Horowitz – The Last Romantic
+> Horowitz – The Last Romantic Long Title Example Demo
 > Vladimir Horowitz
 > 1 / 1
 > Classical / Instrumental / Piano | 1985 | Deutsche Grammophon
