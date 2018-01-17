@@ -5,7 +5,6 @@
 > 104e2987fbb1715f4678838376af8ff1 | 
 >  | B0026DHX40
 
-Igor Stravinsky (1882 – 1971)
 Ballet “The Firebird” (1910 Version)
 
   01. Introduction
