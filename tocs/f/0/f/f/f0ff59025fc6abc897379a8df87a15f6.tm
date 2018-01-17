@@ -32,4 +32,3 @@ Four Studies (1952 Version)
 
   City of Birmingham Symphony Orchestra
   Sir Simon Rattle, Conductor
-  Rec. 1987-10-16 – 1987-10-17
