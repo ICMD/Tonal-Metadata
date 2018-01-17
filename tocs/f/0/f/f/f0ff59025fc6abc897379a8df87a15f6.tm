@@ -5,6 +5,7 @@
 > 104e2987fbb1715f4678838376af8ff1 | 
 >  | B0026DHX40
 
+Igor Stravinsky (1882 – 1971)
 Ballet “The Firebird” (1910 Version)
 
   01. Introduction
@@ -32,3 +33,4 @@ Four Studies (1952 Version)
 
   City of Birmingham Symphony Orchestra
   Sir Simon Rattle, Conductor
+  Rec. 1987-10-16 – 1987-10-17
