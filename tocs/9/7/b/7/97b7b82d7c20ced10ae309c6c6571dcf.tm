@@ -67,4 +67,7 @@ Moritz Moszkowski (1854 – 1925)
 
   Vladimir Horowitz, Piano
   Vladimir Horowitz, Piano
+  Vladimir Horowitz, Piano
+  Vladimir Horowitz, Piano
+  Vladimir Horowitz, Piano
   Rec. 1985-04-30 in New York
