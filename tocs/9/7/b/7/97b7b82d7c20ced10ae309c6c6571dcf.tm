@@ -65,5 +65,5 @@ Moritz Moszkowski (1854 – 1925)
 
   13. Étude in F major, Op. 72 No. 6
 
-  Vladimir Horowitz, PianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPiano
+  Vladimir Horowitz, PianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPianoPiano
   Rec. 1985-04-30 in New York
