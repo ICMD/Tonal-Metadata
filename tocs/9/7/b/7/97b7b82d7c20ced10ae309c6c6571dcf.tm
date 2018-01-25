@@ -1,7 +1,7 @@
 > Horowitz – The Last Romantic
 > Vladimir Horowitz
 > 1 / 1
-> Classical / Instrumental / Piano | 1986 | 1 1 2 2 1 1 2 2 1 1 2 2 1 1 2 2 2 2 1 1 2 2
+> Classical / Instrumental / Piano | 1986 | Deutsche Grammophon
 > 80ddd0bee51219d27313b395421b0c8b | 91783a31e767f6433057a2b615f09ea4
 > 4339527 | B000001G76
 
@@ -65,5 +65,5 @@ Moritz Moszkowski (1854 – 1925)
 
   13. Étude in F major, Op. 72 No. 6
 
-  Vladimir Horowitz, Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano Piano
+  Vladimir Horowitz, Piano
   Rec. 1985-04-30 in New York
