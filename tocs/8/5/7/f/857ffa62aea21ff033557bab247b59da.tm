@@ -5,7 +5,7 @@
 > 4b7919d564a3df5f4f407d524b7ba668 | 
 > 962009544, 963402089 | B00T3Z7B1O, B00SJ9UEPU, B00WLSCZ0M
 
-Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
 01. Verses, Based on Piano Sonata No. 3 in B minor, Op. 58 “Largo”
 
   Alice Sara Ott, Piano
