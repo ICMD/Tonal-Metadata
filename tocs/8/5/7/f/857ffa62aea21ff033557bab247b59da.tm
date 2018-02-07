@@ -24,14 +24,15 @@ Piano Sonata No. 3 in B minor, Op. 58
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
-03. Nocturne in C-sharp minor
+Frédéric Chopin (1810 – 1849) — Nathan Milstein (1904 – 1992)
+03. Nocturne No. 20 in C-sharp minor, Op. posth.
 
   Mari Samuelsen, Violin
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
-Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
-04. Reminiscence, Based on Nocturne in C-sharp minor, Op. Posth.
+Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
+04. Reminiscence, Based on Nocturne No. 20 in C-sharp minor, Op. posth.
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
@@ -41,15 +42,15 @@ Piano Sonata No. 3 in B minor, Op. 58
   Unnur Jónsdóttir
   Hallgrímur Jónas Jensson, String Quinter
 
-Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+Frédéric Chopin (1810 – 1849)
 05. Nocturne in G minor
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
 Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
-06. Eyes Shut: Nocturne in C minor (after Chopin)
-07. Written in Stone, Based on Piano Sonata No. 3, Op. 58 “Largo”
+06. Eyes Shut, Based on Nocturne No. 13 in C minor, Op. 48 No. 1
+07. Written in Stone, Based on Piano Sonata No. 3 in B minor, Op. 58, III. Largo
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
@@ -69,7 +70,7 @@ Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b
   Unnur Jónsdóttir
   Hallgrímur Jónas Jensson, String Quinter
 
-Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+Frédéric Chopin (1810 – 1849)
 09. Prélude in D-flat major “Raindrop”, Op. 28 No. 15
 
   Alice Sara Ott, Piano
