@@ -48,7 +48,7 @@ Frédéric Chopin (1810 – 1849)
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
-Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
 06. Eyes Shut, Based on Nocturne No. 13 in C minor, Op. 48 No. 1
 07. Written in Stone, Based on Piano Sonata No. 3 in B minor, Op. 58, III. Largo
 
