@@ -1,5 +1,5 @@
 > The Chopin Project
-> Ólafur Arnalds & Alice Sara Ott
+> Leif Ove Andsnes; Antonio Pappano & London Symphony Orchestra
 > 1 / 1
 > Classical | 2015 | Mercury Classics
 > 4b7919d564a3df5f4f407d524b7ba668 | 
