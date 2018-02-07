@@ -1,4 +1,4 @@
-> The Chopin Project
+> Rachmaninoff: Complete Piano Concertos
 > Ólafur Arnalds & Alice Sara Ott
 > 1 / 1
 > Classical | 2015 | Mercury Classics
