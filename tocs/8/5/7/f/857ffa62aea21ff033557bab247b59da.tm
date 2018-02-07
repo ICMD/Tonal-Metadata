@@ -17,7 +17,7 @@ Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
   Hallgrímur Jónas Jensson, String Quinter
 
 Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
-Piano Sonata No. 3 in B minor, Op. 58: Largo
+Piano Sonata No. 3 in B minor, Op. 58
 
   02.  III. Largo
 
