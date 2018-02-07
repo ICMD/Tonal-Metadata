@@ -2,10 +2,10 @@
 > Ólafur Arnalds & Alice Sara Ott
 > 1 / 1
 > Classical | 2015 | Mercury Classics
-> 004282c197b8735f89eb848996406b03 | 
->  | 
+> 4b7919d564a3df5f4f407d524b7ba668 | 
+> 962009544, 963402089 | B00T3Z7B1O, B00SJ9UEPU, B00WLSCZ0M
 
-Frédéric Chopin (1810 – 1849) – Ólafur Arnalds (b. 1987)
+Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
 01. Verses, Based on Piano Sonata No. 3 in B minor, Op. 58 “Largo”
 
   Alice Sara Ott, Piano
@@ -16,17 +16,19 @@ Frédéric Chopin (1810 – 1849) – Ólafur Arnalds (b. 1987)
   Unnur Jónsdóttir
   Hallgrímur Jónas Jensson, String Quinter
 
-02. Largo, from Piano Sonata No. 3 in B minor, Op. 58: Largo
+Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+02. Piano Sonata No. 3 in B minor, Op. 58: Largo
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
-03. Nocturne in C-sharp minor, Op. Posth.
+03. Nocturne in C-sharp minor
 
   Mari Samuelsen, Violin
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
+Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
 04. Reminiscence, Based on Nocturne in C-sharp minor, Op. Posth.
 
   Alice Sara Ott, Piano
@@ -37,12 +39,14 @@ Frédéric Chopin (1810 – 1849) – Ólafur Arnalds (b. 1987)
   Unnur Jónsdóttir
   Hallgrímur Jónas Jensson, String Quinter
 
+Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
 05. Nocturne in G minor
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
 
-06. Eyes Shut, Based on Nocturne in C minor, Op. 48 No. 1
+Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+06. Eyes Shut: Nocturne in C minor (after Chopin)
 07. Written in Stone, Based on Piano Sonata No. 3, Op. 58 “Largo”
 
   Alice Sara Ott, Piano
@@ -63,7 +67,8 @@ Frédéric Chopin (1810 – 1849) – Ólafur Arnalds (b. 1987)
   Unnur Jónsdóttir
   Hallgrímur Jónas Jensson, String Quinter
 
-09. Prélude in D-flat major 'Raindrop'
+Frédéric Chopin (1810 – 1849), Ólafur Arnalds (b. 1987) & Alice Sara Ott (b. 1988)
+09. Prélude in D-flat major “Raindrop”, Op. 28 No. 15
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
