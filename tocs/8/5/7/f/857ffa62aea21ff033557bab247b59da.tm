@@ -6,7 +6,7 @@
 > 962009544, 963402089 | B00T3Z7B1O, B00SJ9UEPU, B00WLSCZ0M
 
 Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
-01. Verses, Based on Piano Sonata No. 3 in B minor, Op. 58 “Largo”
+01. Verses, Based on Piano Sonata No. 3 in B minor, Op. 58, III. Largo
 
   Alice Sara Ott, Piano
   Ólafur Arnalds, Synthesizer
