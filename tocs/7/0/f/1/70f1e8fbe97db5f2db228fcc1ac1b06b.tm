@@ -5,13 +5,6 @@
 > df55df7533ee7d80b02436f0030d62e2 | 
 >  | 
 
-> Rattle Edition – Stravinsky
-> Sir Simon Rattle, et al.
-> 2 / 4 BOXSET
-> Classical / Orchestral | 2008 | Warner Classics
-> 104e2987fbb1715f4678838376af8ff1 | 
->  | B0026DHX40
-
 01. 被遺忘的時光
 02. 跟我說愛我
 03. 你的眼神
