@@ -1,10 +1,11 @@
-> Elements
+> Einaudi: Elements (Deluxe)
 > Ludovico Einaudi
 > 1 / 1
-> Classical | 2015 | Ponderosa Music & Art
-> c30c0f060167d3e8fbeb93dba47967be | 
->  | 
+> Classical | 2015 | Decca Records
+> 14cedacf0d41337d188c1f477a2f6dfa | 
+> 1027176835, 1029101706, 1029602313 | B014Q98F8E, B01M1AA2BY, B01MZZ1SHX, B019GM8ZNG
 
+Ludovico Einaudi
 01. Petricor
 
   Ludovico Einaudi
@@ -39,8 +40,8 @@
   Amsterdam Sinfonietta
 
 12. Song for Gavin
-13. Drop Variation [Bonus Track]
-14. Elements Variation [Bonus Track]
-15. Twice Variation [Bonus Track]
+13. Drop Variation (Bonus Track)
+14. Elements Variation (Bonus Track)
+15. Twice Variation (Bonus Track)
 
   Ludovico Einaudi
