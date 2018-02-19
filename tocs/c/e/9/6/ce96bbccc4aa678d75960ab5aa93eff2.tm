@@ -1,4 +1,4 @@
-> 蔡琴 民歌 DMM SACD
+> 民歌 [DMM-CD/SACD]
 > 蔡琴
 > 1 / 1
 > Pop | 2014 | 
