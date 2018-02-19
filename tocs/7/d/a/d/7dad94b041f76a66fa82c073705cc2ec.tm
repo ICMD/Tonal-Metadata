@@ -1,4 +1,4 @@
-> Einaudi: Elements (Deluxe)
+> Elements (Deluxe)
 > Ludovico Einaudi
 > 1 / 1
 > Classical | 2015 | Decca Records
