@@ -1,24 +1,24 @@
-> 天空
+> 天空（SACD）
 > 王菲
 > 1 / 1
 > Pop | 2003 | 
->  | 
+> 9d7e7462fa6955a8b4cb8369e2589ace | 
 >  | B00M2FL0ZK
 
 01. 天空
 02. 棋子
-03. Tian Shi
-04. Ying Liao
-05. Tian Kong (Unplugged)
-06. Juan Lian
-07. Bu Bian
-08. Jin Chi
-09. Zheng Tuo
-10. Shi Yan
-11. Meng Zheng Ren
-12. Di Dar
-13. Zhi Ji Zhi Bi
-14. Jing Ye de Dan Huang Guan
-15. Gwei Feng
+03. 天使
+04. 影子
+05. 天空 (Unplugged)
+06. 眷恋
+07. 不变
+08. 矜持
+09. 挣脱
+10. 誓言
+11. 梦中人
+12. Di-Dar
+13. 知己知彼
+14. 静夜的单簧管
+15. 季候风
 
   王菲
