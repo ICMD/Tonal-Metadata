@@ -1,4 +1,4 @@
-> Horowitz – The Last Romantic – The Last Romantic  – The Last Romantic  – The Last Romantic  – The Last Romantic
+> Horowitz – The Last Romantic  – The Last Romantic  – The Last Romantic  – The Last Romantic  – The Last Romantic
 > Vladimir Horowitz & Vladimir Horowitz & Vladimir Horowitz & Vladimir Horowitz & Vladimir Horowitz & Vladimir Horowitz
 > 1 / 1
 > Classical / Instrumental / Piano | 1986 | Deutsche Grammophon
