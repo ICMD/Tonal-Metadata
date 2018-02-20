@@ -68,7 +68,7 @@ Sergey Prokofiev (1891 – 1953)
   Daniel Hope, Conductor
   Simon Halsey, Conductor
 
-Sviatoslav Richter (1915 – 1997)
+Max Richter (b. 1966)
 10. ベルリン・バイ・オーヴァーナイト (ヴァイオリンとダブル・ベースのための)
 
   Jochen Carls
