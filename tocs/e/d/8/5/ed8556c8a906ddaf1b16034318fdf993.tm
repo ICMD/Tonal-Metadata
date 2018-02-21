@@ -18,7 +18,7 @@ Ludovico Einaudi (b. 1955)
   Daniel Hope, Conductor
   Jacques Ammon, Conductor
 
-COMPOSER NON-APPLICABLE
+Phillip Glass (b. 1937)
 03. エコーラス (2つのヴァイオリンと弦楽合奏のための)
 
   Chie Peters
