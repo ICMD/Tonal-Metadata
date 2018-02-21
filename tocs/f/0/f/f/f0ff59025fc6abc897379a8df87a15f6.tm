@@ -8,7 +8,7 @@
 Igor Stravinsky (1882 – 1971)
 Ballet “The Firebird” (1910 Version)
 
-  01. Introductionn
+  01. Introduction
 
   Scene 1
   02.    I. Dance of the Firebird
@@ -20,7 +20,7 @@ Ballet “The Firebird” (1910 Version)
   Scene 2
   07. Disappearance of the palace and dissolution of Kaschei’s enchantments
 
-  City of Birmingham Symphony Orchestra
+  City of Birmingham Symphony Orchestraa
 
 08. Scherzo à la russe (Original Jazz Version)
 
