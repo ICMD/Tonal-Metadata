@@ -53,7 +53,7 @@ Elena Kats-Chernin (b. 1957)
   Daniel Hope, Conductor
   Jacques Ammon, Conductor
 
-Baranowski
+Alex Baranowski (b. 1983)
 08. ムジカ・ウニヴェルサリス (2つのヴァイオリン, ピアノと弦楽合奏ための)
 
   Chie Peters
@@ -74,14 +74,14 @@ Max Richter (b. 1966)
   Jochen Carls
   Daniel Hope, Conductor
 
-Baranowski
+Alex Baranowski (b. 1983)
 11. ビアフラ (ヴァイオリン, 弦楽合奏, ピアノとハープのための)
 
   Deutsches Kammerorchester Berlin
   Daniel Hope, Conductor
   Jacques Ammon, Conductor
 
-Igusdesman
+Aleksey Igudesman (b. 1973)
 12. レント (ヴァイオリン, 弦楽合奏と合唱のための)
 
   Deutsches Kammerorchester Berlin
@@ -89,10 +89,10 @@ Igusdesman
   Daniel Hope, Conductor
   Simon Halsey, Conductor
 
-Einaudi
+Ludovico Einaudi (b. 1955)
 13. パッサージオ (ヴァイオリンとピアノのための)
 
-Auerbach
+Lera Auerbach (b. 1973)
 14. ヴァイオリンとピアノのための24のプレリュードop. 46～アンダンテ
 
   Daniel Hope, Conductor
@@ -106,7 +106,7 @@ Neil Jenkins (b. 1945)
   Daniel Hope, Conductor
   Simon Halsey, Conductor
 
-Auerbach
+Lera Auerbach (b. 1973)
 16. 「平均律クラヴィーア曲集」第1巻～プレリュード ホ短調BWV855 (ヴァイオリン, ヴィオラとチェロのための)
 
   Christiane Starke
@@ -121,7 +121,7 @@ Michael Nyman (b. 1944)
   Daniel Hope, Conductor
   Simon Halsey, Conductor
 
-Gundermann
+Karsten Gundermann (b. 1966)
 18. 「ファウスト」エピソード2～後奏曲 (ヴァイオリン, 弦楽とティンパニのための)
 
   Deutsches Kammerorchester Berlin
