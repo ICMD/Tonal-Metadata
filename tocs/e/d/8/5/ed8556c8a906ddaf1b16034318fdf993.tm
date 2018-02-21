@@ -34,7 +34,7 @@ Gabriel Fauré (1845 – 1924)
   Daniel Hope, Conductor
   Simon Halsey, Conductor
 
-Auerbach
+Lera Auerbach (b. 1973)
 05. ヴァイオリンとピアノのための24のプレリュードop. 46～アダージョ・ソニャンド
 
   Daniel Hope, Conductor
