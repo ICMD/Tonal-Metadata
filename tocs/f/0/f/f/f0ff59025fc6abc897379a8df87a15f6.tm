@@ -20,7 +20,7 @@ Ballet “The Firebird” (1910 Version)
   Scene 2
   07. Disappearance of the palace and dissolution of Kaschei’s enchantments
 
-  City of Birmingham Symphony Orchestraa
+  City of Birmingham Symphony Orchestra
 
 08. Scherzo à la russe (Original Jazz Version)
 
