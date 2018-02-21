@@ -11,7 +11,7 @@ Johann Paul von Westhoff (1656 – 1705)
   Deutsches Kammerorchester Berlin
   Daniel Hope, Conductor
 
-Einaudi
+Ludovico Einaudi (b. 1955)
 02. 彩りの日 (ヴァイオリン, ピアノと弦楽合奏のための)
 
   Deutsches Kammerorchester Berlin
