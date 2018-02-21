@@ -8,7 +8,7 @@
 Igor Stravinsky (1882 – 1971)
 Ballet “The Firebird” (1910 Version)
 
-  01. Introduction
+  01. Introductionn
 
   Scene 1
   02.    I. Dance of the Firebird
