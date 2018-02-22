@@ -21,6 +21,9 @@ Piano Sonata No. 10 in C major, K. 330
   02.    I. Allegro moderato
   03.   II. Andante cantabile
   04.  III. Allegretto
+
+Piano Sonata No. 11 in C major, K. 330
+
   05.    I. Allegro moderato
   06.   II. Andante cantabile
   07.  III. Allegretto
