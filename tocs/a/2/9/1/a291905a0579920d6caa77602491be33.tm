@@ -1,8 +1,8 @@
-> 天空（中國大陸版）
+> 天空（新宝艺港版）
 > 王靖雯
 > 1 / 1
 > Other | 1994 | PolyGram
-> b38a22e2b5206a6191d9d13ddf2f5421 | 
+> 9a7ba2c7c7dcc8bfad5cb0722dbe10c7 | 
 >  | B079TGYLHF
 
 01. 天空
