@@ -1,5 +1,5 @@
 > Gold Dust
-> Tori Amos,AKAMyraEllenAmos,Newton,NC;MetropoleOrkest,condJulesBuckley
+> Tori Amos
 > 1 / 1
 > Alternative | 2012 | Deutsche Grammophon
 > 25fc53cfd90719ca045e124be54dcafe | 
