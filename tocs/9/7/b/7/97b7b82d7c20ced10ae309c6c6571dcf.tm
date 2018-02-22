@@ -21,20 +21,9 @@ Piano Sonata No. 10 in C major, K. 330
   02.    I. Allegro moderato
   03.   II. Andante cantabile
   04.  III. Allegretto
-
-Frédéric Chopin (1810 – 1849)
-4 Mazurkas, Op. 17
-
-  05. Mazurka in A minor, Op. 17 No. 4
-
-06. Scherzo No.1 in B minor, Op. 20
-
-Franz Schubert (1797 – 1828)
-4 Impromptus, D. 899 (Op. 90)
-
-  07. Impromptu in A-flat major, D. 899 (Op. 90) No. 4
-
-  Rec. 1985-04-19 – 1985-04-28 in New York
+  05.    I. Allegro moderato
+  06.   II. Andante cantabile
+  07.  III. Allegretto
 
 Franz Liszt (1811 – 1886)
 6 Consolations S. 172
