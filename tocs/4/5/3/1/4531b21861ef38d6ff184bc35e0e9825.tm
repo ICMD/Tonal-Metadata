@@ -1,9 +1,9 @@
-> 在路上 …
-> 許巍
+> 在路上
+> Xu Wei
 > 1 / 1
-> Rock | 2005 | EMI
->  | 
->  | 
+> Rock | 2005 | Gold Typhoon China
+> bbe245185035a8afa6cb0b34a5b1e99c | 
+> 905190106 | 
 
 01. 晴朗
 02. 彩虹
@@ -15,7 +15,7 @@
 08. 自由自在
 09. 幻覺
 10. 執著
-11. 青鳥 Ⅰ [Bonus Track]
+11. 青鳥I
 12. 兩天 [Bonus Track]
 
-  許巍
+  Xu Wei
