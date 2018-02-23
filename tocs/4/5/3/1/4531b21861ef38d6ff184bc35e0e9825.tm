@@ -1,5 +1,5 @@
 > 在路上
-> Xu Wei
+> 许巍
 > 1 / 1
 > Rock | 2005 | Gold Typhoon China
 > bbe245185035a8afa6cb0b34a5b1e99c | 
@@ -18,4 +18,4 @@
 11. 青鳥I
 12. 兩天 [Bonus Track]
 
-  Xu Wei
+  许巍
