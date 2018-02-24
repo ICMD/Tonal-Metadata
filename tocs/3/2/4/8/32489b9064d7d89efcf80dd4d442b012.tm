@@ -1,4 +1,4 @@
-> 天空（SHMCD）
+> 天空 [XRCD2 + SHMCD]
 > 王靖雯
 > 1 / 1
 > Pop | 1994 | Cinepoly Records Co.
