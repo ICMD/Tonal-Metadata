@@ -1,9 +1,9 @@
-> Bruckner: Symphonys Nos. 3 – 5, 7 – 9
-> Radio-Sinfonieorchester Stuttgart & Sergiu Celibidache
+> Bruckner: Symphonies Nos. 3 – 5, 7 – 9
+> Stuttgart Radio Symphony Orchestra & Sergiu Celibidache
 > 2 / 8
 > Classical | 2004 | Deutsche Grammophon
 > f1961c43266716f98ee7188deafc6df2 | 
-> 80185587, 81855754 | B0017MXNYU, B0002IRY0O
+> 80185587, 81855754 | B0017MXNYU, B0002IRY0O, B01K8M833A
 
 Anton Bruckner (1824 – 1896)
 Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”
