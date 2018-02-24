@@ -9,8 +9,8 @@ Anton Bruckner (1824 – 1896)
 Symphony No. 3 in D minor, WAB 103 “Wagner” (1889 version, ed. Nowak 1959)
 
   01.    I. Gemäßigt, mehr bewegt, misterioso
-  02.   II. Andante: II. Bewegt, feierlich, quasi Adagio
-  03.  III. Scherzo: III. Ziemlich schnell
+  02.   II. Andante: Bewegt, feierlich, quasi Adagio
+  03.  III. Scherzo: Ziemlich schnell
   04.   IV. Finale: Allegro
 
   Stuttgart Radio Symphony Orchestra
