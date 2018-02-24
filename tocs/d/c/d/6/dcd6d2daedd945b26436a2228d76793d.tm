@@ -6,7 +6,7 @@
 > 80185587, 81855754 | B0017MXNYU, B0002IRY0O, B01K8M833A
 
 Anton Bruckner (1824 – 1896)
-Symphony No. 4 in E-flat major “Romantic” (Version 1878–1880 “Nowak”)
+Symphony No. 4 in E-flat major “Romantic” (Version 1878–1880, ed. Nowak)
 
   01.    I. Bewegt, nicht zu schnell
   02.   II. Andante quasi allegretto
