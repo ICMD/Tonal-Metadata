@@ -15,4 +15,4 @@ Symphony No. 3 in D minor, WAB 103 “Wagner” (1889 version, ed. Nowak 1959)
 
   Stuttgart Radio Symphony Orchestra
   Sergiu Celibidache, Conductor
-  Rec. 1980-11-24
+  Rec. 1980-11-24 in Kultur- und Kongresszentrum Liederhalle, Stuttgart, Germany, Live Recording
