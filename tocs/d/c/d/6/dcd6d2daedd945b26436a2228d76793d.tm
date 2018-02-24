@@ -1,23 +1,19 @@
-> Dg: Pocg-10257
-> Sergiu Celibidache & Swedish Radio Symphony Orchestra
-> 1 / 1
-> Classical | 1969 | 
-> 0d4fbdabae9d64b9b44f2eef55a4e8ec | 
->  | 
-
-> Bruckner: Symphonys Nos. 3 – 5, 7-9
-> Sergiu Celibidache & Swedish Radio Symphony Orchestra
-> 2 / 5
-> Classical | 1969 | ユニバーサル　ミュージック
-> b8540b931731fa9fb51e7985797d7b60 | 
->  | 
+> Bruckner: Symphonys Nos. 3 – 5, 7 – 9
+> Radio-Sinfonieorchester Stuttgart & Sergiu Celibidache
+> 2 / 8
+> Classical | 2004 | Deutsche Grammophon
+> f1961c43266716f98ee7188deafc6df2 | 
+> 80185587, 81855754 | B0017MXNYU, B0002IRY0O
 
 Anton Bruckner (1824 – 1896)
-01.    I. 1878-80 (Edition: I. Leopold Nowak): I. Bewegt, nicht zu schnell
-02.    V. Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”: II. 1878-80 (Edition: Leopold Nowak): II. Andante quasi Allegretto
-03. Symphony No. 4 in E-flat major “Romantic”, Version / Fassung: III. 1878-80 (Edition: Leopold Nowak): III. Scherzo. Bewegt—Trio. Nicht zu schnell. Keinesfalls schleppend
-04.   IV. 1878-80 (Edition: VIII. Leopold Nowak): IV. Finale. Bewegt, doch nicht zu schnell
+V. Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”
 
-  Swedish Radio Symphony Orchestra
+  01.    I. Bewegt, nicht zu schnell (Version 1878-80)
+  02.   II. Andante quasi allegretto (Version 1878-80)
+
+03. Symphony No. 4 in E-flat major “Romantic”, Version / Fassung: III. Scherzo (Bewegt) – Trio (Nicht zu schnell. Keines – falls schleppend) [Version 1878-80]
+04.    V. Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”: IV. Finale (Bewegt, doch nicht zu schnell) [Version 1878-80]
+
+  Sveriges Radiokorkester
   Sergiu Celibidache, Conductor
-  Rec. 1969-09-24 in Philharmonie, Berlin
+  Rec. 1969-09-24 in Berliner Philharmonie, Berlin, Live Recording
