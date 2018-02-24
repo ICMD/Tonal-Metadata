@@ -6,14 +6,13 @@
 > 80185587, 81855754 | B0017MXNYU, B0002IRY0O
 
 Anton Bruckner (1824 – 1896)
-V. Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”
+Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”
 
   01.    I. Bewegt, nicht zu schnell (Version 1878-80)
   02.   II. Andante quasi allegretto (Version 1878-80)
+  03.  III. Scherzo (Bewegt) – Trio (Nicht zu schnell. Keines – falls schleppend) [Version 1878-80]
+  04.   IV. Finale (Bewegt, doch nicht zu schnell) [Version 1878-80]
 
-03. Symphony No. 4 in E-flat major “Romantic”, Version / Fassung: III. Scherzo (Bewegt) – Trio (Nicht zu schnell. Keines – falls schleppend) [Version 1878-80]
-04.    V. Symphony No. 4 in E-flat major “Romantic” (Version 1878-1880 “Nowak)”: IV. Finale (Bewegt, doch nicht zu schnell) [Version 1878-80]
-
-  Sveriges Radiokorkester
+  Stuttgart Radio Symphony Orchestra
   Sergiu Celibidache, Conductor
   Rec. 1969-09-24 in Berliner Philharmonie, Berlin, Live Recording
