@@ -9,9 +9,9 @@ Anton Bruckner (1824 – 1896)
 Symphony No. 4 in E-flat major, WAB 104 “Romantic” (Version 1878–1880, ed. Nowak)
 
   01.    I. Bewegt, nicht zu schnell
-  02.   II. Andante quasi allegretto
-  03.  III. Scherzo (Bewegt) – Trio (Nicht zu schnell. Keines – falls schleppend)
-  04.   IV. Finale (Bewegt, doch nicht zu schnell)
+  02.   II. Andante, quasi allegretto
+  03.  III. Scherzo. Bewegt – Trio: Nicht zu schnell
+  04.   IV. Finale: Bewegt, doch nicht zu schnell
 
   Stuttgart Radio Symphony Orchestra
   Sergiu Celibidache, Conductor
