@@ -13,3 +13,4 @@ Anton Bruckner (1824 – 1896)
 
   Stuttgart Radio Symphony Orchestra
   Sergiu Celibidache, Conductor
+  Rec. 1980-11-24
