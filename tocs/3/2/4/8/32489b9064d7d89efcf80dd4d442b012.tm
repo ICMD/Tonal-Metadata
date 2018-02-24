@@ -1,8 +1,8 @@
-> 天空
-> Shirley Wong
+> 天空（SHMCD）
+> 王靖雯
 > 1 / 1
 > Pop | 1994 | Cinepoly Records Co.
-> 09fcab3cb0f57de383b389449cc19356 | 
+> afedbd3f7cf0fd83f45f54c0e1e13e0a | 
 > 217331382 | 
 
 Ming Huang Yang
