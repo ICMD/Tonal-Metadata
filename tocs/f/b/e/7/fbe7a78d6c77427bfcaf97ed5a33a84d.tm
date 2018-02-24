@@ -1,11 +1,11 @@
-> Track-003: After 17
-> 陳綺貞
+> After 17: Single
+> Cheer Chen
 > 1 / 1
-> Pop | 2004 | cheerego.com
-> fd8b5b545afa26c3d54352c37289429c | 
->  | 
+> Pop | 2004 | Cheerego.com
+> 8fcea2b842fe384cb3f560788dae00d2 | 
+> 815423735 | 
 
 01. After 17
 02. 小小校歌
 
-  陳綺貞
+  Cheer Chen
