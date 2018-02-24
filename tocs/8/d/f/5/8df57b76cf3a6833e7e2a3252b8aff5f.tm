@@ -1,24 +1,24 @@
-> 還有別的辦法嗎?
-> 范曉萱
+> 还有别的办法吗
+> Mavis Fan
 > 1 / 1
-> Pop | 2004 | 林暐哲音樂社
-> 5c4188f86523c3ce2ab43015de5d6f09 | 
->  | 
+> Pop | 2004 | 传世乐坊文化传媒 有限责任公司
+> 18b62bfa1350b97c3fa51b8da155bf1c | 
+> 1080303347 | 
 
 01. Fly
-02. 出氣球
+02. 出气球
 03. Why? Oh! Why?
-04. A小調
-05. 因為
+04. A小调
+05. 因为
 06. The Craziest Piano
-07. 戰
+07. 战
 08. 蛤?
-09. 木馬
+09. 木马
 10. Summertime
 11. You’re My Sunshine
-12. You’re My Not Sunshine
-13. 外婆睡前的吟唱
+12. You’re Not My Sunshine
+13. 外婆的睡前吟唱
 14. Silence
 15. 鬼娃娃
 
-  范曉萱
+  Mavis Fan
