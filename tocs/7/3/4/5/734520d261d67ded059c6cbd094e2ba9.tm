@@ -1,5 +1,5 @@
 > Bruckner: Symphonies Nos. 3 – 5, 7 – 9
-> Stuttgart Radio Symphony Orchestra & Sergiu Celibidache
+> Sergiu Celibidache & Stuttgart Radio Symphony Orchestra
 > 1 / 8
 > Classical | 2004 | Deutsche Grammophon
 > f1961c43266716f98ee7188deafc6df2 | 
