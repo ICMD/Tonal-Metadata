@@ -1,9 +1,9 @@
 > 100 Best Chopin
 > Various Artists
-> 6 / 6
-> Classical | 2010 | EMI
-> d943f9e0f61c5a7543a5144e630d281f | 
->  | 
+> 6 / 6 BOXSET
+> Classical | 2009 | EMI Classics
+> 2306d1dd11a2feae41c2888967c6a171 | 
+> 734575614 | B00FMZNDKM, B0030E5NOG
 
 Frédéric Chopin (1810 – 1849)
 01. Mazurka No. 2 in C-sharp minor, Op. 6 No. 2
