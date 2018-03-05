@@ -8,8 +8,8 @@
 > 100 Best Liszt
 > Various Artists
 > 3 / 6
-> Classical | 2011 | Mixed Repertoire
-> 25515633fb9ca5b92dc65b71abb7329d | 
+> Classical | 2011 | Warner Classics
+> 8f805e186e295158f973e3457cc6b538 | 
 >  | 
 
 Franz Liszt (1811 – 1886)
