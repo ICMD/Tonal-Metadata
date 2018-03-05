@@ -1,73 +1,75 @@
-> 100 Best Chopin
+> 50 Best Chopin
 > Various Artists
 > 2 / 3
-> Classical | 2010 | 
-> d943f9e0f61c5a7543a5144e630d281f | 
->  | 
-
-> 前奏曲集
-> Various Artists
-> 2 / 6
-> Classical | 2014 | 株式会社ワーナーミュージック・ジャパン
-> 250f5eb3b1bbc31889f78e33da171e43 | 
->  | 
+> Classical | 2010 | Warner Classics
+> 00d55decbfc5a23a5b7ba3548740a516 | 
+> 693438518 | B0044AEDDW, B003XSXLKC
 
 > 100 Best Chopin
 > Various Artists
-> 2 / 7
-> Classical | 2014 | Warner Classics
-> d943f9e0f61c5a7543a5144e630d281f | 
->  | 
+> 2 / 6 BOXSET
+> Classical | 2009 | EMI Classics
+> 2306d1dd11a2feae41c2888967c6a171 | 
+> 734575614 | B00FMZNDKM, B0030E5NOG
 
-Frédéric Chopin (1810 – 1849)
-01. Prelude No. 1 in C major, Op. 28 No. 1
-02. Prelude No. 2 in A minor, Op. 28 No. 2
-03. Prelude No. 3 in G major, Op. 28 No. 3
+Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
+24 Preludes, Op. 28
 
-  Garrick Ohlsson
+  01. No. 1 in C major: Agitato
+  02. No. 2 in A minor: Lento
+  03. No. 3 in G major: Vivace
+
+    Garrick Ohlsson, Piano
+    ギャリック・オールソン
+    ヴァリアス
+
+  04. No. 4 in E minor: Largo
+
+    Garrick Ohlsson, Piano
+    ヴァリアス
+
+  05. No. 5 in D major: Molto allegro
+  06. No. 6 in B minor: Lento assai
+  07. No. 7 in A major: Andantino
+  08. No. 8 in F-sharp minor: Molto agitato
+  09. No. 9 in E major: Largo
+  10. No. 10 in C-sharp minor: Molto allegro
+  11. No. 11 in B major: Vivace
+  12. No. 12 in G-sharp minor: Presto
+  13. No. 13 in F-sharp major: Lento
+  14. No. 14 in E-flat minor: Allegro
+  15. No. 15 in D-flat major: “Raindrop” (Sostenuto)
+  16. No. 16 in B-flat minor: Presto con fuoco
+  17. No. 17 in A-flat major: Allegretto
+  18. No. 18 in F minor: Molto allegro
+  19. No. 19 in E-flat major: Vivace
+  20. No. 20 in C minor: Largo
+  21. No. 21 in B-flat major: Cantabile
+  22. No. 22 in G minor: Molto agitato
+  23. No. 23 in F major: Moderato
+  24. No. 24 in D minor: Allegro appassionato
+
+  Garrick Ohlsson, Piano
   ギャリック・オールソン
   ヴァリアス
+  Rec. 1974-05
 
-04. Prelude No. 4 in E minor, Op. 28 No. 4
-
-  Garrick Ohlsson
-  ヴァリアス
-
-05. Prelude No. 5 in D major, Op. 28 No. 5
-06. Prelude No. 6 in B minor, Op. 28 No. 6
-07. Prelude No. 7 in A major, Op. 28 No. 7
-08. Prelude No. 8 in F-sharp minor, Op. 28 No. 8
-09. Prelude No. 9 in E major, Op. 28 No. 9
-10. Prelude No. 10 in C-sharp minor, Op. 28 No. 10
-11. Prelude No. 11 in B major, Op. 28 No. 11
-12. Prelude No. 12 in G-sharp minor, Op. 28 No. 12
-13. Prelude No. 13 in F-sharp minor, Op. 28 No. 13
-14. Prelude No. 14 in E-flat minor, Op. 28 No. 14
-15. Prelude No. 15 in D-flat major, Op. 28 No. 15 “Raindrop”
-16. Prelude No. 16 in B-flat minor, Op. 28 No. 16
-17. Prelude No. 17 in A-flat major, Op. 28 No. 17
-18. Prelude No. 18 in F minor, Op. 28 No. 18
-19. Prelude No. 19 in E-flat major, Op. 28 No. 19
-20. Prelude No. 20 in C minor, Op. 28 No. 20
-21. Prelude No. 21 in B-flat major, Op. 28 No. 21
-22. Prelude No. 22 in G minor, Op. 28 No. 22
-23. Prelude No. 23 in F major, Op. 28 No. 23
-24. Prelude No. 24 in D minor, Op. 28 No. 24
-
-  Garrick Ohlsson
-  ギャリック・オールソン
-  ヴァリアス
-
-25. Barcarolle in F-sharp major, Op. 60, B 158
+Frédéric Chopin (1810 – 1849) & Nelson Goerner
+25. Barcarolle in F-sharp major, Op. 60. Allegretto
 
   Nelson Goerner
   ヴァリアス
 
-26. Polonaise No. 3 in A major, Op. 40 No. 1 “Military”
+Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
+26. 2 Polonaises, Op. 40: No. 1 in A major: “Military” (Allegro con brio)
 
-  Garrick Ohlsson
-
-27. Polonaise No. 6 in A-flat major, Op. 53 “Héroïque”
-
-  Martha Argerich
+  Daniel Adni, Piano
   ヴァリアス
+  ダニエル・アドニ
+  Rec. Unknown
+
+27. Polonaise No. 6 in A-flat major, Op. 53 “Heroic” (Maestoso)
+
+  Martha Argerich, Piano
+  ヴァリアス
+  Rec. 1965-06-23 – 1965-06-27 in Abbey Road Studios: Studio 1, St John’s Wood
