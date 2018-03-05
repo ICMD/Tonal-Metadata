@@ -1,24 +1,18 @@
-> BEST LISZT 100 ピアノ独奏曲II 練習曲集
-> Franz Liszt
-> 1 / 1
-> Classical |  | 
-> dbaa5758af1e2976854830fb88418bed | 
->  | 
-
 > 50 Best Liszt
 > Various Artists
 > 3 / 3
-> Classical | 2011 | Warner Classics Warner Classics UK
-> dbaa5758af1e2976854830fb88418bed | 
->  | 
+> Classical | 2011 | Warner Classics
+> a56c8a3f6d4dd8d47849bee75c70fecc | 
+> 694144251 | B005G6QIYK
 
 > 100 Best Liszt
-> Voadimir Ovchinikov & John Ogdon & Kun Woo Paikn & Adre Watts & Jeanne-Marie Darre
-> 3 / 6
-> Classical | 2011 | 
-> 8f805e186e295158f973e3457cc6b538 | 
->  | 
+> Various Artists
+> 3 / 6 BOXSET
+> Classical | 2011 | Warner Classics
+> 8e18378f4f405b84b30f3ad48db5e503 | 
+> 690990927, 692529452 | B005G6RCN6, B0054T8D88, B01G4CMN3E, B005CAASWI
 
+Franz Liszt (1811 – 1886)
 Études D'exécution Transcendante, S. 139
 
   01.    I. Preludio (Presto)
@@ -37,7 +31,7 @@
 
   John Ogdon
 
-11. Liebesträume, S. 541: No. 3 in A-flat major: Poco allegro con affetto
+11. Liebesträume, S. 541: III. No. 3 in A-flat major: Poco allegro con affetto
 
   Kun-Woo Paik
 
@@ -48,9 +42,9 @@
 
 Grandes Études de Paganini, S. 141
 
-  14. No. 3 in G-sharp minor: “La Campanella”
-  15. No. 4 in E major: “Arpeggio”
-  16. No. 5 in E major: “La chasse”
-  17. No. 6 in A minor: “Theme and Variations”
+  14.  III. No. 3 in G-sharp minor: “La Campanella”
+  15.   IV. No. 4 in E major: “Arpeggio”
+  16.    V. No. 5 in E major: “La chasse”
+  17.   VI. No. 6 in A minor: “Theme and Variations”
 
-  Jeanne-Marie Darré
+  Jeanne-Marie Darre
