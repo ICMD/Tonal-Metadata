@@ -1,11 +1,18 @@
-> Best Chopin 100
+> 50 Best Chopin
 > Various Artists
-> 1 / 6
-> Classical | 2010 | Mixed Repertoire
-> 4e11cf00a2028b2b1d0f8a311fc00341 | 
->  | 
+> 1 / 3
+> Classical | 2010 | Warner Classics
+> 00d55decbfc5a23a5b7ba3548740a516 | 
+> 693438518 | B0044AEDDW, B003XSXLKC
 
-Frédéric Chopin (1810 – 1849)
+> 100 Best Chopin
+> Various Artists
+> 1 / 6 BOXSET
+> Classical | 2009 | EMI Classics
+> 2306d1dd11a2feae41c2888967c6a171 | 
+> 734575614 | B00FMZNDKM, B0030E5NOG
+
+Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
 01. Grande Valse Brillante in E-flat major, Op. 18 (Vivo)
 
 3 Waltzes, Op. 34
@@ -16,8 +23,10 @@ Frédéric Chopin (1810 – 1849)
 
 05. Waltz in A-flat major, Op. 42 (Vivace)
 
-  Stephen Kovacevich
+  Stephen Kovacevich, Piano
+  Rec. 2005-07-14 – 2005-07-19 in Potton Hall, Suffolk
 
+Frédéric Chopin (1810 – 1849) & Ingrid Fliter (b. 1973)
 3 Waltzes, Op. 64
 
   06. No. 1 in D-flat major: “Valse Minute” (Molto vivace)
@@ -26,12 +35,14 @@ Frédéric Chopin (1810 – 1849)
 
   Ingrid Fliter
 
+Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
 2 Waltzes, Op. 69
 
   09. No. 1 in A-flat major: “L’Adieu” (Lento)
   10. No. 2 in B minor: Moderato
 
-  Dmitri Alexeev
+  Dmitri Alexeev, Piano
+  Rec. Unknown
 
 3 Waltzes, Op. 70
 
@@ -41,16 +52,19 @@ Frédéric Chopin (1810 – 1849)
 
 14. Waltz in E minor, B 56 (Vivace)
 
-  Dinu Lipatti
+  Dinu Lipatti, Piano
+  Rec. 1950-07-03 – 1950-07-12
 
 15. Berceuse in D-flat major, Op. 57. Andante
 
-  Daniel Barenboim
+  Daniel Barenboim, Piano
+  Rec. Unknown
 
 16. Ballade No. 3 in A-flat major, Op. 47. Allegretto
 
-  Cécile Ousset
+  Cecile Ousset, Piano
+  Rec. 1986-05-11 – 1986-05-13 in Abbey Road Studios: Studio 1, St John’s Wood
 
 17. Fantaisie – Impromptu in C-sharp minor, Op. 66 (Allegro Agitato: Moderato cantabile)
 
-  Stanislav Bunin
+  Stanislav Bunin, Piano & Solo
