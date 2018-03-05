@@ -1,6 +1,6 @@
 > 100 Best Chopin
 > Various Artists
-> 5 / 6
+> 5 / 6 BOXSET
 > Classical | 2009 | EMI Classics
 > 2306d1dd11a2feae41c2888967c6a171 | 
 > 734575614 | B00FMZNDKM, B0030E5NOG
