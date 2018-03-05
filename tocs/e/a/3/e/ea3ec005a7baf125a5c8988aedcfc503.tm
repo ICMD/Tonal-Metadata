@@ -1,10 +1,3 @@
-> 4
-> ベスト・リスト 100
-> 1 / 1
-> Classical | 2011 | 
->  | 
->  | 
-
 > 100 Best Liszt
 > Various Artists
 > 4 / 6
@@ -13,38 +6,42 @@
 > 690990927, 692529452 | B005G6RCN6, B0054T8D88, B01G4CMN3E, B005CAASWI
 
 Franz Liszt (1811 – 1886)
-Années de Pèlerinage
+Années de Pèlerinage I, S. 160 “Suisse”
 
-  01.   II. Année 1: Suisse, S. 160 (1988 Digital Remaster): Au lac de Wallenstadt
-  02.  III. Année 1: Suisse, S. 160 (1988 Digital Remaster): Pastorale
-  03.   IV. Année 1: Suisse, S. 160 (1988 Digital Remaster): Au bord d'une source
-  04.    V. Année 1: Suisse, S. 160 (1988 Digital Remaster): Orage
-  05.  VII. Année 1: Suisse, S. 160 (1988 Digital Remaster): Eglogue
+  01.   II. Au lac de Wallenstadt
+  02.  III. Pastorale
+  03.   IV. Au bord d'une source
+  04.    V. Orage
+  05.  VII. Eglogue
 
-    Rec. 1
+  Rec. 1
 
-  06.   II. Année 2: Italie, S. 161 (1988 Digital Remaster): Il penseroso
-  07.  III. Année 2: Italie, S. 161 (1988 Digital Remaster): Canzonetta del Salvatore Rosa
-  08.   IV. Année 2: Italie, S. 161 (1988 Digital Remaster): Sonetto 47 del Petrarca
-  09.   VI. Année 2: Italie, S. 161 (1988 Digital Remaster): Sonetto 123 del Petrarca
+Années de Pèlerinage II, S. 161 “Italie”
 
-10. Venezia E Napoli (Rev Version), S. 162: II. Canzone
+  06.   II. Il Pensieroso
+  07.  III. Canzonetta del Salvatore Rosa
+  08.   IV. Sonetto 47 del Petrarca
+  09.   VI. Sonetto 123 del Petrarca
+
+10. Années de Pèlerinage II, Supplément, S. 162 “Venezia E Napoli”: II. Canzone (Canzone del Gondoliere nel Otello di Rossini)
 
   Rec. 2
 
-Années de Pèlerinage
+Années de Pèlerinage III, S. 163
 
-  11.   IV. Année 3, S. 163 (1988 Digital Remaster): Les jeux d'eau à la Villa d'Este
-  12. Année 3, S. 163 (1988 Digital Remaster): Sursum corda
+  11.   IV. Les Jeux d'eaux à la Villa d'Este
+  12.  VII. Sursum corda, Erhebet eure Herzen
 
   Aldo Ciccolini
   Rec. 3
 
-13. 3 Concert Studies: Un sospiro
+3 Études de Concert, S. 144
 
-  François-René Duchâble
+  13. No. 3 in D-flat major: “Un sospiro”
 
-14. La Leggierezza (No. 2 from 3 Concert Studies, S. 144)
+    François-René Duchable
+
+  14. No. 2 in F minor: “La leggierezza”
 
   Bernard D'Ascoli
 
@@ -55,11 +52,11 @@ Harmonies Poétiques et Religieuses, S. 173
 
   Aldo Ciccolini
 
-17. Choeur de Fête: Marche finale, transcription d'après Don Carlos de Verdi
-18. La Danza, Tarentelle Napolitaine de Rossini: IX. La Danza
+17. Finale de Don Carlos (Paraphrase de Concert), S. 435: Coro di festa e marcia funebre
+18. Soirées Musicales de Rossini, S. 424: IX. La Danza
 
-  François-René Duchâble
+  François-René Duchable
 
-19. Grand Galop Chromatique en Mi Bémol Majeur, S. 219
+19. Grand Galop Chromatique in E-flat major, S. 219
 
-  György Cziffra
+  Georges Cziffra
