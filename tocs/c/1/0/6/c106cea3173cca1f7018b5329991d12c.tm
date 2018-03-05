@@ -7,10 +7,10 @@
 
 > 100 Best Liszt
 > Various Artists
-> 3 / 6 BOXSET
-> Classical | 2011 | Warner Classics
-> 8e18378f4f405b84b30f3ad48db5e503 | 
-> 690990927, 692529452 | B005G6RCN6, B0054T8D88, B01G4CMN3E, B005CAASWI
+> 3 / 6
+> Classical | 2011 | Mixed Repertoire
+> 25515633fb9ca5b92dc65b71abb7329d | 
+>  | 
 
 Franz Liszt (1811 – 1886)
 Études D'exécution Transcendante, S. 139
