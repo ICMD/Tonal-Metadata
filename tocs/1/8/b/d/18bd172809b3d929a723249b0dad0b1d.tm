@@ -33,7 +33,7 @@
 > e1d69ac63235aa9a6b67292fad0e7071 | 
 >  | B003IY49S4
 
-Dave Brubeck (b. 1920)
+Dave Brubeck (b. 1921)
 01. Blue Rondo a la Turk
 
   Rec. 1959-08-18 – 1959-08-19
