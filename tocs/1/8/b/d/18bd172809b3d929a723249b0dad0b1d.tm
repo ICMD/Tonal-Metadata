@@ -5,9 +5,9 @@
 > d03d2c8c3a7e9df3d18abce7f12f5559 | 
 >  | B001IJUGEM, B000002AGN, B01G7NQK6G, B019GM53ZO
 
-> Time Out
-> Dave Brubeck
-> 1 / 2
+> Time Out (Legacy Edition)
+> The Dave Brubeck Quartet
+> 1 / 2 BOXSET
 > Jazz | 2010 | Not Now Music
 > 399b7661508a4de41c05baa9b26d0fd4 | 
 >  | B002A5WQ8W, B003143FYA, B019GM53ZO
