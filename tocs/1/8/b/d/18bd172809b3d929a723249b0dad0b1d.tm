@@ -55,7 +55,7 @@ Paul Desmond (1924 – 1977)
 Dave Brubeck (b. 1920)
 04. Three to Get Ready
 05. Kathy’s Waltz
-06. Everybody’s Jumpin'
+06. Everybody’s Jumping
 
   Rec. 1959-06-25
 
