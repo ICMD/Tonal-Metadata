@@ -1,7 +1,7 @@
 > Bach: Goldberg Variations
 > András Schiff
 > 1 / 1
-> Classical | 1983 | Decca
+> Classical | 2001 | ECM New Series
 > e560289841eaa97a8a266cbd6a274848 | 
 >  | B000XVRYKU, B000094HLA, B001DKBKZ0
 
