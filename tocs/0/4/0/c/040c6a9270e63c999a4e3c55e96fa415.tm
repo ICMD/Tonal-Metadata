@@ -1,5 +1,5 @@
 > Mozart: Piano Concerto No. 23; Rachmaninoff: Piano Concerto No. 3
-> Grigory Sokolov, Trevor Pinnock, Mahler Chamber Orchestra, Yan Pascal Tortelier, BBC Philharmonic
+> Grigory Sokolov; Trevor Pinnock, Mahler Chamber Orchestra; Yan Pascal Tortelier, BBC Philharmonic
 > 1 / 1
 > Classical | 2017 | Deutsche Grammophon
 > 3fcbd79413c7a13ad5db8b0013503850 | 
