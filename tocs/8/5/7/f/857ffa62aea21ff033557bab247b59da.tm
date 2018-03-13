@@ -37,7 +37,7 @@ Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
 04. Reminiscence, Based on Nocturne No. 20 in C-sharp minor, Op. posth.
 
 Frédéric Chopin (1810 – 1849)
-05. Nocturne in G minor
+05. Nocturne in G minor, Op. 37, No. 1
 
 Frédéric Chopin (1810 – 1849) — Ólafur Arnalds (b. 1987)
 06. Eyes Shut, Based on Nocturne No. 13 in C minor, Op. 48 No. 1
