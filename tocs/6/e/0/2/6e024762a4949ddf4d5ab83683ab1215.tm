@@ -1,11 +1,11 @@
 > 愛如少年
-> Xu Wei
+> 許巍
 > 1 / 1
 > Rock | 2014 | Gold Typhoon China
 > 2b446d4b780380d021dcb410fd714839 | 
 > 917164100 | 
 
-Wei Xu
+許巍
 01. 愛
 02. 彩雲之巔
 03. 故事
@@ -20,4 +20,4 @@ Wei Xu
 12. 少年
 13. 風行 [樂隊版] [Bonus Track]
 
-  Xu Wei
+  許巍
