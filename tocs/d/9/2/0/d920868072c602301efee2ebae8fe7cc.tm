@@ -1,5 +1,5 @@
 > Bach: The Well-Tempered Clavier
-> András Schiff
+> András Schiff (2011)
 > 2 / 4
 > Classical | 2012 | ECM New Series
 > c7085be2270bf5292eef899eb77d6a18 | 
