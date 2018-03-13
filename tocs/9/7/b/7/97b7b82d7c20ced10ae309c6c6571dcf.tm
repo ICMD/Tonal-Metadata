@@ -1,4 +1,4 @@
-> Horowitz – The Last Romantic
+> Horowitz – The Last Romantic 2
 > Vladimir Horowitz
 > 1 / 1
 > Classical / Instrumental / Piano | 1986 | Deutsche Grammophon
