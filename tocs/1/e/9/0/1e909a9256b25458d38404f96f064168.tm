@@ -2,26 +2,19 @@
 > 孫燕姿
 > 1 / 1
 > Pop | 2004 | Warner
->  | 
+> 76dd55139b3258f285819be905d87b78 | 
 >  | B00115DGH2
 
-> Stefanie
-> 孙燕姿
-> 11 / 11 BOXSET
-> Pop | 2004 | 
->  | 
->  | 
-
-01. Ben
-02. Wo de Ai
-03. Zhu Ni Kai Xin
-04. Wo Ye Hen Xiang Ta
-05. Ting Jian
-06. Man Man Lian
-07. Tong Lei
-08. Zhong
-09. Fan Guo Liao Zou Zou
+01. 奔
+02. 我的愛
+03. 祝你開心
+04. 我也很想他
+05. 聽見
+06. 慢慢來
+07. 同類
+08. 種
+09. 反過來走走
 10. Stefanie
-11. Wei Zhi de Jing Cai
+11. 未知的精采
 
   孫燕姿
