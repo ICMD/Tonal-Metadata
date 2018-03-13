@@ -1,10 +1,11 @@
 > Ode
 > Brad Mehldau Trio
 > 1 / 1
-> Jazz | 2012 | Nonesuch
-> 05b58d30d95da8214a279192b90e7ac3 | 
->  | 
+> Jazz | 2011 | Nonesuch
+> 854f1412efb09d82333ed2eed797cc20 | 
+> 507857187 | B007H02I4W, B0071BY1ZQ, B00L0EHQBG, B00CPJWVXI, B00FW6AEBW
 
+Brad Mehldau (b. 1970)
 01. M.B.
 02. Ode
 03. 26
