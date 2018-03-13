@@ -1,5 +1,5 @@
 > Bach: Goldberg Variations
-> András Schiff
+> András Schiff (2001)
 > 1 / 1
 > Classical | 2003 | ECM New Series
 > e560289841eaa97a8a266cbd6a274848 | 
