@@ -1,8 +1,8 @@
 > Bach: Goldberg Variations
 > András Schiff
 > 1 / 1
-> Classical | 1983 | ECM
-> 5257522d69227c2f3feaae83245fe105 | 
+> Classical | 1983 | Decca Classics
+> e99de14f7f8302db8ebafa6f353e62e1 | 
 > 135879733, 136835189 | B0015T456U, B000E6EGX2, B001DKBKZ0, B01K8O2QVI
 
 > The Decca Sound
@@ -49,4 +49,4 @@ Goldberg Variationen, BWV 988
   32. XXXII. Aria da capo
 
   András Schiff, Piano
-  Rec. 2001-10-30 in Stadtcasino Basel, Basel, Live Recording
+  Rec. 1982-12
