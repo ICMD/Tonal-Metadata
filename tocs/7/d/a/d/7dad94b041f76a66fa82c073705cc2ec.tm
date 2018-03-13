@@ -5,7 +5,7 @@
 > 14cedacf0d41337d188c1f477a2f6dfa | 
 > 1027176835, 1029101706, 1029602313 | B014Q98F8E, B01M1AA2BY, B01MZZ1SHX, B019GM8ZNG
 
-Ludovico Einaudi
+Ludovico Einaudi (b. 1955)
 01. Petricor
 
   Ludovico Einaudi
