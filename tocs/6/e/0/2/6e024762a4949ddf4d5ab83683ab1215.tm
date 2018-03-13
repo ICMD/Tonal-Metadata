@@ -1,10 +1,11 @@
 > 愛如少年
-> 許巍
+> Xu Wei
 > 1 / 1
-> Rock | 2008 | 金牌大風
-> 4028f0b78a22ccc3134c865eabbbc5e0 | 
->  | 
+> Rock | 2014 | Gold Typhoon China
+> 2b446d4b780380d021dcb410fd714839 | 
+> 917164100 | 
 
+Wei Xu
 01. 愛
 02. 彩雲之巔
 03. 故事
@@ -19,4 +20,4 @@
 12. 少年
 13. 風行 [樂隊版] [Bonus Track]
 
-  許巍
+  Xu Wei
