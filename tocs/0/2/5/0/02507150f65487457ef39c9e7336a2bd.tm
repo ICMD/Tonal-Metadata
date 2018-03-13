@@ -6,8 +6,9 @@
 > 555282947, 561502277 | B0099G20PY, B008NR8YXC, B01K8KYAAM
 
 Johann Sebastian Bach (1685 – 1750)
-Das Wohltemperierte Klavier, Book 2, BWV 870 No. 893
+The Well-Tempered Clavier, BWV 846–893
 
+  Book 2
   01. Präludium in F-sharp major, BWV 882
   02. Fuge in F-sharp major, BWV 882
   03. Präludium in F-sharp minor, BWV 883
