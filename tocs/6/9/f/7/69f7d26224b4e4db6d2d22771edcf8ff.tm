@@ -2,8 +2,8 @@
 > András Schiff
 > 1 / 1
 > Classical | 1983 | Decca
-> a3fe007e6b74b3a88458567cb7d62dab | 
->  | 
+> e560289841eaa97a8a266cbd6a274848 | 
+>  | B000XVRYKU, B000094HLA, B001DKBKZ0
 
 Johann Sebastian Bach (1685 – 1750)
 Goldberg Variations, BWV 988
@@ -41,4 +41,5 @@ Goldberg Variations, BWV 988
   31. Variation 30 Quodlibet. a 1 Clav.
   32. Aria Da Capo
 
-  András Schiff
+  Johann Sebastian Bach
+  Andras Schiff
