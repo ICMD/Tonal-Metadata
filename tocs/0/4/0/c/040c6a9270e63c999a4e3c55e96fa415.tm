@@ -1,5 +1,5 @@
-> Mozart & Rachmaninov: Piano Concertos – A Conversation That Never Was
-> Grigory Sokolov; Trevor Pinnock & Mahler Chamber Orchestra
+> Mozart: Piano Concerto No. 23; Rachmaninoff: Piano Concerto No. 3
+> Grigory Sokolov, Trevor Pinnock, Mahler Chamber Orchestra, Yan Pascal Tortelier, BBC Philharmonic
 > 1 / 1
 > Classical | 2017 | Deutsche Grammophon
 > 3fcbd79413c7a13ad5db8b0013503850 | 
@@ -15,7 +15,7 @@ Piano Concerto No. 23 in A major, K. 488
   Grigory Sokolov, Piano
   Mahler Chamber Orchestra
   Trevor Pinnock, Conductor
-  Rec. 2005-01-30 in Mozarteum: Großer Saal, Salzburg, Live Recording
+  Rec. 2005-01-30 in “Great Hall”, Mozarteum, Salzburg, Live Recording
 
 Sergei Rachmaninoff (1873 – 1943)
 Piano Concerto No. 3 in D minor, Op. 30
