@@ -1,4 +1,4 @@
-> Bach: Das wohltemperierte Clavier
+> Bach: The Well-Tempered Clavier
 > András Schiff
 > 2 / 4
 > Classical | 2012 | ECM New Series
