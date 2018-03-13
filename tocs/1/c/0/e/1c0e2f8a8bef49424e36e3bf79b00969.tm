@@ -9,30 +9,30 @@ Johann Sebastian Bach (1685 – 1750)
 The Well-Tempered Clavier, BWV 846–893
 
   Book 1
-  01. Präludium in C major, BWV 846
-  02. Fuge in C major, BWV 846
-  03. Präludium in C minor, BWV 847
-  04. Fuge in C minor, BWV 847
-  05. Präludium in C-sharp major, BWV 848
-  06. Fuge in C-sharp major, BWV 848
-  07. Präludium in C-sharp minor, BWV 849
-  08. Fuge in C-sharp minor, BWV 849
-  09. Präludium in D major, BWV 850
-  10. Fuge in D major, BWV 850
-  11. Präludium in D minor, BWV 851
-  12. Fuge in D minor, BWV 851
-  13. Präludium in E-flat major, BWV 852
-  14. Fuge in E-flat major, BWV 852
-  15. Präludium in E-flat minor / D-sharp minor, BWV 853
-  16. Fuge in E-flat minor / D-sharp minor, BWV 853
-  17. Präludium in E major, BWV 854
-  18. Fuge in E major, BWV 854
-  19. Präludium in E minor, BWV 855
-  20. Fuge in E minor, BWV 855
-  21. Präludium in F major, BWV 856
-  22. Fuge in F major, BWV 856
-  23. Präludium in F minor, BWV 857
-  24. Fuge in F minor, BWV 857
+  01. Prelude in C major, BWV 846
+  02. Fugue in C major, BWV 846
+  03. Prelude in C minor, BWV 847
+  04. Fugue in C minor, BWV 847
+  05. Prelude in C-sharp major, BWV 848
+  06. Fugue in C-sharp major, BWV 848
+  07. Prelude in C-sharp minor, BWV 849
+  08. Fugue in C-sharp minor, BWV 849
+  09. Prelude in D major, BWV 850
+  10. Fugue in D major, BWV 850
+  11. Prelude in D minor, BWV 851
+  12. Fugue in D minor, BWV 851
+  13. Prelude in E-flat major, BWV 852
+  14. Fugue in E-flat major, BWV 852
+  15. Prelude in E-flat minor / D-sharp minor, BWV 853
+  16. Fugue in E-flat minor / D-sharp minor, BWV 853
+  17. Prelude in E major, BWV 854
+  18. Fugue in E major, BWV 854
+  19. Prelude in E minor, BWV 855
+  20. Fugue in E minor, BWV 855
+  21. Prelude in F major, BWV 856
+  22. Fugue in F major, BWV 856
+  23. Prelude in F minor, BWV 857
+  24. Fugue in F minor, BWV 857
 
   András Schiff, Piano
   Rec. 2011-08 in Auditorio Radio Svizzera, Lugano
