@@ -1,7 +1,7 @@
 > Bach: Goldberg Variations
 > András Schiff
 > 1 / 1
-> Classical | 2001 | ECM New Series
+> Classical | 2003 | ECM New Series
 > e560289841eaa97a8a266cbd6a274848 | 
 >  | B000XVRYKU, B000094HLA, B001DKBKZ0
 
@@ -41,5 +41,5 @@ Goldberg Variations, BWV 988
   31. Variation 30 Quodlibet. a 1 Clav.
   32. Aria Da Capo
 
-  Johann Sebastian Bach
-  Andras Schiff
+  Andras Schiff, Piano
+  Rec. 2001-10-30 in Stadtcasino Basel, Basel, Switzerland, Live Recording
