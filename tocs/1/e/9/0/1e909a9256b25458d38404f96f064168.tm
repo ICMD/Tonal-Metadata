@@ -2,7 +2,7 @@
 > 孫燕姿
 > 1 / 1
 > Pop | 2004 | Warner
-> 76dd55139b3258f285819be905d87b78 | 
+> 6b77ee0cd3db45299bd6faffd5f608b5 | 
 >  | B00115DGH2
 
 01. 奔
