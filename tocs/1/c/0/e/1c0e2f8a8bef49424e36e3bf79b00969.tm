@@ -6,8 +6,9 @@
 > 555282947, 561502277 | B0099G20PY, B008NR8YXC, B01K8KYAAM
 
 Johann Sebastian Bach (1685 – 1750)
-Das Wohltemperierte Klavier, Book 1, BWV 846 No. 869
+The Well-Tempered Clavier, BWV 846–893
 
+  Book 1
   01. Präludium in C major, BWV 846
   02. Fuge in C major, BWV 846
   03. Präludium in C minor, BWV 847
