@@ -2,8 +2,8 @@
 > 孫燕姿
 > 1 / 1
 > Pop | 2004 | Warner
-> 6b77ee0cd3db45299bd6faffd5f608b5 | 
 >  | 
+>  | B00115DGH2
 
 > Stefanie
 > 孙燕姿
