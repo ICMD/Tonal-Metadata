@@ -20,4 +20,4 @@ Frédéric Chopin (1810 – 1849)
 06. Scherzo No. 3 in C-sharp minor, Op. 39
 07. Scherzo No. 4 in E major, Op. 54
 
-  Mikhail Pletnev
+  Mikhail Pletnev, Piano
