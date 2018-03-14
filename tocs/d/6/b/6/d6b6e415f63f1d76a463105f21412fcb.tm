@@ -1,5 +1,5 @@
 > Mozart: Piano Sonatas, K. 330, K. 331 “Alla Turca”, K. 332, K. 457
-> Mikhail Pletnev [Piano] & Mikhail Pletnev
+> Mikhail Pletnev
 > 1 / 1
 > Classical | 2005 | Deutsche Grammophon
 > d9f5b7feabe686145a7915fec11dbb87 | 
