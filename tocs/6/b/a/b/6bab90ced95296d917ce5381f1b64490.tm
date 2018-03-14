@@ -1,31 +1,50 @@
-> 此花亭の四季
-> 此花亭仲居の会
+> Don’t Come Home Too Soon
+> Del Amitri & Official Team Scotland Song World Cup '98
 > 1 / 1
 > Soundtrack | 2017 | ランティス
-> fbba13dc6a2778cd8c6f0d2511f390bc | 
+>  | 
+>  | B0000089BV, B013Q6TSCK
+
+> 此花亭の四季
+> Konohanatei Nakai no Kai
+> 1 / 1
+> Soundtrack | 2017 | Lantis
+> e814dd51e68efbc6987eacdc2f65c84a | 
 >  | 
 
-01. 春ウララ、君ト咲キ誇ル
+Takahiro Yamada & Del Amitri
+01. Don’t Come Home Too Soon
 
-  此花亭仲居の会 (大野柚布子,, 秦佐和子,, 諏訪彩花,, 久保田梨沙,, 加隈亜衣,, 沼倉愛美)
-  +柚 (大野柚布子)
-  皐 (秦佐和子)
-  棗 (諏訪彩花)
-  蓮 (久保田梨沙)
-  櫻 (加隈亜衣)
-  桐 (沼倉愛美)
+  Konohanatei Nakai no Kai
+  Yuuko Oono
+  Satsuki
+  Natsume
+  Ayaka Suwa
+  Ren
+  Risa Kubota
+  Sawako Hata
+  Ai Kakuma
+  Kiri
+  Manami Numakura
 
-02. 夏咲き恋花火
+Takahiro Yamada & Justin Currie
+02. Nothing Ever Happens
 
-  棗 (諏訪彩花)
-  蓮 (久保田梨沙)
+  Natsume
+  Ayaka Suwa
+  Ren
+  Risa Kubota
 
-03. 茜空、君舞フ紅葉ノ散歩道
+Takahiro Yamada & Del Amitri
+03. Kiss This Thing Goodbye
 
-  櫻 (加隈亜衣)
-  桐 (沼倉愛美)
+  Sawako Hata
+  Ai Kakuma
+  Kiri
+  Manami Numakura
 
-04. 雪華煌めく家路にて
+04. Always the Last to Know (Single Mix)
 
-  +柚 (大野柚布子)
-  皐 (秦佐和子)
+  Yuuko Oono
+  Satsuki
+  Sawako Hata
