@@ -26,7 +26,7 @@
 > b605f7192bc3a54ef8c2a32a31e246ad | 
 >  | 
 
-David Gilmour, Nick Mason, Roger Waters & Richard Wright
+Roger Waters, David Gilmour, Richard Wright & Nick Mason
 01. One of These Days
 
   Roger Waters, Bass
@@ -35,7 +35,7 @@ David Gilmour, Nick Mason, Roger Waters & Richard Wright
   Pink Floyd
   Rec. 1971-01 – 1971-08 in Morgan Studios, London
 
-David Gilmour, Roger Waters & Pink Floyd
+Roger Waters, David Gilmour
 02. A Pillow of Winds
 
   Roger Waters, Fretless Bass & Background Vocals
@@ -44,7 +44,7 @@ David Gilmour, Roger Waters & Pink Floyd
   Pink Floyd
   Rec. Morgan Studios, London
 
-David Gilmour, Richard Rodgers, Roger Waters & Oscar Hammerstein II
+Roger Waters, David Gilmour, Richard Rodgers & Oscar Hammerstein II
 03. Fearless: Including “You’ll Never Walk Alone”
 
   Richard Wright, Piano
@@ -63,7 +63,7 @@ Roger Waters
   Pink Floyd
   Rec. 1971-08 in Morgan Studios, London
 
-David Gilmour, Roger Waters, Richard Wright, Nick Mason & Pink Floyd
+Roger Waters, David Gilmour, Richard Wright & Nick Mason
 05. Seamus
 
   Roger Waters, Bass
@@ -72,7 +72,6 @@ David Gilmour, Roger Waters, Richard Wright, Nick Mason & Pink Floyd
   Pink Floyd
   Rec. 1971-05-28 – 1971-08 in Morgan Studios, London
 
-David Gilmour, Nick Mason, Roger Waters, Richard Wright & Pink Floyd
 06. Echoes
 
   Roger Waters, Bass Guitar & Effects & Bass
