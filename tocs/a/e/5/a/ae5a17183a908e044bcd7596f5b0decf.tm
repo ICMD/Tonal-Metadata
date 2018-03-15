@@ -1,4 +1,4 @@
-> 20 Years of Golden Hits from around the World
+> 20 Years of Golden Hits From Around The World
 > Various Artists
 > 1 / 2
 > Pop | 2000 | Universal Music
