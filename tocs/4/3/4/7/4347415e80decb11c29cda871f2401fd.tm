@@ -5,7 +5,6 @@
 > abdd69fe984c897453ceec373aa685db | 
 > 652729988 | B00CYMQL00
 
-Storm P.
 01. Tale Ved Desserten (1924)
 02. Beværtningen Lukker (1915)
 03. 13 Øre (1921)
