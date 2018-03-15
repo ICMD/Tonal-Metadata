@@ -1,7 +1,7 @@
 > 20 Years of Golden Hits from around the World
 > Various Artists
 > 1 / 2
-> Pop | 2000 | 
+> Pop | 2000 | Universal Music
 > 750eef6a79a00374f9453586dabbf55c | 
 >  | 
 
