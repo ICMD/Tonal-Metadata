@@ -18,13 +18,13 @@ Violin Concerto No. 2 in E major, BWV 1042
   05.   II. Adagio
   06.  III. Allegro assai
 
-Johann Sebastian Bach (1685 – 1750) & Felix Mendelssohn (1809 – 1847)
+Johann Sebastian Bach (1685 – 1750) – Felix Mendelssohn (1809 – 1847)
 07. Violin Partita No. 2 in D minor, BWV 1004: V. Ciaccona
 
 Johann Sebastian Bach (1685 – 1750)
 08. Orchestral Suite No. 3 in D major, BWV 1068: II. Air
 
-Johann Sebastian Bach (1685 – 1750) & Robert Schumann (1810 – 1856)
+Johann Sebastian Bach (1685 – 1750) – Robert Schumann (1810 – 1856)
 09. Partita for Violin Solo No. 3 in E major, BWV 1006: III. Gavotte En Rondo
 
   Joshua Bell, Violin
