@@ -21,4 +21,4 @@ Mily Alexejewitsch Balakirew
 05. Islamey: Presto con fuoco
 
   Mikhail Pletnev, Piano
-  Rec. 2000-11-01, Live Recording
+  Rec. 2000-11-01 in Carnegie Hall, Live Recording
