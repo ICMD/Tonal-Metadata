@@ -1,10 +1,11 @@
-> Storm P. Solo & Sange
-> Storm P
-> 1 / 1
-> Other |  | Classico
->  | 
->  | 
+> Storm P.: Solo & Som Storm & Stille
+> Storm P.
+> 1 / 2
+> Other | 2013 | CDklassisk
+> abdd69fe984c897453ceec373aa685db | 
+> 652729988 | B00CYMQL00
 
+Storm P.
 01. Tale Ved Desserten (1924)
 02. Beværtningen Lukker (1915)
 03. 13 Øre (1921)
@@ -19,6 +20,6 @@
 12. Et Pingmøde (1927)
 13. Kildekonens Datter
 14. Det Er Eenstemmigt Vedtaget (1922)
-15. Det Er Eenstemmigt Vedtaget (1922)
+15. Det Er Eenstemmigt Vedtaget (1922) M. Schiøler Linck, Arvid Ringheim Og Chr. Arhoff
 
   Storm P
