@@ -1,14 +1,14 @@
-> Schubert: Schwanengesang, Songs After Seidl
-> Christoph Prégardien, Andreas Staier
+> Schubert: Schwanengesang and Songs after Seidl
+> Christoph Prégardien & Andreas Staier
 > 1 / 1
-> Classical | 2009 | Challenge
-> 730c0a145d608d569b15957604bd7fbb | 
->  | 
+> Classical | 2008 | Challenge Classics
+> 0e9263d666eb9b1cc9ffdb6ccacdcd72 | 
+> 313262858 | B0027372S6, B001DTAUXY
 
 Franz Schubert (1797 – 1828)
 01. Herbst, D 945
 
-Schwanengesang, D 957
+Schwanengesang Nos. 1 – 7, D 957
 
   02. Liebesbotschaft
   03. Kriegers Ahnung
@@ -17,6 +17,9 @@ Schwanengesang, D 957
   06. Aufenthalt
   07. In der Ferne
   08. Abschied
+
+Schwanengesang Nos. 8 – 13, D 957
+
   09. Der Atlas
   10. Ihr Bild
   11. Das Fischermädchen
