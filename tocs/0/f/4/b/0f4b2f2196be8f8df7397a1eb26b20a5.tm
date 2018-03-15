@@ -7,8 +7,8 @@
 
 Nik Bärtsch
 01. Modul 42
-02. Modul 41: 17
-03. Modul 39: 8
+02. Modul 41_17
+03. Modul 39_8
 04. Modul 46
 05. Modul 45
 06. Modul 44
