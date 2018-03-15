@@ -5,8 +5,7 @@
 > e814dd51e68efbc6987eacdc2f65c84a | 
 >  | 
 
-Takahiro Yamada & Del Amitri
-01. Don’t Come Home Too Soon
+01. 春ウララ、君ト咲キ誇ル
 
   Konohanatei Nakai no Kai
   Yuuko Oono
