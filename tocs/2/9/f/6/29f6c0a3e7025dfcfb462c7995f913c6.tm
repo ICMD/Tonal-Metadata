@@ -21,4 +21,4 @@ Frédéric Chopin (1810 – 1849)
 07. Scherzo No. 4 in E major, Op. 54
 
   Mikhail Pletnev, Piano
-  Rec. 2000-11-01, Live Recording
+  Rec. 2000-11-01 in Carnegie Hall, Live Recording
