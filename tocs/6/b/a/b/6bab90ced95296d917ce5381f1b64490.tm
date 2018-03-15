@@ -1,42 +1,30 @@
 > 此花亭の四季
 > 此花亭仲居の会
 > 1 / 1
-> Soundtrack | 2017 | Lantis
+> Soundtrack | 2017 | ランティス
 > e814dd51e68efbc6987eacdc2f65c84a | 
 >  | 
 
 01. 春ウララ、君ト咲キ誇ル
 
-  Konohanatei Nakai no Kai
-  Yuuko Oono
-  Satsuki
-  Natsume
-  Ayaka Suwa
-  Ren
-  Risa Kubota
-  Sawako Hata
-  Ai Kakuma
-  Kiri
-  Manami Numakura
+  柚 (大野柚布子)
+  皐 (秦 佐和子)
+  棗 (諏訪彩花)
+  蓮 (久保田梨沙)
+  櫻 (加隈亜衣)
+  桐 (沼倉愛美)
 
-Takahiro Yamada & Justin Currie
-02. Nothing Ever Happens
+02. 夏咲き恋花火
 
-  Natsume
-  Ayaka Suwa
-  Ren
-  Risa Kubota
+  棗 (諏訪彩花)
+  蓮 (久保田梨沙)
 
-Takahiro Yamada & Del Amitri
-03. Kiss This Thing Goodbye
+03. 茜空、君舞フ紅葉ノ散歩道
 
-  Sawako Hata
-  Ai Kakuma
-  Kiri
-  Manami Numakura
+  櫻 (加隈亜衣)
+  桐 (沼倉愛美)
 
-04. Always the Last to Know (Single Mix)
+04. 雪華煌めく家路にて
 
-  Yuuko Oono
-  Satsuki
-  Sawako Hata
+  柚 (大野柚布子)
+  皐 (秦 佐和子)
