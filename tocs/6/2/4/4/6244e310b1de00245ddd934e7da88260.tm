@@ -1,9 +1,9 @@
 > Thank You for the Music
 > ABBA
 > 3 / 4
-> Pop | 1994 | Universal Music
-> 009aa822f722170234a2f640aebc0529 | 
->  | 
+> Pop | 1994 | Polar Music International AB
+> 1ef013c2bd733c75ccabc28c485c46fa | 
+> 376283 | B001NB3GMY, B000001E6T, B00005R63I, B01KBI1S0G, B0019J34E0
 
 ABBA
 01. The Winner Takes It All
