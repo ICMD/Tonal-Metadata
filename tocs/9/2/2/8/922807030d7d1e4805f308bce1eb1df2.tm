@@ -10,7 +10,7 @@ Hanns Eisler (1898 – 1962)
 
 Zwei Elegien von Bertolt Brecht
 
-  02.    I. "In die Städte kam ich"
+  02.    I. In die Städte kam ich
   03.   II. An die Überlebenden
 
 04. Über die Dauer des Exils
@@ -18,7 +18,7 @@ Zwei Elegien von Bertolt Brecht
 06. Elegie 1939
 07. An den Schlaf
 08. An den kleinen
-09. “In den Weiden”
+09. In den Weiden
 10. Frühling
 11. Auf der Flucht
 12. Über den Selbstmord
@@ -29,18 +29,18 @@ Zwei Elegien von Bertolt Brecht
 
 Zwei Lieder Nach Worten von Pascal
 
-  17.    I. “Depsite these miseries”
-  18.   II. “The only thing”
+  17.    I. Depsite these miseries
+  18.   II. The only thing
 
 19. Die letzte Elegie
 
 Fünf Elegien
 
-  20.    I. “Unter den grünen Pfefferbäumen”
-  21.   II. “Die Stadt ist nach den Engeln genannt”
-  22.  III. “Jeden Morgan, mein Brot zu verdienen”
-  23.   IV. “Diese Stadt hat mich belehrt”
-  24.    V. “In den Hügeln wird Gold gefunden”
+  20.    I. Unter den grünen Pfefferbäumen
+  21.   II. Die Stadt ist nach den Engeln genannt
+  22.  III. Jeden Morgan, mein Brot zu verdienen
+  23.   IV. Diese Stadt hat mich belehrt
+  24.    V. In den Hügeln wird Gold gefunden
 
 25. In der Frühe
 26. Erinnerung an Eichendorff und Schumann
