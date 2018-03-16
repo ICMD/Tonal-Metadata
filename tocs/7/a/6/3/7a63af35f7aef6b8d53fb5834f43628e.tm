@@ -1,10 +1,11 @@
 > Whistle down the Wind
 > Joan Baez
 > 1 / 1
-> Country & Folk | 2018 | Razor & Tie
-> 40a7169210c5b644c95f0c7ea52d7fdf | 
->  | 
+> Country & Folk | 2018 | Proper Records
+> 1ddf754c8f2c0a5ecf385a02005723c0 | 
+>  | B078HMMRMB, B078XY2GGQ, B0788XV94K
 
+Joan Baez
 01. Whistle down the Wind
 02. Be of Good Heart
 03. Another World
