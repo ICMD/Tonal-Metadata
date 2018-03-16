@@ -1,9 +1,9 @@
 > Bach Inspiration
-> Juliette Hurel
+> Juliette Hurel, Les Suprises, Louis-Noel Bestion de Camboulas & __
 > 1 / 1
 > Classical | 2018 | Alpha
-> 58e5cd1de58fbece668c71f6e0d69ab7 | 
->  | 
+> 630b6ac54eb23c619410884e60dd93fc | 
+>  | B079ZCBRJ9, B079JPHKBX
 
 Suite No. 2 in B minor, BWV 1067
 
@@ -37,3 +37,6 @@ Trio Sonata in G major, BWV 1038
 19. Cantata, BWV 82a Ich Habe Genug: I. Aria “Ich habe genug”
 
   Juliette Hurel
+  Les Suprises
+  Louis-Noel Bestion de Camboulas
+  __
