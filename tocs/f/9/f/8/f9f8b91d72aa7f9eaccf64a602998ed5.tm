@@ -8,8 +8,9 @@
 Franz Schubert (1797 – 1828)
 01. Herbst, D 945
 
-Schwanengesang Nos. 1 – 7, D 957
+Schwanengesang, D 957
 
+  By Ludwig Rellstab
   02. Liebesbotschaft
   03. Kriegers Ahnung
   04. Frühlingssehnsucht
@@ -18,8 +19,7 @@ Schwanengesang Nos. 1 – 7, D 957
   07. In der Ferne
   08. Abschied
 
-Schwanengesang Nos. 8 – 13, D 957
-
+  By Heinrich Heine
   09. Der Atlas
   10. Ihr Bild
   11. Das Fischermädchen
@@ -27,7 +27,9 @@ Schwanengesang Nos. 8 – 13, D 957
   13. Am Meer
   14. Der Doppelgänger
 
-15. Die Taubenpost, D 965
+  By Johann Gabriel Seidl
+  15. Die Taubenpost
+
 16. Sehnsucht, D 879
 17. Am Fenster, D 878
 18. Bei Dir Allein, D 866
