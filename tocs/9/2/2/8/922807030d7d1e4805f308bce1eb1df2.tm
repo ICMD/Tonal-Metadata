@@ -8,7 +8,7 @@
 Hanns Eisler (1898 – 1962)
 01. Spruch 1939
 
-Zwei Elegien
+Zwei Elegien von Bertolt Brecht
 
   02.    I. "In die Städte kam ich"
   03.   II. An die Überlebenden
