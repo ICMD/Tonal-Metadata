@@ -1,10 +1,11 @@
 > Bach Inspiration
-> Juliette Hurel, Les Suprises, Louis-Noel Bestion de Camboulas & __
+> Juliette Hurel, Les Suprises, Louis-Noel Bestion de Camboulas
 > 1 / 1
 > Classical | 2018 | Alpha
-> 630b6ac54eb23c619410884e60dd93fc | 
+> 58e5cd1de58fbece668c71f6e0d69ab7 | 
 >  | B079ZCBRJ9, B079JPHKBX
 
+Johann Sebastian Bach (1685 – 1750)
 Suite No. 2 in B minor, BWV 1067
 
   01.    I. Ouverture
@@ -15,7 +16,9 @@ Suite No. 2 in B minor, BWV 1067
   06.   VI. Menuet
   07.  VII. Badinerie
 
-08. Matthäus – Passion, BWV 244 “Aus Liebe Will Mein Heiland Sterben”
+Matthäus – Passion, BWV 244
+
+  08. “Aus Liebe Will Mein Heiland Sterben”
 
 Partita in A minor, BWV 1013
 
@@ -24,7 +27,8 @@ Partita in A minor, BWV 1013
   11.  III. Sarabande
   12.   IV. Bourrée anglaise
 
-13. Oster – Oratorium, BWV 249: IV. Aria “Seele, deine Spezereien”
+Oster – Oratorium, BWV 249
+13.   IV. Aria “Seele, deine Spezereien”
 
 Trio Sonata in G major, BWV 1038
 
@@ -39,4 +43,3 @@ Trio Sonata in G major, BWV 1038
   Juliette Hurel
   Les Suprises
   Louis-Noel Bestion de Camboulas
-  __
