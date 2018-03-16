@@ -1,5 +1,5 @@
 > Eisler: Lieder
-> Dietrich Fischer-Dieskau, Aribert Reimann
+> Dietrich Fischer-Dieskau & Aribert Reimann
 > 1 / 1
 > Classical | 1988 | TELDEC
 > e75cb4359a2f71bb75b4bb498f912c60 | 
