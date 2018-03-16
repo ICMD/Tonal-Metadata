@@ -1,10 +1,11 @@
 > Find the Way
-> Aaron Parks, Ben Street, Billy Hart
+> Aaron Parks, Ben Street & Billy Hart
 > 1 / 1
 > Jazz | 2017 | ECM
-> 0a790cc5aed943e48a6362a047b2484c | 
->  | 
+> 1d5b401e97d16e77a69e684c02a4079a | 
+> 1215917763, 1226834538 | B06ZZSWFVP, B01N4U24RM
 
+Aaron Parks
 01. Adrift
 02. Song for Sashou
 03. Unravel
@@ -13,8 +14,11 @@
 06. Alice
 07. First Glance
 08. Melquíades
+
+Ian Bernhard
 09. Find the Way
 
-  Aaron Parks
-  Ben Street
-  Billy Hart
+  Ben Street, Double Bass
+  Aaron Parks, Piano
+  Billy Hart, Drums
+  Rec. 2015-10 in Studios La Buissonne, Pernes-les-Fontaines
