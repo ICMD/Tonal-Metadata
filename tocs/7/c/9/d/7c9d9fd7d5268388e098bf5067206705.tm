@@ -1,4 +1,4 @@
-> From a to B: Anywhere
+> From A to B: Anywhere
 > New Musik
 > 1 / 2
 > Alternative | 2011 | Lemon Recordings
