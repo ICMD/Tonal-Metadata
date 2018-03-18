@@ -7,7 +7,7 @@
 
 > The Essential Collection
 > Gilbert O'Sullivan
-> 1 / 6
+> 1 / 6 BOXSET
 > Pop | 2016 | Union Square Music
 > f42c288e4bedf3d8e7b77cdd05261432 | 
 > 1119548198, 1205693837 | B01FSKPF24, B01K8KUXXU, B01M4PMFSM
