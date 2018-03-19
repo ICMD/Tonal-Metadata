@@ -24,7 +24,7 @@ Premier Livre de Pièces de Clavecin / Suite in D minor – Major (1724)
 09. Nouvelles Suites de Pièces de Clavecin / Suite in G major: VI. Les sauvages
 
 Johannes Brahms (1833 – 1897)
-10. Intermezzi, Op. 117: II. No. 2: . in B-flat minor
+10. Intermezzi in B-flat minor, Op. 117 No. 2
 
   Grigory Sokolov, Piano
   Rec. 2013-08-23 in Großes Festspielhaus, Salzburg, Live Recording
