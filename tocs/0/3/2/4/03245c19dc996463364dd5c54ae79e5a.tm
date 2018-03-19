@@ -8,17 +8,17 @@
 Joseph Haydn (1732 – 1809)
 The Creation, Hob. 21:2
 
-  01. Introduction. Representation of Chaos. Largo
+  01. Introduction: Representation of Chaos: Largo
 
 The Seven Last Words of Our Saviour on the Cross, Hob. 20:1A
 
-  02. The Earthquake. Presto E con Tutta la Forza
+  02. The Earthquake: Presto e con tutta la forza
 
 L’Isola Disabitata, Hob. 28:9
 
   Sinfonia
-  03. Largo, Vivace Assai
-  04. Allegretto, Vivace
+  03. Largo – Vivace Assai
+  04. Allegretto – Vivace
 
 Symphony No. 64 in A major, Hob. 1:64 “Tempora Mutantur”
 
@@ -30,7 +30,7 @@ Symphony No. 6 in D major, Hob. 1:6 “Le Matin”
 
 Symphony No. 46 in B major, Hob. 1:46
 
-  07.   IV. Presto E Scherzando
+  07.   IV. Finale: Presto
 
 Symphony No. 60 in C major, Hob. 1:60 “Il Distratto”
 
@@ -42,10 +42,10 @@ The Seasons, Hob. 21:3
 
 Symphony No. 45 in F-sharp minor, Hob. 1:45 “Farewell”
 
-  10. IVa. Presto
-  11. IVb. Adagio
+  10. IVa. Finale: Presto
+  11. IVb. Finale: Adagio
 
-12. Flötenuhrstücke: Music for Musical Clocks
+12. Music for Musical Clocks, Hob.19:1-32
 
 Symphony No. 90 in C major, Hob. 1:90
 
