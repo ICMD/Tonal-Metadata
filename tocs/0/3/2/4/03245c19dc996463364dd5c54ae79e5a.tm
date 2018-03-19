@@ -53,3 +53,4 @@ Symphony No. 90 in C major, Hob. 1:90
 
   London Symphony Orchestra
   Simon Rattle, Conductor
+  Rec. 11 & 12 July 2017 in Barbican Centre, London, Live Recording
