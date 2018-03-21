@@ -5,7 +5,7 @@
 > 433ad186a769ff9aca8fccc0efd983fd | 
 > 911848633 | B00MZUWL32, B00LT9Z2M2, B00N23RFUK, B01K8MGAC6
 
-Johann Sebastian Bach (1686 – 1750)
+Johann Sebastian Bach (1685 – 1750)
 Violin Concerto No. 1 in A minor, BWV 1041
 
   01.    I. Allegro
