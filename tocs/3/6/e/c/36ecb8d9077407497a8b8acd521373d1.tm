@@ -9,13 +9,8 @@ Earth and Fire
 01. People Come People Go
 02. Fire of Love
 
-  Complete Album Collection
-
 Gerard Koerts
 03. Weekend
-
-  Earth and Fire
-  Complete Album Collection
 
 Earth and Fire
 04. Can’t Live without It Anymore
@@ -24,4 +19,4 @@ Earth and Fire
 07. Answer Me
 08. Reprise (People Come People Go): Third Movement
 
-  Complete Album Collection
+  Earth and Fire
