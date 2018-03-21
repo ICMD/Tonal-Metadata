@@ -1,59 +1,59 @@
 > Romance
-> 郎朗
+> Lang Lang & __
 > 1 / 1
-> Classical | 2017 | Sony
-> 1c9aad807bba544ff105dd1d944d483a | 
->  | 
+> Classical | 2017 | Sony Classical
+> 3dea8e6704c727a97f0a728a2d9d3fcf | 
+> 1277759055 | B0758HDL39, B075G4K5BZ, B075WKC41B
 
 Franz Liszt (1811 – 1886)
-01. - Liebestraum No. 3 en la Bémol Majeur, S. 541, 3: Rêve D'amour (Poco Allegro, con Affetto)
+01. Liebestraum in A-flat major, S. 541 No. 3: Rêve D'amour (Poco Allegro, con Affetto)
 
 Johann Sebastian Bach (1685 – 1750)
-02. - Suite Pour Orchestre No. 3 en Ré Majeur, BWV 1068: Air Sur la Corde de Sol (2 – Arrangement Pour Piano)
+02. Orchestral Suite No. 3 in D major, BWV 1068: III. Air “On the G String” (Arr. for Piano)
 
 Frédéric Chopin (1810 – 1849)
-03. - Nocturne No. 20 en Ut Dièse Mineur, Op. Posth., Lento con Gran Espressione
+03. Nocturne in C-sharp minor, Op. Posth., B 49
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-04. Tchaikovski: Casse – Noisette, Op. 71 – No. 14: Pas de Deux, Var. II “Danse de la Fée Dragée”
+04. The Nutcracker, Op. 71: No. 14: Danse de la fée dragée (Arr. for Piano)
 
 Frédéric Chopin (1810 – 1849)
-05. - Étude No. 1 en la Bémol Majeur, Op. 25
+05. Études, Op. 25: No. 1 in A-flat major
 
-COMPOSER NON-APPLICABLE
-06. Zimmer: Gladiator – Rhapsody
+Hans Zimmer (b. 1957)
+06. Gladiator Rhapsody (From “Gladiator”)
 
 Johann Sebastian Bach (1685 – 1750)
-07. - Choral de la Cantate “Herz und Mund und Tat und Leben”, BWV 147: X. Jesus Bleibet Meine Freude
+07. Cantata, BWV 147: X. Jesus bleibet meine Freude (Arr. for Piano)
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-08. Tchaikovski: Les Saisons, Op. 37a – No. 6: Juin – Barcarolle
+08. The Seasons, Op. 37a: VI. June “Barcarolle”
 
 Frédéric Chopin (1810 – 1849)
-09. - Étude No. 5 en Mi Mineur, Op. 25
+09. Études, Op. 25: No. 5 in E minor
 
-Franz Liszt (1811 – 1886)
-10. - Ave Maria, S. 558 No. 12
+Franz Schubert (1797 – 1828)
+10. Ave Maria, D 839 (Transcribed by Liszt, S. 558 No. 12)
 
 Frédéric Chopin (1810 – 1849)
-11. - Étude No. 3 en Mi Majeur, Op. 10: Transcription En la Majeur
+11. Études, Op. 10: No. 3 in E major: Transcribed in A major
 
 Franz Liszt (1811 – 1886)
-12. - Romance “O Pourquoi Donc ?” en Mi Mineur, S. 169
+12. Romance in E minor, S. 169 “O Pourquoi Donc”
 
 Ludwig van Beethoven (1770 – 1827)
-13.   II. No. 2: II. Adagio
+13. Piano Sonata No. 3 in C major, Op. 2 No. 3: II. Adagio
 
 Frédéric Chopin (1810 – 1849)
-14. - Grande Polonaise en Sol Majeur, Op. 22: Andante Spianato
+14. Andante Spianato and Grande Polonaise, Op. 22: Andante spianato
 
-COMPOSER NON-APPLICABLE
-15. Dudley: Poldark – Prélude
+Anne Dudley (b. 1956)
+15. Poldark Prélude
 
 Franz Liszt (1811 – 1886)
-16. - Consolation No. 3 en Ré Bémol Majeur, S. 172
+16. Consolation in D-flat major, S. 172 No. 3
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-17. Tchaikovski: Les Saisons, Op. 37a – No. 1: Janvier – Au Coin Du Feu
+17. The Seasons, Op. 37a: I. January “At the Fireside”
 
-  郎朗
+  Lang Lang
