@@ -1,5 +1,5 @@
 > Romance
-> Lang Lang & __
+> Lang Lang
 > 1 / 1
 > Classical | 2017 | Sony Classical
 > 3dea8e6704c727a97f0a728a2d9d3fcf | 
