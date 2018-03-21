@@ -28,4 +28,4 @@ Melody Gardot
 14. After the Rain
 15. Burying My Troubles
 
-  The Artist’s cut
+  Melody Gardot
