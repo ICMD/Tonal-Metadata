@@ -1,19 +1,28 @@
-> Catch a Fire
+> Catch a Fire (Deluxe Edition)
 > Bob Marley & The Wailers
-> 1 / 1
-> Reggae | 1973 | Island
-> f1257c6fe3d8b0faea2e7c57d9af4329 | 
->  | 
+> 2 / 2
+> Reggae | 2001 | Mobile Fidelity Sound Lab
+> 61346278be65feb7df311a568821c4ba | 
+> 405836, 19545168 | B000VGXJ4W, B00005FGWV, B000059ZT4
 
-01. Concrete Jungle
-02. Slave Driver
-03. 400 Years
-04. Stop That Train
-05. Baby We Got a Date (Rock It Baby)
-06. Stir It Up
-07. Kinky Reggae
-08. No More Trouble
-09. Midnight Ravers
+Bob Marley
+01. Concrete Jungle (Original)
+02. Slave Driver (Original)
+
+Peter Tosh & The Wailers
+03. 400 Years (Original)
+04. Stop That Train (Original)
+
+Bob Marley & The Wailers
+05. Baby We've Got a Date (Rock It Baby) [Original]
+
+Bob Marley
+06. Stir It up (Original)
+07. Kinky Reggae (Original)
+08. No More Trouble (Original)
+
+Bob Marley & The Wailers
+09. Midnight Ravers (Original)
 
   Bob Marley
   The Wailers
