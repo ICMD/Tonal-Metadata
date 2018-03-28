@@ -5,7 +5,7 @@
 > 7e4a66448a06216b5615e7be0d21d700 | 
 > 821067552, 1074125831 | B01MTOKCWP, B0015D3YSG, B000UYX4AY, B01KB1F8EA
 
-Scott Bondy & Aa Bondy
+Scott Bondy & A.A. Bondy
 01. How Will You Meet Your End?
 02. There’s a Reason
 03. Black Rain, Black Rain
@@ -19,4 +19,4 @@ Scott Bondy & Aa Bondy
 11. Witness Blues
 12. Of the Sea
 
-  Aa Bondy
+  A.A. Bondy
