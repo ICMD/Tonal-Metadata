@@ -14,8 +14,6 @@
 
 01. Applause
 
-  Rec. Unknown
-
 Dmitry Shostakovich (1906 – 1975)
 Symphony No. 1 in F minor, Op. 10
 
@@ -26,10 +24,8 @@ Symphony No. 1 in F minor, Op. 10
 
   Rec. 1994-06-02 – 1994-06-03
 
-no artist]
+COMPOSER NON-APPLICABLE
 06. Applause
-
-  Rec. Unknown
 
 Dmitry Shostakovich (1906 – 1975)
 Symphony No. 9 in E-flat major, Op. 70
@@ -42,7 +38,7 @@ Symphony No. 9 in E-flat major, Op. 70
 
   Rec. 1990-02-09
 
-no artist]
+COMPOSER NON-APPLICABLE
 12. Applause
 
   Rec. Unknown
@@ -52,7 +48,7 @@ Samuel Barber (1910 – 1981)
 
   Rec. 1992-01-19 – 1992-01-20
 
-no artist]
+COMPOSER NON-APPLICABLE
 14. Applause
 
   Münchner Philharmoniker
