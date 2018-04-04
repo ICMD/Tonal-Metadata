@@ -5,21 +5,7 @@
 > 944e48885f872447e56f5e409ed7c3d9 | 
 > 185831951, 414756254, 458937361 | B004BLP8YC, B00004RBXW, B00004R9DC
 
-> The Complete Sony Recordings
-> Hilary Hahn
-> 3 / 5 BOXSET
-> Classical | 2013 | Sony Classical
-> e6332bad7dc798bce32df5336f2b313a | 
-> 652720151, 1046362897 | B00BWWE31M, B01MPXY469, B00E3QCSXE
-
-> 50 Great Recordings
-> Various Artists, Perry Como, Dinah Shore, Doris Day, The Andrew Sisters, Dean Martin, The Platters, Vaughn Monroe, Les Baxter and his Orchestra & Johnny Cash
-> 32 / 50 BOXSET
-> Classical | 2014 | Deutsche Harmonia Mundi
-> fed1398e3b4d5c3f4c42751eb0b19785 | 
->  | B000AADIJA
-
-Samuel Barber (1910 – 1981)
+Samuel Barber (1910 – 1980)
 Concerto for Violin and Orchestra, Op. 14
 
   01.    I. Allegro
