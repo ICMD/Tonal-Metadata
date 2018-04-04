@@ -5,6 +5,7 @@
 > ee2373141e81ce8aafab49feb0ec1855 | 
 >  | 
 
+Niccolò Paganini (1782 – 1840)
 24 Caprices for Violin, Op. 1
 
   01. No. 1 in E major
