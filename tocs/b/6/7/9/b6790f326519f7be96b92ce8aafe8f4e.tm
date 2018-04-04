@@ -1,36 +1,39 @@
-> Shostakovich: Symphonys Nos. 1 & 9; Barber: Adagio for Strings
-> Sergiu Celibidache & Munich Philharmonic Orchestra
+> Shostakovich: Symphonys 1 & 9 – Barber: Adagio for Strings
+> Munich Philharmonic & Sergiu Celibidache
 > 1 / 1
-> Classical | 1994 | EMI
-> 91990b1a16f175c8930d810af008d06f | 
->  | 
+> Classical | 2004 | EMI Classics
+> 6941f94ff3c7f08735f53dd61033c76f | 
+> 691879071 | B00W2ZF3SA, B00068V39S, B01K8O8UVI
 
-> ショスタコーヴィチ 交響曲No. 1, 9他 (チェリビダッケ)
-> セルジュ・チェリビダッケ & ミュンヘン・フィルハーモニー管弦楽団
-> 10 / 11
-> Classical | 1994 | 
-> 91990b1a16f175c8930d810af008d06f | 
->  | 
+> French and Russian Music
+> Sergiu Celibidache & Münchner Philharmoniker
+> 10 / 11 BOXSET
+> Classical | 2011 | EMI Classics
+> a4e044673eef96f6e6a7b918cca61762 | 
+>  | B005HYNCTA
 
-ショスタコーヴィチ 交響曲 No. 1 ヘ短調, Op. 10 (1925)
+no artist]
+01. Applause
 
-  01. Applause
+  Rec. Unknown
 
 Dmitry Shostakovich (1906 – 1975)
-ショスタコーヴィチ 交響曲 No. 1 ヘ短調, Op. 10 (1925)
+Symphony No. 1 in F minor, Op. 10
 
-  02.    I. Allegretto – Allegro non troppo
+  02.    I. Allegretto – Allegro Non Troppo
   03.   II. Allegro
-  04.  III. Lento – Largo
-  05.   IV. Allegro molto – Lento – Allegro molto
+  04.  III. Lento
+  05.   IV. Allegro Molto – Lento – Allegro Molto
 
-COMPOSER NON-APPLICABLE
-ショスタコーヴィチ 交響曲 No. 1 ヘ短調, Op. 10 (1925)
+  Rec. 1994-06-02 – 1994-06-03
 
-  06. Applause
+no artist]
+06. Applause
+
+  Rec. Unknown
 
 Dmitry Shostakovich (1906 – 1975)
-ショスタコーヴィチ 交響曲 No. 9 変ホ長調, Op. 70 (1945)
+Symphony No. 9 in E-flat major, Op. 70
 
   07.    I. Allegro
   08.   II. Moderato
@@ -38,16 +41,20 @@ Dmitry Shostakovich (1906 – 1975)
   10.   IV. Largo
   11.    V. Allegretto
 
-COMPOSER NON-APPLICABLE
-ショスタコーヴィチ 交響曲 No. 9 変ホ長調, Op. 70 (1945)
+  Rec. 1990-02-09
 
-  12. Applause
+no artist]
+12. Applause
+
+  Rec. Unknown
 
 Samuel Barber (1910 – 1981)
-13. バーバー 弦楽のためのアダージョ (1937)
+13. Adagio for Strings, Op. 11
 
-COMPOSER NON-APPLICABLE
-14. バーバー 弦楽のためのアダージョ (1937): Applause
+  Rec. 1992-01-19 – 1992-01-20
+
+no artist]
+14. Applause
 
   Münchner Philharmoniker
   Sergiu Celibidache, Conductor
