@@ -1,5 +1,5 @@
-> Shostakovich: Symphonys 1 & 9 – Barber: Adagio for Strings
-> Munich Philharmonic & Sergiu Celibidache
+> Shostakovich: Symphonys 1 & 9; Barber: Adagio for Strings
+> Sergiu Celibidache & Münchner Philharmoniker
 > 1 / 1
 > Classical | 2004 | EMI Classics
 > 6941f94ff3c7f08735f53dd61033c76f | 
