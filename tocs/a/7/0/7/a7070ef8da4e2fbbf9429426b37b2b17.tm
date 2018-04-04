@@ -5,7 +5,7 @@
 > 944e48885f872447e56f5e409ed7c3d9 | 
 > 185831951, 414756254, 458937361 | B004BLP8YC, B00004RBXW, B00004R9DC
 
-Samuel Barber (1910 – 1981)
+Samuel Barber (1910 – 1980)
 Concerto for Violin and Orchestra, Op. 14
 
   01.    I. Allegro
