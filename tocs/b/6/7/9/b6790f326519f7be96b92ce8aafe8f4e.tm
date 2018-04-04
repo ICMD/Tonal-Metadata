@@ -12,7 +12,6 @@
 > a4e044673eef96f6e6a7b918cca61762 | 
 >  | B005HYNCTA
 
-no artist]
 01. Applause
 
   Rec. Unknown
