@@ -1,4 +1,4 @@
-> Halloween 77 (October 31, 1977)
+> Halloween 77
 > Frank Zappa
 > 1 / 6
 > Indie Rock | 2017 | Frank Zappa Catalog
@@ -6,20 +6,21 @@
 > 1293486609 | 
 
 Frank Zappa
-01. Show Start (Live at Palladium, New York City, NY, 10: 31/1977)
-02. Peaches en Regalia (Live at Palladium, New York City, NY, 10: 31/1977)
-03. The Torture Never Stops (Live at Palladium, New York City, NY, 10: 31/1977)
-04. Tryin’ to Grow a Chin (Live at Palladium, New York City, NY, 10: 31/1977)
-05. City of Tiny Lites (Live at Palladium, New York City, NY, 10: 31/1977)
-06. Pound for a Brown (Live at Palladium, New York City, NY, 10: 31/1977)
+01. Show Start
+02. Peaches en Regalia
+03. The Torture Never Stops
+04. Tryin’ to Grow a Chin
+05. City of Tiny Lites
+06. Pound for a Brown
 
 Terry Bozzio & Frank Zappa
-07. The Demise of the Imported Rubber Goods Mask (Live at Palladium, New York City, NY, 10: 31/1977)
+07. The Demise of the Imported Rubber Goods Mask
 
 Frank Zappa
-08. Bobby Brown Goes down (Live at Palladium, New York City, NY, 10: 31/1977)
-09. Conehead (Live at Palladium, New York City, NY, 10: 31/1977)
-10. Flakes (Live at Palladium, New York City, NY, 10: 31/1977)
-11. Big Leg Emma (Live at Palladium, New York City, NY, 10: 31/1977)
+08. Bobby Brown Goes down
+09. Conehead
+10. Flakes
+11. Big Leg Emma
 
   Frank Zappa
+  Rec. 1977-10-31 in Palladium, New York City, NY, Live Recording
