@@ -2,8 +2,8 @@
 > The Manhattan Transfer
 > 1 / 1
 > Jazz | 2018 | BMG BMG Rights Management
-> 706e9de06a4b4b3b62602b1fc0c4662b | 
->  | 
+> f66682d211d658921d8984d3e3462a93 | 
+>  | B079MD8XVR, B079J855TP
 
 01. Cantaloop (Flip Out!)
 02. Swing Balboa (Down on Riverside)
