@@ -1,28 +1,23 @@
-> Traneing in (Rudy van Gelder Remaster)
+> Traneing In
 > John Coltrane & The Red Garland Trio
 > 1 / 1
-> Jazz | 2014 | Universal Music Group
-> be47ffbf992eb00a4036f61139532948 | 
->  | 
+> Jazz | 2007 | Prestige
+> 418315dab581b968ca3ee9b1f3ee9d13 | 
+> 911618196, 919263065 | B01M0AJ2ZT, B000KP62TI, B01K8M1FQ2, B0012PYG4I
 
-> Trane’s Comin'
-> John Coltrane
-> 5 / 5
-> Jazz | 2010 | Not Now Music
-> be47ffbf992eb00a4036f61139532948 | 
->  | 
-
-> 2 Tenors with Hank Mobley: Cattin’ With Coltrane and Quinichette / Lush Life / Coltrane / Dakar / Traneing in / The Last Trane
-> John Coltrane, Paul Quinichette, the Red Garland Trio
-> 6 / 7
-> Jazz | 2012 | Believe Digital
->  | 
->  | 
-
+John Coltrane (1926 – 1967)
 01. Traneing in (Rudy van Gelder Remaster)
+
+Alonzo Levister
 02. Slow Dance (Rudy van Gelder Remaster)
+
+John Coltrane (1926 – 1967)
 03. Bass Blues (Rudy van Gelder Remaster)
+
+Ralph Freed & Friedrich Hollaender (1896 – 1976)
 04. You Leave Me Breathless (Rudy van Gelder Remaster)
+
+Irving Berlin (1888 – 1989)
 05. Soft Lights and Sweet Music (Rudy van Gelder Remaster)
 
   John Coltrane
