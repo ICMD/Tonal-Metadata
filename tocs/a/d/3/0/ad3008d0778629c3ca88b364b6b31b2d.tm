@@ -1,5 +1,5 @@
 > We Will Meet Again
-> Bill Evans, ビル・エヴァンス, ビル・エヴァンス
+> Bill Evans
 > 1 / 1
 > Jazz | 1979 | Warner Bros.
 > 632e9590712e5b682d2e29a3d137426f | 
@@ -24,4 +24,3 @@ Bill Evans (1929 – 1980)
 08. We Will Meet Again
 
   BILL EVANS
-  ビル・エヴァンス
