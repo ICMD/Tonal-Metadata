@@ -1,10 +1,3 @@
-> Halloween 77 (Live at Palladium, New York City, NY, 10: 31/1977)
-> Frank Zappa
-> 1 / 6
-> Indie Rock | 2017 | Frank Zappa Catalog
-> 5fdc9cdb656422d4b293e8672c299a27 | 
-> 1295997844 | 
-
 > Halloween 77 (October 31, 1977)
 > Frank Zappa
 > 1 / 6
