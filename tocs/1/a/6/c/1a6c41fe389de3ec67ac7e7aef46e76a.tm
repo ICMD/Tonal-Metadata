@@ -1,9 +1,9 @@
-> Before and after Science
+> Before and after Science: Ten Pictures
 > Brian Eno
 > 1 / 1
-> Electronica | 1977 | Polydor
-> 9400afe9f70ff83442bb95274167066d | 
->  | 
+> Electronica | 2004 | EMI Music
+> 2d919a6d74bc8d058e8479d0ebcc8d4d | 
+> 724418251 | B000TEPF7K, B00022LRXA, B013Q6YKUU, B01MRM3N6A, B072KGGMPQ, B00DBEFLRO
 
 01. No One Receiving
 02. Backwater
