@@ -1,6 +1,6 @@
 > Halloween 77
 > Frank Zappa
-> 1 / 6
+> 1 / 3
 > Indie Rock | 2017 | Frank Zappa Catalog
 > 824f44f249bb13d546d9dfa81f8fe070 | 
 > 1293486609 | 
