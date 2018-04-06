@@ -2,8 +2,8 @@
 > Dream Theater
 > 1 / 1
 > Metal | 2013 | Roadrunner
-> 1c86d491a283783122e31052505bab09 | 
->  | 
+> 1563ec2eca507450a0af939466a08d74 | 
+>  | B00F2LIV4E, B00DJ80VMM, B019GM5FXE
 
 > Greatest Hit
 > Dream Theater
