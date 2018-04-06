@@ -6,7 +6,7 @@
 > 1223679460, 1227032922 | B071Y9NSVL
 
 Anton Bruckner (1824 – 1896)
-Symphony No. 3 in D minor, WAB 103 (1888 / 89 Version)
+Symphony No. 3 in D minor, WAB 103 (1888/89 Version, Edition: Leopold Nowak)
 
   01.    I. Mehr langsam. Misterioso
   02.   II. Adagio, bewegt, quasi andante
