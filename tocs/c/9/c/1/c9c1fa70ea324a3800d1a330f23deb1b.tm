@@ -1,10 +1,11 @@
 > The Original Sin
 > Cowboys International
 > 1 / 1
-> Pop | 2015 | Virgin Catalog (V81)
-> 0b44753f4534936d9562eca331e7fe89 | 
->  | 
+> Pop | 1979 | UMC
+> 132cc49dd2e031eba110219052b9608f | 
+> 1024786528, 1040711744 | B015JZWEEK
 
+Ken Lockie
 01. Pointy Shoes
 02. Thrash
 03. Part of Steel
