@@ -1,9 +1,9 @@
 > Beat
 > King Crimson
 > 1 / 1
-> Rock | 1982 | EG
-> c7e59d2f287f1f050d8e8bdf8d4b7f05 | 
->  | 
+> Rock | 2016 | Discipline Global Mobile
+> 5f6b61fe3f16c12c53be3cda3f1ddc12 | 
+> 1090454400 | B00065MDT0, B01HD7P1CY
 
 01. Neal and Jack and Me
 02. Heartbeat
