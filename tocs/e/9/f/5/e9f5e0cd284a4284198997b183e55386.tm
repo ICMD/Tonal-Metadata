@@ -1,5 +1,5 @@
-> Live in Concert (Concert 1)
-> Miles Davis
+> Olympia - Mar. 20th, 1960
+> Miles Davis featuring John Coltrane
 > 1 / 1
 > Jazz | 2012 | LaserLight Digital
 > 767c09b9547d6de3128e7f0979fb9971 | 
