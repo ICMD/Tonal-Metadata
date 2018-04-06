@@ -20,7 +20,6 @@ Symphony No. 4 in F minor, Op. 36
   03.  III. Scherzo. Pizzicato ostinato – Allegro
   04.   IV. Finale (Allegro con fuoco)
 
-  Jewgenij Mrawinskij
   Leningrad Philharmonic Orchestra
   Yevgeny Mravinsky, Conductor
   Rec. 1960-09-14, 1960-09-15
