@@ -16,3 +16,4 @@
 
   Miles Davis
   John Coltrane
+  Rec. 1960-03-20 in Olympia, Paris, Live Recording
