@@ -1,4 +1,4 @@
-> Bruckner: Symphony No. 3 – Wagner: Tannhäuser Overture
+> Bruckner: Symphony No. 3; Wagner: Tannhäuser Overture
 > Andris Nelsons & Gewandhausorchester Leipzig
 > 1 / 1
 > Classical | 2017 | Deutsche Grammophon
