@@ -7,14 +7,14 @@
 
 > Greatest Hit
 > Dream Theater
-> 23 / 23
+> 23 / 23 BOXSET
 > Metal | 2011 | 
 >  | 
 >  | 
 
 > Greatest Hit
 > Dream Theater
-> 26 / 26
+> 26 / 26 BOXSET
 > Metal | 2011 | 
 >  | 
 >  | 
