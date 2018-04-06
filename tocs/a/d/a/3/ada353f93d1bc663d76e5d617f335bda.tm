@@ -1,10 +1,11 @@
 > Unknown Pleasures
 > Joy Division
 > 1 / 1
-> Indie Rock | 1979 | Factory
-> 45a8cce61544e0dd8ac7fff90c9f22c7 | 
->  | 
+> Indie Rock | 2007 | WM UK
+> 754da3289dae5cede790ee73a585669f | 
+> 544363171 | 
 
+Bernard Sumner, Ian Curtis, Peter Hook & Stephen Morris
 01. Disorder
 02. Day of the Lords
 03. Candidate
