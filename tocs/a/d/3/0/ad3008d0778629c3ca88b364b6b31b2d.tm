@@ -2,17 +2,26 @@
 > Bill Evans, ビル・エヴァンス, ビル・エヴァンス
 > 1 / 1
 > Jazz | 1979 | Warner Bros.
-> 06bce3588195b5d2bca976eeb00ad592 | 
->  | 
+> 632e9590712e5b682d2e29a3d137426f | 
+> 302109405 | B001PJ3UXY, B00C2WF79I, B00KNZBQX2, B06XXZNJPQ, B000002KL2, B01G47QEIO
 
-01. Comrade Conrad: コムラード・コンラッド
-02. Laurie: ローリー
-03. Bill’s Hit Tune: ビルズ・ヒット・チューン
-04. For All We Know (We May Never Meet Again): フォー・オール・ウィ・ノウ (ウィ・メイ・ネヴァー・ミート・アゲイン)
-05. Five: ファイヴ
-06. Only Child: オンリー・チャイルド
-07. Peri’s Scope: ペリズ・スコープ
-08. We Will Meet Again: ウィ・ウィル・ミート・アゲイン
+Bill Evans (1929 – 1980)
+01. Comrade Conrad
+
+COMPOSER NON-APPLICABLE
+02. Laurie
+
+Bill Evans (1929 – 1980)
+03. Bill’s Hit Tune
+
+J. Fred Coots & Sam M. Lewis
+04. For All We Know (We May Never Meet Again)
+
+Bill Evans (1929 – 1980)
+05. Five
+06. Only Child
+07. Peri’s Scope
+08. We Will Meet Again
 
   BILL EVANS
   ビル・エヴァンス
