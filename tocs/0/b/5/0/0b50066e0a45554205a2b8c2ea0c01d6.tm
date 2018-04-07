@@ -25,4 +25,4 @@ Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & CAN
 06. Peking O
 07. Bring Me Coffee or Tea
 
-  CAN
+  Can
