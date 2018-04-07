@@ -2,8 +2,8 @@
 > Charley Patton
 > 7 / 7
 > Blues | 2001 | Revenant
-> 969f7338595e640fe3394b7e708101da | 
 >  | 
+>  | B00005QD75
 
 01. The Howlin’ Wolf: Interviewed by Pete Welding
 
