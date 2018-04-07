@@ -9,7 +9,7 @@
 > Bill Evans Trio
 > 3 / 3 BOXSET
 > Jazz | 2003 | Concord Records
-> 9022c75c55d9d3c0523782587f344b02 | 
+> d5c56bb2adb60cdba8847f976a2d256c | 
 > 151215457 | B007CSETZU, B000AMJEKA, B00GG3OGJQ, B013GWVAQG
 
 Lou Carter, Herb Ellis (b. 1921) & Johnny Frigo (b. 1916)
