@@ -1,10 +1,11 @@
 > Crossroads
 > Tracy Chapman
 > 1 / 1
-> Country & Folk | 1989 | Elektra
-> ba5a457457d1259f5ecad24cce1a156a | 
->  | 
+> Country & Folk | 1989 | Elektra Records
+> 355fe51e5e423805bb58b4312e76a1f1 | 
+> 293102706 | B001IAR13U
 
+Tracy Chapman
 01. Crossroads
 02. Bridges
 03. Freedom Now
