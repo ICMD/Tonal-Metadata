@@ -1,4 +1,4 @@
-> Respighi: Il Tramonto – String Quartets
+> Respighi: Il Tramonto, String Quartets
 > Anne Sofie von Otter & Brodsky Quartet
 > 1 / 1
 > Classical | 2007 | Challenge Classics
@@ -6,7 +6,7 @@
 > 264305673 | B000W16DF8, B000059LW7, B01H7YDZWG
 
 Ottorino Respighi (1879 – 1936)
-Quartetto in Re Maggiore
+String Quartet in D Minor
 
   01.    I. Allegro Moderato
   02.   II. Tema con Variazioni
