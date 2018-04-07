@@ -41,6 +41,6 @@ COMPOSER NON-APPLICABLE
 
   Rec. Live Recording
 
-12. Buckaroo: Love’s Gonna Live Here (Medley)
+12. Buckaroo / Love’s Gonna Live Here (Medley)
 
   Emmylou Harris
