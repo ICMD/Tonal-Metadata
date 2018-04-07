@@ -1,9 +1,9 @@
 > The Complete Decca Recordings
 > Billie Holiday
 > 1 / 2
-> Jazz | 1991 | GRP
->  | 
->  | 
+> Jazz | 1991 | Verve Records
+> 9546f5c273291938e78322e57ac31b3b | 
+> 1082039718, 1083740145 | B01BOOLC4I, B06WLNMH4B, B000003N36
 
 Roger J. “Ram” Ramirez, Jimmy Sherman (1908 – 1975) & James Davis
 01. Lover Man (Single Version)
