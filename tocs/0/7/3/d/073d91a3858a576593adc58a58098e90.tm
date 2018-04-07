@@ -29,4 +29,4 @@ Jerome Kern (1885 – 1945) & Leo Robin
 Bill Evans (1929 – 1980)
 08. Very Early
 
-  Bill Evans, Conductor
+  Bill Evans Trio
