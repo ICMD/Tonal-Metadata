@@ -1,15 +1,8 @@
-> The Complete Village Vanguard Recordings, 1961, Vol. 2
-> Bill Evans Trio
-> 1 / 1
-> Jazz | 2012 | ICENI
-> da35c1a1979f456845bd3d11e7212b97 | 
-> 515139715, 533999418, 585841108, 652820224, 659950157, 793610884 | B00UDENF1E
-
 > The Complete Village Vanguard Recordings, 1961
 > Bill Evans Trio
 > 2 / 3 BOXSET
 > Jazz | 2003 | Concord Records
-> 9022c75c55d9d3c0523782587f344b02 | 
+> d5c56bb2adb60cdba8847f976a2d256c | 
 > 151215457 | B007CSETZU, B000AMJEKA, B00GG3OGJQ, B013GWVAQG
 
 Scott LaFaro (1936 – 1961)
