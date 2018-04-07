@@ -5,13 +5,6 @@
 > c14ca00784ad88a7bfa4d7a05ee90051 | 
 >  | B00ZB7GUQA
 
-> ディス・イズ・オール・ユアーズ
-> アルト・ジェイ
-> 1 / 2
-> Pop | 2014 | 株式会社ウルトラ・ヴァイブ
-> c14ca00784ad88a7bfa4d7a05ee90051 | 
->  | 
-
 01. Intro
 02. Arrival in Nara
 03. Nara
