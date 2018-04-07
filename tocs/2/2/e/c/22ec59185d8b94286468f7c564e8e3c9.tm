@@ -10,13 +10,13 @@ Roger J. “Ram” Ramirez, Jimmy Sherman (1908 – 1975) & James Davis
 
 Sidney Keith Bob Russell & Tutti Camarata (1913 – 2005)
 02. No More (Single Version)
-03. No More [Alternate]
+03. No More (Alternate)
 
 Doris Fisher & Allan Roberts
 04. That Ole Devil Called Love (Single Version)
 
 Billie Holiday (1915 – 1959), Arthur Herzog & Jr.
-05. Don’t Explain [First Version]
+05. Don’t Explain (First Version)
 
 Leonard Bernstein (1918 – 1990)
 06. Big Stuff (Feat. Toots Camarata & His Orchestra) [Alt. Take November 1944]
@@ -25,7 +25,7 @@ Billie Holiday (1915 – 1959), Arthur Herzog & Jr.
 07. Don’t Explain (Single Version)
 
 Leonard Bernstein (1918 – 1990)
-08. Big Stuff [Second Version]
+08. Big Stuff (Second Version)
 
 Irving Graham & Bix Reichner
 09. You Better Go Now (Single Version)
@@ -37,7 +37,7 @@ Ervin Drake, Dan Fisher & Irene Higginbotham
 11. Good Morning, Heartache
 
 Sammy Gallop, Dan Fisher & Irene Higginbotham
-12. No Good Man [Previously Unissued Alternate]
+12. No Good Man (Previously Unissued Alternate)
 13. No Good Man (Single Version)
 
 Leonard Bernstein (1918 – 1990)
@@ -47,7 +47,7 @@ Leonard Bernstein (1918 – 1990)
 
 Morton Krouse
 17. Baby, I Don't Cry Over You (1991 Box Set Version)
-18. Baby, I Don't Cry Over You (feat. Billy Kyle and His Trio) [Single Version]
+18. Baby, I Don't Cry Over You (feat. Billy Kyle and His Trio) (Single Version)
 
 Douglas Cross, George Cory, Cory Cross & George Douglas
 19. I’ll Look around (Edit)
@@ -60,7 +60,7 @@ Louis Alter & Eddie DeLange
 
 Richard A. Whiting (1891 – 1938), Harry Akst & Gus Kahn
 22. Guilty (Alt. Version)
-23. Guilty [Previously Unissued Breakdown and Chatter]
+23. Guilty (Previously Unissued Breakdown and Chatter)
 24. Guilty (Feat. John Simmons & His Orchestra)
 
 Douglass Cross & George C. Cory Jr.
