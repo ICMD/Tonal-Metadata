@@ -1,9 +1,9 @@
 > Organism
 > Jimi Tenor
 > 1 / 1
-> Electronica | 1999 | Warp
+> Electronica | 1999 | Warp Records
 >  | 
->  | 
+> 277405736 | B001E43HQA, B01G7NOXBK, B00000IAG3, B00000IBBQ
 
 01. Total Devastation
 02. Serious Love
