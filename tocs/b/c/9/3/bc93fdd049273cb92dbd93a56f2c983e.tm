@@ -1,5 +1,5 @@
 > Tchaikovsky: Symphony No. 5 in E minor, Op. 64 (Stereo version)
-> Saint Petersburg Philharmonic Orchestra & Evgeny Mravinsky
+> Evgeny Mravinsky & Leningrad Philharmonic Orchestra
 > 1 / 1
 > Classical | 1961 | BNF Collection
 > a0dae2d9042fcbfd2382c6b035fdf09f | 
