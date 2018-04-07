@@ -1,10 +1,11 @@
 > Far from Over
 > Vijay Iyer Sextet
 > 1 / 1
-> Jazz | 2017 | ECM
-> 4c22747c2ade1c17f0810ccb44c00c71 | 
->  | 
+> Jazz | 2017 | ECM Records
+> 54e8fa2094090e9c550f1362e347b893 | 
+> 1258925090, 1262602217 | B0745273RT, B072NFJV3K
 
+Vijay Iyer
 01. Poles
 02. Far from Over
 03. Nope
