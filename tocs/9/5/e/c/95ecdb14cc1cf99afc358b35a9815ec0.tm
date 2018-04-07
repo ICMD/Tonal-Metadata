@@ -2,7 +2,7 @@
 > The Temptations
 > 1 / 2
 > R&B | 1986 | Motown
->  | 
+> 2c59aa6da963cea55d51250d6b2d9f55 | 
 >  | B00G2I91NG, B00000DWSA
 
 01. The Way You Do the Things You Do
