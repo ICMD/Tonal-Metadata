@@ -1,9 +1,9 @@
 > Intervision
 > Jimi Tenor
 > 1 / 1
-> Electronica | 1996 | Warp Records
+> Electronica | 1997 | Warp Records
 >  | 
->  | 
+> 277516500 | B001E43GBQ, B0000076MJ, B01GUGLGT6
 
 01. Outta Space
 02. Downtown
