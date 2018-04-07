@@ -19,6 +19,6 @@
 12. Summertime: Part I (1971)
 13. Tracings (1974)
 14. The Long Line (1973 – 1974)
-15. Swirls (1974 – 1975
+15. Swirls (1974 – 1975)
 
   Bill Dixon
