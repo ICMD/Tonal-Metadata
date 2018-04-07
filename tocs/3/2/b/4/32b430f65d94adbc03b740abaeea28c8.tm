@@ -2,8 +2,8 @@
 > Ty Segall Band
 > 1 / 1
 > Punk | 2012 | In The Red
-> d5bd934ccf687d8512a6d9924bf472da | 
->  | 
+> c28911caffb4b8625694f050c064bde7 | 
+> 528041795 | B0084ALYUI, B0084ALYDU, B01K8OHB40
 
 01. Death
 02. I Bought My Eyes
