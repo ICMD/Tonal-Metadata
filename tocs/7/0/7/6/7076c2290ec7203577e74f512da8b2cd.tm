@@ -1,10 +1,3 @@
-> The Complete Village Vanguard Recordings, 1961, Vol. 3
-> Bill Evans Trio
-> 1 / 1
-> Jazz | 2012 | ICENI
-> da35c1a1979f456845bd3d11e7212b97 | 
-> 515804382, 530851290, 585820397, 633476963, 659997915, 660028687, 795557082 | B00UDENF1E
-
 > The Complete Village Vanguard Recordings, 1961
 > Bill Evans Trio
 > 3 / 3 BOXSET
