@@ -12,7 +12,7 @@
 > f1651330db86438e6a6640cb3b4d7410 | 
 > 709211421, 826532086 | B00IL4KBTW, B005R2S04E, B014I7EYYI, B007WVZ58W
 
-Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & CAN
+Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & Can
 01. Paperhouse
 02. Mushroom
 03. Oh Yeah
@@ -20,7 +20,7 @@ Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & CAN
 Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit & Michael Karoli
 04. Halleluhwah
 
-Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & CAN
+Damo Suzuki, Holger Czukay, Irmin Schmidt, Jaki Liebezeit, Michael Karoli & Can
 05. Aumgn
 06. Peking O
 07. Bring Me Coffee or Tea
