@@ -2,8 +2,8 @@
 > Charley Patton
 > 6 / 7
 > Blues | 2001 | Yazoo
-> 8a68f61db624b642e4b30e59ab87725e | 
 >  | 
+>  | B00005QD75
 
 01. Booze & Blues
 
