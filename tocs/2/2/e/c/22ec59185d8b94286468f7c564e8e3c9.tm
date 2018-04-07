@@ -46,10 +46,8 @@ Leonard Bernstein (1918 – 1990)
 16. Big Stuff (Prologue) [From “Fancy Free”]
 
 Morton Krouse
-Baby
-
-  17.    I. Don’t Cry Over You (1991 Box Set Version)
-  18.    I. Don’t Cry Over You (feat. Billy Kyle and His Trio) [Single Version]
+17. Baby, I Don't Cry Over You (1991 Box Set Version)
+18. Baby, I Don't Cry Over You (feat. Billy Kyle and His Trio) [Single Version]
 
 Douglas Cross, George Cory, Cory Cross & George Douglas
 19. I’ll Look around (Edit)
