@@ -1,24 +1,17 @@
-> チャイコフスキー 交響曲第5番ホ短調 (プラチナCD)
-> エフゲニー・ムラヴィンスキー指揮 レニングラードPO
+> Tchaikovsky: Symphony No. 5 in E minor, Op. 64 (Stereo version)
+> Saint Petersburg Philharmonic Orchestra & Evgeny Mravinsky
 > 1 / 1
-> Classical | 1960 | ユニバーサル　ミュージック
->  | 
->  | 
-
-> Tchaikovsky: Symphonys Nos. 4 – 6
-> Evgeny Mravinsky & Leningrad Philharmonic Orchestra
-> 2 / 3
-> Classical | 1960 | Deutsche Grammophon
->  | 
->  | 
+> Classical | 1961 | BNF Collection
+> a0dae2d9042fcbfd2382c6b035fdf09f | 
+> 776246537 | B00H9EURFI
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-チャイコフスキー 交響曲 No. 5 ホ短調, Op. 64 (1888)
+Symphony No. 5 in E minor, Op. 64
 
-  01.    I. Andante – Allegro con anima
-  02.   II. Andante cantabile, con alcuna licenza
-  03.  III. Valse. Allegro moderato
-  04.   IV. Finale. Andante maestoso – Allegro vivace
+  01.    I. Andante, Allegro con Anima
+  02.   II. Andante Cantabile, con Alcuna Licenza
+  03.  III. Valse: Allegro Moderato
+  04.   IV. Finale: Andante Maestoso, Allegro Vivo
 
   Leningrad Philharmonic Orchestra
   Evgeny Mravinsky, Conductor
