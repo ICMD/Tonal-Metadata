@@ -3,7 +3,7 @@
 > 1 / 2
 > R&B | 1986 | Motown
 >  | 
->  | B00G2I91NG, B00000DWSA
+>  | 
 
 01. The Way You Do the Things You Do
 02. I’ll Be in Trouble
