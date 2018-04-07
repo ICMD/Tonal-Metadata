@@ -15,13 +15,13 @@ Sidney Keith Bob Russell & Tutti Camarata (1913 – 2005)
 Doris Fisher & Allan Roberts
 04. That Ole Devil Called Love (Single Version)
 
-Billie Holiday (1915 – 1959), Arthur Herzog & Jr.
+Billie Holiday (1915 – 1959) & Arthur Herzog Jr.
 05. Don’t Explain (First Version)
 
 Leonard Bernstein (1918 – 1990)
 06. Big Stuff (Feat. Toots Camarata & His Orchestra) [Alt. Take November 1944]
 
-Billie Holiday (1915 – 1959), Arthur Herzog & Jr.
+Billie Holiday (1915 – 1959) & Arthur Herzog Jr.
 07. Don’t Explain (Single Version)
 
 Leonard Bernstein (1918 – 1990)
