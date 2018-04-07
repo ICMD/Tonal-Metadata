@@ -1,23 +1,9 @@
-> Tchaikovsky: Symphony No. 6
+> Tchaikovsky: Symphony No. 6 “Pathétique”
 > Evgeny Mravinsky & Leningrad Philharmonic Orchestra
 > 1 / 1
-> Classical | 1960 | Deutsche Grammophon
-> ce7507590dfb39006389cf433eac8ade | 
->  | 
-
-> チャイコフスキー 交響曲Nos. 4 – 6 (ムラヴィンスキー DG, 3CD)
-> ムラヴィンスキー/レニングラードPo
-> 3 / 3
-> Classical | 1960 | 
->  | 
->  | 
-
-> チャイコフスキー 交響曲No. 6 (ムラヴィンスキー DG)
-> ムラヴィンスキー/レニングラードPo
-> 35 / 56
-> Classical | 1960 | Deutsche Grammophon (DG)
-> 0c18239a9957dd6a983a3750f4380d46 | 
->  | 
+> Classical | 2010 | Deutsche Grammophon
+> 5b847f1f7abd0c00351c4f0f896a796d | 
+> 398005739, 775423141 | B0033NJA66
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
 Symphony No. 6 in B minor, Op. 74 “Pathétique”
