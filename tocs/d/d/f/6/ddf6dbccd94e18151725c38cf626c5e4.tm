@@ -1,18 +1,18 @@
 > Lifelines
-> A-Ha
+> a-ha
 > 1 / 1
-> Alternative | 2002 | WEA
-> dfa6fbc2e12280633a59d8f227f49a61 | 
->  | 
+> Alternative | 2002 | WM Germany
+> fc62c336f076b0acb23bff3c994f207e | 
+> 40567074 | B000063DMG
 
 01. Lifelines
 02. You Wanted More
-03. Forever Not Yours
+03. Forever Not Yours (NY Mix II)
 04. There’s a Reason for It
-05. Time & Again
+05. Time and Again
 06. Did Anyone Approach You?
-07. Afternoon High
-08. Oranges on Appletrees
+07. Afternoon High (Demo Version)
+08. Oranges on Appletrees (London Mix)
 09. A Little Bit
 10. Less than Pure
 11. Turn the Lights Down
