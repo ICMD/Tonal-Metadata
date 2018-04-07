@@ -8,9 +8,9 @@
 > The Classic Albums Collection
 > Willie Nelson
 > 1 / 11 BOXSET
-> Country | 1975 | Columbia
+> Country & Folk | 1975 | Columbia
 > 022b01727d503d05e190b621fcb4c597 | 
-> 881234060 | B00KLPHZ8Y
+> 881234060 | B00138H560, B00KLPHZ8Y, B0017V8PKS, B01K8O4OSQ, B00000298K
 
 Willie Nelson
 01. Time of the Preacher
