@@ -6,40 +6,41 @@
 > 1055455617 | B017JEJGSQ, B014QHQRW2, B01K8KV8WK
 
 Keith Richards & Mick Jagger
-01. (I Can’t Get No) Satisfaction (Live at the Olympia Theatre, Paris, May 7, 1968)
+01. (I Can’t Get No) Satisfaction
 
 Aretha Franklin & Ted White
-02. Don’t Let Me Lose This Dream (Live at the Olympia Theatre, Paris, May 7, 1968)
+02. Don’t Let Me Lose This Dream
 
 Curtis Ousley & Luther Dixon
-03. Soul Seranade (Live at the Olympia Theatre, Paris, May 7, 1968)
+03. Soul Seranade
 
 Paul Buskirk, Walt Breeland & Willie Nelson
-04. Night Life (Live at the Olympia Theatre, Paris, May 7, 1968)
+04. Night Life
 
 Ronnie Shannon
-05. Baby: I. Love You (Live at the Olympia Theatre, Paris, May 7, 1968)
+05. Baby: I. Love You
 
 Ernie Brigatti & Felix Cavaliere
-06. Groovin’ (Live at the Olympia Theatre, Paris, May 7, 1968)
+06. Groovin’
 
 Jerry Wexler, Carole King & Gerry Goffin
-07. (You Make Me Feel Like) a Natural Woman (Live at the Olympia Theatre, Paris, May 7, 1968)
+07. (You Make Me Feel Like) a Natural Woman
 
 Ray Charles
-08. Come Back Baby (Live at the Olympia Theatre, Paris, May 7, 1968)
+08. Come Back Baby
 
 Aretha Franklin & Ted White
-09. Dr. Feelgood (Love is Serious Business) [Live at the Olympia Theatre, Paris, May 7, 1968]
-10. Since You've Been Gone (Sweet Sweet Baby) [Live at the Olympia Theatre, Paris, May 7, 1968]
+09. Dr. Feelgood (Love is Serious Business)
+10. Since You've Been Gone (Sweet Sweet Baby)
 
 Ronnie Shannon
-11. I Never Loved a Man (The Way I Love You) [Live at the Olympia Theatre, Paris, May 7, 1968]
+11. I Never Loved a Man (The Way I Love You)
 
 Don Covay
-12. Chain of Fools (Live at the Olympia Theatre, Paris, May 7, 1968)
+12. Chain of Fools
 
 Otis Redding
-13. Respect (Live at the Olympia Theatre, Paris, May 7, 1968)
+13. Respect
 
   Aretha Franklin
+  Rec. 1968-05-07 in Olympia Theatre, Paris, Live Recording
