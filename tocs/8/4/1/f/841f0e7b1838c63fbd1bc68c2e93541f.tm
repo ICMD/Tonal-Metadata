@@ -1,8 +1,8 @@
-> Screamin’ and Hollerin’ the Blues: The Worlds of Charley Patton
+> Screamin’ & Hollerin’ the Blues: The Worlds of Charley Patton
 > Charley Patton
 > 7 / 7
-> Blues | 2001 | Revenant
->  | 
+> Blues | 2001 | Yazoo
+> 8a68f61db624b642e4b30e59ab87725e | 
 >  | B00005QD75
 
 01. The Howlin’ Wolf: Interviewed by Pete Welding
