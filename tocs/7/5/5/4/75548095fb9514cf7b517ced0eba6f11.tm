@@ -21,8 +21,8 @@
 
   Delta Big Four
 
-11. Paramount Test 1 [4: 19/30 Headlines]
-12. Paramount Test 2 [4: 12/30 Headlines]
+11. Paramount Test 1 [4/19/30 Headlines]
+12. Paramount Test 2 [4/12/30 Headlines]
 
   H.C. Speir
 
