@@ -6,11 +6,7 @@
 >  | 
 
 01. When Winter Comes (1976)
-
-Anton Webern (1883 – 1945)
-02. Work Study (1973 – 1974)
-
-COMPOSER NON-APPLICABLE
+02. Webern Work Study (1973 – 1974)
 03. Tracings II (1974 – 1975)
 04. The Long Walk (1974 – 1975)
 05. Momenti (1974 – 1975)
