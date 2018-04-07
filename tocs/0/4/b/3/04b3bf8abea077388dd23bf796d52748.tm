@@ -1,13 +1,13 @@
-> The Stuff That Dreams Are Made Of
+> The Stuff That Dreams Are Made Of: Super Rarities
 > Various Artists
 > 2 / 2
-> Country & Folk | 1928 | Yazoo
-> 13316008af40c64d7efa53c05913e420 | 
->  | 
+> Country & Folk | 2006 | Yazoo
+> b681ed2ac931f3c399039b8ae3c4071b | 
+> 797871036 | B00HVQARNG, B000E6UK9Q, B019GLP1NO
 
 01. Sweet Mama
 
-  James “Yank” Rachell
+  Yank Rachell
 
 02. We All Love Mother
 
@@ -19,7 +19,7 @@
 
 04. Bull Dog Sal
 
-  Ashley & Foster
+  Ashley and Foster
 
 05. Down in Texas Blues
 
@@ -67,7 +67,7 @@
 
 16. My Mind is to Marry
 
-  Grayson&Whitter
+  Grayson & Whitter
 
 17. Green River
 
