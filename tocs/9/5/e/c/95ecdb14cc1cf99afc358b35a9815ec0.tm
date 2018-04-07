@@ -2,8 +2,8 @@
 > The Temptations
 > 1 / 2
 > R&B | 1986 | Motown
-> 6a47cfa3eaee5b66eb97da0e9ec3f205 | 
 >  | 
+>  | B00G2I91NG, B00000DWSA
 
 01. The Way You Do the Things You Do
 02. I’ll Be in Trouble
