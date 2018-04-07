@@ -7,7 +7,7 @@
 
 > The Studio Albums 1969-1987
 > Yes
-> 4 / 12
+> 4 / 12 BOXSET
 > Rock | 2013 | Rhino
 > 0aff1624991d433acb63d9c4f5721726 | 
 >  | B01K8KRD60
