@@ -19,7 +19,7 @@ Billie Holiday (1915 – 1959) & Arthur Herzog Jr.
 05. Don’t Explain (First Version)
 
 Leonard Bernstein (1918 – 1990)
-06. Big Stuff (Feat. Toots Camarata & His Orchestra) [Alt. Take November 1944]
+06. Big Stuff (Feat. Toots Camarata & His Orchestra) (Alt. Take November 1944)
 
 Billie Holiday (1915 – 1959) & Arthur Herzog Jr.
 07. Don’t Explain (Single Version)
@@ -43,7 +43,7 @@ Sammy Gallop, Dan Fisher & Irene Higginbotham
 Leonard Bernstein (1918 – 1990)
 14. Big Stuff (False Start with Chatter)
 15. Big Stuff (Alt. Take)
-16. Big Stuff (Prologue) [From “Fancy Free”]
+16. Big Stuff (Prologue) (From “Fancy Free”)
 
 Morton Krouse
 17. Baby, I Don't Cry Over You (1991 Box Set Version)
@@ -56,7 +56,7 @@ George Douglas, Douglas Cross, George Cory & Cory Cross
 20. I’ll Look around (Single Version)
 
 Louis Alter & Eddie DeLange
-21. The Blues Are Brewin’ (Feat. John Simmons & His Orchestra) [Single Version]
+21. The Blues Are Brewin’ (Feat. John Simmons & His Orchestra) (Single Version)
 
 Richard A. Whiting (1891 – 1938), Harry Akst & Gus Kahn
 22. Guilty (Alt. Version)
