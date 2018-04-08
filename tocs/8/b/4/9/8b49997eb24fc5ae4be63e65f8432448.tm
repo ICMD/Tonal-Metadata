@@ -5,7 +5,7 @@
 > 4a4e06cf58514f11e12b513c1dfcde91 | 
 > 721214781, 874526191 | B01I5BU9YM, B01K8O1FBA
 
-Thelonious Monk (1917 – 1982), Cootie Williams (1911 – 1985) & Bernard Hanighen
+Thelonious Monk (1917 – 1982), Cootie Williams (1911 – 1985) & Bernard Hanighen (1908 – 1976)
 01. 'Round Midnight
 
 Thelonious Monk (1917 – 1982)
