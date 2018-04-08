@@ -1,5 +1,5 @@
-> Eternal Beauty (Feat. Michael Wollny, Lars Danielsson, Johan Norberg & Rasmus Khilberg)
-> Nils Landgren Feat. Michael Wollny, Lars Danielsson, Johan Norberg & Rasmus Kihlberg
+> Eternal Beauty
+> Nils Landgren, feat. Michael Wollny, Lars Danielsson, Johan Norberg & Rasmus Kihlberg
 > 1 / 1
 > Jazz | 2014 | ACT
 > da4ff31be7787e8af2d45eda5ed74ac3 | 
