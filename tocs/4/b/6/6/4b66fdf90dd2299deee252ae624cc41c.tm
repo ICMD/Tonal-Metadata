@@ -2,7 +2,7 @@
 > Talking Heads
 > 1 / 1
 > Alternative | 1980 | Warner Music
->  | 
+> 3c00f7081beae497c8f09ac8c93ffc7d | 
 >  | 
 
 01. Born under Punches (The Heat Goes On)
