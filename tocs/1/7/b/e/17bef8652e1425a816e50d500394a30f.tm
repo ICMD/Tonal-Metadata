@@ -5,7 +5,7 @@
 > f00d963128c40606a5c0dd65bfa6409f | 
 > 430082320 | B004UXXUV4, B0012GN2T2, B01H5JT0JK, B01MG6NRFY, B0000AK0DH
 
-Freddie Hubbard (b. 1938)
+Freddie Hubbard (1938 – 2008)
 01. Gibraltar
 
 Traditional
