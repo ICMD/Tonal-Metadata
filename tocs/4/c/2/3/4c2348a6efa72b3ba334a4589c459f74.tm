@@ -1,24 +1,11 @@
 > Dangerous Woman
 > Ariana Grande
 > 1 / 1
-> Pop | 2016 | Republic Records
-> 9b52ce9c13fa0fdc2394584824bfe128 | 
->  | 
+> Pop | 2016 | Universal Republic Records
+> 5de0ad9881a347d136e79267cc2fbb49 | 
+>  | B01KB17D5C, B01G0LAW6E, B01KASV2ZI, B01G1XVXWS, B0764LK3ZL
 
-> Dangerous Woman
-> Ariana Grande
-> 3 / 3
-> Pop | 2016 | 
-> 9b52ce9c13fa0fdc2394584824bfe128 | 
->  | 
-
-> Dangerous Woman
-> Ariana Grande
-> 4 / 4
-> Pop | 2016 | 
-> 9b52ce9c13fa0fdc2394584824bfe128 | 
->  | 
-
+Ariana Grande
 01. Moonlight
 02. Dangerous Woman
 03. Be Alright
@@ -26,30 +13,36 @@
 
   Ariana Grande
 
+Ariana Grande & Nicki Minaj
 05. Side to Side
 
   Ariana Grande
   Nicki Minaj
 
+Ariana Grande & Lil Wayne
 06. Let Me Love You
 
   Ariana Grande
   Lil Wayne
 
+Ariana Grande
 07. Greedy
 
   Ariana Grande
 
+Ariana Grande & Macy Gray
 08. Leave Me Lonely
 
   Ariana Grande
   Macy Gray
 
+Ariana Grande & Future
 09. Everyday
 
   Ariana Grande
   Future
 
+Ariana Grande
 10. Sometimes
 11. I Don’t Care
 12. Bad Decisions
