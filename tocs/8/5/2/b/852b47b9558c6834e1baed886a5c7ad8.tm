@@ -2,8 +2,8 @@
 > Pierre Bastien
 > 1 / 1
 > Classical | 2008 | Western Vinyl
-> 3c804f46be11fae754c08ef3b422e2a5 | 
->  | 
+> 197a0eeb849db9d3f64489c7a6446813 | 
+> 376676872 | B003TWB2WQ, B001FQGVTC, B01G7OCJA6
 
 01. The American of the Highway
 02. Visions of Shanghai
