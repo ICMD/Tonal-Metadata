@@ -1,5 +1,5 @@
 > Evening Conversations
-> David Fung & __
+> David Fung
 > 1 / 1
 > Classical | 2014 | Yarlung Records
 > da6a67607f0b0d5e12870c537d5b1773 | 
