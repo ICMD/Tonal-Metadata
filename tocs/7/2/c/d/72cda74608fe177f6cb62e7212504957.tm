@@ -2,12 +2,12 @@
 > Weather Report
 > 1 / 1
 > Jazz | 1982 | Columbia
-> d32787bff5a6846d3c5ffda404b2f659 | 
+> d7ffbcb9f6905b1f63fe2a52d64f6203 | 
 >  | 
 
 > Original Album Classics
 > Weather Report
-> 5 / 5
+> 5 / 5 BOXSET
 > Jazz | 2012 | Columbia/Legacy
 > d32787bff5a6846d3c5ffda404b2f659 | 
 >  | 
