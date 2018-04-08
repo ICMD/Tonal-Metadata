@@ -1,12 +1,13 @@
 > Director’s Cut
 > Kate Bush
 > 1 / 1
-> Rock | 2011 | Fish People
-> 55d93b2f7e39d843aef235066a758b0b | 
->  | 
+> Rock | 2011 | Noble & Brite
+> 42e0e5f30f0c46d05b9abbc2f67530c0 | 
+> 1177796238 | B0050ZPU3C, B004S6RIDY, B01K8KJHJ6, B0050ZPU32, B019GLUSBO, B004S6RIF2
 
+Kate Bush
 01. Flower of the Mountain
-02. Song of Soloman
+02. The Song of Solomon
 03. Lily
 04. Deeper Understanding
 05. The Red Shoes
