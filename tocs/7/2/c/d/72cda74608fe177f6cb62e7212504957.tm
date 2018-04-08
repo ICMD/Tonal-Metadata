@@ -14,7 +14,7 @@
 
 01. Volcano for Hire
 02. Current Affairs
-03. N.Y.C. (41st Parallel/The Dance/Crazy About Jazz)
+03. N.Y.C. (41st Parallel / The Dance / Crazy About Jazz)
 04. Dara Factor One
 05. When It Was Now
 06. Speechless
