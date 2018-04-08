@@ -1,8 +1,8 @@
-> Odyssey, Solo Works
+> Odyssey: Solo Works
 > Bill Dixon
-> 2 / 5
+> 2 / 6
 > Jazz | 2001 | 
->  | 
+> dfbbf2c1a95a7706a2470cf5930ccdd2 | 
 >  | 
 
 01. Requiem for Booker Little
