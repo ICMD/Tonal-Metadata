@@ -1,35 +1,38 @@
-> Allegri: Miserere, Missa Vidi Turbam Magnam, Motets
-> A Sei Voci
+> Allegri: Miserere, messe, motets
+> Bernard Fabre-Garrus & A Sei Voci
 > 1 / 1
-> Classical | 2005 | Naive
-> 719840ba5dc09b0bbf43ba7504cffa40 | 
->  | 
+> Classical | 1994 | Auvidis Astrée
+> 30a12a2874cbd1116cca87285b6d78ba | 
+> 1199884366 | B01NAY7MR9, B000025UA0
 
 Gregorio Allegri (1582 – 1652)
-01. Miserere
+01. Miserere À Neuf Voix (Version Avec Ornementations Baroques)
 
-Anonymous
-02. Statuit Ei Dominum
+Messe Vidi Turbam Magnam
 
-Gregorio Allegri (1582 – 1652)
-Missa Vidi Turbam Magnam
+  02. No. 1: Introït. Stratuit ei dominum
+  03. No. 2: “Kyrie”
+  04. No. 3: “Gloria”
+  05. No. 4: Graduel. Exaltent eum
+  06. No. 5: “credo”
+  07. No. 6: “Sanctus”
+  08. No. 7: “Agnus dei”
 
-  03. Kyrie
-  04. Gloria
+  A Sei Voci, Vocal
+  Bernard Fabre-Garrus, Conductor
 
-Anonymous
-05. Exaltent Eum
+Motets
 
-Gregorio Allegri (1582 – 1652)
-Missa Vidi Turbam Magnam
+  09. De ore prudentis
+  10. Repleti sunt omnes
+  11. Cantate domino
 
-  06. Credo
-  07. Sanctus
-  08. Agnus Dei
+  A Sei Voci, Vocal
+  Dominique Ferran, Organ
+  Bernard Fabre-Garrus, Conductor
 
-09. De Ore Prudentis
-10. Repleti Sunt Omnes
-11. Cantate Domino
-12. Miserere
+12. Miserere À Neuf Voix
 
-  A Sei Voci
+  A Sei Voci, Vocal
+  Bernard Fabre-Garrus, Conductor
+  Rec. 1993-11
