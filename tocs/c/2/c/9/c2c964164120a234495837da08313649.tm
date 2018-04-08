@@ -1,18 +1,18 @@
 > Inspiration
-> Sheku Kanneh-Mason & ~
+> Sheku Kanneh-Mason
 > 1 / 1
 > Classical | 2018 | Decca
 > b2044ee10217527e66a657078f6d26b5 | 
 >  | B0777V7GRD, B076Q92MDQ
 
-Hadar Halevy
+Yosef Hadar (1926 – 2006)
 01. Evening of Roses
 
   CBSO Cellos
   Sheku Kanneh-Mason
   Oliver James
 
-Saint-Saën
+Camille Saint-Saëns (1835 – 1921)
 02. Le Carnaval Des Animaux, R. 125: The Swan
 
   CBSO Cellos
