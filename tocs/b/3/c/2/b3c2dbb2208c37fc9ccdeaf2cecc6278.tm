@@ -20,7 +20,7 @@ Concerto for String Orchestra
   06.   II. Andante
   07.  III. Vivo
 
-Terje Bjørklund
+Terje Bjørklund (b. 1945)
 08. Carmina
 
   TrondheimSolistene
