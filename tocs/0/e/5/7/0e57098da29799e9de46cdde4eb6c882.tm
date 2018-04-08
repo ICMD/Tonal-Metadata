@@ -1,21 +1,64 @@
-> American in Paris
-> 久石譲
+> パリのアメリカ人
+> 久石 譲 & 新日本フィル ワールド ドリーム オーケストラ
 > 1 / 1
-> Traditional | 2005 | UNIVERSAL MUSIC
+> Traditional | 2005 | Island
 > 9b8a9422c168cd6b802b0320cee98c57 | 
->  | 
+> 104643337 | B000BDJ552
 
-01. American in Paris
-02. Un Homme et Une Femme
-03. You’d Be so Nice to Come Home To
-04. Les Demoiselles de Rochefort
+George Gershwin
+01. パリのアメリカ人
+
+フランシス・レイ, ピエール・バロウ & Francis Lai
+02. 男と女
+
+  久石 譲
+  新日本フィル ワールド ドリーム オーケストラ
+
+コール・ポーター & Cole Porter
+03. ユード・ビー・ソー・ナイス・トゥ・カム・ホーム・トゥ
+
+  久石 譲
+  Lady Kim
+  新日本フィル ワールド ドリーム オーケストラ
+
+ジャック・ドゥミ, ミシェル・ルグラン, Raymond Louis & Michel Legrand
+04. ロシュフォールの恋人たち
+
+久石 譲 & Joe Hisaishi
 05. Le Petit Poucet
-06. Night and Day
-07. Begin the Beguine
-08. Last Tango in Paris
-09. So in Love
-10. Plein Soleil
-11. Les Parapluies de Cherbourg
-12. Treize Jours en Frence
 
-  久石譲
+  久石 譲
+  新日本フィル ワールド ドリーム オーケストラ
+
+コール・ポーター & Cole Porter
+06. 夜も昼も
+07. ビギン・ザ・ビギン
+
+  久石 譲
+  Lady Kim
+  新日本フィル ワールド ドリーム オーケストラ
+
+新日本フィル ワールド ドリーム オーケストラ, ガトー・バルビエリ & Gato Barbieri
+08. ラスト・タンゴ・イン・パリ
+
+  久石 譲
+  新日本フィル ワールド ドリーム オーケストラ
+
+コール・ポーター & Cole Porter
+09. ソー・イン・ラヴ
+
+  久石 譲
+  Lady Kim
+  新日本フィル ワールド ドリーム オーケストラ
+
+Max Francois, ニーノ・ロータ & Nino Rota
+10. 太陽がいっぱい
+
+ジャック・ドゥミ, ミシェル・ルグラン, Raymond Louis & Michel Legrand
+11. シェルブールの雨傘
+
+フランシス・レイ, ピエール・バロウ & Francis Lai
+12. 白い恋人たち
+
+  久石 譲
+  新日本フィル ワールド ドリーム オーケストラ
