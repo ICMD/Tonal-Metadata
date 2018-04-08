@@ -38,7 +38,9 @@ Cello Concerto No. 1 in E-flat major, Op. 107
   08.   IV. Allegro con Moto
 
 Jacques Offenbach (1819 – 1880)
-09. Harmonies Des Bois, Op. 76: II. Jacqueline’s Tears
+Harmonies Des Bois, Op. 76
+
+  09.   II. Jacqueline’s Tears
 
   Sheku Kanneh-Mason
   City of Birmingham Symphony Orchestra
