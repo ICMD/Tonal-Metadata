@@ -9,12 +9,12 @@ Gabriel Fauré (1845 – 1924)
 01. Après Un Rêve, Op. 7 No. 1 (Arr. for Cello & Piano)
 
 Ernest Bloch (1880 – 1959)
-02. Abodah (God’s Worship) [Arr. for Cello]
+02. Abodah (God’s Worship) (Arr. for Cello)
 
   Isata Kanneh-Mason
 
 Leonard Cohen (b. 1934)
-03. Hallelujah (Arr. Cello & Strings)
+03. Hallelujah (Arr. for Cello & Strings)
 
   Isata Kanneh-Mason
   Didier Osindero
