@@ -1,14 +1,7 @@
-> Genius of Modern Music Volume Two
+> Genius of Modern Music, Volume Two
 > Thelonious Monk
 > 1 / 1
 > Jazz | 2013 | Universal Music Group
-> 3cc859ca04b43b2fd3ecb4da69c15193 | 
->  | 
-
-> Genius of Modern Music, Vol. 2
-> Thelonious Monk
-> 2 / 2
-> Jazz | 1947 | 
 > 3cc859ca04b43b2fd3ecb4da69c15193 | 
 >  | 
 
