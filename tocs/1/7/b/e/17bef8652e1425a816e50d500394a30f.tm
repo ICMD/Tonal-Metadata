@@ -14,10 +14,10 @@ Traditional
 Milton Nascimento (b. 1942)
 03. Salt Song
 
-Lee Pockriss & Paul Vance
+Lee Pockriss (1924 – 2011) & Paul Vance (b. 1929)
 04. I Haven’t Got Anything Better to Do
 
-Stanley Tarrentine
+Stanley Tarrentine (1934 – 2000)
 05. Storm
 
   Stanley Tarrentine
