@@ -9,7 +9,7 @@ Thelonious Monk (1917 – 1982), Cootie Williams (1911 – 1985) & Bernard Hanig
 01. 'Round Midnight
 
 Thelonious Monk (1917 – 1982)
-02. Of in F minor
+02. Off Minor
 03. Ruby, My Dear
 04. I Mean You
 
