@@ -1,12 +1,12 @@
 > Shostakovich: Symphony No. 13
-> Alexander Vinogradov, Royal Liverpool Philharmonic Choir, Huddersfield Choral Society, Royal Liverpool Philharmonic Orchestra & Vasily Petrenko
+> Vasily Petrenko & Royal Liverpool Philharmonic Orchestra
 > 1 / 1
 > Classical | 2014 | Naxos Records
 > 9d05afa8ab06f961266d00740240e251 | 
 > 1042352366 | B00N9RET1M, B00MR4FR8M, B01K8L2QU2, B019GLSXC0
 
 > Shostakovich: The Complete Symphonys
-> Royal Liverpool Philharmonic Orchestra & Vasily Petrenko
+> Vasily Petrenko & Royal Liverpool Philharmonic Orchestra
 > 10 / 11 BOXSET
 > Classical | 2015 | Naxos Records
 > b99dfbb1daf794b43902259c14351f4c | 
