@@ -1,16 +1,9 @@
 > The Complete Studio Recordings
 > ABBA
-> 3 / 9 BOXSET
+> 3 / 9
 > Pop | 2006 | Polar
 > 2af1c4458881253b4f6972afb5b336c2 | 
 >  | B001KYR6XE, B000002GKL, B001F9Y2CM
-
-> The Collection
-> ABBA
-> 4 / 9
-> Pop | 2014 | Polar
-> da207a091ddc2b3224644ee24a7cab33 | 
-> 935887687 | B001KYR6XE, B00006AUG0, B001F9Y2CM
 
 Benny Andersson, Stig Anderson, Björn Ulvaeus & ABBA
 01. Mamma Mia
