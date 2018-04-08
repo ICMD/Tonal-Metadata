@@ -1,4 +1,4 @@
-> Genius of Modern Music, Vol. 2
+> Genius of Modern Music, Volume Two
 > Thelonious Monk
 > 1 / 1
 > Jazz | 2013 | Blue Note Records
