@@ -26,7 +26,9 @@ Anonymous – Pablo Casals (1876 – 1973)
   Sheku Kanneh-Mason
 
 Dmitry Shostakovich (1906 – 1975)
-04. The Gadfly Suite, Op. 97a: X. Nocturne
+The Gadfly Suite, Op. 97a
+
+  04.    X. Nocturne
 
 Cello Concerto No. 1 in E-flat major, Op. 107
 
