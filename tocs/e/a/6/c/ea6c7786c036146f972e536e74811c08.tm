@@ -1,23 +1,23 @@
-> Chopin: Piano Sonatas
-> Artur Pizarro & Not Applicable
+> Frédéric Chopin: Sonata No. 2
+> Artur Pizarro
 > 1 / 1
 > Classical | 2006 | Linn Records
-> a5f2e079ac1651245f5560c4e3d09aa4 | 
-> 288010853 | B00ENMB2EY, B000EGEZF6, B00G2I9KTG
+> bbf872fb5fbefccadd71218f98085fd6 | 
+>  | 
 
 Frédéric Chopin (1810 – 1849)
-01. Variations Brillantes, Op. 12
+01. Variations Brilantes, Op. 12
 
-Piano Sonata No. 2 in B-flat minor, Op. 35 “Funeral March”
+Sonata No. 2 in B-flat minor, Op. 35 “Funeral March”
 
   02.    I. Grave
   03.   II. Scherzo
+  04.  III. Marche Funèbre
+  05.   IV. Presto
 
-04. Sonata No. 2 in B-flat minor, Op. 35: III. Marche Funèbre
-05. Piano Sonata No. 2 in B-flat minor, Op. 35 “Funeral March”: IV. Presto
-06. Barcarolle in F-Sharp Majoe, Op. 60
+06. Barcarolle in F-sharp major, Op. 60
 
-Piano Sonata No. 3 in B minor, Op. 58
+Sonata No. 3 In B Minor Op. 58
 
   07.    I. Allegro Maestoso
   08.   II. Scherzo
