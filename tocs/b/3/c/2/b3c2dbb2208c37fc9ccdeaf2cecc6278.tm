@@ -1,5 +1,5 @@
 > Divertimenti
-> TrondheimSolistene & Oyvind Gimse
+> TrondheimSolistene
 > 1 / 1
 > Classical | 2008 | 2L
 > 8517385826d44a2dbe8f0b94012f7ba0 | 
@@ -23,6 +23,10 @@ Concerto for String Orchestra
 Terje Bjørklund
 08. Carmina
 
+  TrondheimSolistene
+  Geir Inge Lotsberg
+  Øyvind Gimse
+
 Béla Bartók (1881 – 1945)
 Divertimento for Strings, Sz. 113
 
@@ -30,4 +34,6 @@ Divertimento for Strings, Sz. 113
   10.   II. Molto Adagio
   11.  III. Allegro Assai
 
-  Trondheim Soloists
+  TrondheimSolistene
+  Øyvind Gimse
+  Anders Kjellberg Nilsson
