@@ -1,4 +1,4 @@
-> Straight Life (CTI Records 40th Anniversary Edition)
+> Straight Life
 > Freddie Hubbard
 > 1 / 1
 > Jazz | 1971 | Masterworks Jazz
