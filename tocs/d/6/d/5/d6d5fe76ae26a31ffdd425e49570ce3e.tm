@@ -1,4 +1,4 @@
-> Allegri: Miserere, messe, motets
+> Allegri: Miserere, Messe, Motets
 > Bernard Fabre-Garrus & A Sei Voci
 > 1 / 1
 > Classical | 1994 | Auvidis Astrée
