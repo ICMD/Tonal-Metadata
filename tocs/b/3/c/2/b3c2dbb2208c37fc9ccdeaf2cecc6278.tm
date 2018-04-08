@@ -35,5 +35,5 @@ Divertimento for Strings, Sz. 113
   11.  III. Allegro Assai
 
   TrondheimSolistene
-  Øyvind Gimse
   Anders Kjellberg Nilsson
+  Øyvind Gimse
