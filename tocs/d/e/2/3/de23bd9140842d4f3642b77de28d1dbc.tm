@@ -13,26 +13,26 @@
 > 640074114 | B00H7L7WOM
 
 The Doors, Jim Morrison, John Densmore, Ray Manzarek & Robby Krieger
-01. Hello: I. Love You (LP Version )
+01. Hello: I. Love You (LP Version)
 
 The Doors
-02. Love Street (LP Version )
-03. Not to Touch the Earth (LP Version )
-04. Summer’s Almost Gone (LP Version )
-05. Wintertime Love (LP Version )
+02. Love Street (LP Version)
+03. Not to Touch the Earth (LP Version)
+04. Summer’s Almost Gone (LP Version)
+05. Wintertime Love (LP Version)
 
 The Doors & Jim Morrison
-06. The Unknown Soldier (LP Version )
+06. The Unknown Soldier (LP Version)
 
 The Doors
 07. Spanish Caravan
-08. My Wild Love (LP Version )
+08. My Wild Love (LP Version)
 
 The Doors, Jim Morrison, John Densmore, Ray Manzarek & Robby Krieger
-09. We Could Be so Good Together (LP Version )
+09. We Could Be so Good Together (LP Version)
 
 The Doors
-10. Yes, the River Knows (LP Version )
+10. Yes, the River Knows (LP Version)
 
 The Doors, Jim Morrison, John Densmore, Ray Manzarek & Robby Krieger
 11. Five to One
