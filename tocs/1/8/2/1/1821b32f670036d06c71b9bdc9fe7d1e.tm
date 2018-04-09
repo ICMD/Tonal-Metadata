@@ -2,7 +2,7 @@
 > Edna Stern
 > 1 / 1
 > Classical | 2014 | 
->  | 
+> 161f3aef7c9570f38439e52cd40b7cdf | 
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
@@ -28,4 +28,4 @@ Piano Sonata No.1, Op.2 No.1
 
 11. Bagatelle No. 25 in A minor (WoO 59, Bia 515) “Für Elise”
 
-  Edna Stern
+  Edna Stern, Piano
