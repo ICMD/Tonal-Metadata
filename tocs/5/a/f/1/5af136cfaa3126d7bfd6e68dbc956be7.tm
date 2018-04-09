@@ -5,7 +5,7 @@
 > 282fb64ae442fd5261390c8640e64dae | 
 > 75019300 | 
 
-George Gershwin (1898 – 1937) & Erich Kunzel (1935 – 2009)
+George Gershwin (1898 – 1937)
 01. Rhapsody in Blue (Original 1924 Version)
 02. “I Got Rhythm”: Variations
 
@@ -17,6 +17,6 @@ Concerto for Piano in F major
 
 06. “Rialto Ripples” Rag
 
-  William Tritt
+  William Tritt, Piano
   Cincinnati Jazz Orchestra
   Erich Kunzel, Conductor
