@@ -1,8 +1,8 @@
-> Die Besten Hörtest – Aufnahmen Aus 30 Jahren: Die audiophile Hörtest – CD
+> Die Audiophile Hörtest-CD
 > Various Artists
 > 1 / 1
 > Other | 2008 | stereoplay
->  | 
+> b27b3ce1160fc2242271cc9d051528ec | 
 >  | 
 
 Thérèse Juel, Chuck Mangione, Charly Antolini, Marianne Mellnäs, Arne Domnérus & Modest Mussorgsky
