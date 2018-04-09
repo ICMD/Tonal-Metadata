@@ -1,4 +1,4 @@
-> Rachmaninov: Piano Concerto No. 3； Prokofiev: Piano Concerto No. 2
+> Rachmaninov: Piano Concerto No. 3; Prokofiev: Piano Concerto No. 2
 > Yuja Wang, Simón Bolívar Symphony Orchestra & Gustavo Dudamel
 > 1 / 1
 > Classical | 2013 | Deutsche Grammophon
