@@ -2,14 +2,7 @@
 > Nat King Cole Trio
 > 1 / 1
 > Jazz | 1995 | 
->  | 
->  | 
-
-> The Best of Nat King Cole Trio: The Vocal Classics, Vol. 1 (1942-1946)
-> Nat King Cole Trio
-> 2 / 3
-> Jazz | 1995 | Blue Note Records
->  | 
+> d75d18a24b4c52f0a6ef1d712efa0e78 | 
 >  | 
 
 01. All for You
