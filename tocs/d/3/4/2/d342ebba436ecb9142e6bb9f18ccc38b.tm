@@ -11,10 +11,19 @@ Prelude and Fugue in A minor, BWV 543 (Arr. for Accordion)
   01.    I. Prelude
   02.   II. Fugue
 
-03. Violin Partita in D minor, BWV 1004: V. Chaconne (Arr. for Accordion)
+Violin Partita in D minor, BWV 1004 (Arr. for Accordion)
+
+  03.    V. Chaconne
+
 04. Chorale Prelude in F minor, BWV 639 “Ich Ruf Zu Dir, Herr Jesu Christ” (Arr. for Accordion)
-05. Orchestral Suite No. 3 in D major, BWV 1068: II. Air (Arr. for Accordion)
-06. Orchestral Suite No. 2 in B minor, BWV 1067: VII. Badinerie (Arr. for Accordion)
+
+Orchestral Suite No. 3 in D major, BWV 1068 (Arr. for Accordion)
+
+  05.   II. Air
+
+Orchestral Suite No. 2 in B minor, BWV 1067 (Arr. for Accordion)
+
+  06.  VII. Badinerie
 
 Toccata and Fugue in D minor, BWV 565 (Arr. for Accordion)
 
