@@ -1,5 +1,5 @@
 > Beethoven: Symphony No. 9, Overtures & Grosse Fugue
-> Dame Joan Sutherland & Norma Procter & Anton Dermota & Arnold van Mill & L’Orchestre de la Suisse Romande & Ernest Ansermet
+> Ernest Ansermet & L’Orchestre de la Suisse Romande
 > 1 / 2
 > Classical | 2014 | Decca Records
 > 134e4135335ca1fbf503a178198a4a88 | 
