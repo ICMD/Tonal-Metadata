@@ -1,10 +1,11 @@
 > The Dance
 > Dave Koz
 > 1 / 1
-> Jazz | 1999 | Capitol
-> 0804030c3f40c681ef3999d17937439e | 
->  | 
+> Jazz | 1999 | Capitol Records
+> 9734cf00d80139025acb21bb3d2d126f | 
+> 724748696 | B000TEMS8E, B00001O2WC, B00FY3S4X8, B0000506MG
 
+Dave Koz
 01. Together Again
 02. I’m Waiting for You
 
@@ -25,7 +26,7 @@
   Dave Koz
   Chris Botti
 
-06. Know by Heart
+06. Know You by Heart
 07. Surrender
 
   Dave Koz
@@ -40,7 +41,7 @@
   Dave Koz
   BeBe Winans
 
-10. Cuban Highway
+10. Cuban Hideaway
 
   Dave Koz
 
