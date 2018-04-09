@@ -7,6 +7,11 @@
 
 George Gershwin (1898 – 1937)
 01. Rhapsody in Blue (Original 1924 Version)
+
+  William Tritt, Piano
+  Cincinnati Jazz Orchestra
+  Erich Kunzel, Conductor
+
 02. “I Got Rhythm”: Variations
 
 Concerto for Piano in F major
@@ -14,6 +19,10 @@ Concerto for Piano in F major
   03.    I. Allegro
   04.   II. Adadio / Andate con Moto
   05.  III. Allegro Agitato
+
+  William Tritt, Piano
+  Cincinnati Pops Orchestra
+  Erich Kunzel, Conductor
 
 06. “Rialto Ripples” Rag
 
