@@ -8,91 +8,90 @@
 Stephen Stills
 01. Carry On
 
-  David Crosby, Vocal
   Dallas Taylor, Drumset & Percussion
   Graham Nash, Congas & Vocal
-  Crosby,, Stills,, Nash & Young
+  Stephen Stills, Bass & Congas & Guitar & Organ & Percussion & Vocal
+  David Crosby, Vocal
 
 Graham Nash
 02. Teach Your Children
 
-  David Crosby, Vocal
   Jerry Garcia, Steel Guitar & Pedal Steel Guitar
   Dallas Taylor, Tambourine & Percussion & Drumset
+  Graham Nash, Guitar & Tambourine & Vocal
   Stephen Stills, Bass & Guitar & Vocal
-  Crosby,, Stills,, Nash & Young
+  David Crosby, Vocal
 
 David Crosby
 03. Almost Cut My Hair
 
-  Greg Reeves, Bass
-  Stephen Stills, Guitar
-  Neil Young, Guitar
   Graham Nash, Keyboard
+  Stephen Stills, Guitar
   Dallas Taylor, Percussion & Drumset
-  Crosby,, Stills,, Nash & Young
+  Neil Young, Guitar
+  Greg Reeves, Bass
+  David Crosby, Guitar & Vocal
 
 Neil Young
 04. Helpless
 
+  Dallas Taylor, Drumset & Percussion
+  Greg Reeves, Bass
+  Stephen Stills, Keyboard & Guitar & Vocal
+  Neil Young, Guitar & Vocal
   Graham Nash, Vocal
   David Crosby, Vocal
-  Greg Reeves, Bass
-  Dallas Taylor, Drumset & Percussion
-  Stephen Stills, Keyboard & Guitar & Vocal
-  Crosby,, Stills,, Nash & Young
 
 Joni Mitchell
 05. Woodstock
 
-  Greg Reeves, Bass
-  Neil Young, Guitar
   Dallas Taylor, Drumset & Percussion
+  Neil Young, Guitar
+  Greg Reeves, Bass
   Graham Nash, Keyboard & Vocal
   Stephen Stills, Keyboard & Guitar & Vocal
   David Crosby, Guitar & Vocal
-  Crosby,, Stills,, Nash & Young
 
 David Crosby
 06. Déjà Vu
 
-  Graham Nash, Vocal
-  John Sebastian, Harmonica
   Dallas Taylor, Drumset & Percussion
+  John Sebastian, Harmonica
   Stephen Stills, Guitar & Keyboard & Vocal
-  Crosby,, Stills,, Nash & Young
+  David Crosby, Guitar & Vocal
+  Graham Nash, Vocal
 
 Graham Nash
 07. Our House
 
+  Dallas Taylor, Drumset & Percussion
+  Greg Reeves, Bass
+  Graham Nash, Harpsichord & Piano & Vocal
   Stephen Stills, Vocal
   David Crosby, Vocal
-  Greg Reeves, Bass
-  Dallas Taylor, Drumset & Percussion
-  Crosby,, Stills,, Nash & Young
 
 Stephen Stills
 08. 4 + 20
 
   Dallas Taylor, Percussion
-  Crosby,, Stills,, Nash & Young
+  Stephen Stills, Guitar & Vocal
 
 Neil Young
 09. Country Girl: A. Whiskey Boot Hill / B. Down, Down, Down / C. "Country Girl" (I Think You're Pretty)
 
-  Greg Reeves, Bass
   Dallas Taylor, Drumset & Percussion
+  Greg Reeves, Bass
   Graham Nash, Guitar & Vocal
   Stephen Stills, Guitar & Vocal
+  Neil Young, Guitar & Keyboard & Harmonica & Vocal
   David Crosby, Guitar & Vocal
-  Crosby,, Stills,, Nash & Young
 
 Neil Young & Stephen Stills
 10. Everybody I Love You
 
-  Greg Reeves, Bass
   Dallas Taylor, Drumset & Percussion
-  Stephen Stills, Guitar & Vocal
+  Neil Young, Guitar
+  Greg Reeves, Bass
   Graham Nash, Keyboard & Vocal
+  Stephen Stills, Guitar & Vocal
   David Crosby, Guitar & Vocal
-  Crosby,, Stills,, Nash & Young
