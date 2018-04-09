@@ -26,15 +26,15 @@
 > 95998fa4ba72fcdebb744e67a930eb6e | 
 > 579356406 | B00O6DOQES
 
-A. Young & M. Young, B. Scott, AC/DC
+A. Young & M. Young, B. Scott
 01. Jailbreak
 02. You Ain’t Got a Hold on Me
 03. Show Business
 
-A. Young & M. Young, AC/DC
+A. Young & M. Young
 04. Soul Stripper
 
-Traditional – Big Joe Williams
+Traditional – J. Williams
 05. Baby, Please Don’t Go
 
   AC/DC
