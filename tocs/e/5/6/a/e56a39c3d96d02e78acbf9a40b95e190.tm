@@ -39,7 +39,6 @@ Jimmy Page, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   John Paul Jones, Bass
   John Bonham, Drums
-  Led Zeppelin
 
 Robert Plant, Jimmy Page & Led Zeppelin
 02. The Rain Song
@@ -47,7 +46,6 @@ Robert Plant, Jimmy Page & Led Zeppelin
   Jimmy Page, Guitar
   John Bonham, Drums
   John Paul Jones, Bass & Mellotron
-  Led Zeppelin
 
 Jimmy Page, Robert Plant & Led Zeppelin
 03. Over the Hills and Far Away
@@ -55,7 +53,6 @@ Jimmy Page, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   John Paul Jones, Bass
   John Bonham, Drums
-  Led Zeppelin
 
 John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
 04. The Crunge
@@ -63,7 +60,6 @@ John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   Jimmy Page, Guitar
   John Paul Jones, Bass & Synthesizer
-  Led Zeppelin
 
 Jimmy Page, Robert Plant & Led Zeppelin
 05. Dancing Days
@@ -71,7 +67,6 @@ Jimmy Page, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   John Bonham, Drums
   John Paul Jones, Bass & Organ
-  Led Zeppelin
 
 John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
 06. D'yer Mak'er
@@ -79,7 +74,6 @@ John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   Jimmy Page, Guitar
   John Paul Jones, Bass & Piano
-  Led Zeppelin
 
 Jimmy Page, John Paul Jones, Robert Plant & Led Zeppelin
 07. No Quarter
@@ -87,7 +81,6 @@ Jimmy Page, John Paul Jones, Robert Plant & Led Zeppelin
   Robert Plant, Vocal
   John Bonham, Drums
   John Paul Jones, Grand Piano & Bass Synthesizer & Synthesizer
-  Led Zeppelin
 
 John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
 08. The Ocean
@@ -95,4 +88,3 @@ John Bonham, John Paul Jones, Jimmy Page, Robert Plant & Led Zeppelin
   Jimmy Page, Guitar
   John Paul Jones, Bass & Background Vocals
   Robert Plant, Background Vocals & Vocal
-  Led Zeppelin
