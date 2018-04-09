@@ -19,13 +19,6 @@
 > 2e83bbda85ca3e862d903d0b98501315 | 
 >  | B003924NZ4, B00YBLFSRO
 
-> The Columbia Studio Albums Collection 1955-1966
-> The Dave Brubeck Quartet
-> 6 / 19 BOXSET
-> Jazz | 2012 | Legacy
->  | 
->  | 
-
 > The Perfect Jazz Collection
 > Various Artists
 > 6 / 25 BOXSET
