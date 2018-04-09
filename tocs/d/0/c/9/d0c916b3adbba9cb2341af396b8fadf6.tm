@@ -2,9 +2,10 @@
 > 2econd Class Citizen
 > 1 / 1
 > Rap | 2012 | Equinox Records
-> 8778ff406d0254877a86f939a1e7113b | 
->  | 
+> 60c42d2c4a84f5e315c5176094498e1a | 
+> 523059933 | B007ZZ4PZY, B007UOC2LY, B01G4C4N3W, B008A9LUSE
 
+2econd Class Citizen
 01. And Now, Nothing
 02. On My Mind
 03. Outside Your Doorway
