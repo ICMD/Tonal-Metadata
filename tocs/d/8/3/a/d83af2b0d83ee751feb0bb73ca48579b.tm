@@ -20,7 +20,7 @@ Piano Concerto No. 2 in G minor, Op. 16 (1923 Version)
   06.  III. Intermezzo. Allegro moderato
   07.   IV. Finale. Allegro tempestoso
 
-  Kirill Gerstein, Piano & Solo
+  Kirill Gerstein, Piano
   Deutsches Symphonie-Orchester Berlin
   James Gaffigan, Conductor
   Rec. 2014-06-23 – 2014-06-27 in Funkhaus Nalepastraße, Saal 1, Berlin
