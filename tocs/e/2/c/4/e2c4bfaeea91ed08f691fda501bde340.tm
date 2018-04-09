@@ -1,5 +1,5 @@
 > Cheap Thrills
-> ジャニス・ジョップリン/Big Brother & The Holding Company
+> Big Brother & The Holding Company
 > 1 / 1
 > Rock | 1968 | Mobile Fidelity Sound Lab
 > 1b46a50ac59acd17dbfade0a9f62f2f2 | 
