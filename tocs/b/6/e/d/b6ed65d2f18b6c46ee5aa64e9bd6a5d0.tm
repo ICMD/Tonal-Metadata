@@ -1,27 +1,34 @@
-> Dvořák: Symphonys Nos. 7 & 8
+> Dvořák: Symphony No. 8 in G major
 > Antal Doráti & London Symphony Orchestra
 > 1 / 1
-> Classical | 1992 | Mercury
-> 2a6be34be147c57f48704ce27dae4fd2 | 
+> Classical | 1992 | Mercury Living Presence
 >  | 
+>  | B0000057LN
 
-Antal Dorati (1906 – 1988)
-ドヴォルザーク 交響曲 No. 7 ニ短調, Op. 70 (1885)
+> Mercury Living Presence: The Collector’s Edition Vol. 2
+> Various Artists
+> 5 / 55 BOXSET
+> Classical | 2013 | Mercury Living Presence
+>  | 
+>  | B00B7364H2
+
+Antonín Dvořák (1841 – 1904)
+Symphony No. 7 in D minor, Op. 70
 
   01.    I. Allegro maestoso
   02.   II. Poco adagio
-  03.  III. Scherzo. Vivace – Poco meno mosso
-  04.   IV. Finale. Allegro
+  03.  III. Scherzo. Vivace – Poco meno moso
+  04.   IV. Allegro
 
-  Rec. 1963-07
+  Rec. 1963-07-17 – 1963-07-18 in Watford Colosseum, Watford
 
-ドヴォルザーク 交響曲 No. 8 ト長調, Op. 88 (1889)
+Symphony No. 8 in G major, Op. 88
 
   05.    I. Allegro con brio
   06.   II. Adagio
-  07.  III. Allegretto grazioso – Molto vivace
+  07.  III. Allegretto grazioso
   08.   IV. Allegro ma non troppo
 
   London Symphony Orchestra
   Antal Doráti, Conductor
-  Rec. 1959-06
+  Rec. 1959-07-19 – 1959-07-20 in Watford Colosseum, Watford
