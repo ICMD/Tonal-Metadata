@@ -1,9 +1,9 @@
 > All Things Must Pass
 > George Harrison
 > 1 / 2
-> Pop | 2014 | EMI
-> 471f71b0a980c8907fbdddadcc8a472d | 
-> 908966052, 909526483 | B00NIV73US, B00MI7120K, B00005UKE0, B00MB7SANE, B01MXVPMRP, B074SYQ2XP, B00Q50TTJW, B00006ZUNQ, B00005I6UR
+> Pop | 1970 | Capitol
+> 7e5409a676a9dc96390efc6c095f4d07 | 
+>  | 
 
 > The Apple Years 1968–75
 > George Harrison
