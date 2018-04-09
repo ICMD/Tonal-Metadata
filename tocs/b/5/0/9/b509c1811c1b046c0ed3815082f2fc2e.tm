@@ -13,7 +13,6 @@ Nick Webb, John Parsons-Morris & Greg Carmichael
   Mario Argandoña, Percussion
   Greg Carmichael, Nylon Guitar
   Klaus Sperber, Bass Guitar
-  Acoustic Alchemy
 
 Greg Carmichael, Nick Webb & John Parsons
 02. Missing Your Touch
@@ -24,7 +23,6 @@ Greg Carmichael, Nick Webb & John Parsons
   John Parsons, Electronic Drum Set
   Klaus Sperber, Bass Guitar
   Nick Webb, Steel Guitar
-  Acoustic Alchemy
 
 Paul Desmond
 03. Take Five
@@ -34,7 +32,6 @@ Paul Desmond
   Mario Argandoña, Percussion
   Greg Carmichael, Nylon Guitar
   Nick Webb, Nylon Guitar & Steel Guitar
-  Acoustic Alchemy
 
 Nick Webb & Greg Carmichael
 04. Same Road, Same Reason (Original)
@@ -44,7 +41,6 @@ Nick Webb & Greg Carmichael
   Mario Argandoña, Percussion
   Greg Carmichael, Nylon Guitar
   Klaus Sperber, Bass Guitar
-  Acoustic Alchemy
 
 Greg Carmichael & Nick Webb
 05. Make My Day
@@ -55,14 +51,12 @@ Greg Carmichael & Nick Webb
   Mario Argandoña, Percussion
   Klaus Sperber, Bass Guitar
   Nick Webb, Steel Guitar
-  Acoustic Alchemy
 
 Nick Webb
 06. Caravan of Dreams
 
   Terry Disley, Keyboard
   Greg Carmichael, Nylon Guitar
-  Acoustic Alchemy
 
 Greg Carmichael, John Parsons-Morris & Nick Webb
 07. Homecoming (Original)
@@ -75,10 +69,8 @@ Greg Carmichael, Nick Webb & John Parsons
   Mario Argandoña, Percussion
   Klaus Sperber, Bass Guitar
   Nick Webb, Steel Guitar
-  Acoustic Alchemy
 
 Greg Carmichael & Nick Webb
 09. Lullaby for the First Born
 
   Nick Webb, Steel Guitar
-  Acoustic Alchemy
