@@ -1,17 +1,18 @@
 > All Things Must Pass
 > George Harrison
-> 1 / 1
-> Pop | 1970 | 
-> 7e5409a676a9dc96390efc6c095f4d07 | 
->  | 
-
-> All Things Must Pass
-> George Harrison
 > 2 / 2
-> Pop | 1970 | Capitol
-> 7e5409a676a9dc96390efc6c095f4d07 | 
->  | 
+> Pop | 2014 | EMI
+> 471f71b0a980c8907fbdddadcc8a472d | 
+> 908966052, 909526483 | B00NIV73US, B00MI7120K, B00005UKE0, B00MB7SANE, B074SYQ2XP, B01MXVPMRP, B00Q50TTJW, B00006ZUNQ, B00005I6UR
 
+> The Apple Years 1968–75
+> George Harrison
+> 4 / 7 BOXSET
+> Pop | 2014 | Apple Records
+> 48c371da87d6a7902c2d1862f5590b44 | 
+>  | B00MG4CUH4
+
+George Harrison
 01. Beware of Darkness
 02. Apple Scruffs
 03. Ballad of Sir Frankie Crisp (Let It Roll)
