@@ -1,50 +1,55 @@
-> Debussy: Sonatas & Piano Trio
-> Bertrand Chamayou
+> Debussy: Sonatas and Piano Trio
+> Renaud Capuçon, Edgar Moreau & Bertrand Chamayou
 > 1 / 1
-> Classical | 2017 | Warner Classics
-> b30ef30e41f312735c01ed493e5c5595 | 
->  | 
+> Classical | 2017 | Erato
+> f3f479561504da10b481f1834a5614a6 | 
+> 1289850931 | B0763FKYZ8, B075GCS9FG
 
 Claude Debussy (1862 – 1918)
-- Sonate Pour Violoncelle et Piano en Ré Mineur, L. 135
+Cello Sonata in D minor, L. 135
 
-  01.    I. Prologue. Lent
-  02.   II. Sérénade. Modérément Animé
-  03.  III. Finale. Animé
+  01.    I. Prologue
+  02.   II. Sérénade
+  03.  III. Finale
 
-  Edgar Moreau
-  Bertrand Chamayou
+  Edgar Moreau, Cello
+  Bertrand Chamayou, Piano
+  Rec. 2017-03-08 – 2017-03-09 in Studios Davout, Paris
 
-04. - Syrinx Pour Flûte Seul, L. 129
+04. Syrinx, L. 129
 
-  Emmanuel Pahud
+  Emmanuel Pahud, Flute
+  Rec. 2016-12-14 in Salle Colonne, Paris
 
-- Sonate Pour Violon & Piano en Sol Mineur, L. 148
+Violin Sonata in G minor, L. 140
 
-  05.    I. Allegro Vivo
-  06.   II. Intermède. Fantasque et Léger
-  07.  III. Finale. Très Animé
+  05.    I. Allegro vivo
+  06.   II. Intermède. Fantasque et léger
+  07.  III. Finale. Très animé
 
-  Renaud Capuçon
-  Bertrand Chamayou
+  Renaud Capuçon, Violin
+  Bertrand Chamayou, Piano
+  Rec. 2017-03-08 – 2017-03-09 in Studios Davout, Paris
 
-- Sonate Pour Flûte, Violon & Harpe, L. 137
+Sonata for Flûte, Viola and Harp, L. 137
 
-  08.    I. Pastorale. Lento, Domce Rubato
-  09.   II. Interlude. Tempo di Minuetto
-  10.  III. Finale. Allegro Moderato Ma Risoluto
+  08.    I. Pastorale. Lento, dolce rubato
+  09.   II. Interlude. Tempo di minuetto
+  10.  III. Finale. Allegro moderato ma risoluto
 
-  Emmanuel Pahud
-  Gérard Caussé
-  Marie-Pierre Langlamet
+  Emmanuel Pahud, Flute
+  Gérard Caussé, Viola
+  Marie-Pierre Langlamet, Harp
+  Rec. 2016-12-14 in Salle Colonne, Paris
 
-- Trio Pour Piano, Violon & Violoncelle en Sol Majeur, L. 3
+Piano Trio in G major, L. 3
 
-  11.    I. Andantino con Molto Allegro
-  12.   II. Scherzo Intermezzo
-  13.  III. Andante Espressivo
+  11.    I. Andantino con moto allegro
+  12.   II. Scherzo. Moderato con allegro
+  13.  III. Andante espressivo
   14.   IV. Finale. Appassionato
 
-  Renaud Capuçon
-  Edgar Moreau
-  Bertrand Chamayou
+  Renaud Capuçon, Violin
+  Edgar Moreau, Cello
+  Bertrand Chamayou, Piano
+  Rec. 2017-03-08 – 2017-03-09 in Studios Davout, Paris
