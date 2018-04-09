@@ -1,36 +1,56 @@
 > The Concert in Central Park
 > Simon & Garfunkel
 > 1 / 1
-> Pop | 2014 | Legacy Recordings
-> 12222e7f64b28658de3f2a72fb2da85e | 
->  | 
+> Pop | 1982 | Legacy
+> 08d0b4b031c3134b6ce61688cc421f38 | 
+> 941959321 | B00PNW27AQ, B00ZL4PNZW, B000007WF6, B00ZQ7DHFC, B00PUUGPEA, B019GR7492
 
-> セントラルパーク・コンサート
-> サイモン & ガーファンクル
-> 8 / 12
-> Pop | 2014 | 株式会社ソニー・ミュージックレーベルズ　ソニー・ミュージックジャパン　インターナショ
-> 4a9d44a9a604ed0a57545785567ef392 | 
->  | 
-
+Paul Simon
 01. Mrs. Robinson
 02. Homeward Bound
 03. America
 04. Me and Julio down by the Schoolyard
-05. Scarborough Fair
+
+P. Simon & Art Garfunkel
+05. Scarborough Fair: Canticle
+
+Paul Simon
 06. April Come She Will
+
+Boudleaux Bryant, Felice Bryant, Simon & Garfunkel
 07. Wake up Little Susie
+
+Paul Simon
 08. Still Crazy after All These Years
 09. American Tune
 10. Late in the Evening
 11. Slip Slidin’ Away
+
+Benny Gallagher, Graham Lyle, Simon & Garfunkel
 12. A Heart in New York
+
+See Sub-Songs, Paul Simon & Chuck Berry
 13. Kodachrome: Mabellene
+
+Paul Simon
 14. Bridge over Troubled Water
-15. Fifty Ways to Leave Your Lover
+15. 50 Ways to Leave Your Lover
+
+  Rec. Central Park, Manhattan, Live Recording
+
+Paul Simon, Simon & Garfunkel
 16. The Boxer
-17. Old Friends
+
+  Rec. Live Recording
+
+Paul Simon
+17. Old Friends: Bookends Theme
+
+  Rec. Central Park, Manhattan, Live Recording
+
+Paul Simon, Simon & Garfunkel
 18. The 59th Street Bridge Song (Feelin’ Groovy)
-19. The Sounds of Silence
+19. The Sound of Silence
 
   Simon & Garfunkel
   Rec. Live Recording
