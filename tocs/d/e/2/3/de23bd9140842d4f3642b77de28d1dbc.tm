@@ -13,7 +13,7 @@
 > 640074114 | B00H7L7WOM
 
 The Doors, Jim Morrison, John Densmore, Ray Manzarek & Robby Krieger
-01. Hello: I. Love You (LP Version)
+01. Hello: I Love You (LP Version)
 
 The Doors
 02. Love Street (LP Version)
