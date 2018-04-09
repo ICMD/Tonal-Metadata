@@ -1,43 +1,34 @@
-> Die Audiophile Hörtest-CD
-> Various Stereoplay
+> Die Besten Hörtest – Aufnahmen Aus 30 Jahren: Die audiophile Hörtest – CD
+> Various Artists
 > 1 / 1
-> Other | 2008 | 
+> Other | 2008 | stereoplay
 >  | 
 >  | 
 
+Thérèse Juel, Chuck Mangione, Charly Antolini, Marianne Mellnäs, Arne Domnérus & Modest Mussorgsky
 01. Hörparcours – Musikblock
 
-  Stereoplay
+Thérèse Juel
+02. Tiden Bara Går
 
-02. Tiden Bara Gar
-
-  Therése Juel
-
+Chuck Mangione
 03. Children of Sanchez
 
-  Chuck Mangione
-
+Charly Antolini
 04. Knock Out
 
-  Charly Antolini
-
+Marianne Mellnäs
 05. Julsång
 
-  Marianne Mellnäs
-
+Arne Domnérus
 06. Limehouse Blues
 
-  Jazz at the Pawnshop
-
 Modest Mussorgsky
-07. Night on Bald Mountain
+07. Nacht Auf Dem Kahlen Berge
 
-  Cleveland Orchestra
-  Lorin Maazel, Conductor
+no artist]
+08. Pegel – Einstellton (Links)
+09. Pegel – Einstellton (Rechts)
+10. Pegel – Einstellton (Beidseitig)
 
-COMPOSER NON-APPLICABLE
-08. Pegel – Einstelltöne
-09. Pegel – Einstelltöne
-10. Pegel – Einstelltöne
-
-  Stereoplay
+  Various Artists
