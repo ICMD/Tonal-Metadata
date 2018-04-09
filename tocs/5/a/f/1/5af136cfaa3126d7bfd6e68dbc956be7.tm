@@ -1,4 +1,4 @@
-> Gershwin: Rhapsody in Blue - Concerto in F major
+> Gershwin: Rhapsody in Blue, Concerto in F major
 > Cincinnati Jazz Orchestra, Cincinnati Pops Orchestra, Erich Kunzel & William Tritt
 > 1 / 1
 > Classical | 1988 | Telarc
