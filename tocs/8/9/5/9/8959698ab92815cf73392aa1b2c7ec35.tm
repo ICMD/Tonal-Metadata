@@ -5,28 +5,42 @@
 > b27b3ce1160fc2242271cc9d051528ec | 
 >  | 
 
-Thérèse Juel, Chuck Mangione, Charly Antolini, Marianne Mellnäs, Arne Domnérus & Modest Mussorgsky
+Modest Mussorgsky (1839 – 1881)
 01. Hörparcours – Musikblock
 
-Thérèse Juel
+  Thérèse Juel
+  Chuck Mangione
+  Charly Antolini
+  Marianne Mellnäs
+  Arne Domnérus
+
 02. Tiden Bara Går
 
-Chuck Mangione
+  Thérèse Juel
+
 03. Children of Sanchez
 
-Charly Antolini
+  Chuck Mangione
+
 04. Knock Out
 
-Marianne Mellnäs
+  Charly Antolini
+
 05. Julsång
 
-Arne Domnérus
+  Marianne Mellnäs
+
 06. Limehouse Blues
 
-Modest Mussorgsky
-07. Nacht Auf Dem Kahlen Berge
-08. Pegel – Einstellton (Links)
-09. Pegel – Einstellton (Rechts)
-10. Pegel – Einstellton (Beidseitig)
+  Arne Domnérus
 
-  Various Artists
+07. Nacht Auf Dem Kahlen Berge
+
+COMPOSER NON-APPLICABLE
+Pegel – Einstellton
+
+  08. Links
+  09. Rechts
+  10. Beidseitig
+
+  [NO ARTIST]
