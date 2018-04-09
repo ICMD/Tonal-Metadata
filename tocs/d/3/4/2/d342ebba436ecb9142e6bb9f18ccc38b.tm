@@ -1,5 +1,5 @@
 > Bach: Famous Works (Arranged for Accordion)
-> Alexander Sevastian & __
+> Alexander Sevastian
 > 1 / 1
 > Classical | 2017 | Groupe AnalektaInc
 > cbefd0d97c6386e5b2b4ba44f344907e | 
