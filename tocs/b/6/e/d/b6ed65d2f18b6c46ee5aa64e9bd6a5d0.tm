@@ -1,15 +1,15 @@
-> Dvořák: Symphony No. 8 in G major
+> Dvořák: Symphonies Nos. 7 & 8
 > Antal Doráti & London Symphony Orchestra
 > 1 / 1
 > Classical | 1992 | Mercury Living Presence
->  | 
+> 774f82752dfe5a66ceadeb642c28617a | 
 >  | B0000057LN
 
 > Mercury Living Presence: The Collector’s Edition Vol. 2
 > Various Artists
 > 5 / 55 BOXSET
 > Classical | 2013 | Mercury Living Presence
->  | 
+> 07d3fdeaad9cb2ebe3d9709fef311130 | 
 >  | B00B7364H2
 
 Antonín Dvořák (1841 – 1904)
