@@ -19,7 +19,7 @@ Piano Sonata No. 19 in G minor, Op. 49 No. 1
   05.    I. Grave, Allegro Molto E con Brio
   06.   II. Adagio Cantabile
 
-Piano Sonata No.1, Op.2 No.1
+Piano Sonata No. 1, Op. 2 No. 1
 
   07.    I. Allegro
   08.   II. Adagio
