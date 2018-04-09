@@ -14,6 +14,7 @@ Avishai Cohen (b. 1970)
 06. Life and Death: Epilogue
 
   Bill McHenry, Tenor Saxophone
+  Avishai Cohen, Trumpet
   Eric Revis, Double Bass
   Yonatan Avishai, Piano
   Nasheet Waits, Drums
