@@ -1,5 +1,5 @@
 > Waiting for the Sun
-> The Doors, ドアーズ, ドアーズ
+> The Doors
 > 1 / 1
 > Rock | 1968 | Elektra Entertainment
 > cc29d8b0f764d98a53e832aac373dd9d | 
@@ -38,4 +38,3 @@ The Doors, Jim Morrison, John Densmore, Ray Manzarek & Robby Krieger
 11. Five to One
 
   The Doors
-  ドアーズ
