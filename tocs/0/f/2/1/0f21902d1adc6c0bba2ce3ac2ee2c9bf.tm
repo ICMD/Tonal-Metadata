@@ -1,4 +1,4 @@
-> The Definitve Recordings 1975: 1985
+> The Definitve Recordings 1975 – 1985
 > The Tubes
 > 3 / 3
 > Rock | 2017 | 
