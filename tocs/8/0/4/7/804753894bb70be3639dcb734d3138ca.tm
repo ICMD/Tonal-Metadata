@@ -6,7 +6,7 @@
 > 844418728 | B00NEHBPMI, B00H2C5PYU, B01GUH5NVW
 
 Igor Stravinsky (1882 – 1971)
-Le Sacre Du Printemps
+Le Sacre Du Printemps (1913)
 
   01.    I. L’Adoration de la Terre
   02.   II. Danse des adolescentes
@@ -22,9 +22,7 @@ Le Sacre Du Printemps
   12.  XII. Evocation des ancêtres
   13. XIII. Danse sacrale
 
-  Rec. 1913
-
-Petrouchka
+Petrouchka (1911)
 
   14.    I. Fête populaire de la semaine grasse
   15.   II. Le tour de passe – passe
@@ -40,4 +38,3 @@ Petrouchka
 
   Les Siècles
   François-Xavier Roth, Conductor
-  Rec. 1911
