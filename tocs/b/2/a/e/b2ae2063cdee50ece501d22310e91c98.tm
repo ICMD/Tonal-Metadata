@@ -22,7 +22,6 @@ Beck Hansen
   Joey Waronker, Percussion
   Nigel Godrich, Keyboard & Percussion
   Justin Meldal‐Johnsen, Electric Bass Guitar
-  David Campbell, Conductor
 
 03. Guess I’m Doing Fine
 
@@ -40,7 +39,6 @@ Beck Hansen
   Justin Meldal‐Johnsen, Electric Bass Guitar & Electric Guitar
   James Gadson, Drums & Guest
   Beck, Keyboard & Vocal
-  David Campbell, Conductor
 
 05. Lost Cause
 
@@ -73,7 +71,6 @@ Beck Hansen
 
   Justin Meldal‐Johnsen, Double Bass
   Beck, Acoustic Guitar & Vocal
-  David Campbell, Conductor
 
 09. Already Dead
 
