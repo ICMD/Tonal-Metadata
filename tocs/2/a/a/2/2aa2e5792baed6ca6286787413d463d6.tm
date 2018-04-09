@@ -7,7 +7,7 @@
 
 01. Together Again
 02. I’m Waiting for You
-03. Can't Let You Go (The Sha la Song)
+03. Can’t Let You Go (The Sha la Song)
 04. Careless Whisper
 05. Love Is on the Way
 06. Know You by Heart
@@ -16,8 +16,8 @@
 09. The Dance
 10. Cuban Hideaway
 11. The Bright Side
-12. Don't Give Up
+12. Don’t Give Up
 13. Right by Your Side
-14. I'll Be There
+14. I’ll Be There
 
   Dave Koz
