@@ -26,7 +26,7 @@
 > 95998fa4ba72fcdebb744e67a930eb6e | 
 > 579356406 | B00O6DOQES
 
-A. Young & M. Young, B. Scott, AC/DC
+A. Young & M. Young, B. Scott
 01. Dirty Deeds Done Dirt Cheap
 02. Love at First Feel
 03. Big Balls
