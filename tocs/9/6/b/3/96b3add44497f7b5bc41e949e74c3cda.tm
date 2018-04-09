@@ -78,7 +78,7 @@ Stephen Stills
   Crosby,, Stills,, Nash & Young
 
 Neil Young
-09. Country Girl: A. Whiskey Boot Hill / B. Down, Down, Down / C major. “Country Girl” (I Think You’re Pretty)
+09. Country Girl: A. Whiskey Boot Hill / B. Down, Down, Down / C. "Country Girl" (I Think You're Pretty)
 
   Greg Reeves, Bass
   Dallas Taylor, Drumset & Percussion
