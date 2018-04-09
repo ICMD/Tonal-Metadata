@@ -26,7 +26,7 @@
 >  | 
 >  | B000YAPJHA
 
-Colin Greenwood, Ed O'Brien, Jonny Greenwood, Thom Yorke & Radiohead
+Colin Greenwood, Ed O'Brien, Jonny Greenwood, Thom Yorke
 01. Airbag
 02. Paranoid Android
 03. Subterranean Homesick Alien
