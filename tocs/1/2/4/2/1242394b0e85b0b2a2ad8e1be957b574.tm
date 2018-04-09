@@ -34,7 +34,7 @@ A. Young & M. Young, B. Scott, AC/DC
 A. Young & M. Young, AC/DC
 04. Soul Stripper
 
-J. Williams & traditional] – Big Joe Williams
+Traditional – Big Joe Williams
 05. Baby, Please Don’t Go
 
   AC/DC
