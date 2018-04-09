@@ -1,4 +1,4 @@
-> EVER AFTER
+> Ever After
 > Fayray
 > 1 / 1
 > Pop | 2000 | Antinos Records
