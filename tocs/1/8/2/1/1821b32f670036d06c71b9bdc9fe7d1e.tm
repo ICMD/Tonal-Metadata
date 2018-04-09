@@ -6,26 +6,26 @@
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
-Opus 57 Sonate No. 23 'Appasionata'
+Piano Sonata No. 23 in F minor, Op. 57 “Appassionata”
 
-  01. 1 Allegro Assai
-  02. 2 Andante con Moto
-  03. 3 Allegro Ma Non Troppo
+  01.    I. Allegro assai
+  02.   II. Andante con moto
+  03.  III. Allegro ma non troppo: Presto
 
-04. WoO 80 32 Variations en Ut Mineur
+04. 32 Variations in C minor, WoO 80
 
-Opus 49 No. 1 Sonate No. 19
+Piano Sonata No. 19 in G minor, Op. 49 No. 1
 
-  05. 1 Grave, Allegro Molto E con Brio
-  06. 2 Adagio Cantabile
+  05.    I. Grave, Allegro Molto E con Brio
+  06.   II. Adagio Cantabile
 
-Opus 2 No. 1 Sonate No. 1
+Piano Sonata No.1, Op.2 No.1
 
-  07. 1 Allegro
-  08. 2 Adagio
-  09. 3 Menuetto, Trio
-  10. 4 Prestissimo
+  07.    I. Allegro
+  08.   II. Adagio
+  09.  III. Menuetto, Trio
+  10.   IV. Prestissimo
 
-11. WoO 59 Klavierstück 'Für Elise'
+11. Bagatelle No. 25 in A minor (WoO 59, Bia 515) “Für Elise”
 
   Edna Stern
