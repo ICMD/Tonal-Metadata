@@ -5,7 +5,6 @@
 > 15f3b314f5ee9e5620c795f3b026a514 | 
 >  | B000051TD6
 
-Fayray
 01. Give It Back
 02. No, Never (Album Version)
 03. その愛のかたち
