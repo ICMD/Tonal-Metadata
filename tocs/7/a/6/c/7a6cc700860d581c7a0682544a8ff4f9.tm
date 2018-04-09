@@ -9,7 +9,7 @@
 > Fela Kuti
 > 5 / 27 BOXSET
 > Pop | 2010 | Wrasse Records
->  | 
+> b73b0f0a2fe883e44988a340dc0c5107 | 
 >  | B0042FXINK
 
 Fela Kuti, Africa '70 & Ginger Baker
