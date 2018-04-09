@@ -21,5 +21,4 @@ Angus Young & Malcolm Young
   Stevie Young, Guitar
   Cliff Williams, Bass Guitar
   Brian Johnson, Lead Vocals
-  AC/DC
   Phil Rudd, Drums
