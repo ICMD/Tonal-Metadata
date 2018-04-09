@@ -1,10 +1,11 @@
-> COVER 70’s
-> 柴田淳
+> Cover 70’s
+> Jun Shibata
 > 1 / 1
-> Pop | 2012 | VICTOR ENTERTAINMENT
-> db51095dff91e359920a630c27584c08 | 
->  | 
+> Pop | 2012 | Victor
+> 53a81ce6a77398ab76485fb2d3ab7f02 | 
+>  | B00915ELPK
 
+Jun Shibata
 01. 異邦人
 02. みずいろの雨
 03. 迷い道
