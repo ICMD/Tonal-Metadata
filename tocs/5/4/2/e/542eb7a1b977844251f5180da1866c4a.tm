@@ -1,30 +1,37 @@
 > All Things Must Pass
 > George Harrison
 > 1 / 2
-> Pop | 2001 | Capitol
-> 5078bcb1ada5aa7b79a23a0340c87705 | 
->  | 
+> Pop | 2014 | EMI
+> 471f71b0a980c8907fbdddadcc8a472d | 
+> 908966052, 909526483 | B00NIV73US, B00MI7120K, B00005UKE0, B00MB7SANE, B01MXVPMRP, B074SYQ2XP, B00Q50TTJW, B00006ZUNQ, B00005I6UR
 
-> All Things Must Pass
-> ＨＡＲＲＩＳＯＮ ＧＥＯＲＧＥ
-> 1 / 3
-> Rock | 1970 | 
-> 5078bcb1ada5aa7b79a23a0340c87705 | 
->  | 
+> The Apple Years 1968–75
+> George Harrison
+> 3 / 7 BOXSET
+> Rock | 2014 | Apple Records
+> 8f968e276136ec1d9cfb6c846b755e7d | 
+>  | B00NUJJ108, B00MG4CUH4, B01KAPMFSE
 
+George Harrison & Bob Dylan
 01. I’d Have You Anytime
+
+George Harrison
 02. My Sweet Lord
 03. Wah – Wah
 04. Isn’t It a Pity (Version One)
 05. What is Life
+
+Bob Dylan
 06. If Not for You
+
+George Harrison
 07. Behind That Locked Door
 08. Let It Down
 09. Run of the Mill
-10. I Live for You [Bonus Track]
-11. Beware of Darkness [Bonus Track]
-12. Let It down [Bonus Track]
-13. What is Life [Bonus Track]
+10. I Live for You (Bonus)
+11. Beware of Darkness (Version One: Bonus Track)
+12. Let It down (Original Guitar and Vocal Version: Bonus Track)
+13. What is Life (Backing Track: Bonus Track)
 14. My Sweet Lord (2000) [Bonus Track]
 
   George Harrison
