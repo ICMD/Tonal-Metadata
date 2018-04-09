@@ -19,7 +19,6 @@
 > 30ac53623200c5e7acd2af2dff56a3f8 | 
 > 430442758 | B003SH6GTG
 
-Fiona Apple
 01. On the Bound
 02. To Your Love
 03. Limp
