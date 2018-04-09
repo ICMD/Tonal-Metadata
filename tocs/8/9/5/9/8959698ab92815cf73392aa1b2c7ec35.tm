@@ -25,8 +25,6 @@ Arne Domnérus
 
 Modest Mussorgsky
 07. Nacht Auf Dem Kahlen Berge
-
-no artist]
 08. Pegel – Einstellton (Links)
 09. Pegel – Einstellton (Rechts)
 10. Pegel – Einstellton (Beidseitig)
