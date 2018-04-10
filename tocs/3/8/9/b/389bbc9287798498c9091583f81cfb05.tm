@@ -2,9 +2,10 @@
 > A Place to Bury Strangers
 > 1 / 1
 > Indie Rock | 2015 | Dead Oceans
-> fe06d71af3a3c348c41553f156fb798e | 
->  | 
+> 1c24e642add4d39231e90c6b6e22a899 | 
+> 938432201 | B00PUWTMGQ, B01G65NOQ4, B00PRL17SG
 
+A Place to Bury Strangers
 01. Supermaster
 02. Straight
 03. Love High
