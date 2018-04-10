@@ -1,5 +1,5 @@
 > 21
-> アデル
+> Adele
 > 1 / 1
 > Pop | 2011 | Hostess Entertainment Unlimited.
 > 33936f84cf7fb11eb32d6a05c27b73ba | 
