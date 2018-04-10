@@ -1,29 +1,67 @@
-> ULTRA BLUE
-> 宇多田ヒカル
+> Ultra Blue
+> Utada Hikaru
 > 1 / 1
-> R&B | 2006 | 東芝EMI
-> c025762e2f95380e45ac261a7d636d2d | 
->  | 
+> R&B | 2006 | EASTWORLD
+> 30ebef3913eb24476bd85f590b69d7db | 
+> 1315512848, 1319388775 | B077V88133, B002766BN0, B000F9UE8E, B01KB3HGY8, B01G7O8WHA, B01KAVX708, B000G04VMC
 
+Hikaru Utada
 01. This is Love
-02. Keep Tryin'
-03. BLUE
-04. 日曜の朝
-05. Making Love
-06. 誰かの願いが叶うころ
-07. COLORS
 
-  宇多田ヒカル
+  Utada Hikaru
+
+02. Keep Tryin'
+
+  Dave Carpenter, Bass
+  Matt Rohde, Keyboard
+  Utada Hikaru
+
+03. Blue
+04. Nichiyou No Asa
+05. Making Love
+
+  Utada Hikaru
+
+06. Darekano Negaiga Kanaukoro
+
+  Tsuyoshi Kon, Acoustic Guitar
+  Utada Hikaru
+
+07. Colors
+
+  Kei Kawano, Keyboard
+  Great Eida Strings, Violins
+  Utada Hikaru
+  Masashi Abe Cello Octet
 
 08. One Night Magic
 
   宇多田ヒカル
-  Yamada Masashi
+  Utada Hikaru
+  Masashi Yamada, Background Vocals & Guest
 
-09. 海路
-10. WINGS
+09. Kairo
+
+  Utada Hikaru
+
+10. Wings
+
+  Hideyo Takakuwa, Flute
+  Utada Hikaru
+
 11. Be My Last
-12. Eclipse (Interlude)
-13. Passion
 
-  宇多田ヒカル
+  Tsuyoshi Kon, Acoustic Guitar
+  Forrest Robinson, Drums
+  Utada Hikaru
+
+12. Eclipse: Interlude
+
+  Utada Hikaru
+
+13. Passion (Single Version)
+
+  Ben Mauro, Guitar
+  Forrest Robinson, Drums
+  Matt Rohde, Keyboard & Piano
+  Utada Hikaru
