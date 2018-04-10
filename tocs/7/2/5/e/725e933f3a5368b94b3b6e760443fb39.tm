@@ -1,5 +1,5 @@
 > Exodus
-> Utada Hikaru
+> 宇多田ヒカル
 > 1 / 1
 > Pop | 2004 | Island Records
 > 8c95f52a03be20fbd626647486ebe923 | 
