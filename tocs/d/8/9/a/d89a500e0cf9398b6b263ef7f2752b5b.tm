@@ -1,21 +1,65 @@
 > Distance
-> 宇多田ヒカル
+> Hikaru Utada
 > 1 / 1
-> R&B | 2001 | 東芝EMI
-> 4911dffbe01e6eb750564833c2cae319 | 
->  | 
+> R&B | 2001 | EASTWORLD
+> ff41c7edfa6804f6647567ea4ff21645 | 
+>  | B077V21G7Q, B00005HV8J, B019GR5FB6
 
-01. Wait & See ～リスク～
+Hikaru Utada
+01. Wait & See 〜リスク〜
+
+  Jimmy Jam, Additional
+  Terry Lewis, Additional
+
 02. Can You Keep a Secret?
+
+  Yuji Toriyama, Guitars
+
 03. DISTANCE
+
+  Kei Kawano, Guitars
+
 04. サングラス
+
+  Kenji Suzuki, Guitars
+
+TAKURO
 05. ドラマ
+
+  Yūichirō Honda, Guitars
+
+Hikaru Utada
 06. Eternally
-07. Addicted to You [UP – in – HEAVEN MIX]
+
+  Kei Kawano, Piano
+  Bashiri Johnson, Percussion
+
+07. Addicted to You (Up – in – Heaven Mix)
+
+  Jimmy Jam, Additional
+  Terry Lewis, Additional
+
 08. For You
+
+  Kei Kawano, Guitars
+
 09. 蹴っ飛ばせ!
+
+  Yuji Toriyama, Guitars
+
 10. Parody
+
+  Saito Mitsutaka, Bass
+  John Blackwell, Drums
+  Tony Royster Jr., Drums
+  Hironori Akiyama, Guitars
+
+TAKURO
 11. タイム・リミット
+
+  Rodney Jerkins, Background Vocals
+
+Hikaru Utada
 12. 言葉にならない気持ち
 13. HAYATOCHI – REMIX
 
