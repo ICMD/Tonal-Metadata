@@ -1,10 +1,11 @@
 > Sometimes Just the Sky
 > Mary Chapin Carpenter
 > 1 / 1
-> Country & Folk | 2018 | Lambent Light
-> 97545af9e11b6d7306e796002ba0db4a | 
->  | 
+> Country & Folk | 2018 | Lambent Light Records
+> ae67afe8fa5f25dd957bd20a5af28391 | 
+>  | B078KG7DZ2, B0794M5M7X
 
+Mary Chapin Carpenter
 01. Heroes and Heroines
 02. What Does It Mean to Travel
 03. I Have a Need for Solitude
