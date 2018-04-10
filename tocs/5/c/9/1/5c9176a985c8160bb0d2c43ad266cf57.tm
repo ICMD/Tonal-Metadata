@@ -47,7 +47,7 @@ Hikaru Utada
 
 08. A.S.A.P.
 
-  宇多田ヒカル
+  Hikaru Utada, Lead Vocals
 
 09. 嘘みたいな I Love You
 
@@ -65,3 +65,4 @@ Hikaru Utada
 12. 光
 
   Hironori Akiyama, Acoustic Guitar
+  Hikaru Utada, Lead Vocals
