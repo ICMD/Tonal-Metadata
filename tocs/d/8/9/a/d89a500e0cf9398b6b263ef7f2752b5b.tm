@@ -1,5 +1,5 @@
 > Distance
-> Hikaru Utada
+> 宇多田ヒカル
 > 1 / 1
 > R&B | 2001 | EASTWORLD
 > ff41c7edfa6804f6647567ea4ff21645 | 
