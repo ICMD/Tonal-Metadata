@@ -1,10 +1,11 @@
 > Sung Tongs
 > Animal Collective
 > 1 / 1
-> Indie Rock | 2004 | FatCat
-> 7b3c65a17a3014ef1f1d041af108244d | 
->  | 
+> Indie Rock | 2004 | FatCat Records
+> f813b5aa7947bdcdd03a363526346fe3 | 
+> 1052135735 | B0171X8JHY, B0001J3VII, B073JZRZ4R, B01KATOZLK
 
+Animal Collective
 01. Leaf House
 02. Who Could Win a Rabbit
 03. The Softest Voice
