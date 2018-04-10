@@ -1,6 +1,6 @@
 > X (Deluxe Physical Edition)
 > Ed Sheeran
-> 1 / 3
+> 1 / 1
 > Pop | 2014 | Asylum Records
 > 25ce4abcab4b214c36a60aa1e32fa176 | 
 > 1050204616 | B0176HWO5I, B016S5Z8N4, B01KAU15TO, B01K8KQM6W, B01AB85V6I, B017GGXK0W
