@@ -1,5 +1,5 @@
 > DEEP RIVER
-> Hikaru Utada
+> 宇多田ヒカル
 > 1 / 1
 > R&B | 2002 | EASTWORLD
 > 5e48296ba45282605fe4b3e01a5472bd | 
