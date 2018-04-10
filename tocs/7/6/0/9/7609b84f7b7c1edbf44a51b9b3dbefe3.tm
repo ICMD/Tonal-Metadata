@@ -1,9 +1,9 @@
 > Scared Famous
 > Ariel Pink’s Haunted Graffiti
 > 1 / 1
-> Indie Rock | 2007 | REDEYE Records
-> b1fce6b9c9eaed0047e8ca102820f038 | 
->  | 
+> Indie Rock | 2007 | Hall of records
+> 510569ed91b2b6f964627c2ebeb6e3ff | 
+> 1089872993 | B01CEB40BC, B000VDDB4S, B01G47LT9I
 
 01. Gopacapulco
 02. Howling at the Moon
