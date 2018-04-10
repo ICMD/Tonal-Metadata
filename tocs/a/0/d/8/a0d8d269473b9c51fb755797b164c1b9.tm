@@ -9,7 +9,7 @@ Sergei Rachmaninoff (1873 – 1943)
 Piano Concerto No. 3 in D minor, Op. 30
 
   01.    I. Allegro ma non tanto
-  02.   II. Intermezzo: II. Adagio
+  02.   II. Intermezzo: Adagio
   03.  III. Finale: Alla breve
 
 Sergey Prokofiev (1891 – 1953)
