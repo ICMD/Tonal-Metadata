@@ -6,7 +6,7 @@
 > 1162506349 | B01N8VWP2W, B013J9XB7C, B01KATSWIM
 
 Richard Wagner (1813 – 1883)
-Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96
+Die Meistersinger von Nürnberg, WWV 96
 
   Act 1
   01. Prelude
