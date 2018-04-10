@@ -18,12 +18,12 @@ Erik Satie
 Sholom Secunda
 05. Bei Mir Bist Du Schoen
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
 
 Claude Debussy
 06. The Tears of Billie Blue
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
   Bugge Wesseltoft, Piano
 
 Lars Danielsson
@@ -35,15 +35,15 @@ Gabriel Fauré
 Nikolai Rimsky-Korsakov
 09. Scheherazade
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
 
 Michel Legrand
 10. I Will Say Goodbye
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
   Palle Mikkelborg, Trumpet
 
-Caecilie Norby
+Cæcilie Norby
 11. Simple Theme
 
 Michel Legrand
@@ -52,9 +52,9 @@ Michel Legrand
 Lars Danielsson
 13. Forever You
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
 
-Caecilie Norby
+Cæcilie Norby
 14. Nocturne
 
   Katrine Gislinge, Piano
@@ -62,4 +62,4 @@ Caecilie Norby
 Erik Norby
 15. How Oft
 
-  Caecilie Norby, Vocal
+  Cæcilie Norby, Vocal
