@@ -1,5 +1,5 @@
 > Fantôme
-> Utada Hikaru
+> 宇多田ヒカル
 > 1 / 1
 > R&B | 2016 | Virgin Records
 > 6896a54624ccc3871ec00c5d760a7d74 | 
