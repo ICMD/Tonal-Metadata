@@ -16,13 +16,13 @@ Hikaru Utada
   Matt Rohde, Keyboard
   Utada Hikaru
 
-03. Blue
-04. Nichiyou No Asa
+03. BLUE
+04. 日曜の朝
 05. Making Love
 
   Utada Hikaru
 
-06. Darekano Negaiga Kanaukoro
+06. 誰かの願いが叶うころ
 
   Tsuyoshi Kon, Acoustic Guitar
   Utada Hikaru
@@ -40,11 +40,11 @@ Hikaru Utada
   Utada Hikaru
   Masashi Yamada, Background Vocals & Guest
 
-09. Kairo
+09. 海路
 
   Utada Hikaru
 
-10. Wings
+10. WINGS
 
   Hideyo Takakuwa, Flute
   Utada Hikaru
