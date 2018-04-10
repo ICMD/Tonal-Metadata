@@ -15,13 +15,13 @@
 Adele Adkins
 01. Daydreamer
 
-  Adele 19, Guitar & Lead Vocals
+  Adele, Guitar & Lead Vocals
   Rec. RAK, London
 
 02. Best for Last
 
   Jack Peñate, Background Vocals
-  Adele 19, Bass Guitar & Lead Vocals
+  Adele, Bass Guitar & Lead Vocals
   The Life Gospel Choir, Background Vocals
   Rec. Konk Studios, London
 
@@ -31,7 +31,7 @@ Adele Adkins, Eg White & Francis White
   Perry Montague-Mason, Strings
   Eg White, Instrument
   Ed Starink, Strings
-  Adele 19, Lead Vocals
+  Adele, Lead Vocals
   Rec. Angel Studios, Islington
 
 Adele Adkins & Sacha Skarbek
@@ -45,13 +45,13 @@ Adele Adkins & Sacha Skarbek
   Pete Biggins, Drums & Percussion
   Sam Koppelman, Glockenspiel
   Ed Starink, Strings
-  Adele 19, Lead Vocals
+  Adele, Lead Vocals
   Rec. Olympic Studios, London
 
 Adele Adkins
 05. Crazy for You
 
-  Adele 19, Guitar & Lead Vocals
+  Adele, Guitar & Lead Vocals
   Wired Strings
   Rec. The Town House, Shepherd’s Bush
 
@@ -61,13 +61,13 @@ Adele Adkins & Eg White
   Perry Montague-Mason, Strings
   Eg White, Instrument
   Ed Starink, Strings
-  Adele 19, Lead Vocals
+  Adele, Lead Vocals
   Rec. Angel Studios, Islington
 
 Adele Adkins
 07. First Love
 
-  Adele 19, Celesta & Lead Vocals
+  Adele, Celesta & Lead Vocals
   Rec. RAK, London
 
 Adele Adkins, Leon Michaels, Jeff Silverman, Nick Movshon & Clay Holley
@@ -77,14 +77,14 @@ Adele Adkins, Leon Michaels, Jeff Silverman, Nick Movshon & Clay Holley
   Louis Sharpe, Drums
   Neil Cowley, Hammond Organ & Organ
   Tom Driessler, Bass & Tambourine
-  Adele 19, Cowbell & Lead Vocals
+  Adele, Cowbell & Lead Vocals
   Rec. Mayfair Studios, London
 
 Bob Dylan
 09. Make You Feel My Love
 
   Neil Cowley, Piano
-  Adele 19, Bass Guitar & Lead Vocals
+  Adele, Bass Guitar & Lead Vocals
   Wired Strings
   Rec. The Town House, Shepherd’s Bush
 
@@ -94,7 +94,7 @@ Adele Adkins
   Tom Driessler, Bass
   Ben Thomas, Guitar
   Seb Roachford, Drums
-  Adele 19, Guitar & Lead Vocals
+  Adele, Guitar & Lead Vocals
   Rec. Konk Studios, London
 
 Adele Adkins & Eg White
@@ -103,7 +103,7 @@ Adele Adkins & Eg White
   Perry Montague-Mason, Strings
   Eg White, Instrument
   Ed Starink, Strings
-  Adele 19, Lead Vocals
+  Adele, Lead Vocals
 
 Adele Adkins & Wil Malone
 12. Hometown Glory
@@ -113,5 +113,5 @@ Adele Adkins & Wil Malone
   Perry Montague-Mason, Strings
   Jim Abbiss, Glockenspiel
   Ed Starink, Strings
-  Adele 19, Lead Vocals
+  Adele, Lead Vocals
   Rec. Angel Studios, Islington
