@@ -2,8 +2,8 @@
 > Gewandhausorchester Leipzig & Andris Nelsons
 > 1 / 1
 > Classical | 2018 | Deutsche Grammophon Classics
-> 47fd70697c6fa0de0a3f5ff528f8ce95 | 
->  | 
+> 5f3451fac270826941142086742ac5f8 | 
+>  | B07BSTH68G, B079PH4S3G
 
 Richard Wagner (1813 – 1883)
 01. Götterdämmerung, WWV 86d: Act 3: Siegfried’s Funeral March
@@ -16,4 +16,4 @@ Symphony No. 7 in E major, WAB 107
   04. Ed. Haas – 3. Scherzo. Sehr schnell – Trio. Etwas langsamer
   05. Ed. Haas – 4. Finale. Bewegt, doch nicht schnell
 
-  Leipzig Gewandhaus Orchestra
+  Andris Nelsons/Gewandhausorchester Leipzig
