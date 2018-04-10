@@ -1,10 +1,11 @@
 > Rude System
-> Ballistic Brothers
+> The Ballistic Brothers
 > 1 / 1
-> Electronica | 1997 | 
+> Electronica | 1997 | Soundboy Entertainment
 >  | 
 >  | 
 
+Ballistic Brothers
 01. Tuning Up!
 02. Soul Catcher
 03. Marching On
