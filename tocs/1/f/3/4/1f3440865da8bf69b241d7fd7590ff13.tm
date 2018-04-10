@@ -1,46 +1,41 @@
 > Fantôme
-> Utada Hikaru
+> 宇多田ヒカル
 > 1 / 1
-> R&B | 2016 | Virgin Records
-> 6896a54624ccc3871ec00c5d760a7d74 | 
-> 1149548791, 1157796723 | B01M0VH5JN, B00004R7IE, B01I4GDLZW, B01M1ETNCC, B01LXAPMHC
+> R&B | 2016 | UNIVERSAL-MUSIC
+> e3e71e227851fdb98d2c13e1639face1 | 
+>  | 
 
-Hikaru Utada
-01. Michi
-02. Ore No Kanojo
-03. Hanataba Wo Kimini
+01. 道路
+02. 我的女友
+03. 將花束獻給你
 
-  Hikaru Utada
+  宇多田ヒカル
 
-04. Nijikan Dake No Vacance
+04. 只有兩個小時的假期
 
-  Ringo Shiina
-  Hikaru Utada
+  宇多田ヒカル
+  椎名林檎
 
-05. Ningyo
+05. 人魚
 
-  Hikaru Utada
+  宇多田ヒカル
 
-06. Tomodachi
+06. 朋友 with 小袋成彬
 
-  Nariaki Obukuro
-  Hikaru Utada
+  宇多田ヒカル
+  小袋成彬
 
-07. Manatsu No Tooriame
-08. Kouya No Ookami
+07. 盛夏的陣雨
+08. 荒野之狼
 
-  Hikaru Utada
+  宇多田ヒカル
 
-Hikaru Utada & KOHH
-09. Boukyaku
+09. 忘却
 
-  Hikaru Utada
+  宇多田ヒカル
   KOHH
 
-Hikaru Utada
-10. Jinsei Saikou No Hi
+10. 人生最棒的一天
+11. 櫻花紛飛
 
-Paul Carter & Hikaru Utada
-11. Sakura Nagashi
-
-  Hikaru Utada
+  宇多田ヒカル
