@@ -14,18 +14,14 @@ PAUL EPWORTH & ADELE ADKINS
   Leo Taylor, Drums
   Paul Epworth, Acoustic Guitar & Bass & Electric Guitar & Percussion & Background Vocals
   Adele, Lead Vocals
-  アデル
 
-ライアン・テダー & ADELE ADKINS
+Adele Adkins
 02. Rumour Has It
-
-ADELE ADKINS & ライアン・テダー
 03. Turning Tables
 
   Adele, Lead Vocals
-  アデル
 
-Dan Wilson & ADELE ADKINS
+Adele Adkins & Dan Wilson
 04. Don’t You Remember
 
   Pino Palladino, Bass
@@ -44,16 +40,14 @@ Dan Wilson & ADELE ADKINS
   Terry Young
   Julia Waters
   Jim Gilstrap
-  アデル
   Oren Waters, Chorus Master
 
-Fraser T. Smith & ADELE ADKINS
+Fraser T. Smith & Adele Adkins
 05. Set Fire to the Rain
 
   Adele, Lead Vocals
-  アデル
 
-PAUL EPWORTH & ADELE ADKINS
+Paul Epworth & Adele Adkins
 06. He Won’t Go
 
   Pino Palladino, Bass
@@ -72,16 +66,14 @@ PAUL EPWORTH & ADELE ADKINS
   Terry Young
   Julia Waters
   Jim Gilstrap
-  アデル
   Oren Waters, Chorus Master
 
-ADELE ADKINS & フランシス・ホワイト
+Adele Adkins
 07. Take It All
 
   Adele, Lead Vocals
-  アデル
 
-PAUL EPWORTH & ADELE ADKINS
+Paul Epworth & Adele Adkins
 08. I’ll Be Waiting
 
   Ray Carless, Tenor Saxophone
@@ -92,12 +84,11 @@ PAUL EPWORTH & ADELE ADKINS
   Paul Epworth, Acoustic Guitar & Bass & Electric Guitar & Percussion & Background Vocals
   Ben Thomas, Acoustic Guitar & Electric Guitar
   Adele, Lead Vocals
-  アデル
 
-ADELE ADKINS, Dan Wilson & グレッグ・ウェルズ
+Adele Adkins & Dan Wilson
 09. One and Only
 
-ボリス・ウィリアムス, ロバート・スミス, Lol Tolhurst, Simon Gallup, Porl Thompson (The Cure) & Roger O'Donnell
+Lol Tolhurst, Simon Gallup, Porl Thompson (The Cure) & Roger O'Donnell
 10. Lovesong
 
   Pino Palladino, Bass
@@ -116,30 +107,25 @@ ADELE ADKINS, Dan Wilson & グレッグ・ウェルズ
   Terry Young
   Julia Waters
   Jim Gilstrap
-  アデル
   Oren Waters, Chorus Master
 
-ADELE ADKINS & Dan Wilson
+Adele Adkins & Dan Wilson
 11. Someone like You
 
   Dan Wilson, Piano
   Adele, Lead Vocals
-  アデル
 
-ADELE ADKINS
+Adele Adkins
 12. I Found a Boy (Bonus Track)
 
   Rec. Unknown
 
-ADELE ADKINS & ライアン・テダー
+Adele Adkins & Samuel Dixon
 13. Turning Tables (Live Acoustic)
 
-ADELE ADKINS & Dan Wilson
+Adele Adkins & Dan Wilson
 14. Don’t You Remember (Live Acoustic)
-
-Dan Wilson & ADELE ADKINS
 15. Someone like You (Live Acoustic)
 
   Adele, Lead Vocals
-  アデル
   Rec. Live Recording
