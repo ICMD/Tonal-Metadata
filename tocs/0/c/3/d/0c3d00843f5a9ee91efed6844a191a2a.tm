@@ -1,5 +1,5 @@
 > Ultra Blue
-> Utada Hikaru
+> 宇多田ヒカル
 > 1 / 1
 > R&B | 2006 | EASTWORLD
 > 30ebef3913eb24476bd85f590b69d7db | 
