@@ -17,7 +17,7 @@ Piano Concerto No. 2 in G minor, Op. 16
 
   04.    I. Andantino – Allegretto
   05.   II. Scherzo: Vivace
-  06.  III. Intermezzo: III. Allegro moderato
+  06.  III. Intermezzo: Allegro moderato
   07.   IV. Finale: Allegro tempestoso
 
   Yuja Wang, Piano
