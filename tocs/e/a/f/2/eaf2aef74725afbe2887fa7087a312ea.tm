@@ -5,44 +5,44 @@
 > 203e0b84d0d289fd18e23f0fa2cb21e1 | 
 > 695534278 | B000005GZV
 
-Dimitri Tiomkin, Ned Washington & Caecilie Norby
+Dimitri Tiomkin, Ned Washington & Cæcilie Norby
 01. Wild is the Wind
 
-Caecilie Norby
+Cæcilie Norby
 02. A Brand New Life
 
-Bob Troup, Neal Hefti & Caecilie Norby
+Bob Troup, Neal Hefti & Cæcilie Norby
 03. Girl Talk
 
-Caecilie Norby
+Cæcilie Norby
 04. I've Been to Town
 
-Dubose Heyward, George Gershwin, Ira Gershwin & Caecilie Norby
+Dubose Heyward, George Gershwin, Ira Gershwin & Cæcilie Norby
 05. Summertime
 
-Jimmy Webb & Caecilie Norby
+Jimmy Webb & Cæcilie Norby
 06. By the Time I Get to Phoenix
 
-Caecilie Norby & Chick Corea
+Cæcilie Norby & Chick Corea
 07. All You Could Ever Want
 
-Don Raye & Caecilie Norby
+Don Raye & Cæcilie Norby
 08. Gentle is My Love
 
-  Caecilie Norby
+  Cæcilie Norby
 
-Caecilie Norby
+Cæcilie Norby
 09. A Feather in the Wind
 
-  Caecilie Norby
+  Cæcilie Norby
   Er in the Wind
 
 10. Night Road
 
-Mayfield & Caecilie Norby
+Mayfield & Cæcilie Norby
 11. Man’s Got Soul
 
-Caecilie Norby
+Cæcilie Norby
 12. So It Is
 
-  Caecilie Norby
+  Cæcilie Norby
