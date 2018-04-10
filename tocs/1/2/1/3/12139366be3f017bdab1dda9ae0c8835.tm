@@ -1,5 +1,5 @@
 > This is the One
-> Hikaru Utada
+> 宇多田ヒカル
 > 1 / 1
 > Pop | 2009 | Island
 > a6d5ea42ade500fddac50fa60a6e1615 | 
