@@ -1,5 +1,5 @@
 > 19
-> Adele 19
+> Adele
 > 1 / 1
 > Pop | 2008 | XL Recordings
 > 17f072d2c5e46a530dbeffb4d128fdaa | 
