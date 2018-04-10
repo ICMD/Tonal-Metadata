@@ -1,11 +1,11 @@
-> Alberte Winding: Benjamin Koppel
+> Benjamin Koppel
 > Alberte Winding & Benjamin Koppel
 > 1 / 1
-> Children's | 2006 | Cowbell Music
->  | 
->  | 
+> Children's | 2001 | Cowbella Music
+> c980479c665d813e19760d06ac3f175a | 
+> 145029675 | B000QZZJ78
 
-Alberte Winding
+Alberte Winding & Benjamin Koppel
 01. Dybt Hælder Året Sin Gang
 02. Min Nats Hyacinther
 03. Fred Hviler over Land & By
