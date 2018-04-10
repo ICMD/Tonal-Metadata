@@ -1,46 +1,46 @@
-> Wagner: Die Meistersinger von Nürnberg, Orchester der Bayreuther Festspiele, Hans Knappertsbusch
+> Wagner: Die Meistersinger von Nürnberg, WWV 96
 > Hans Knappertsbusch & Bayreuth Festival Orchestra
 > 1 / 4
-> Classical | 1960 | Orfeo
-> 67f787f835e9a3b3b2fccc1cce0438c4 | 
->  | 
+> Classical | 2016 | Orfeo
+> 7ba87ab4f35a94ecfbcfbd9d957fed4e | 
+> 1162506349 | B01N8VWP2W, B013J9XB7C, B01KATSWIM
 
 Richard Wagner (1813 – 1883)
 Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
 
   01. Prelude
-  02. Da Zu Dir der Heiland Kam
+  02. Da zu dir der Heiland kam
 
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
   03. Verweilt! Ein Wort!
 
     Wolfgana Windgassen
-    Elisabeth Grümmer
-    Elisabeth Schärtel
-    Bayreuth Festival Orchestra
+    Elisabeth Grummer
+    Elisabeth Schartel
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  04. Da Bin Ich!
+  04. Da bin ich!
 
     Gerhard Stolze
     Wolfgana Windgassen
-    Elisabeth Grümmer
-    Elisabeth Schärtel
-    Bayreuth Festival Orchestra
+    Elisabeth Grummer
+    Elisabeth Schartel
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  05. David, Was Stehst?
-  06. Mein Herr! Der Singer Meister – Schlag
-  07. Der Meister Tön' Und Weisen
+  05. David, was stehst?
+  06. Mein Herr! der Singer Meister – Schlag
+  07. Der Meister Tön' und Weisen
 
     Gerhard Stolze
     Wolfgana Windgassen
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  08. Seid Meiner Treue Wohl Versehen
+  08. Seid meiner Treue wohl versehen
 
     Theo Adam
     Karl Schmitt-Walter
@@ -48,37 +48,39 @@ Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
     Josef Greindl
     Wilfried Krug
     Egmont Koch
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  09. Zu Einer Freiung und Zunftberatung
+  09. Zu einer Freiung und Zunftberatung
 
     Ludwig Webber
     Theo Adam
-    Gerhard Stolze
     Josef Greindl
     Wilfried Krug
     Frithjof Sentpaul
     Harald Neukirch
+    Heinz-Günther Zimmermann
+    Hermann Winkler
     Eugen Fuchs
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  10. Das Schöne Fest, Johannistag
+  10. Das Schöne fest, Johannistag
 
     Ludwig Webber
     Theo Adam
     Karl Schmitt-Walter
+    Gerhard Stolze
     Josef Greindl
     Wilfried Krug
     Harald Neukirch
-    Egmont Koch
     Heinz-Günther Zimmermann
     Hermann Winkler
-    Bayreuth Festival Orchestra
+    Egmont Koch
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  11. Verzeiht, Vielleicht Schon Ginget Ihr Zu Weit
+  11. Verzeiht, vielleicht schon ginget ihr zu weit
 
     Ludwig Webber
     Theo Adam
@@ -87,14 +89,14 @@ Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
     Wilfried Krug
     Frithjof Sentpaul
     Harald Neukirch
-    Egmont Koch
     Heinz-Günther Zimmermann
     Hermann Winkler
+    Egmont Koch
     Hans Günter Nöcker
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  12. Dacht' Ich Mir’s Doch!
+  12. Dacht' ich mir’s doch!
 
     Ludwig Webber
     Theo Adam
@@ -103,13 +105,13 @@ Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
     Wilfried Krug
     Frithjof Sentpaul
     Harald Neukirch
-    Egmont Koch
     Heinz-Günther Zimmermann
     Hermann Winkler
-    Bayreuth Festival Orchestra
+    Egmont Koch
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  13. Am Stillen Herd in Winterszeit
+  13. Am stillen Herd in Winterszeit
 
     Ludwig Webber
     Karl Schmitt-Walter
@@ -117,24 +119,24 @@ Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
     Josef Greindl
     Wilfried Krug
     Egmont Koch
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  14. Was Euch Zum Liede Richt' Und Schnur
+  14. Was euch zum Liede Richt' und Schnur
 
     Ludwig Webber
     Karl Schmitt-Walter
     Wolfgana Windgassen
-    Bayreuth Festival Orchestra
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  15. Fanget An!
+  15. Fanget an!
 
-    Wolfgang Windgassen
-    Bayreuth Festival Orchestra
+    Wolfgana Windgassen
+    Bayreuther Festspiele
     Hans Knappertsbusch, Conductor
 
-  16. Seid Ihr Nun Fertig?
+  16. Seid ihr nun fertig?
 
   Ludwig Webber
   Theo Adam
@@ -143,8 +145,8 @@ Die Meistersinger von Nürnberg (The Mastersingers of Nuremberg), WWV 96, Act 1
   Wilfried Krug
   Frithjof Sentpaul
   Harald Neukirch
-  Egmont Koch
   Heinz-Günther Zimmermann
   Hermann Winkler
-  Bayreuth Festival Orchestra
+  Egmont Koch
+  Bayreuther Festspiele
   Hans Knappertsbusch, Conductor
