@@ -1,9 +1,9 @@
 > The Atlantic Albums Collection
 > Aretha Franklin
 > 5 / 16
-> R&B | 2015 | Rhino Atlantic
-> 0c22ae7375042788ea9c1ee1ed8690b5 | 
-> 1055455617 | B017JEJGSQ, B014QHQRW2, B01K8KV8WK
+> R&B | 2015 | Rhino/Atlantic
+> fd112dc55ccbe0593ec5af3f35dd867c | 
+>  | 
 
 Keith Richards & Mick Jagger
 01. (I Can’t Get No) Satisfaction
