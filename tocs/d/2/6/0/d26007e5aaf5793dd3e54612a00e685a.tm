@@ -14,10 +14,10 @@
 
 > The Atlantic Collection
 > Aretha Franklin
-> 3 / 11
-> R&B | 2014 | Rhino/Atlantic
-> fd112dc55ccbe0593ec5af3f35dd867c | 
->  | 
+> 3 / 11 BOXSET
+> R&B | 2014 | Rhino Atlantic
+> 7ebb1b938313594a2108c257d7ff4b63 | 
+> 933028915 | B017JEJGSQ
 
 > Atlantic Soul Legends: 20 Original Albums from the Iconic Atlantic Label
 > Various Artists
