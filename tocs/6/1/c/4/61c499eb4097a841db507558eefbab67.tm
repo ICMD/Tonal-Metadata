@@ -9,7 +9,7 @@
 > Aretha Franklin
 > 2 / 3 BOXSET
 > R&B | 1993 | Warner Strategic Marketing Germany
->  | 
+> a7a18a787e64d5e6464e34aceff1cb96 | 
 >  | 
 
 > The Atlantic Collection
