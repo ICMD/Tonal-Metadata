@@ -1,4 +1,4 @@
-> Bach: Sacred Cantatas, BWV 125 No. 127
+> Bach: Sacred Cantatas, BWV 125 – 127
 > Nikolaus Harnoncourt, Gustav Leonhardt
 > 1 / 1
 > Classical | 2007 | Warner
