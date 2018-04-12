@@ -2,8 +2,8 @@
 > Rachel Wammack
 > 1 / 1
 > Country & Folk | 2018 | RCA Nashville
-> 987f5e1aa60242e7b4fc9d69fc32e1bf | 
->  | 
+> 0afcfaa1ddf6f00b6f8e586b3761ec58 | 
+>  | B07CD81YXW
 
 01. Hard to Believe
 02. Closure
