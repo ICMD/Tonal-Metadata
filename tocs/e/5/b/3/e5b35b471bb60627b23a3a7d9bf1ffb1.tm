@@ -1,10 +1,11 @@
 > F
 > 福山雅治
 > 1 / 1
-> Pop | 2001 | UNIVERSAL-MUSIC
-> 1e22d9621acab5469c699bb50968d958 | 
->  | 
+> Pop | 2014 | Universal Music
+> 9d2842ee943830515e42d29752a22235 | 
+> 849122049 | B00005HXWH
 
+福山雅治 & Masaharu Fukuyama
 01. 友よ
 02. HEAVEN
 03. Venus
@@ -17,6 +18,8 @@
 10. Blues
 11. Carnival
 12. 家路
+
+泉谷しげる & Masaharu Fukuyama
 13. 春夏秋冬
 
   福山雅治
