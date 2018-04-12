@@ -9,7 +9,7 @@
 > Fiona Apple
 > 2 / 2 BOXSET
 > Rock | 2002 | Columbia
->  | 
+> e5e6c2fec4fe968b49854bbac37c6cfa | 
 > 252288461 | B00006NT0D
 
 > Original Album Classics: Fiona Apple
