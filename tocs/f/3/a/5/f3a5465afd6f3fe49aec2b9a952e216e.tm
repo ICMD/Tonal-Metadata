@@ -3,7 +3,7 @@
 > 1 / 1
 > Alternative | 2018 | Moderna Records
 >  | 
->  | 
+>  | B06X9VDV5W
 
 01. Futari
 
