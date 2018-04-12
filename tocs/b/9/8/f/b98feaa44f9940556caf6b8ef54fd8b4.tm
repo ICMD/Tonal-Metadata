@@ -2,7 +2,7 @@
 > Combustible Edison
 > 1 / 1
 > Electronica | 1994 | Sub Pop Records
->  | 
+> 439c8245cd3494a29ea1bc7e82585624 | 
 > 3248475 | B0000035G8, B01MQ5R81P, B000006XQE
 
 Rota & Combustible Edison
