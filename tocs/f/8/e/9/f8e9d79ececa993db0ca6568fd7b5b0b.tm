@@ -1,10 +1,11 @@
-> 魂リク
-> 福山雅治
-> 1 / 1
-> Pop | 2015 | UNIVERSAL-MUSIC
-> 722eee4968b24307875cdc717ccc55a0 | 
->  | 
+> 「魂リク」
+> Masaharu Fukuyama
+> 1 / 2
+> Pop | 2015 | Amuse Inc.
+> 38093d049b79b4eaf958b2a34d0ba5b0 | 
+>  | B00U60FRK2
 
+Masaharu Fukuyama
 01. 銭形平次
 02. 元気を出して
 03. 長崎は今日も雨だった
