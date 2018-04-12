@@ -1,30 +1,50 @@
 > Sarah
 > Sarah Àlainn
 > 1 / 1
-> Classical | 2014 | UNIVERSAL-MUSIC
-> d371e98ea724229db6c61534c3b425b5 | 
->  | 
+> Classical | 2014 | UCJ Japan
+> 152b0d1b2b9ec6a94019bc840750e7ca | 
+> 913576840, 918213762 | 
 
-> Sarah (Deluxe Edition)
-> Sarah Àlainn
-> 1 / 2
-> Classical | 2014 | 
->  | 
->  | 
-
+Giovanni Rota & Nino Rota (1911 – 1979)
 01. A Time for Us
-02. Beyond the Sky
-03. The Prayer
-04. Canta con Me
-05. Les Parapluies de Cherbourg
-06. 若者たち
-07. Turns to Light
-08. I Dreamed a Dream
-09. 鉄道員
-10. The Final Time Traveler
-11. 糸
-12. Dream as One
-13. Always with You
-14. Beyond the Sky
 
-  Sarah Àlainn
+Yasunori Mitsuda
+02. Beyond the Sky
+
+David Foster & Carole Bayer Sager
+03. The Prayer
+
+Gabriel Fauré (1845 – 1924)
+04. Canta con Me
+
+Michel Legrand (b. 1932)
+05. Les Parapluies de Cherbourg
+
+Masaru Satoh
+06. Wakamonotachi
+
+Sayoko Sato
+07. Turns to Light
+
+Claude-Michel Schönberg (b. 1944)
+08. I Dreamed a Dream
+
+Ryûichi Sakamoto (b. 1952)
+09. Poppoya
+
+Hideki Sakamoto
+10. The Final Time Traveler (English Version)
+
+Miyuki Nakajima
+11. Ito
+
+Yasunori Mitsuda
+12. Dream as One
+
+Masahiro Tobinai
+13. Always with You
+
+Yasunori Mitsuda
+14. Beyond the Sky (Japanese Version)
+
+  Sarah Àlainn, Lead Vocals
