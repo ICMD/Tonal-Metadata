@@ -1,4 +1,4 @@
-> Nine Track Mind
+> Nine Track Mind (Japan Special Edition)
 > Charlie Puth
 > 1 / 1
 > Pop | 2016 | Atlantic
