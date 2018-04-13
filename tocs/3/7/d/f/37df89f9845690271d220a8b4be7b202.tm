@@ -1,9 +1,9 @@
 > We Will Really Meet Again
-> Nathalie Loriers, Tineke Postma, Nicolas Thys
+> Nathalie Loriers, Tineke Postma & Nicolas Thys
 > 1 / 1
 > Jazz | 2016 | W.E.R.F.
-> 760c7214529f3c254b3305e1ee4bd126 | 
->  | 
+> 2060fbe177d53f70b251b687c41492c4 | 
+> 1173769285 | B01N8OPGKE
 
 01. Luiza
 02. Everything We Need
