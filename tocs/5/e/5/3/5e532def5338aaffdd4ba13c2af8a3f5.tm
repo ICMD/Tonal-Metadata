@@ -2,8 +2,8 @@
 > Nathaniel Rateliff & The Night Sweats
 > 1 / 1
 > Indie Rock | 2018 | Stax
-> 2e0640d003a0418533ad723dffa52dce | 
->  | 
+> 93f86259396d2070b12bedfb5d07722d | 
+>  | B0789LV7HC, B078W9WP13
 
 01. Shoe Boot
 02. Be There
