@@ -1,28 +1,28 @@
-> Berg: Lyrische Suite; Schoenberg: Verklärte Nacht
-> Jean-Guihen Queyras and Ensemble Resonanz
+> Berg: Lyrische Suite – Schoenberg: Verklärte Nacht
+> Jean-Guihen Queyras & Ensemble Resonanz
 > 1 / 1
 > Classical | 2014 | harmonia mundi
-> 7228b7e7b1875aeb487a338c925e7a0c | 
->  | 
+> ae00c328d68a3ef888936740fe023f74 | 
+> 778621615 | B00H89K9MK
 
 Alban Berg (1885 – 1935)
 Lyrische Suite
 
-  01. Allegretto giovale
-  02. Andante amoroso
-  03. Allegro misterioso
-  04. Adagio appassionato
-  05. Presto delirando
-  06. Largo desolato
+  01.    I. Allegretto giovale
+  02.   II. Andante amoroso
+  03.  III. Allegro misterioso
+  04.   IV. Adagio appassionato
+  05.    V. Presto delirando
+  06.   VI. Largo desolato
 
 Arnold Schoenberg (1874 – 1951)
 Verklärte Nacht
 
-  07. Grave
-  08. Molto rallentando
-  09. Pesante grave
-  10. Adagio
-  11. Adagio (molto tranquillo)
+  07.    I. Grave
+  08.   II. Molto rallentando
+  09.  III. Pesante grave
+  10.   IV. Adagio
+  11.    V. Adagio (molto tranquillo)
 
   Jean-Guihen Queyras
   Ensemble Resonanz
