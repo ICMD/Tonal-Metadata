@@ -1,4 +1,4 @@
-> Berg: Lyrische Suite – Schoenberg: Verklärte Nacht
+> Berg: Lyrische Suite; Schoenberg: Verklärte Nacht
 > Jean-Guihen Queyras & Ensemble Resonanz
 > 1 / 1
 > Classical | 2014 | harmonia mundi
