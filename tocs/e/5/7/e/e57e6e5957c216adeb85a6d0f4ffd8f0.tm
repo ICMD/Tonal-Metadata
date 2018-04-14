@@ -8,12 +8,12 @@
 Gustav Mahler (1860 – 1911)
 Das Lied von der Erde
 
-  01.    I. No. 1: Das Trinklied vom Jammer der Erde
-  02.   II. No. 2: Die Einsame im Herbst
-  03.  III. No. 3: Der Pavillon aus Porzellan
-  04.   IV. No. 4: Am Ufer
-  05.    V. No. 5: Der Trunkene im Frühling
-  06.   VI. No. 6: Der Abschied
+  01.    I. Das Trinklied vom Jammer der Erde
+  02.   II. Die Einsame im Herbst
+  03.  III. Der Pavillon aus Porzellan
+  04.   IV. Am Ufer
+  05.    V. Der Trunkene im Frühling
+  06.   VI. Der Abschied
 
   Thomas Moser, Tenor
   Cyprien Katsaris, Piano
