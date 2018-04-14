@@ -1,9 +1,9 @@
 > Hati Hati
 > Eero Koivistoinen Quartet
 > 1 / 1
-> Jazz | 2015 | Svart records
-> 66d5a3e4600cf8a6cae071ebff321bd4 | 
->  | 
+> Jazz | 2015 | Svart Records
+> 6b9b1de0890a4c8859681d9076e80be8 | 
+> 1265510879 | B0749JD7GH
 
 01. Hati Hati
 02. Seaside
