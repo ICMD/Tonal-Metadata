@@ -2,15 +2,8 @@
 > Vladimir Horowitz
 > 1 / 1
 > Classical | 1986 | Deutsche Grammophon
->  | 
+> accd55f2b5c8f33b0bac5a31e055af51 | 
 >  | B075GSLXTL, B0078U953I, B01LOYEEW0
-
-> 111 Years of Deutsche Grammophon: The Collectors’ Edition, 24: Horowitz in Moscow
-> Vladimir Horowitz
-> 1 / 1
-> Classical | 2009 | Deutsche Grammophon
-> 6582e280c8ac4f30eff88ae60dc44c99 | 
->  | B075GSLXTL
 
 > Complete Recordings on Deutsche Grammophon
 > Vladimir Horowitz
