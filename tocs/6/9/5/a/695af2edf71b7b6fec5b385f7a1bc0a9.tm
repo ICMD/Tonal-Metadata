@@ -72,7 +72,7 @@ Robert Schumann (1810 – 1856)
 Moritz Moszkowski (1854 – 1925)
 14. Morceau Caractéristique, Op. 36 No. 6 “Étincelles”: Allegro scherzando
 
-Franz Behr – Sergei Rachmaninoff (1873 – 1943)
+Franz Behr (1837 – 1898) – Sergei Rachmaninoff (1873 – 1943)
 15. Polka de W.R.: Allegretto
 
   Vladimir Horowitz, Piano
