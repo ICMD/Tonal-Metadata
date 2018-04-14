@@ -3,7 +3,7 @@
 > 1 / 1
 > Pop | 1992 | Reprise Records
 > 342dfb732d28bf26fe06659d7dee5513 | 
->  | 
+>  | B013H0Z7J8, B00YNO25CA, B017OL18IK
 
 01. Signe
 02. Before You Accuse Me
