@@ -1,9 +1,9 @@
 > Chopin: The Nocturnes
 > Maria João Pires
 > 1 / 2
-> Classical | 1996 | Deutsche Grammmophon
-> 1f6c79eff71a8a7e7046253a33ed674f | 
->  | 
+> Classical | 1996 | Deutsche Grammophon
+> 150789969218d10222547646b836a2b7 | 
+> 79126579, 96054614 | B000VHIVSU, B000001GPN, B00GNJA6OW, B01GW03P76, B07C969Z37
 
 > Chopin: Complete Edition
 > Martha Argerich, Claudio Arrau, Malcolm Martineau & Krystian Zimerman
