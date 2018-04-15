@@ -1,31 +1,30 @@
-> Bach: Well-Tempered Clavier, Book 1 (1969)
-> Sviatoslav Richter
-> 2 / 2
-> Classical | 1969 | 
-> 3e6f7733b1c25ab38ebc225ba62a49a7 | 
->  | 
+> Bach: Sviatoslav Richter 100, Vol. 32
+> Sviatoslav Richter & Johann Sebastian Bach
+> 1 / 1
+> Classical | 2015 | Melodiya
+> 12b763f8ed0e587f7bcbf374a9935b7b | 
+> 1224689531 | B06Y3ZVPCD
 
-> The 100th Anniversary Edition 32. Bach: The well-Tempered Clavier
+> Bach: Хорошо темперированный клавир. Том 1
 > Sviatoslav Richter
-> 32 / 50
-> Classical | 2015 | 
->  | 
->  | 
+> 2 / 2 BOXSET
+> Classical | 1973 | Мелодия
+> 05e6582e397e46f7b4cd31376a59d233 | 
+> 969170719 | 
 
 Johann Sebastian Bach (1685 – 1750)
-The Well – Tempered Clavier, Book I
+01. Wohltemperierte Klavier, Erster Teil, BWV 858: No. 13: Präludium und Fuge in F-sharp major
+02. Wohltemperierte Klavier, Erster Teil, BWV 859: No. 14: Präludium und Fuge in F-sharp minor
+03. Wohltemperierte Klavier, Erster Teil, BWV 860: No. 15: Präludium und Fuge in G major
+04. Wohltemperierte Klavier, Erster Teil, BWV 861: No. 16: Präludium und Fuge in G minor
+05. Wohltemperierte Klavier, Erster Teil, BWV 862: No. 17: Präludium und Fuge in A-flat major
+06. Wohltemperierte Klavier, Erster Teil, BWV 863: No. 18: Präludium und Fuge in G-sharp minor
+07. Wohltemperierte Klavier, Erster Teil, BWV 864: No. 19: Präludium und Fuge in A major
+08. Wohltemperierte Klavier, Erster Teil, BWV 865: No. 20: Präludium und Fuge in A minor
+09. Wohltemperierte Klavier, Erster Teil, BWV 866: No. 21: Präludium und Fuge in B-flat major
+10. Wohltemperierte Klavier, Erster Teil, BWV 867: No. 22: Präludium und Fuge in B-flat minor
+11. Wohltemperierte Klavier, Erster Teil, BWV 868: No. 23: Präludium und Fuge in B major
+12. Wohltemperierte Klavier, Erster Teil, BWV 869: No. 24: Präludium und Fuge in B minor
 
-  01. XIII. Prélude and Fugue No. 13 in F-sharp major, BWV 858
-  02.  XIV. Prélude and Fugue No. 14 in F-sharp minor, BWV 859
-  03.   XV. Prélude and Fugue No. 15 in G major, BWV 860
-  04.  XVI. Prélude and Fugue No. 16 in G minor, BWV 861
-  05. XVII. Prélude and Fugue No. 17 in A-flat major, BWV 862
-  06. XVIII. Prélude and Fugue No. 18 in A-flat minor, BWV 863
-  07.  XIX. Prélude and Fugue No. 19 in A major, BWV 864
-  08.   XX. Prélude and Fugue No. 20 in A minor, BWV 865
-  09.  XXI. Prélude and Fugue No. 21 in B-flat major, BWV 866
-  10. XXII. Prélude and Fugue No. 22 in B-flat minor, BWV 867
-  11. XXIII. Prélude and Fugue No. 23 in B major, BWV 868
-  12. XXIV. Prélude and Fugue No. 24 in B minor, BWV 869
-
-  Sviatoslav Richter
+  Sviatoslav Richter, Piano
+  Rec. 1969-04-20 – 1969-04-21, Live Recording
