@@ -1,5 +1,5 @@
-> String Quintet, Op. 97; String Sextet, Op. 48
-> Antonín Dvořák, Jerusalem Quartet, Veronika Hagen & Gary Hoffman
+> Dvořák: String Quintet, Op. 97; String Sextet, Op. 48
+> Jerusalem Quartet, Veronika Hagen & Gary Hoffman
 > 1 / 1
 > Classical | 2018 | Harmonia Mundi
 >  | 
