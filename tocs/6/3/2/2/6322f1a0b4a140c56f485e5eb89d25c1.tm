@@ -26,7 +26,7 @@
 > bafe25e81a3207db2a5d2737cce82b59 | 
 > 336407319 | B002TMW51E, B002DZX95S, B01K8NFZ8A, B013H1GWY6, B014I2WJ6I, B01K8ODH70
 
-Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
+Frédéric Chopin (1810 – 1849)
 01. Nocturne No. 11 in G minor, Op. 37 No. 1: Andante sostenuto
 02. Nocturne No. 12 in G major, Op. 37 No. 2: Andantino
 03. Nocturne No. 13 in C minor, Op. 48 No. 1: Lento
