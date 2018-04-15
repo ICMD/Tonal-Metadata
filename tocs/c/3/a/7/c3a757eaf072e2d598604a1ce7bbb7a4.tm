@@ -1,29 +1,25 @@
-> Dvořák: String Quintet, Op. 97 & String Sextet, Op. 48
-> Jerusalem Quartet & Veronika Hagen, Gary Hoffman
+> String Quintet, Op. 97; String Sextet, Op. 48
+> Antonín Dvořák, Jerusalem Quartet, Veronika Hagen & Gary Hoffman
 > 1 / 1
 > Classical | 2018 | Harmonia Mundi
-> e294ecffffde06c257a02b2d74d0162f | 
 >  | 
+>  | B078GSG4DH, B00000356P
 
 Antonín Dvořák (1841 – 1904)
-String Sextet in A major, Op. 48, B 80
+String Sextet, Op. 48, B 80 for 2 Violins, 2 Violas and 2 Cellos in A major
 
-  01.    I. Allegro Moderato
-  02.   II. Dumka
-  03.  III. Furiant
+  01.    I. Allegro moderato
+  02.   II. Dumna (Elegie). Poco allegretto
+  03.  III. Furiant. Presto – Trio
+  04.   IV. Finale. Tema con variazioni – Allegretto grazioso, quasi andantino (Var: I. Poco più mosso – Var. II. Più mosso, scherzando – Var. III. Meno mosso – Var. IV. L’ istesso tempo
 
-    Veronika Hagen
-    Gary Hoffman
-    Jerusalem Quartet
+String Quintet, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
 
-  04.   IV. Finale
-
-String Quintet in E-flat major, Op. 97 “American”
-
-  05.    I. Allegro Non Tanto
-  06.   II. Allegro Vivo, Un Poco Meno Mosso
-  07.  III. Larghetto
-  08.   IV. Finale: Allegro Giusto
+  05.    I. Allegro non tanto
+  06.   II. Allegro vivo – Minore. Un poco meno mosso
+  07.  III. Larghetto (Var: I. Un poco più mosso – Poco meno Var. II. Poco più mosso – Var. III. – Var. IV. Poco meno mosso Var.V. Un poco più mosso – Meno mosso – Majore)
+  08.   IV. Finale. Allegro giusto
 
   Veronika Hagen
+  Gary Hoffman
   Jerusalem Quartet
