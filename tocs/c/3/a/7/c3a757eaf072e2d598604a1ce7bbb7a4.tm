@@ -17,7 +17,7 @@ String Sextet, Op. 48, B 80 for 2 Violins, 2 Violas and 2 Cellos in A major
   Gary Hoffman
   Jerusalem Quartet
 
-String Quintet, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
+String Quintet No. 3, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
 
   05.    I. Allegro non tanto
   06.   II. Allegro vivo – Minore. Un poco meno mosso
