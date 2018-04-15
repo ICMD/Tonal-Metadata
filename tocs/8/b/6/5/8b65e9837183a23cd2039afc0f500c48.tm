@@ -1,4 +1,4 @@
-> Concertos, BWV 1041: 1042 - 1043 - 1060
+> Bach: Concertos, BWV 1041, 1042, 1043 & 1060
 > Raymond Leppard & English Chamber Orchestra
 > 1 / 1
 > Classical | 1970 | 
