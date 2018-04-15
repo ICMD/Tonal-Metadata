@@ -26,7 +26,7 @@
 > bafe25e81a3207db2a5d2737cce82b59 | 
 > 336407319 | B002TMW51E, B002DZX95S, B01K8NFZ8A, B013H1GWY6, B014I2WJ6I, B01K8ODH70
 
-Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
+Frédéric Chopin (1810 – 1849)
 01. Nocturne No. 1 in B-flat minor, Op. 9 No. 1: Larghetto
 02. Nocturne No. 2 in E-flat major, Op. 9 No. 2: Andante
 03. Nocturne No. 3 in B major, Op. 9 No. 3: Allegretto
