@@ -13,6 +13,10 @@ String Sextet, Op. 48, B 80 for 2 Violins, 2 Violas and 2 Cellos in A major
   03.  III. Furiant. Presto – Trio
   04.   IV. Finale. Tema con variazioni – Allegretto grazioso, quasi andantino (Var: I. Poco più mosso – Var. II. Più mosso, scherzando – Var. III. Meno mosso – Var. IV. L’ istesso tempo
 
+  Veronika Hagen
+  Gary Hoffman
+  Jerusalem Quartet
+
 String Quintet, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
 
   05.    I. Allegro non tanto
@@ -21,5 +25,4 @@ String Quintet, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
   08.   IV. Finale. Allegro giusto
 
   Veronika Hagen
-  Gary Hoffman
   Jerusalem Quartet
