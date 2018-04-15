@@ -1,5 +1,5 @@
 > The Complete Recordings, Vol. 01
-> Bessie Smith & Frog
+> Bessie Smith
 > 1 / 1
 > Blues | 2001 | Frog Records
 > 56ab8bf0441932bd5e3158e0340b1fc9 | 
