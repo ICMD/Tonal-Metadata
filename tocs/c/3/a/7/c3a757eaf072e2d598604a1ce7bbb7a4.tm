@@ -8,10 +8,11 @@
 Antonín Dvořák (1841 – 1904)
 String Sextet, Op. 48, B 80 for 2 Violins, 2 Violas and 2 Cellos in A major
 
-  01.    I. Allegro moderato
-  02.   II. Dumna (Elegie). Poco allegretto
-  03.  III. Furiant. Presto – Trio
-  04.   IV. Finale. Tema con variazioni – Allegretto grazioso, quasi andantino (Var: I. Poco più mosso – Var. II. Più mosso, scherzando – Var. III. Meno mosso – Var. IV. L’ istesso tempo
+  I. Allegro
+  01. Moderato
+  02.   II. Dumka. Poco allegretto
+  03.  III. Furiant. Presto
+  04.   IV. Finale. Tema con variazioni. Allegretto grazioso, quasi andantino
 
   Veronika Hagen
   Gary Hoffman
@@ -20,8 +21,8 @@ String Sextet, Op. 48, B 80 for 2 Violins, 2 Violas and 2 Cellos in A major
 String Quintet No. 3, Op. 97, B 180 for 2 Violins, 2 Violas and Cello in E-flat major
 
   05.    I. Allegro non tanto
-  06.   II. Allegro vivo – Minore. Un poco meno mosso
-  07.  III. Larghetto (Var: I. Un poco più mosso – Poco meno Var. II. Poco più mosso – Var. III. – Var. IV. Poco meno mosso Var.V. Un poco più mosso – Meno mosso – Majore)
+  06.   II. Allegro non tanto
+  07.  III. Larghetto, in double variation form.
   08.   IV. Finale. Allegro giusto
 
   Veronika Hagen
