@@ -18,11 +18,11 @@ Violin Concerto No. 2 in E major, BWV 1042
   05.   II. Adagio
   06.  III. Allegro assai
 
-  Arthur Grumiaux
+  Arthur Grumiaux, Violin
   English Chamber Orchestra
   Raymond Leppard, Conductor
 
-Concerto in D minor, BWV 1043
+Concerto for Two Violins in D minor, BWV 1043
 
   07.    I. Vivace
   08.   II. Largo ma non tanto
