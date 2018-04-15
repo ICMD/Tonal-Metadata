@@ -1,9 +1,9 @@
-> The Complete Recordings of Bessie Smith, Vol. 2
+> The Complete Recordings, Vol. 2
 > Bessie Smith
 > 1 / 1
 > Blues | 2001 | Orchard
 > 4b74ee1bff5ae7489c515c2967d124a4 | 
->  | B000026H3R, B01H7Y983G
+>  | 
 
 01. Graveyard Dream Blues
 02. Cemetary Blues
