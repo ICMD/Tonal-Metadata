@@ -1,31 +1,31 @@
-> Richter Plays Bach (Melodiya)
+> Bach: Sviatoslav Richter 100, Vol. 31
+> Sviatoslav Richter & Johann Sebastian Bach
+> 1 / 1
+> Classical | 2015 | Melodiya
+> 3fb735b7370e9e82fde14ce539e4edb4 | 
+> 1224687392 | B06Y4C4BFP
+
+> Bach: Хорошо темперированный клавир. Том 1
 > Sviatoslav Richter
-> 1 / 2
-> Classical | 1969 | 
-> 61a2c385ef2472608f9c32420d574118 | 
->  | 
+> 1 / 2 BOXSET
+> Classical | 1973 | Мелодия
+> 05e6582e397e46f7b4cd31376a59d233 | 
+> 969170719 | 
 
-> The 100th Anniversary Edition: Melodya MEL 02270
-> Sviatoslav Richter
-> 10 / 50
-> Classical | 1969 | 
-> 61a2c385ef2472608f9c32420d574118 | 
->  | 
+Johann Sebastian Bach (1685 – 1750)
+01. Wohltemperierte Klavier, Erster Teil, BWV 846: No. 1: Präludium und Fuge in C major
+02. Wohltemperierte Klavier, Erster Teil, BWV 847: No. 2: Präludium und Fuge in C minor
+03. Wohltemperierte Klavier, Erster Teil, BWV 848: No. 3: Präludium und Fuge in C-sharp major
+04. Wohltemperierte Klavier, Erster Teil, BWV 849: No. 4: Präludium und Fuge in C-sharp minor
+05. Wohltemperierte Klavier, Erster Teil, BWV 850: No. 5: Präludium und Fuge in D major
+06. Wohltemperierte Klavier, Erster Teil, BWV 851: No. 6: Präludium und Fuge in D minor
+07. Wohltemperierte Klavier, Erster Teil, BWV 852: No. 7: Präludium und Fuge in E-flat major
+08. Wohltemperierte Klavier, Erster Teil, BWV 853: No. 8: Präludium und Fuge in E-flat minor
+09. Wohltemperierte Klavier, Erster Teil, BWV 854: No. 9: Präludium und Fuge in E major
+10. Wohltemperierte Klavier, Erster Teil, BWV 855: No. 10: Präludium und Fuge in E minor
+11. Wohltemperierte Klavier, Erster Teil, BWV 856: No. 11: Präludium und Fuge in F major
+12. Wohltemperierte Klavier, Erster Teil, BWV 857: No. 12: Präludium und Fuge in F minor
+13. Wohltemperierte Klavier, Erster Teil, BWV 866: No. 21: Präludium und Fuge in B-flat major (Live, На бис)
 
-Das Wohltemperierte Klavier Teil 1
-
-  01.    I. Präludium und Fuge No. 1 in C major, BWV 846
-  02.   II. Präludium und Fuge No. 2 in C minor, BWV 847
-  03.  III. Praludium und Fuge No. 3 in C-sharp major, BWV 848
-  04.   IV. Präludium und Fuge No. 4 in C-sharp minor, BWV 849
-  05.   VI. Präludium und Fuge No. 5 in D major, BWV 850
-  06.   VI. Präludium und Fuge No. 6 in D minor, BWV 851
-  07.  VII. Preludium und Fuge No. 7 in E-flat major, BWV 852
-  08. VIII. Präludium und Fuge No. 8 in E-flat minor, BWV 853
-  09.   IX. Präludium und Fuge No. 9 in E major, BWV 854
-  10.    X. Präludium und Fuge No. 10 in E minor, BWV 855
-  11.   XI. Präludium und Fuge No. 11 in F major, BWV 856
-  12.  XII. Präludium und Fuge No. 12 in F minor, BWV 857
-  13.  XXI. Präludium und Fuge No. 21 in B-flat major, BWV 866 (Zugabe)
-
-  Sviatoslav Richter
+  Sviatoslav Richter, Piano
+  Rec. 1969-04-20 – 1969-04-21, Live Recording
