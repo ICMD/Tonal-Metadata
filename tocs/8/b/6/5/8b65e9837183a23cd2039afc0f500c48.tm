@@ -15,14 +15,12 @@ Violin Concerto No. 1 in A minor, BWV 1041
 
   02. Andante
 
-  Arthur Grumiaux
-  English Chamber Orchestra
-  Raymond Leppard, Conductor
+    Arthur Grumiaux
+    English Chamber Orchestra
+    Raymond Leppard, Conductor
 
-バッハ
-03.  III. Allegro assai
+  03.  III. Allegro assai
 
-Johann Sebastian Bach (1685 – 1750)
 Violin Concerto No. 2 in E major, BWV 1042
 
   04.    I. Allegro
@@ -30,14 +28,13 @@ Violin Concerto No. 2 in E major, BWV 1042
     English Chamber Orchestra
     Raymond Leppard, Conductor
 
-  05. Adagio
+  05.   II. Adagio
 
-  Arthur Grumiaux
-  English Chamber Orchestra
-  Raymond Leppard, Conductor
+    Arthur Grumiaux
+    English Chamber Orchestra
+    Raymond Leppard, Conductor
 
-バッハ
-06.  III. Allegro assai
+  06.  III. Allegro assai
 
 Concerto in D minor, BWV 1043
 
@@ -48,10 +45,11 @@ Concerto in D minor, BWV 1043
   English Chamber Orchestra
   Raymond Leppard, Conductor
 
-Johann Sebastian Bach (1685 – 1750)
-10. Concerto in C minor for Oboe & Violin, BWV 1060: I. Allegro
-11. Concerto for Oboe & Violin in C minor, BWV 1060r: II. Adagio
-12. Concerto in C minor for Oboe & Violin, BWV 1060: III. Allegro
+Concerto in C minor for Oboe & Violin, BWV 1060
+
+  10.    I. Allegro
+  11.   II. Adagio
+  12.  III. Allegro
 
   Heinz Holliger
   Arthur Grumiaux
