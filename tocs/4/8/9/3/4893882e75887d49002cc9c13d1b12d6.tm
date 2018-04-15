@@ -1,4 +1,4 @@
-> Bach: Das Wohltemperierte Klavier I und II Teil –, BWV 846 No. 869 und 870 – 893
+> Bach: Das Wohltemperierte Klavier
 > Sviatoslav Richter
 > 4 / 4
 > Classical | 1991 | RCA Victor Gold Seal
