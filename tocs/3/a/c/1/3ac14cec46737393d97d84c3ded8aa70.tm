@@ -5,18 +5,8 @@
 > 56ab8bf0441932bd5e3158e0340b1fc9 | 
 >  | B01K8MWWUK
 
-Bessie Smith
 01. Downhearted Blues
-
-  Frog
-
-Clarence Williams
 02. Gulf Coast Blues
-
-  Bessie Smith, Vocal
-  Frog
-
-Bessie Smith
 03. Agrevatin’ Papa
 04. Beale Street Mama
 05. Baby, Won’t You, Please, Come Home Blues
@@ -39,4 +29,4 @@ Bessie Smith
 22. St. Louis Gal: Take 3
 23. Sam Jones Blues
 
-  Frog
+  Bessie Smith, Vocal
