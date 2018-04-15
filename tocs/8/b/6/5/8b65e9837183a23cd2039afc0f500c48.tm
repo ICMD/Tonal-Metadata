@@ -9,32 +9,18 @@ Johann Sebastian Bach (1685 – 1750)
 Violin Concerto No. 1 in A minor, BWV 1041
 
   01.    I. Allegro
-
-    English Chamber Orchestra
-    Raymond Leppard, Conductor
-
   02. Andante
-
-    Arthur Grumiaux
-    English Chamber Orchestra
-    Raymond Leppard, Conductor
-
   03.  III. Allegro assai
 
 Violin Concerto No. 2 in E major, BWV 1042
 
   04.    I. Allegro
-
-    English Chamber Orchestra
-    Raymond Leppard, Conductor
-
   05.   II. Adagio
-
-    Arthur Grumiaux
-    English Chamber Orchestra
-    Raymond Leppard, Conductor
-
   06.  III. Allegro assai
+
+  Arthur Grumiaux
+  English Chamber Orchestra
+  Raymond Leppard, Conductor
 
 Concerto in D minor, BWV 1043
 
