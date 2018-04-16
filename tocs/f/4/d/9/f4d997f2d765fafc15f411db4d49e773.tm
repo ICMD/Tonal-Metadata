@@ -1,10 +1,11 @@
-> The Legendary Ahmad Jamal Trio Live (1958)
-> Ahmad Jamal
+> The Legendary Ahmad Jamal Trio Live
+> 1958
 > 1 / 1
-> Jazz |  | 
+> Jazz | 1996 | 
 >  | 
 >  | 
 
+Ahmad Jamal (b. 1930)
 01. But Not for Me
 02. Surrey with the Fringe on Top
 03. Moonlight in Vermont
@@ -18,4 +19,4 @@
 11. This Can’t Be Love
 12. Ole Devil Moon
 
-  Ahmad Jamal
+  1958
