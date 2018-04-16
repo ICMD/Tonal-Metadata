@@ -1,4 +1,4 @@
-> Tchaikovsky: Overture solennelle, 1812, Op. 49 – Marche slave, Op. 32
+> Tchaikovsky: 1812 Overture, etc.
 > Fritz Reiner & Chicago Symphony Orchestra
 > 1 / 1
 > Classical | 2010 | RCA Red Seal
