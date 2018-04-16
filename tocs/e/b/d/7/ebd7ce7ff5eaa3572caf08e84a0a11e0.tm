@@ -1,9 +1,9 @@
 > Wayne Shorter the Composer
 > Wayne Shorter
 > 1 / 1
-> Jazz | 2011 | 
->  | 
->  | 
+> Jazz | 2011 | Composers Concordance
+> 69332c5a6f10f7c3857b503dda014bd1 | 
+>  | B007WB5CJO
 
 01. Children of the Night
 02. Blues À la Carte
