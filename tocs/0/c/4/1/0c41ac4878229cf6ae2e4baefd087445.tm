@@ -1,9 +1,9 @@
-> A Handful of Stars
-> Eddie Higgins Quintet Feat. Scott Hamilton & Ken Peplowski
+> Handful of Stars
+> Eddie Higgins, Scott Hamilton & Ken Peplowski
 > 1 / 1
 > Jazz | 2009 | Venus Records
-> 4918b3a8dfe715d5e57014821f8c1f3a | 
->  | 
+> 9206c0cbd5c4f9ed9cc88161e294994a | 
+> 998270215 | B00Y89XAI8, B001LKQN4A
 
 01. In Love in Vain
 02. You Leave Me Breathless
@@ -17,6 +17,6 @@
 10. Softly as in a Morning Sunrise
 11. All Too Soon
 
+  Eddie Higgins
   Scott Hamilton
   Ken Peplowski
-  Eddie Higgins Quintet
