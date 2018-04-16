@@ -2,7 +2,7 @@
 > Thelonious Monk
 > 1 / 1
 > Jazz | 1990 | CBS
-> 0b56328466284e1d9291bfd9fd1f4647 | 
+> eceeaa09cf187c8c1157a8222f3f363e | 
 >  | B00559BT10, B01KAPFW7K, B01K8OCZUK
 
 Thelonious Monk (1917 – 1982)
