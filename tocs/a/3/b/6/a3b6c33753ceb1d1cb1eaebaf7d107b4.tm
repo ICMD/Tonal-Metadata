@@ -1,13 +1,14 @@
-> World (The Price of Love)
-> New Order
+> New Order: World
+> The Price of Love
 > 1 / 1
-> Alternative | 1993 | 
+> Alternative | 1993 | London Records
 >  | 
->  | 
+>  | B000057N31, B014I2WX8M, B000P5QN0Q
 
-01. World (Perfecto Edit)
-02. World (Radio Edit)
-03. World (Perfecto Mix)
-04. World (Sexy Disco Dub)
+New Order
+01. World (The Price of Love) (Perfecto Edit)
+02. World (The Price of Love) (The Radio Edit)
+03. World (The Price of Love) (The Perfecto Mix)
+04. World (The Price of Love) (The Sexy Disco Dub)
 
-  New Order
+  The Price of Love
