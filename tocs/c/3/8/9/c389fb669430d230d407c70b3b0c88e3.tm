@@ -1,46 +1,46 @@
-> The Four Seasons
+> Vivaldi: The Four Seasons
 > Concerto Köln & Shunske Sato
 > 1 / 1
 > Classical | 2016 | Berlin Classics
-> 08b7f26f5042ec09e62918d8b53da081 | 
->  | 
+> cee7417d775e5ff53fd5fa86f7ad1a53 | 
+> 1145314406 | B01KSDQOH6, B01GGSZIE2, B01GGSZIE2
 
 Antonio Vivaldi (1678 – 1741)
-Concerto for String in G minor
+Concerto for Strings in G minor, RV. 156
 
   01.    I. Allegro
   02.   II. Adagio
   03.  III. Allegro
 
-Violin Concerto in E major 'Spring"
+The Four Seasons, Concerto No. 1 in E major, RV. 269 “Spring”
 
   04.    I. Allegro
   05.   II. Largo
-  06.  III. Allegro
+  06.  III. Allegro pastorale
 
-Violin Concerto in G minor "Summer'
+The Four Seasons, Concerto No. 2 in G minor, RV. 315 “Summer”
 
-  07.    I. Allegro Non Molto
-  08.   II. Adagio E Piano
-  09.  III. Presto Tempo Impetuoso D'Estate
+  07.    I. Allegro non molto
+  08.   II. Adagio – Presto
+  09.  III. Presto
 
-Sinfonia a Santo Sepolcro in B minor
+Sinfonia Al Santo Sepolcro in B minor, RV. 169
 
-  10.    I. Adagio Molto
-  11.   II. Allegro Ma Poco
+  10.    I. Adagio molto
+  11.   II. Allegro ma poco
 
-Violin Concerto in F major "Autumn'
+The Four Seasons, Concerto No. 3 in F major, RV. 293 “Autumn”
 
-  12.    I. Allegro Ballo E Canto De' Villanelli
-  13.   II. Adagio Molto
-  14.  III. Allegro la Caccia
+  12.    I. Allegro ballo e canto de' villanelli
+  13.   II. Adagio molto
+  14.  III. Allegro la caccia
 
-Violin Concerto in F minor "Winter'
+The Four Seasons, Concerto No. 4 in F minor, RV. 297 “Winter”
 
-  15.    I. Allegro Non Molto
-  16.   II. Largo E Pizziccati Forte
-
-17. Violin Concerto in F Minr "Winter': III. Allegro
+  15.    I. Allegro non molto
+  16.   II. Largo e pizziccati forte
+  17.  III. Allegro
 
   Concerto Köln
-  Shunske Sato
+  Shunsuke Sato, Solo & Violin
+  Rec. 2016-06-25 – 2016-06-26
