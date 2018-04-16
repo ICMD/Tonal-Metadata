@@ -12,7 +12,7 @@
 > 80363d621618313eddd2130a9a595b39 | 
 > 673910146 | B0077PPQGO
 
-Howard R Brubeck (1916 – 1993)
+Dave Brubeck (1920 – 2012)
 Dialogues for Jazz Combo and Orchestra
 
   01.    I. Allegro
