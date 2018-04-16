@@ -8,8 +8,6 @@
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
 01. 1812 Overture, Op. 49
 
-  Rec. 1812
-
 Felix Mendelssohn (1809 – 1847)
 02. The Hebrides (Fingal’s Cave), Op. 26
 
