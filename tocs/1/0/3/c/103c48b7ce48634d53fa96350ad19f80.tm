@@ -6,11 +6,10 @@
 > 579560564 | B000007NEB, B01K8LA60O
 
 Felix Mendelssohn (1809 – 1847)
-01. String Quintet No. 1 in A major, Op. 18: I. Allegro con moto
-02.   II. Intermezzo: II. Andante sostenuto
-
 String Quintet No. 1 in A major, Op. 18
 
+  01.    I. Allegro con moto
+  02.   II. Intermezzo: II. Andante sostenuto
   03.  III. Scherzo: Allegro di molto
   04.   IV. Allegro vivace
 
