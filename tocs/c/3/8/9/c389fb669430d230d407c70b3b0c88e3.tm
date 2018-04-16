@@ -42,5 +42,5 @@ The Four Seasons, Concerto No. 4 in F minor, RV. 297 “Winter”
   17.  III. Allegro
 
   Concerto Köln
-  Shunsuke Sato, Solo & Violin
+  Shunsuke Sato, Solo Violin
   Rec. 2016-06-25 – 2016-06-26
