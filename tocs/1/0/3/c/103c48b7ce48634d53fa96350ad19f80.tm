@@ -1,23 +1,24 @@
 > Mendelssohn: String Quintets
-> Raphael Ensemble
+> The Raphael Ensemble
 > 1 / 1
-> Classical | 1998 | Hyperion
-> 5ee35cf10b3b017d979c32073e05a805 | 
->  | 
+> Classical | 1998 | Hyperion Records
+> f4282662ffe3ba67b2c5635b63114fa7 | 
+> 579560564 | B000007NEB, B01K8LA60O
 
 Felix Mendelssohn (1809 – 1847)
+01. String Quintet No. 1 in A major, Op. 18: I. Allegro con moto
+02.   II. Intermezzo: II. Andante sostenuto
+
 String Quintet No. 1 in A major, Op. 18
 
-  01. Allegro con Moto
-  02. Intermezzo
-  03. Scherzo
-  04. Allegro Vivace
+  03.  III. Scherzo: Allegro di molto
+  04.   IV. Allegro vivace
 
 String Quintet No. 2 in B-flat major, Op. 87
 
-  05. Allegro Vivace
-  06. Andante Scherzando
-  07. Adagio E Lento
-  08. Allegro Molto Vivace
+  05.    I. Allegro vivace
+  06.   II. Andante scherzando
+  07.  III. Adagio e lento
+  08.   IV. Allegro molto vivace
 
   Raphael Ensemble
