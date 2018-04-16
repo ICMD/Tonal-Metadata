@@ -1,9 +1,9 @@
-> Jazz in the New Harmonic
+> Jazz in the New Harmonic (Binaural+)
 > David Chesky, Billy Drummond, Javon Jackson, Jeremy Pelt & Peter Washington
 > 1 / 1
 > Classical | 2013 | Chesky Records
-> 2621209f11b11b54e38a66b397fc0203 | 
->  | 
+> 4ecf4981be1122180a71f31a61484dbd | 
+> 651574694 | B00DF6M3EM, B00CX7OURW, B01M739E61, B00KJJT8KA
 
 01. Jazz in the New Harmonic
 02. Broadway
