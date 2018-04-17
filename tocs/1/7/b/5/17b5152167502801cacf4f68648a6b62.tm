@@ -22,7 +22,8 @@
 Igor Stravinsky (1882 – 1971)
 The Rake’s Progress: Opera in 3 Acts
 
-  01. Act 1: Prelude
+  Act 1
+  01. Prelude
 
     Judith Raskin
     John Reardon
@@ -31,7 +32,8 @@ The Rake’s Progress: Opera in 3 Acts
     Sadler’s Wells Opera Chorus
     Igor Stravinsky, Conductor
 
-  02. Act I, Scene 1: Duet and Trio “The Woods Are Green” – Recitative: “Anne, My Dear”
+  Act 1, Scene 1
+  02. Duet and Trio “The Woods Are Green” – Recitative: “Anne, My Dear”
 
     Alexander Young
     Judith Raskin
@@ -64,13 +66,12 @@ The Rake’s Progress: Opera in 3 Acts
     Sadler’s Wells Opera Chorus
     Igor Stravinsky, Conductor
 
-  06. Act I, Scene 2: Chorus “With Air Commanding and Weapon Handy”
+  Act 1, Scene 2
+  06. Chorus “With Air Commanding and Weapon Handy”
 
     Judith Raskin
     John Reardon
     Colin Tilney
-    ストラヴィンスキー
-    ロイヤルPo
     John Barker
     Royal Philharmonic Orchestra
     Sadler’s Wells Opera Chorus
@@ -84,8 +85,6 @@ The Rake’s Progress: Opera in 3 Acts
     Jean Manning
     John Reardon
     Colin Tilney
-    ストラヴィンスキー
-    ロイヤルPo
     John Barker
     Royal Philharmonic Orchestra
     Sadler’s Wells Opera Chorus
@@ -103,7 +102,8 @@ The Rake’s Progress: Opera in 3 Acts
     Sadler’s Wells Opera Chorus
     Igor Stravinsky, Conductor
 
-  10. Act I, Scene 3: Recitative “No Word from Tom” – Aria: “Quietly, Night” – Recitative: “My Father! Can I Desert Him”
+  Act 1, Scene 3
+  10. Recitative “No Word from Tom” – Aria: “Quietly, Night” – Recitative: “My Father! Can I Desert Him”
 
     Judith Raskin
     John Reardon
@@ -122,7 +122,8 @@ The Rake’s Progress: Opera in 3 Acts
     Sadler’s Wells Opera Chorus
     Igor Stravinsky, Conductor
 
-  12. Act II, Scene 1: Aria “Vary the Song, O London, Change!” – Recitative: O Nature, Green Unnatural Mother “– Aria (reprise):”Always the Quarry"
+  Act 2, Scene 1
+  12. Aria “Vary the Song, O London, Change!” – Recitative: O Nature, Green Unnatural Mother “– Aria (reprise):”Always the Quarry"
   13. Recitative “Master, Are You Alone?” – Aria: “In Youth the Panting Slave”
   14. Duet – Finale “My Tale Shall Be Told”
 
@@ -134,7 +135,8 @@ The Rake’s Progress: Opera in 3 Acts
     Sadler’s Wells Opera Chorus
     Igor Stravinsky, Conductor
 
-  15. Act II, Scene 2: Introduction – Recitative “How Strange” – Arioso: “O Heart Be Stronger”
+  Act 2, Scene 2
+  15. Introduction – Recitative “How Strange” – Arioso: “O Heart Be Stronger”
 
     Judith Raskin
     John Reardon
@@ -161,8 +163,6 @@ The Rake’s Progress: Opera in 3 Acts
   Judith Raskin
   John Reardon
   Colin Tilney
-  ストラヴィンスキー
-  ロイヤルPo
   John Barker
   Royal Philharmonic Orchestra
   Sadler’s Wells Opera Chorus
