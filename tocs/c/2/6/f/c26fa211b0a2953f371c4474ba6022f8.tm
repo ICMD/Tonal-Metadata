@@ -1,4 +1,4 @@
-> United DJs of the World
+> United DJs of the World, Volume 1
 > Frankie Knuckles & David Morales
 > 2 / 2
 > Electronica | 1995 | DMC
