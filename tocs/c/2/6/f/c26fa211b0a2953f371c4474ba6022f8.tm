@@ -1,62 +1,51 @@
 > United DJs of the World
-> Various Artists
+> Frankie Knuckles & David Morales
 > 2 / 2
-> Electronica |  | 
+> Electronica | 1995 | DMC
 >  | 
->  | 
+>  | B0000075RV
 
-01. Vol. 4
+Disco Elements
+01. Muzik Takes Me Higher
 
-  Disco Elements
-
+Ly
 02. Back 2 Zanzibar
 
-  LY
+Sun
+03. Curious
 
-03. Sun, Sun, Sun
+Maydie Myles
+04. Keep on Luvin'
 
-  Curious
-
-04. Keep on Luvin
-
-  Maydie Myles
-
+Project Sound
 05. Sweet in the Morning
 
-  Project Sounds
-
+Black Shells
 06. The Anthem
 
-  Black Shells
-
+DJ Dexter
 07. In My House
 
-  DJ Dexter
-
+The Boss
 08. Congo
 
-  B.O.S.S
-
+Thunderdome
 09. Love & Music
 
-  Thunderdone
-
+Mixx Vibes
 10. Just Can’t Get Enough
 
-  Mixx Vibes
-
+Industry
 11. Release Me
 
-  Industry
-
+Mary J. Blige
 12. Be Happy
 
-  Mary J. Blige
-
+Lee Genesis
 13. Can’t Seperate Me
 
-  Lee Genesis
-
+Love Happy
 14. Message of Love
 
-  Love Happy
+  Frankie Knuckles
+  David Morales
