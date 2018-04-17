@@ -1,7 +1,7 @@
 > United DJs of the World, Volume 1
 > Frankie Knuckles & David Morales
 > 2 / 2
-> Electronica | 1995 | DMC
+> Dance & House | 1995 | DMC
 > 2d7c6d685339e4f911ab8d233c78b86b | 
 >  | B0000075RV
 
