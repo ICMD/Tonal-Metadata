@@ -9,7 +9,7 @@ Felix Mendelssohn (1809 – 1847)
 String Quintet No. 1 in A major, Op. 18
 
   01.    I. Allegro con moto
-  02.   II. Intermezzo: II. Andante sostenuto
+  02.   II. Intermezzo: Andante sostenuto
   03.  III. Scherzo: Allegro di molto
   04.   IV. Allegro vivace
 
