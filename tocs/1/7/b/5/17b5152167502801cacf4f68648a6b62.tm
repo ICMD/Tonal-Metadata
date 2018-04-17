@@ -95,8 +95,6 @@ The Rake’s Progress: Opera in 3 Acts
     Judith Raskin
     John Reardon
     Colin Tilney
-    ストラヴィンスキー
-    ロイヤルPo
     John Barker
     Royal Philharmonic Orchestra
     Sadler’s Wells Opera Chorus
