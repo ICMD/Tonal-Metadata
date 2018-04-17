@@ -1,58 +1,48 @@
 > United DJs of the World
-> Frankie Knuckles
+> Frankie Knuckles & David Morales
 > 1 / 2
-> Dance & House |  | 
+> Dance & House | 1995 | DMC
 >  | 
->  | 
+>  | B0000075RV
 
+Secret Life
 01. Love so Strong
 
-  Secret Life
-
+Kerri Chandler
 02. Glory to God
 
-  Kerri Chandler
-
+Romanthony
 03. Ministry of Love
 
-  Romanthony
-
+Kathy Sledge
 04. Another Star
 
-  Kathy Sledge
-
+Prana
 05. The Dream
 
-  Deep Dish
-
+Millionaire Hippies
 06. I am the Music, Hear Me!
 
-  Millionaire Hippies
-
+Way Out West
 07. Ajare (Radio Mix)
 
-  Way out West
-
+Viola Sykes
 08. In the Morning
 
-  Viola Sykes
-
+Mary J. Blige
 09. Be Happy
 
-  Mary J. Blige
-
+Barbara Tucker
 10. I Get Lifted
 
-  Barbra Tucker
-
+Andrea Mendez
 11. Bring Me Love
 
-  Andrea Mendez
-
+Elastic Reality
 12. Cassa de X
 
-  Elastic Reality
-
+Alison Limerick
 13. Where Love Lives
 
-  Alison Limerick
+  Frankie Knuckles
+  David Morales
