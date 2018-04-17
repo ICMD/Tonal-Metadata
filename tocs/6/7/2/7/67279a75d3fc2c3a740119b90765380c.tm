@@ -1,4 +1,4 @@
-> Prokofiev: Piano Concerto No. 2 – Ravel: Piano Concerto in G major
+> Prokofiev: Piano Concerto No. 2; Ravel: Piano Concerto in G major
 > Yundi Li; Seiji Ozawa & Berlin Philharmonic
 > 1 / 1
 > Classical | 2007 | Deutsche Grammophon
