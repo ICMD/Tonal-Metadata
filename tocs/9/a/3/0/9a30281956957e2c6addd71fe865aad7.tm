@@ -26,7 +26,6 @@ John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
   Rec. Regent Sound Studios, London
 
 Bill Ward, Tony Iommi, Ozzy Osbourne, Terence Butler & Geezer Butler
@@ -35,7 +34,6 @@ Bill Ward, Tony Iommi, Ozzy Osbourne, Terence Butler & Geezer Butler
   Tony Iommi, Electric Guitar
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
   Rec. 1970 in Regent Sound Studios, London
 
 John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
@@ -45,7 +43,6 @@ John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
 
 Ozzy Osbourne, Tony Iommi, John Osbourne, Geezer Butler, Bill Ward, Ronnie James Dio, Terence Butler, William Ward & Clarke
 04. Iron Man
@@ -53,7 +50,6 @@ Ozzy Osbourne, Tony Iommi, John Osbourne, Geezer Butler, Bill Ward, Ronnie James
   Tony Iommi, Guitar
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
-  Black Sabbath
 
 Tony Iommi, John Osbourne, Terence Butler, William Ward & Geezer Butler
 05. Electric Funeral
@@ -61,7 +57,6 @@ Tony Iommi, John Osbourne, Terence Butler, William Ward & Geezer Butler
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
 
 John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
 06. Hand of Doom
@@ -70,14 +65,12 @@ John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
 
 07. Rat Salad
 
   Tony Iommi, Guitar
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
-  Black Sabbath
 
 08. Jack the Stripper: Fairies Wear Boots
 
@@ -85,5 +78,4 @@ John Osbourne, Terence Butler, Tony Iommi, William Ward & Geezer Butler
   Bill Ward, Drums
   Geezer Butler, Electric Bass Guitar
   Ozzy Osbourne, Lead Vocals
-  Black Sabbath
   Rec. Regent Sound Studios, London
