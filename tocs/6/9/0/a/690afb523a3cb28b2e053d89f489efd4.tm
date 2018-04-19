@@ -12,8 +12,8 @@ St John Passion
   01.    V. the Crucifixion
   02.   VI. Christ’s Garments Divided
   03.  VII. Jesus and His Mother
-  04. VIII. the Reproaches
-  05.   IX. the Death of Jesus
+  04. VIII. The Reproaches
+  05.   IX. The Death of Jesus
   06.    X. Sanctus Immortalis, Miserere Nobis
 
   Christopher Maltman, Baritone & Solo
