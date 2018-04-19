@@ -1,8 +1,8 @@
 > The Chicago Recordings
-> Carlo Maria Giulini & Chicago Symphony Orchestra
+> Carlo Maria Giulini
 > 2 / 4
 > Classical | 2004 | EMI Classics
->  | 
+> fe11c7fcbf02a5e774e2b18038c519fb | 
 >  | B0001ZMBV0
 
 Hector Berlioz (1803 – 1869)
