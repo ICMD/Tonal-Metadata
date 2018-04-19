@@ -9,7 +9,7 @@ James MacMillan (b. 1959)
 St John Passion
 
   Part 2
-  01.    V. the Crucifixion
+  01.    V. The Crucifixion
   02.   VI. Christ’s Garments Divided
   03.  VII. Jesus and His Mother
   04. VIII. The Reproaches
