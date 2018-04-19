@@ -1,20 +1,21 @@
-> Macmillan: St John Passion
-> Christopher Maltman; Colin Davis, London Symphony Orchestra & Chorus
+> MacMillan: St John Passion
+> Sir Colin Davis, Christopher Maltman, London Symphony Orchestra & London Symphony Chorus
 > 2 / 2
 > Classical | 2009 | LSO Live
-> c11c703c2d6ff5a63828540b885321ca | 
->  | 
+> 8ccb2fbb032cdd61c05cd40ccc444b48 | 
+> 302433194 | B001Q1Q5VA, B001O1WHG4
 
 James MacMillan (b. 1959)
-St. John Passion
+St John Passion
 
-  01. Part 2: The Crucifixion
-  02. Part 2: Christ’s Garments Divided
-  03. Part 2: Jesus & His Mother
-  04. Part 2: The Reproaches
-  05. Part 2: The Death of Jesus
-  06. Part 2: Sanctus Immortalis, Miserere Nobis
+  01. Part 2: V. the Crucifixion
+  02. Part 2: VI. Christ’s Garments Divided
+  03. Part 2: VII. Jesus and His Mother
+  04. Part II, Viii, the Reproaches
+  05. Part 2: IX. the Death of Jesus
+  06. Part 2: X. Sanctus Immortalis, Miserere Nobis
 
-  Christopher Maltman
-  London Symphony Orchestra & Chorus
-  Colin Davis, Conductor
+  Christopher Maltman, Baritone & Solo
+  London Symphony Orchestra
+  Sir Colin Davis, Conductor
+  Rec. 2008-04 in Barbican Centre: Barbican Hall, London
