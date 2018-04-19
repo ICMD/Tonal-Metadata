@@ -43,7 +43,7 @@ Pelléas et Mélisande, L. 88
     London Symphony Orchestra
     Sir Simon Rattle, Conductor
 
-  06. Pelléas et Mélisande, L. 88 Acte 1 Sceneène 2 “Un Appartement Dans le Château”: Interlude
+  06. “Un Appartement Dans le Château”: Interlude
 
     Magdalena Kozená
     Christian Gerhaher
