@@ -8,12 +8,13 @@
 James MacMillan (b. 1959)
 St John Passion
 
-  01. Part 2: V. the Crucifixion
-  02. Part 2: VI. Christ’s Garments Divided
-  03. Part 2: VII. Jesus and His Mother
-  04. Part II, Viii, the Reproaches
-  05. Part 2: IX. the Death of Jesus
-  06. Part 2: X. Sanctus Immortalis, Miserere Nobis
+  Part 2
+  01.    V. the Crucifixion
+  02.   VI. Christ’s Garments Divided
+  03.  VII. Jesus and His Mother
+  04. VIII. the Reproaches
+  05.   IX. the Death of Jesus
+  06.    X. Sanctus Immortalis, Miserere Nobis
 
   Christopher Maltman, Baritone & Solo
   London Symphony Orchestra
