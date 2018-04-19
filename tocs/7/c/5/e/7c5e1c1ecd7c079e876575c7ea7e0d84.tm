@@ -5,7 +5,7 @@
 > a99d3fa6dced59580c19b808359f4a90 | 
 > 1129531233, 1132384112 | B01I6TV262, B06X16KS19
 
-Jóhann Jóhannsson
+Jóhann Jóhannsson (1969 – 2018)
 01. Flight from the City
 
   Yuki Numata Resnick, Violin
