@@ -9,7 +9,7 @@ James MacMillan (b. 1959)
 St John Passion
 
   Part 1
-  01.    I. the Arrest of Jesus
+  01.    I. The Arrest of Jesus
   02.   II. Jesus Before Annas and Caiaphas. Peter Disowns Him
   03.  III. Jesus Before Pilate
   04.   IV. Jesus is Condemned to Death
