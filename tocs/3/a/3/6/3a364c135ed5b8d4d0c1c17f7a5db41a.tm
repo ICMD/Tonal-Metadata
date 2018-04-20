@@ -2,7 +2,7 @@
 > Tina Turner
 > 1 / 1
 > R&B | 1991 | Capitol Records
-> bfbebf3b37ee7c02c00dfea46faecc46 | 
+> 32aa20b1085adbbfba0575ae54224546 | 
 >  | B00006JDR4, B00KN2QKJK, B012F697KA, B004WSGIQQ
 
 Tina Turner
