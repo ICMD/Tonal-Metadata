@@ -1,6 +1,6 @@
 > Vivaldi: Complete Cello Concertos
 > Ofra Harnoy & Toronto Chamber Orchestra
-> 1 / 4 BOXSET
+> 1 / 4
 > Classical | 2005 | RCA Red Seal
 > 41ac3a91ae8b1d3d6201d1525078264f | 
 > 306637505 | B0014LRTG2, B0009A1AKU, B01K8MJ67C, B01KAV7GTG
@@ -8,9 +8,9 @@
 > Ofra Harnoy Plays Vivaldi
 > Ofra Harnoy, Toronto Chamber Orchestra & Paul Robinson
 > 1 / 5 BOXSET
-> Classical | 1988 | RCA
+> Classical | 1988 | RCA Red Seal
 > d11c9ee3e3f460e8b6403d29c6b1c35e | 
-> 458605799 | B0056K4V4K, B01KB1L31C, B000003EVQ
+> 458605799 | B0056K4V4K, B000003FXN, B01KB1L31C
 
 Antonio Vivaldi (1678 – 1741)
 Cello Concerto in D minor, RV. 405
