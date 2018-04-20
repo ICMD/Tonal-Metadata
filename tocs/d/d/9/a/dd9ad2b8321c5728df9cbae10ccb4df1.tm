@@ -1,9 +1,9 @@
 > II
 > Naxatras
 > 1 / 1
-> Rock |  | 604236 Records DK
->  | 
->  | 
+> Rock | 2016 | 604236 Records DK
+> a8331a4587bd0108e0e14b156ad8a26b | 
+> 1109714495 | B01F0K2H6Y
 
 01. Oort Cloud
 02. Proxima Centauri
