@@ -1,10 +1,11 @@
-> Stranger to Stranger
+> Stranger to Stranger (Deluxe Edition)
 > Paul Simon
 > 1 / 1
 > Pop | 2016 | Concord Records
-> 3e4b0875c2001f1881ef168e266b09bb | 
->  | 
+> 996fc49c7fd4eb80640373b8b97cf9cd | 
+> 1100286742, 1100491700 | B01DVCFIVY, B073JJV121, B01DWKQG34, B01KAU2E3U, B01M2B0323
 
+Paul Simon
 01. The Werewolf
 02. Wristband
 03. The Clock
@@ -21,9 +22,7 @@
 14. Wristband (Live from a Prairie Home Companion)
 15. Guitar Piece 3
 
-  Paul Simon
-
+Dion DiMucci, Mike Aquilina, Scott Kempner & Paul Simon
 16. New York is My Home
 
-  Dion
   Paul Simon
