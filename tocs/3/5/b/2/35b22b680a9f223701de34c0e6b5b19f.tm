@@ -1,10 +1,11 @@
 > Companion
 > Patricia Barber
 > 1 / 1
-> Pop | 1999 | 
-> 508afc06c939eda8a869388f045cbc37 | 
+> Pop | 2003 | Mobile Fidelity Sound Lab
 >  | 
+>  | B01K8N11UQ, B01LI7AF6M
 
+Patricia Barber
 01. The Beat Goes On
 02. Use Me
 03. Like JT
