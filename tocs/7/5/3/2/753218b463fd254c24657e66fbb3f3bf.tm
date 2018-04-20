@@ -1,6 +1,6 @@
 > Mahler: The Symphonys
 > Radio-Symphonie-Orchester Berlin, Riccardo Chailly & Royal Concertgebouw Orchestra
-> 8 / 12 BOXSET
+> 8 / 12
 > Classical | 2005 | Decca Records
 > d94f6a32ceeb1713ec492e1fc9c495fe | 
 > 73262148, 73619757 | B000VGASXC, B00092ZALS
