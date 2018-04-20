@@ -1,9 +1,9 @@
 > The Best 80s Modern Rock Album … Ever!
 > Various Artists
 > 1 / 2
-> Rock | 2000 | 
+> Rock | 2002 | EMI Music Canada
 >  | 
->  | 
+>  | B00005RETE
 
 Gary Numan
 01. Cars
