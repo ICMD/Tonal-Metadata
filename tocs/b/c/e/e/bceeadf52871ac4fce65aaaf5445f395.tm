@@ -1,13 +1,6 @@
-> Mahler: Symphony No. 8
-> Riccardo Chailly & Royal Concertgebouw Orchestra
-> 2 / 2
-> Classical | 2001 | Decca Classics
-> fe4cd1e2ee2e88c588270313ab21e925 | 
-> 121415758 | B0018ODSZQ, B000056ETV, B00EVCH0AQ, B01K8O7O9C
-
 > Mahler: The Symphonys
 > Radio-Symphonie-Orchester Berlin, Riccardo Chailly & Royal Concertgebouw Orchestra
-> 9 / 12 BOXSET
+> 9 / 12
 > Classical | 2005 | Decca Records
 > d94f6a32ceeb1713ec492e1fc9c495fe | 
 > 73262148, 73619757 | B000VGASXC, B00092ZALS
