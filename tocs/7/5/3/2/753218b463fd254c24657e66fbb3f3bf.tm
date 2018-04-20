@@ -6,9 +6,11 @@
 > 73262148, 73619757 | B000VGASXC, B00092ZALS
 
 Gustav Mahler (1860 – 1911)
-01. Symphony No. 7 in E minor “Lied der Nacht”: III. Scherzo. Schattenhaft
-02. Symphony No. 7 in E minor: IV. Nachtmusik (Andante amoroso)
-03. Symphony No. 7 in E minor “Lied der Nacht”: V. Rondo – Finale (Allegro ordinario – Allegro moderato ma energico)
+Symphony No. 7 in E minor
+
+  01.  III. Scherzo. Schattenhaft
+  02.   IV. Nachtmusik (Andante amoroso)
+  03.    V. Rondo – Finale (Allegro ordinario – Allegro moderato ma energico)
 
   Royal Concertgebouw Orchestra
   Riccardo Chailly, Conductor
