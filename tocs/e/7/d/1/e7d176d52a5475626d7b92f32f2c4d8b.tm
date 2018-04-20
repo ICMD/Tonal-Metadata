@@ -2,16 +2,10 @@
 > Leonard Cohen
 > 1 / 1
 > Country & Folk | 2014 | Columbia
-> a8b7f5d221ec65636140e48e31668ac8 | 
->  | 
+> 38ca97bbb510126eec87dcd561af3418 | 
+>  | B00MJVNNRU, B00MJJ37BE, B013H15BA2, B00N23RFAU, B01G65G0YM
 
-> Live in London
-> Leonard Cohen
-> 1 / 2
-> Country & Folk | 2009 | 
-> a8b7f5d221ec65636140e48e31668ac8 | 
->  | 
-
+Leonard Cohen
 01. Slow (2014)
 02. Almost like the Blues (2014)
 03. Samson in New Orleans (2014)
