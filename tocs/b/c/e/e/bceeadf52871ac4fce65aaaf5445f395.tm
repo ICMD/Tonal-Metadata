@@ -1,4 +1,4 @@
-> Mahler: The Symphonys
+> Mahler: The Symphonies
 > Radio-Symphonie-Orchester Berlin, Riccardo Chailly & Royal Concertgebouw Orchestra
 > 9 / 12
 > Classical | 2005 | Decca Records
