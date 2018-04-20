@@ -7,13 +7,6 @@
 
 > The Complete Pop Albums
 > Andrea Bocelli
-> 3 / 13 BOXSET
-> Pop | 2015 | Universal Music
-> 46b2db415c9251631fd63155464841cf | 
-> 969323264 | B00XWW6ZPC
-
-> The Complete Pop Albums
-> Andrea Bocelli
 > 3 / 16 BOXSET
 > Pop | 2015 | Universal Music
 > 739ee62b1d6c7b44a2903fd999be1f63 | 
