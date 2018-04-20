@@ -1,17 +1,25 @@
 > Astral Weeks
 > Van Morrison
 > 1 / 1
-> Rock | 1968 | Warner Bros.
-> 7571ecc29ed317049c0007b9569cd492 | 
+> Rock | 1968 | Warner Bros. Records
+> 1eca639a88708d3329900edea27fe58a | 
+> 1031002336 | B015LDJ8DU, B00122MBY8, B014K3640M, B01KB1ON4G, B009Z1XF66, B00CIXE9FE, B01GKAHXYY
+
+> Astral Weeks: Moondance / His Band and the Street Choir
+> Van Morrison
+> 1 / 3 BOXSET
+> Rock | 2008 | Rhino
+>  | 
 >  | 
 
-01. アストラル・ウィークス (イン・ザ・ビギニング)
-02. ビサイド・ユー (イン・ザ・ビギニング)
-03. スウィート・シング (イン・ザ・ビギニング)
-04. サイプラス・アヴェニュー (イン・ザ・ビギニング)
-05. ヤング・ラヴァーズ・ドゥー (アフターワーズ)
-06. マダム・ジョージ (アフターワーズ)
-07. バレリーナ (アフターワーズ)
-08. スリム・スロー・スライダー (アフターワーズ)
+Van Morrison
+01. Astral Weeks
+02. Beside You
+03. Sweet Thing
+04. Cyprus Avenue
+05. The Way Young Lovers Do
+06. Madame George
+07. Ballerina
+08. Slim Slow Slider
 
   Van Morrison
