@@ -1,9 +1,9 @@
 > The Soul of Tango: Greatest Hits
 > Astor Piazzolla
 > 1 / 2
-> Latin |  | 
+> Latin | 2001 | Milan Music
 > 106491991d6a93e3a935eac5e2772125 | 
->  | 
+> 197413268 | 5550609878
 
 Astor Piazzolla & Fernando E. Solanas
 01. Adiós Nonino
