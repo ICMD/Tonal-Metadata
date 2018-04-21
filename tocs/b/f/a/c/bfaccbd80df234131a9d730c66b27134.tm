@@ -1,10 +1,3 @@
-> Vivaldi: Concertos, Vol. 3
-> Ofra Harnoy; Paul Robinson & Toronto Chamber Orchestra
-> 1 / 1
-> Classical | 1993 | RCA Victor Red Seal
->  | 
-> 457391134 | B000003FFQ
-
 > Vivaldi: Complete Cello Concertos
 > Ofra Harnoy & Toronto Chamber Orchestra
 > 3 / 4
