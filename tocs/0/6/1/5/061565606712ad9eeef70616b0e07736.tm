@@ -1,44 +1,29 @@
-> Beethoven String Quartets
-> Végh Quartet
-> 5 / 7
-> Classical | 1952 | Naxos
-> 8745da06f09c1af117c86b92d8300212 | 
->  | 
-
-> The Art of Végh Quartet
-> Végh Quartet
-> 6 / 14
-> Classical | 1952 | 
->  | 
->  | 
+> Beethoven: String Quartets Nos. 1 – 16 (Complete) (Vegh Quartet) (1952)
+> Vegh Quartet & The Vegh Quartet
+> 6 / 7
+> Classical | 2011 | Music & Arts
+> 1131dc93b0688e252ede210fc6d23e4a | 
+> 456354074 | B00BFPPFS6, B00005NG65
 
 Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in B-flat major, Op. 130
+String Quartet No. 13 in B-flat major, Op. 130
 
-  01.    I. Adagio, Ma Non Troppo; Allegro
+  01.    I. Adagio ma non troppo – Allegro
   02.   II. Presto
   03.  III. Andante con moto, ma non troppo
-  04.   IV. Alla Danza Tedesca (Allegro Assai)
+  04.   IV. Alla Danza Tedesca: Allegro assai
+  05.    V. Cavatina: Adagio molto espressivo
+  06.   VI. Finale: Allegro
 
-V. Cavatina
-Quartet for Strings in B-flat major, Op. 130
+String Quartet No. 14 in C-sharp minor, Op. 131
 
-  05.    V. Cavatina (Adagio Molto Espressivo)
-
-VI. Finale
-Quartet for Strings in B-flat major, Op. 130
-
-  06.   VI. Finale (Allegro)
-
-Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in C-sharp minor, Op. 131
-
-  07.    I. Adagio, Ma Non Troppo E Molto Espressivo
-  08.   II. Allegro Molto Vivace
-  09.  III. Allegro Moderato
-  10.   IV. Andante, ma non troppo e molto cantabile; Adagio; Allegretto
-  11.    V. Presto; Molto Poco Adagio
-  12.   VI. Adagio, Quasi Un Poco Andante
+  07.    I. Adagio, ma non troppo e molto espressivo
+  08.   II. Allegro molto vivace
+  09.  III. Allegro moderato
+  10.   IV. Andante, ma non troppo e molto cantabile
+  11.    V. Presto – Molto poco adagio
+  12.   VI. Adagio quasi un poco andante
   13.  VII. Allegro
 
-  Végh Quartet
+  Vegh Quartet, Strings
+  Rec. 1952
