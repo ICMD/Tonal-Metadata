@@ -6,10 +6,9 @@
 > 456354074 | B00BFPPFS6, B00005NG65
 
 Ludwig van Beethoven (1770 – 1827)
-01.    I. Introduzione: I. Andante con moto – Allegro vivace
-
 String Quartet No. 9 in C major, Op. 59 No. 3 “Rasumovsky”
 
+  01.    I. Introduzione: I. Andante con moto – Allegro vivace
   02.   II. Andante con moto quasi allegretto
   03.  III. Menuetto: Grazioso
   04.   IV. Allegro molto
