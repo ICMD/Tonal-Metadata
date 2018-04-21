@@ -1,9 +1,9 @@
 > Barry White Gold
 > Barry White
 > 2 / 2
-> R&B |  | 
->  | 
->  | 
+> R&B |  | POL
+> 81dc9da1d62ade31c761a5acb161cb00 | 
+>  | B002VH7IUA
 
 01. Baby We Better Try to Get It Together
 02. My Sweet Summer Suite
