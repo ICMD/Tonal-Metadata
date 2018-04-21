@@ -1,9 +1,9 @@
-> The Complete 1936-1940 Variety, Vocalion and Okeh Small Group Sessions
+> The Complete 1936–1940 Variety, Vocalion and Okeh Small Group Sessions
 > Duke Ellington
 > 3 / 7
-> Jazz | 2006 | Mosaic
+> Jazz | 2006 | Mosaic Records
 >  | 
->  | 
+>  | B002SKR31O
 
 Barney Bigard (1906 – 1980)
 01. Get It Southern Style (Alternate Take)
