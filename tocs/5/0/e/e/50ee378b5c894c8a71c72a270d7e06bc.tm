@@ -1,38 +1,43 @@
 > African River
-> John Stubblefield
+> Ekaya & Abdullah Ibrahim
 > 1 / 1
-> Jazz | 1989 | Enja
-> 230682802b7293311096f88188e1196a | 
->  | 
+> Jazz | 1989 | Enja Records
+> 7b0928317747da09f1e98a255269a91e | 
+>  | B07BT82BBW, B0011Y0N6A, B000005C8G, B00GG3IQ56, B014I7BKUE
 
+Abdullah Ibrahim (b. 1934)
 01. Toi – Toi
-
-  John Stubblefield
-
 02. African River
+03. Joan: Cape Town Flower
 
-  Howard Johnson
+  Buster Williams, Bass
+  Robin Eubanks, Trombone
+  Brian Abrahams, Drums
+  Horace Alexander Young, Alto Saxophone & Piccolo & Soprano Saxophone
+  John Stubblefield, Flute & Tenor Saxophone
+  Howard Johnson, Baritone Saxophone & Trumpet & Tuba
 
-03. Joan: Capetown Flower
-
-  Robin Eubanks
-
+Traditional
 04. Chisa
 
-  Buster Williams
+  Buster Williams, Bass
+  Robin Eubanks, Trombone
+  Abdullah Ibrahim, Piano
+  Brian Abrahams, Drums
+  Horace Alexander Young, Alto Saxophone & Piccolo & Soprano Saxophone
+  John Stubblefield, Flute & Tenor Saxophone
+  Howard Johnson, Baritone Saxophone & Trumpet & Tuba
 
+Abdullah Ibrahim (b. 1934)
 05. Sweet Samba
-
-  Robin Eubanks
-
 06. Duke 88
-
-  Bryan Adams
-
 07. The Wedding
-
-  John Stubblefield
-
 08. The Mountain of the Night
 
-  Buster Williams
+  Buster Williams, Bass
+  Robin Eubanks, Trombone
+  Brian Abrahams, Drums
+  Horace Alexander Young, Alto Saxophone & Piccolo & Soprano Saxophone
+  John Stubblefield, Flute & Tenor Saxophone
+  Howard Johnson, Baritone Saxophone & Trumpet & Tuba
+  Rec. 1989-06-01 in Van Gelder Studio, Englewood Cliffs
