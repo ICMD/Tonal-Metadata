@@ -1,18 +1,19 @@
 > The Soul of Tango: Greatest Hits
 > Astor Piazzolla
 > 2 / 2
-> Latin |  | 
+> Latin | 2001 | Milan Music
 > 106491991d6a93e3a935eac5e2772125 | 
->  | 
+> 197413268 | 5550609878
 
+Astor Piazzolla & Fernando E. Solanas
 01. Vuelvo Al Sur
 02. Duo de Amor
 03. Ausencias
-04. Tanguadia I
-05. Tanguadia III
-06. Tanguadia II
+04. Tanguedia I
+05. Tanguedia III
+06. Tanguedia II
 07. Buenos Aires Hora Cero
-08. Fuga Y Mistero
+08. Fuga Y Misterio
 09. Presto
 10. Lento Melancolico
 
@@ -37,6 +38,6 @@
 
 15. Interview, Novembre 1987: Opus
 16. Interview, Juillet 1987: Trottoirs de Buenos Aires – Euphonia Argentina
-17. Interview, 21 Mars 1981: Interactualités
+17. 21 Mars 1981: Interactualités
 
   Astor Piazzolla
