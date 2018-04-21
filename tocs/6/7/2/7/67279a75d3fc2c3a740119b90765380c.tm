@@ -23,4 +23,4 @@ Piano Concerto in G major
   Yundi Li, Piano
   Berlin Philharmonic
   Seiji Ozawa, Conductor
-  Rec. 2007-05 in Philharmonie (Großer Saal), Berlin
+  Rec. 2007-05 in Philharmonie (Großer Saal), Berlin, Live Recording
