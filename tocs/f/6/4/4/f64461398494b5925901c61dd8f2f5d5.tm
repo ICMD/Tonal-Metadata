@@ -2,7 +2,7 @@
 > Various Artists
 > 1 / 2
 > Rock | 2002 | EMI Music Canada
->  | 
+> 42f67de3f68bc855d717fda7485a3f30 | 
 >  | B00005RETE
 
 Gary Numan
