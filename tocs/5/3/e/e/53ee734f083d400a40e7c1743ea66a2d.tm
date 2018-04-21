@@ -6,9 +6,11 @@
 > 884989312, 895292169 | B00LLMLDRA, B00JX63L4Y
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-01. 2012)
-02. 2012)
-03. 2012)
+Piano Concerto No. 1 in B-flat minor, Op. 23
+
+  01.    I. Allegro non troppo e molto maestoso – Allegro con spirito
+  02.   II. Andantino semplice - Prestissimo - Tempo I
+  03.  III. Allegro con fuoco
 
 Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
 Piano Concerto No. 1 in E minor, Op. 11
