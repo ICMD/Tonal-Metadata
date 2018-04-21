@@ -1,9 +1,9 @@
-> The Complete 1936–1940 Variety, Vocalion and Okeh Small Group Sessions
+> The Complete 1936-1940 Variety, Vocalion and Okeh Small Group Sessions
 > Duke Ellington
 > 5 / 7
-> UNKNOWN GENRE | 2006 | Mosaic Records
+> Jazz | 2006 | Mosaic
 >  | 
->  | B002SKR31O
+>  | 
 
 Cootie Williams (1911 – 1985)
 01. Chasin’ Chippies
