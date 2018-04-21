@@ -1,8 +1,8 @@
 > Beethoven: The Complete String Quartets
 > Végh Quartet
 > 1 / 7
-> Classical | 1952 | Music and Arts Programs of America
-> 38ac4e88b695309b5286ec4e0a7aed11 | 
+> Classical | 1952 | Naxos
+> d0559a49d8813305028cf4b5d7d402b0 | 
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
