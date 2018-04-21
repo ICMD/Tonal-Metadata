@@ -1,52 +1,152 @@
-> The Complete 1936-1940 Variety, Vocalion and Okeh Small Group Sessions
+> The Complete 1936–1940 Variety, Vocalion and Okeh Small Group Sessions
 > Duke Ellington
-> 2 / 7
-> Jazz | 2006 | Mosaic
+> 3 / 7
+> Jazz | 2006 | Mosaic Records
 >  | 
->  | 
+>  | B002SKR31O
 
-01. Blue Reverie
-02. Blue Reverie (Alt Tk)
-03. Tiger Rag (– 2)
-04. Tiger Rag (– 1)
+Barney Bigard (1906 – 1980)
+01. Get It Southern Style (Alternate Take)
+02. Get It Southern Style
 
-  Cootie Williams & His Rug Cutters
+  Sue Mitchell, Vocal
+  Billy Taylor Sr., Bass
+  Barney Bigard, Clarinet
+  Rex Stewart, Cornet
+  Fred Guy, Guitar
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Harry Carney, Baritone Saxophone
+  Juan Tizol, Valve Trombone
 
-05. My Honey’s Lovin’ Arms
-06. Did Anyone Ever Tell You?
-07. Did Anyone Ever Tell You? (Alt Tk)
-08. Alabamy Home
-09. Where Are You?
+03. Moonlight Fiesta
+04. Moonlight Fiesta (Alternate Take)
+05. Sponge Cake and Spinach (Alternate Take)
+06. Sponge Cake and Spinach
 
-  The Gotham Stompers
+  Billy Taylor Sr., Bass
+  Barney Bigard, Clarinet
+  Rex Stewart, Cornet
+  Fred Guy, Guitar
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Harry Carney, Baritone Saxophone
+  Juan Tizol, Valve Trombone
 
-10. Lament for a Lost Love [Originally Released as “Solace”]
-11. Lament for a Lost Love [Originally Released as “Solace”] (Alt Tk)
-12. Four and One – Half Street (Alt Tk)
-13. Four and One – Half Street
-14. Demi – Tasse (Alt Tk)
-15. Demi – Tasse
-16. Jazz a la Carte
-17. Jazz a la Carte (Alt Tk)
+07. If You’re Ever in My Arms Again (Alternate Take)
+08. If You’re Ever in My Arms Again
 
-  Barney Bigard & His Jazzopators
+  Sue Mitchell, Vocal
+  Billy Taylor Sr., Bass
+  Barney Bigard, Clarinet
+  Rex Stewart, Cornet
+  Fred Guy, Guitar
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Harry Carney, Baritone Saxophone
+  Juan Tizol, Valve Trombone
 
-18. Foolin’ Myself (Alt Tk)
-19. Foolin’ Myself
-20. A Sailboat in the Moonlight (Alt Tk)
+Rex Stewart (1907 – 1967)
+09. The Back Room Romp (A Contrapuntal Stomp) (Alternate Take)
+10. The Back Room Romp (A Contrapuntal Stomp)
 
-  Johnny Hodges
+  Hayes Alvis, Bass
+  Rex Stewart, Cornet
+  Freddy Jenkins, Trumpet
+  Brick Fleagle, Guitar
+  Duke Ellington, Piano
+  Jay Maisel, Drums
+  Harry Carney, Baritone Saxophone
+  Johnny Hodges, Reeds
 
-21. A Sailboat in the Moonlight
+11. Love in My Heart (Alternate Take)
+12. Love in My Heart
+13. Sugar Hill Shim Sham (Alternate Take)
+14. Sugar Hill Shim Sham
+15. Tea and Trumpets (LP Take)
+16. Tea and Trumpets (CD Take)
+17. Tea and Trumpets (78 Take)
+
+  Hayes Alvis, Bass
+  Rex Stewart, Cornet
+  Brick Fleagle, Guitar
+  Duke Ellington, Piano
+  Jay Maisel, Drums
+  Harry Carney, Baritone Saxophone
+  Johnny Hodges, Reeds
+
+Cootie Williams (1911 – 1985)
+18. Jubilesta
+
+  Billy Taylor Sr., Bass
+  Harry Carney, Saxophone
+  Otto Hardwick, Saxophone
+  Cootie Williams, Trumpet
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Juan Tizol, Valve Trombone
+  Barney Bigard, Reeds
+
+19. Watchin'
+
+  Jerry Kruger, Vocal
+  Billy Taylor Sr., Bass
+  Harry Carney, Saxophone
+  Otto Hardwick, Saxophone
+  Cootie Williams, Trumpet
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Juan Tizol, Valve Trombone
+  Barney Bigard, Reeds
+
+20. Pigeons and Peppers
+
+  Billy Taylor Sr., Bass
+  Harry Carney, Saxophone
+  Otto Hardwick, Saxophone
+  Cootie Williams, Trumpet
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Juan Tizol, Valve Trombone
+  Barney Bigard, Reeds
+
+21. I Can’t Give You Anything but Love
 
   Buddy Clark, Vocal
-  Johnny Hodges
-  Duke Ellington & His Orchestra
+  Billy Taylor Sr., Bass
+  Harry Carney, Saxophone
+  Otto Hardwick, Saxophone
+  Cootie Williams, Trumpet
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Johnny Hodges, Reeds
+  Juan Tizol, Valve Trombone
+  Barney Bigard, Reeds
 
-22. You’ll Never Get to Heaven if You Break My Heart
-23. You’ll Never Get to Heaven if You Break My Heart (Alt Tk)
-24. Peckin’ (– 3)
-25. Peckin’ (– 2)
-26. Peckin’ (– 1)
+COMPOSER NON-APPLICABLE
+22. Drummer’s Delight
+23. If I Thought You Cared (Alternate Take)
+24. If I Thought You Cared
 
-  Johnny Hodges
+  Billy Taylor Sr., Bass
+  Barney Bigard, Clarinet
+  Rex Stewart, Cornet
+  Fred Guy, Guitar
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Harry Carney, Baritone Saxophone
+  Juan Tizol, Valve Trombone
+
+Cootie Williams (1911 – 1985)
+25. Lost in Meditation
+26. Lost in Meditation (Alternate Take)
+
+  Billy Taylor Sr., Bass
+  Johnny Hodges, Alto Saxophone
+  Cootie Williams, Trumpet
+  Joe Nanton, Trombone
+  Fred Guy, Guitar
+  Duke Ellington, Piano
+  Sonny Greer, Drums
+  Harry Carney, Baritone Saxophone
+  Barney Bigard, Reeds
