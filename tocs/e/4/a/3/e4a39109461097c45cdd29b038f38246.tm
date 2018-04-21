@@ -1,9 +1,9 @@
-> The Complete 1936-1940 Variety, Vocalion and Okeh Small Group Sessions
+> The Complete 1936–1940 Variety, Vocalion and Okeh Small Group Sessions
 > Duke Ellington
 > 6 / 7
-> Jazz | 2006 | Mosaic
+> Jazz | 2006 | Mosaic Records
 >  | 
->  | 
+>  | B002SKR31O
 
 Cootie Williams
 01. Beautiful Romance
