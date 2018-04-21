@@ -1,32 +1,25 @@
-> Mahler: Symphony No. 1
-> Leonard Bernstein & Royal Concertgebouw Orchestra
-> 1 / 1
-> Classical | 1987 | Deutsche Grammophon
-> 13239e0fef356da776dd86a2036a9c00 | 
->  | 
+> Mahler: 10 Symphonyn
+> Leonard Bernstein, New York Philharmonic, Royal Concertgebouw Orchestra & Wiener Philharmoniker
+> 1 / 13 BOXSET
+> Classical | 1991 | Deutsche Grammophon
+> 52d590759f47fc2a4689020af31fb492 | 
+>  | B01AB91DSW
 
-> マーラー 交響曲全集他 (バーンスタイン DG, 15CD)
-> バーンスタイン/ロイヤル・コンセルトヘボウO
-> 1 / 15
-> Classical | 1987 | 
->  | 
->  | 
-
-> マーラー 交響曲No. 1 (バーンスタイン DG)
-> バーンスタイン/ロイヤル・コンセルトヘボウO
-> 31 / 56
-> Classical | 2010 | 
->  | 
->  | 
+> 100 Great Symphonys (Part 3)
+> Various Artists
+> 1 / 14
+> Classical | 2014 | Deutsche Grammophon
+> 8d91d5ef56cd66e5723663a9f8232d8d | 
+> 845657614, 881663734 | B00KIGPOBQ, B01AB91DSW
 
 Gustav Mahler (1860 – 1911)
-マーラー 交響曲 No. 1 ニ長調 「巨人」 (1888, Rev. 1896)
+Symphony No. 1 in D major
 
-  01.    I. Langsam. Schleppend – Im Anfang sehr gemachlich (緩やかに引きずるように, 一貫してのどかに)
-  02.   II. Kraftig bewegt, doch nicht zu schnell (力強く活き活きと, しかし速くならず)
-  03.  III. Feierlich und gemessen, ohne zu schleppen (荘重に, 威厳をもって引きずらぬように)
-  04.   IV. Sturmisch bewegt (嵐のように激情的に)
+  01.    I. Langsam. Schleppend. Wie ein Naturlaut – Im anfang sehr gemächlich
+  02.   II. Kräftig bewegt
+  03.  III. Feierlich und gemessen, ohne zu schleppen
+  04.   IV. Stürmisch bewegt
 
   Royal Concertgebouw Orchestra
   Leonard Bernstein, Conductor
-  Rec. 1987-10, Live Recording
+  Rec. 1987-10-10 in Concertgebouw: Grote Zaal, Amsterdam, Live Recording
