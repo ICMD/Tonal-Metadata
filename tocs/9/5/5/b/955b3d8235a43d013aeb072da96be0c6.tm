@@ -1,10 +1,11 @@
 > Blue Moon
 > Ahmad Jamal
 > 1 / 1
-> Jazz | 2012 | Jazz Village
-> 2d097c5190790c3534adf00948586083 | 
->  | 
+> Jazz | 2011 | ACM Records
+> 98b0f5528638690b91dbe2c6ac1e56fe | 
+> 496348341 | B00BADY9NA, B009SU029M, B01K8KLZZU, B00FW68KQS
 
+Ahmad Jamal (b. 1930)
 01. Autumn Rain
 02. Blue Moon
 03. The Gypsy (Billy Reid)
