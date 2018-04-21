@@ -1,9 +1,9 @@
 > Midnight in Paris
-> Duke Ellington & His Orchestra
+> Duke Ellington And His Orchestra
 > 1 / 1
 > Jazz | 2015 | Avid Entertainment
 > 22890dbeb1224e105cdc0975c6c1130b | 
->  | 
+>  | B00L81DZCA
 
 01. Under Paris Skies
 02. I Wish You Love
