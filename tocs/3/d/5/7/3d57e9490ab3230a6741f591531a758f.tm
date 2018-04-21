@@ -5,16 +5,16 @@
 > b3e30dfd0461d430ebd6e0ecbe55dae5 | 
 >  | 
 
-> Mahler: 10 Symphonyn
+> Mahler: 10 Symphonies
 > Leonard Bernstein, New York Philharmonic, Royal Concertgebouw Orchestra & Wiener Philharmoniker
 > 1 / 13 BOXSET
 > Classical | 1991 | Deutsche Grammophon
 > 52d590759f47fc2a4689020af31fb492 | 
 >  | B01AB91DSW
 
-> 100 Great Symphonys (Part 3)
+> 100 Great Symphonies (Part 3)
 > Various Artists
-> 1 / 14
+> 1 / 14 BOXSET
 > Classical | 2014 | Deutsche Grammophon
 > 8d91d5ef56cd66e5723663a9f8232d8d | 
 > 845657614, 881663734 | B00KIGPOBQ, B01AB91DSW
