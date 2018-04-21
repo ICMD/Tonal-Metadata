@@ -13,18 +13,18 @@
 > 331738588, 514814767 | B002DZX958
 
 Béla Bartók (1881 – 1945)
-Violin Concerto No. 2, Sz. . . 112
+Violin Concerto No. 2, Sz. 112
 
   01.    I. Allegro non troppo
   02.   II. Andante tranquillo
   03.  III. Allegro molto
 
-Rhapsody No. 1 for Violin and Orchestra, Sz. . . 87
+Rhapsody No. 1 for Violin and Orchestra, Sz. 87
 
   04.    I. Moderato
   05.   II. Allegretto moderato
 
-Rhapsody for Violin and Orchestra No. 2, Sz. . . 90
+Rhapsody for Violin and Orchestra No. 2, Sz. 90
 
   06.    I. Lassú. Moderato
   07.   II. Friss. Allegro moderato
