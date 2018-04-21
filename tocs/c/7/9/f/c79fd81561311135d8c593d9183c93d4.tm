@@ -1,9 +1,9 @@
 > Barry White Gold
 > Barry White
 > 1 / 2
-> R&B |  | POL
-> 81dc9da1d62ade31c761a5acb161cb00 | 
->  | B002VH7IUA, B000E9X2WK
+> R&B |  | 
+>  | 
+>  | 
 
 01. Love’s Theme
 02. I’m Gonna Love You Just a Little More Baby
