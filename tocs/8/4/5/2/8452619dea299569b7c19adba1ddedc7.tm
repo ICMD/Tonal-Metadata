@@ -1,4 +1,4 @@
-> The Great Summit, Vol. 1
+> The Great Summit: The Master Takes
 > Louis Armstrong & Duke Ellington
 > 1 / 1
 > Jazz | 2012 | Black Sheep Music
