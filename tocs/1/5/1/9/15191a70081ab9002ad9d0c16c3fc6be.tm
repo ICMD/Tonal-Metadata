@@ -1,31 +1,25 @@
-> Beethoven String Quartets
-> Végh Quartet
-> 4 / 7
-> Classical | 1952 | Naxos
-> 7a7b86ce9f172c875b2cce4860174f0d | 
->  | 
-
-> The Art of Végh Quartet
-> Végh Quartet
-> 7 / 14
-> Classical | 1952 | 
->  | 
->  | 
+> Beethoven: String Quartets Nos. 1 – 16 (Complete) (Vegh Quartet) (1952)
+> Vegh Quartet & The Vegh Quartet
+> 7 / 7
+> Classical | 2011 | Music & Arts
+> 1131dc93b0688e252ede210fc6d23e4a | 
+> 456354074 | B00BFPPFS6, B00005NG65
 
 Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in A minor, Op. 132
+String Quartet No. 15 in A minor, Op. 132
 
-  01.    I. Assai Sostenuto; Allegro
-  02.   II. Allegro, Ma Non Tanto
-  03.  III. Heiliger Dankgesang Eines Genesenden an Die Gottheit, in der Lydischen Tonart (Molto Adagio); Neue Kraft Fühlend (Andante); Mit Innigster Empfindunge
-  04.   IV. Alla Marcia (Assai Vivace)
+  01.    I. Assai sostenuto – Allegro
+  02.   II. Allegro ma non tanto
+  03.  III. Heiliger Dankgesang Eines Genesenden an Die Gottheit, in der Lydischen Tonart: Molto adagio – Neue Kraftfuhtend: Andante – Molto adagio
+  04.   IV. Alla marcia, assai vivace – Più allegro
   05.    V. Allegro appassionato
 
-Quartet for Strings in F major, Op. 135
+String Quartet No. 16 in F major, Op. 135
 
   06.    I. Allegretto
   07.   II. Vivace
   08.  III. Lento assai, cantante e tranquillo
-  09.   IV. Der Schwer Gefaßte Entschluß – Grave (Muß Es Sein?); Allegro (Es Muß Sein!); Grave Ma Non Troppo Tratto; Allegro
+  09.   IV. Der Schwer gefaßte Entschluß: Grave – Allegro – Grave, ma non troppo tratto – Allegro
 
-  Végh Quartet
+  Vegh Quartet, Strings
+  Rec. 1952
