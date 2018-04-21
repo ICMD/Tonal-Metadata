@@ -1,42 +1,25 @@
-> Beethoven String Quartets
-> Végh Quartet
-> 7 / 7
-> Classical | 1952 | Naxos
-> d0559a49d8813305028cf4b5d7d402b0 | 
->  | 
-
-> The Art of Végh Quartet
-> Végh Quartet
-> 4 / 14
-> Classical | 1952 | 
->  | 
->  | 
-
-I. Introduzione
-Quartet for Strings in C major, Op. 59 “Razumovsky” No. 3
-
-  01.    I. Introduzione (Andante con Moto; Allegro Vivace)
+> Beethoven: String Quartets Nos. 1 – 16 (Complete) (Vegh Quartet) (1952)
+> Vegh Quartet & The Vegh Quartet
+> 4 / 7
+> Classical | 2011 | Music & Arts
+> 1131dc93b0688e252ede210fc6d23e4a | 
+> 456354074 | B00BFPPFS6, B00005NG65
 
 Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in C major, Op. 59 “Razumovsky” No. 3
+01.    I. Introduzione: I. Andante con moto – Allegro vivace
 
-  02.   II. Andante con Moto, Quasi Allegretto
+String Quartet No. 9 in C major, Op. 59 No. 3 “Rasumovsky”
 
-III. Menuetto
-Quartet for Strings in C major, Op. 59 “Razumovsky” No. 3
-
-  03.  III. Menuetto Grazioso
-
-Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in C major, Op. 59 “Razumovsky” No. 3
-
+  02.   II. Andante con moto quasi allegretto
+  03.  III. Menuetto: Grazioso
   04.   IV. Allegro molto
 
-Quartet for Strings in E-flat major, Op. 74 “Harp”
+String Quartet No. 10 in E-flat major, Op. 74 “Harp”
 
-  05.    I. Poco Adagio – Allegro
-  06.   II. Adagio, Ma Non Troppo
+  05.    I. Poco adagio – Allegro
+  06.   II. Adagio ma non troppo
   07.  III. Presto
   08.   IV. Allegretto con variazioni
 
-  Végh Quartet
+  Vegh Quartet, Strings
+  Rec. 1952
