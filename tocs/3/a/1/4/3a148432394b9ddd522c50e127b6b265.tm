@@ -1,42 +1,24 @@
-> Beethoven String Quartets
-> Végh Quartet
+> Beethoven: String Quartets Nos. 1 – 16 (Complete) (Vegh Quartet) (1952)
+> Vegh Quartet & The Vegh Quartet
 > 3 / 7
-> Classical | 1952 | Naxos
-> d0559a49d8813305028cf4b5d7d402b0 | 
->  | 
-
-> The Art of Végh Quartet
-> Végh Quartet
-> 3 / 14
-> Classical | 1952 | 
->  | 
->  | 
+> Classical | 2011 | Music & Arts
+> 1131dc93b0688e252ede210fc6d23e4a | 
+> 456354074 | B00BFPPFS6, B00005NG65
 
 Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in F major, Op. 59 “Razumovsky” No. 1
+String Quartet No. 7 in F major, Op. 59 No. 1 “Rasumovsky”
 
   01.    I. Allegro
   02.   II. Allegretto vivace e sempre scherzando
-  03.  III. Adagio Molto E Mesto
-  04.   IV. Theme Russe – Allegro
+  03.  III. Adagio molto e mesto
+  04.   IV. Theme Russe: Allegro
 
-Quartet for Strings in E minor, Op. 59 “Razumovsky” No. 2
+String Quartet No. 8 in E minor, Op. 59 No. 2 “Rasumovsky”
 
   05.    I. Allegro
-
-II. Molto adagio
-Quartet for Strings in E minor, Op. 59 “Razumovsky” No. 2
-
-  06.   II. Adagio Molto
-
-Ludwig van Beethoven (1770 – 1827)
-Quartet for Strings in E minor, Op. 59 “Razumovsky” No. 2
-
+  06.   II. Molto adagio: Si tratta questo pezzo con molto di sentimento
   07.  III. Allegretto
+  08.   IV. Finale: Presto
 
-IV. Finale
-Quartet for Strings in E minor, Op. 59 “Razumovsky” No. 2
-
-  08.   IV. Finale (Presto)
-
-  Végh Quartet
+  Vegh Quartet, Strings
+  Rec. 1952
