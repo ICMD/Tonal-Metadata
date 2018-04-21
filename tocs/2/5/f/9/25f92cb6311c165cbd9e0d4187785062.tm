@@ -1,7 +1,7 @@
 > The Complete 1936–1940 Variety, Vocalion and Okeh Small Group Sessions
 > Duke Ellington
 > 3 / 7
-> Jazz | 2006 | Mosaic Records
+> UNKNOWN GENRE | 2006 | Mosaic Records
 >  | 
 >  | B002SKR31O
 
