@@ -30,14 +30,14 @@ George Frideric Handel (1685 – 1759)
 10. In the Lord Put I My Trust, HWV 247 “Chandos Anthem No. 2”: I. Overture (arr. by L. Stokowski)
 11. Messiah, HWV 56, Part 1: Pastoral Symphony “Pifa” (arr.L. Stokowski)
 
-Water Music
+Water Music: Suite No. 1 in F Major, HWV 348 (arr. L. Stokowski)
 
-  12.  III. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): III. Allegro
-  13.   VI. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): VI. Air
-  14. VIII. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): VIII. Bourree
-  15.   IX. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): IX. Hornpipe
-  16.   IV. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): IV. Andante
-  17.    X. Suite No. 1 in F major, HWV 348 (arr.L. Stokowski): X. Allegro deciso
+  12.  III. Allegro
+  13.   VI. Air
+  14. VIII. Bourree
+  15.   IX. Hornpipe
+  16.   IV. Andante
+  17.    X. Allegro deciso
 
   Philadelphia Orchestra
   Leopold Stokowski, Conductor
