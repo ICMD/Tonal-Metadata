@@ -1,4 +1,4 @@
-> Brahms: Symphony No. 4 – Tragic Overture
+> Brahms: Symphony No. 4, Tragic Overture
 > Carlo Maria Giulini & Vienna Philharmonic
 > 1 / 1
 > Classical | 1990 | Deutsche Grammophon
