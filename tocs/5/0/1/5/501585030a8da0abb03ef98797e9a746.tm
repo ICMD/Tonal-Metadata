@@ -1,44 +1,38 @@
-> Britten / Stravinsky/Bartok: Works for Two Pianos
-> Richter and Lobanov
-> 1 / 1
-> Classical | 1985 | PHILIPS
->  | 
->  | 
-
-> Sviatoslav Richter: Complete Decca, Philips, DG Recordings; Chamber Recordings
-> Richter and Lobanov
+> Complete Decca, Philips & DG Recordings
+> Sviatoslav Richter & Vassili Lobanov
 > 41 / 51
-> Classical | 1985 | 
->  | 
->  | 
+> Classical | 2015 | Decca Records
+> 83b1a7b6cd38a5c990f009da0751a42c | 
+>  | B00000E3IG
 
 Sir Benjamin Britten (1913 – 1976)
-Britten, Benjamin
+Introduction and Rondo Alla Burlesca, Op. 23 No. 1
 
-  01. Introduction and Rondo Alla Burlesca, Op. 23 No. 1. 1. Grav
-  02. Introduction and Rondo Alla Burlesca, Op. 23 No. 1. 2. Alle
-  03. Mazurka Elegiaca, Op. 23 No. 2
+  01.    I. Grave
+  02.   II. Allegro moderato, ma con spirito
+
+03. Mazurka Elegiaca, Op. 23 No. 2 (Tours, 07 Juill. 1985)
 
 Igor Stravinsky (1882 – 1971)
-Stravinsky, Igor
+Concerto for 2 Pianos
 
-  04. Concerto for 2 Pianos. 1. Con Moto
-  05. Concerto for 2 Pianos. 2. Notturno
-  06. Concerto for 2 Pianos. 3. Quattro Variazioni
-  07. Concerto for 2 Pianos. 4. Preludio E Fuga
+  04.    I. Con moto
+  05.   II. Notturno
+  06.  III. Quattro variazioni
+  07.   IV. Preludio e Fuga
 
-  Sviatoslav Richter
   Vassili Lobanov
+  Sviatoslav Richter
 
-Valery Barkov
-Bartok, Bela
+Béla Bartók (1881 – 1945)
+Sonata for 2 Pianos and Percussion, Sz. 110
 
-  08. Sonata for 2 Pianos and Percussion. 1. Assai Lento
-  09. Sonata for 2 Pianos and Percussion. 2. Lento
-  10. Sonata for 2 Pianos and Percussion. 3. Allegro Non Troppo
+  08.    I. Assai lento
+  09.   II. Lento, ma non troppo
+  10.  III. Allegro non troppo
 
   Valentin Snegirev, Percussion
-  Sviatoslav Richter
   Vassili Lobanov
+  Sviatoslav Richter
   Piano
   Valery Barkov
