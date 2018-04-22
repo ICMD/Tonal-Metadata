@@ -16,15 +16,15 @@
 > The Beatles
 > 13 / 16 BOXSET
 > Rock | 1988 | Apple Records
->  | 
+> 847204b3d20c6fc4396f0095c15cb619 | 
 >  | B000002UU7
 
 > The Beatles
 > The Beatles
 > 13 / 17 BOXSET
 > Rock | 2009 | Apple Records
->  | 
->  | 
+> 847204b3d20c6fc4396f0095c15cb619 | 
+>  | B000002USY
 
 John Lennon, Paul McCartney & The Beatles
 01. Come Together
