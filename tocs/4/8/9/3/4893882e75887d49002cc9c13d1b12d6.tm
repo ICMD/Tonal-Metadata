@@ -2,7 +2,7 @@
 > Sviatoslav Richter
 > 4 / 4
 > Classical | 1991 | RCA Victor Gold Seal
->  | 
+> 5c1ece3d4314e9c15a22e42e2cf6b948 | 
 > 270296141 | B000026OHN
 
 Johann Sebastian Bach (1685 – 1750)
