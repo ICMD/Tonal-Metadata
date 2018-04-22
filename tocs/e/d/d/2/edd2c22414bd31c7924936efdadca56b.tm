@@ -1,9 +1,9 @@
-> Dvořák: Piano Quintets No. 1 & 2
-> Borodin Quartet & Sviatoslav Richter
-> 1 / 1
-> Classical | 1985 | Philips Classics
-> 391c3f2090a76d2df61ca6640d7aaec8 | 
-> 135904564, 171577679, 1118339932 | B000V6Q90S, B00GU11FKC, B000E8N7QC
+> Complete Decca, Philips & DG Recordings
+> Sviatoslav Richter
+> 39 / 51
+> Classical | 2015 | Decca Records
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
+>  | B00000E3IG
 
 Antonín Dvořák (1841 – 1904)
 Piano Quintet No. 1 in A major, Op. 5
