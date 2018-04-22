@@ -2,7 +2,7 @@
 > Sviatoslav Richter & Johann Sebastian Bach
 > 1 / 1
 > Classical | 2015 | Melodiya
-> 3fb735b7370e9e82fde14ce539e4edb4 | 
+> 8d6c45c3a095e79eccb5642ace343ea4 | 
 > 1224687392 | B06Y4C4BFP
 
 > Bach: Хорошо темперированный клавир. Том 1
