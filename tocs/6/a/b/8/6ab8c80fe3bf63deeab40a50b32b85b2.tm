@@ -1,54 +1,54 @@
-> Stravinsky: Complete Works
-> Various Artists
+> Works of Igor Stravinsky
+> Igor Stravinsky
 > 10 / 22
 > Classical | 2007 | Sony Classical
->  | 
->  | 
+> d9e65e75689a17257684223bfc84331f | 
+>  | B000PTYUQG
 
 Igor Stravinsky (1882 – 1971)
-ストラヴィンスキー ピアノと管楽器のための協奏曲 (1924, Rev. 1950)
+Concerto for Piano and Wind Instruments
 
-  01.    I. Largo, Allegro – Maestoso
+  01.    I. Largo. Allegro – Maestoso
   02.   II. Largo
   03.  III. Allegro
 
-  Philippe Entremont
+  Philippe Entremont, Grand Piano
   Columbia Symphony Orchestra
   Igor Stravinsky, Conductor
-  Rec. 1964-05-13
+  Rec. 1964-05-13 in Manhattan Center, New York
 
-ストラヴィンスキー ピアノと管弦楽のための楽章 (Movements, 1959)
+Movements for Piano and Orchestra
 
-  04.    I. ♪=110
-  05.   II. ♪=52
-  06.  III. ♪=72
-  07.   IV. ♪=80
-  08.    V. ♪=104
+  04. I
+  05. II
+  06. III
+  07. IV
+  08. V
 
-  Charles Rosen
+  Charles Rosen, Grand Piano
   Columbia Symphony Orchestra
   Igor Stravinsky, Conductor
   Rec. 1961-02-12
 
-ストラヴィンスキー ピアノと管弦楽のためのカプリッチョ (1929)
+Capriccio for Piano and Orchestra
 
   09.    I. Presto
   10.   II. Andante rapsodico
-  11.  III. Allegro capriccioso ma tempo guisto
+  11.  III. Allegro capriccioso ma tempo giusto
 
-  Philippe Entremont
+  Philippe Entremont, Grand Piano
   Columbia Symphony Orchestra
   Robert Craft, Conductor
-  Rec. 1966-01-03
+  Rec. 1966-01-03 in Manhattan Center, New York
 
-ストラヴィンスキー ヴァイオリン協奏曲 ニ長調 (1931)
+Violin Concerto in D major
 
   12.    I. Toccata
-  13.   II. Aria 1
-  14.  III. Aria 2
+  13.   II. Aria I
+  14.  III. Aria II
   15.   IV. Capriccio
 
-  Isaac Stern
+  Isaac Stern, Violin
   Columbia Symphony Orchestra
   Igor Stravinsky, Conductor
   Rec. 1960-06-29 – 1960-06-30
