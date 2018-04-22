@@ -1,26 +1,30 @@
-> Franck: Piano Quintet; Liszt: Piano Works
+> Franck: Piano Quintet – Liszt: Harmonies Poétiques et Religieuses; Ave Maria
 > Sviatoslav Richter & Borodin Quartet
 > 1 / 1
-> Classical | 1991 | Philips
-> 603b1f3289c9200432219abd7d9bcbbc | 
->  | 
+> Classical | 1991 | Decca Records
+> afaa2323003f07ab4fc74e0efa241999 | 
+> 440081206 | B00000E4TE
 
 César Franck (1822 – 1890)
-Piano Quintet in F minor, M. 7
+Piano Quintet in F minor
 
-  01.    I. Molto Moderato Quasi Lento, Allegro
-  02.   II. Lento, con Molto Sentimento
-  03.  III. Allegro Non Troppo Ma con Fuoco
+  01.    I. Molto moderato quasi lento – Allegro
+  02.   II. Lento, con molto sentimento
+  03.  III. Allegro con troppo ma non fuoco
 
+  Sviatoslav Richter
+  Mikhail Kopelman
+  Andrei Abramenkov
+  Dimitri Shebalin
+  Valentin Berlinsky
   Borodin Quartet
-  Sviatoslav Richter, Conductor
 
 Franz Liszt (1811 – 1886)
-Harmonies Poétiques et Religieuses, S. 173
+10 Harmonies Poétiques et Religieuses, S. 173
 
-  04. Pensées Des Morts
-  05. Andante Lagrimoso
+  04.   IV. Pensée des morts
+  05.    X. Andante lagrimoso
 
-06. Ave Maria, S. 183
+06. Ave Maria “Die Glocken von Rom”, S. 182
 
-  Sviatoslav Richter, Conductor
+  Sviatoslav Richter
