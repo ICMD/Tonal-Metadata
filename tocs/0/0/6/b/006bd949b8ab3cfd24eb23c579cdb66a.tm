@@ -1,10 +1,3 @@
-> Richter Plays Beethoven, Vol. 4
-> Sviatoslav Richter & Quintette Moragues
-> 2 / 2
-> Classical | 1993 | Decca Records
-> d62b5070406ccdd9ed4381cdb9c7db89 | 
-> 256705048, 261085012 | B0016128N4, B000PY302G
-
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
 > 37 / 51
