@@ -1,9 +1,9 @@
-> Brahms: Piano Quartet No. 2
-> Mikhail Kopelman, Dimitri Shebalin, Valentin Berlinsky & Sviatoslav Richter
-> 1 / 1
-> Classical | 1987 | Philips Digital Classics
-> ea3a20dbea14824f9184eb91ac028b6a | 
-> 1095704442 | B079M2Q62N, B00000E3IH
+> Complete Decca, Philips & DG Recordings
+> Sviatoslav Richter
+> 36 / 51
+> Classical | 2015 | Decca Records
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
+>  | B00000E3IG
 
 Johannes Brahms (1833 – 1897)
 Piano Quartet No. 2 in A major, Op. 26
