@@ -2,14 +2,14 @@
 > Sviatoslav Richter & Quintette Moragues
 > 2 / 2
 > Classical | 1993 | Decca Records
-> d669a6bfc13461d08dd610e898b0f965 | 
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
 > 256705048, 261085012 | B0016128N4, B000PY302G
 
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
 > 37 / 51
 > Classical | 2015 | Decca Records
-> 83b1a7b6cd38a5c990f009da0751a42c | 
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
 >  | B00000E3IG
 
 Ludwig van Beethoven (1770 – 1827)
