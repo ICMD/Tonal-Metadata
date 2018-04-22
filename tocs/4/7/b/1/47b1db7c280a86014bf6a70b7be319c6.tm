@@ -6,7 +6,7 @@
 > 529968813 | B0077DDWEE
 
 Antonín Dvořák (1841 – 1904)
-Symphony No. 9 in E minor ‘From the New World’, Op. 95 (B 178; 1893)
+Symphony No. 9 in E minor ‘From the New World’, Op. 95 (B 178)
 
   01.    I. Adagio. Allegro molto
   02.   II. Largo
