@@ -1,4 +1,4 @@
-> Bach: Sviatoslav Richter 100, Vol. 31
+> Bach: The Well-Tempered Clavier, Book I
 > Sviatoslav Richter & Johann Sebastian Bach
 > 1 / 1
 > Classical | 2015 | Melodiya
