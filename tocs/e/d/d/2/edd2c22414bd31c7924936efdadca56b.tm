@@ -1,9 +1,9 @@
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 39 / 51
+> 39 / 51 BOXSET
 > Classical | 2015 | Decca Records
 > d62b5070406ccdd9ed4381cdb9c7db89 | 
->  | B00000E3IG
+>  | 
 
 Antonín Dvořák (1841 – 1904)
 Piano Quintet No. 1 in A major, Op. 5
