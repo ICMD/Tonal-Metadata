@@ -45,7 +45,7 @@ B.B. King
 15. If That Ain’t It I Quit
 
   B.B. King
-  James Bolden, Bandleader, trumpet
+  James Bolden, Bandleader, Trumpet
   Tony Coleman, Percussion
   Calep Emphrey, Jr., Drums
   Melvin Jackson, Saxophone
