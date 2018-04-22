@@ -1,9 +1,9 @@
-> Franck: Piano Quintet – Liszt: Harmonies Poétiques et Religieuses; Ave Maria
-> Sviatoslav Richter & Borodin Quartet
-> 1 / 1
-> Classical | 1991 | Decca Records
-> afaa2323003f07ab4fc74e0efa241999 | 
-> 440081206 | B00000E4TE
+> Complete Decca, Philips & DG Recordings
+> Sviatoslav Richter
+> 40 / 51
+> Classical | 2015 | Decca Records
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
+>  | B00000E3IG
 
 César Franck (1822 – 1890)
 Piano Quintet in F minor
