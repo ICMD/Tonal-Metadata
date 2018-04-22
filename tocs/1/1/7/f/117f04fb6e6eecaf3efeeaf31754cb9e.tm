@@ -1,15 +1,8 @@
-> Beethoven: The Cello Sonatas
-> Mstislav Rostropovich & Sviatoslav Richter & Maurice Gendron & Jean Françaix
-> 1 / 2
-> Classical | 1963 | Philips Classics
-> 62112066ea57f8c22ed124b526f7e135 | 
-> 135161230 | B0015S70TA, B0000041A9, B000051YD5, B01G7N9CFW
-
 > Complete Decca, Philips & DG Recordings
 > Mstislav Rostropovich, Sviatoslav Richter
 > 35 / 51 BOXSET
 > Classical | 2015 | Decca Records
-> 83b1a7b6cd38a5c990f009da0751a42c | 
+> d62b5070406ccdd9ed4381cdb9c7db89 | 
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
