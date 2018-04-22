@@ -1,38 +1,38 @@
-> Brahms: Symphony No. 3, St. Anthony Variations
-> Carlo Maria Giulini & Vienna Philharmonic Orchestra
+> Brahms: Symphony No. 3 “Haydn – Variations”
+> Vienna Philharmonic Orchestra & Carlo Maria Giulini
 > 1 / 1
-> Classical | 1990 | Deutsche Grammophon
+> Classical | 1991 | Deutsche Grammophon
 >  | 
->  | 
+> 316379147, 389664989 | B0041IXD4W, B00000E4RK
 
-> ブラームス 交響曲全集他 (ジュリーニ DG)
-> ジュリーニ/ウィーン・フィル
-> 7 / 16
-> Classical | 1990 | 
-> 00a77ef54f38725c6eac30c41d75ce68 | 
->  | 
+> Giulini in Vienna
+> Vienna Symphony Orchestra, Vienna Philharmonic Orchestra & Carlo Maria Giulini
+> 5 / 15 BOXSET
+> Classical | 2014 | Deutsche Grammophon
+> 607b3ffbdafeee39e5e98245b7dbd880 | 
+> 836747258, 892073382 | B00K8N2JE4, B00IERAFTW, B01K8KT4E4
 
 Johannes Brahms (1833 – 1897)
 Symphony No. 3 in F major, Op. 90
 
-  01.    I. Allegro con Brio
-  02.   II. Andante
-  03.  III. Poco Allegretto
-  04.   IV. Allegro
+  01.    I. Allegro con brio – Un poco sostenuto – Tempo I (Live at Musikverein, Vienna / 1990)
+  02.   II. Andante (Live at Musikverein, Vienna / 1990)
+  03.  III. Poco allegretto (Live at Musikverein, Vienna / 1990)
+  04.   IV. Allegro (Live at Musikverein, Vienna / 1990)
 
-Variations on a Theme by Haydn, Op. 56a “St. Anthony Variations”
+Variations on a Theme by Haydn, Op. 56a
 
-  05. Chorale: Andante
-  06. Var. 1 “Andante con Moto”
-  07. Var. 2 “Vivace”
-  08. Var. 3 “Con Moto”
-  09. Var. 4 “Andante”
-  10. Var. 5 “Poco Presto”
-  11. Var. 6 “Vivace”
-  12. Var. 7 “Grazioso”
-  13. Var. 8 “Poco Presto”
-  14. Finale: Andante
+  05. Theme “Chorale St. Antoni”
+  06.    I. Variation I. Poco più animato
+  07.   II. Variation II. Più vivace
+  08.  III. Variation III. Con moto
+  09.   IV. Variation IV. Andante con moto
+  10.    V. Variation V. Vivace
+  11.   VI. Variation VI. Vivace
+  12.  VII. Variation VII. Grazioso
+  13. VIII. Variation VIII. Presto non troppo
+  14. Finale. Andante
 
-  Vienna Philharmonic Orchestra
+  Wiener Philharmoniker
   Carlo Maria Giulini, Conductor
-  Rec. 1990-05, Live Recording
+  Rec. 1990-05 in Wiener Musikverein: Großer Musikvereinssaal, Wien, Live Recording
