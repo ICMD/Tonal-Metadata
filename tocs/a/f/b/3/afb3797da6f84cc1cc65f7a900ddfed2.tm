@@ -45,3 +45,11 @@ B.B. King
 15. If That Ain’t It I Quit
 
   B.B. King
+  James Bolden, Bandleader, trumpet
+  Tony Coleman, Percussion
+  Calep Emphrey, Jr., Drums
+  Melvin Jackson, Saxophone
+  Leon Warren, Guitar
+  Michael Doster, Bass
+  James Sells Toney, Keyboards
+  Stanley Abernathy, Trumpet
