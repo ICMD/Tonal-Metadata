@@ -7,10 +7,10 @@
 
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 37 / 51 BOXSET
+> 37 / 51
 > Classical | 2015 | Decca Records
 > 83b1a7b6cd38a5c990f009da0751a42c | 
->  | 
+>  | B00000E3IG
 
 Ludwig van Beethoven (1770 – 1827)
 Piano Trio No. 7 in B-flat major, Op. 97 “Archduke”
