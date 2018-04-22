@@ -22,4 +22,4 @@
   Liam Longstaff, Electric Guitar
   Martin Longstaff, Acoustic Guitar and Vocals
   Rebecca Young, Bass Guitar and Vocals
-  Rec. 2015-09 in Sunderland Minster
+  Rec. 2015-09 in Sunderland Minster, Live Recording
