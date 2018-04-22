@@ -9,15 +9,8 @@
 > Igor Stravinsky
 > 16 / 22 BOXSET
 > Classical | 2007 | Sony Classical
-> d9e65e75689a17257684223bfc84331f | 
->  | B000PTYUQG
-
-> The Columbia Album Collection, Vol. II
-> Igor Stravinsky
-> 19 / 34 BOXSET
-> Classical | 1951 | Sony Classical
 > e8bcb98b56b2e4122c14c4d2308a4b73 | 
-> 1087964905 | 
+>  | B000PTYUQG
 
 Igor Stravinsky (1882 – 1971)
 The Rake’s Progress: Opera in 3 Acts
