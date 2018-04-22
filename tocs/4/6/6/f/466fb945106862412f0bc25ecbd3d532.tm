@@ -2,9 +2,10 @@
 > A Perfect Circle
 > 1 / 1
 > Metal | 2018 | BMG
-> 72c25b236e729b72e6d8ec0af65bb7f0 | 
->  | 
+> b301c98438759ea2e4a77991045eb3aa | 
+>  | B079BGQ3Y9, B079JPP1QD
 
+A Perfect Circle
 01. Eat the Elephant
 02. Disillusioned
 03. The Contrarian
