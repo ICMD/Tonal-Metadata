@@ -1,16 +1,9 @@
-> Dvořák: Symphony No. 9 in E minor “From the New World”
-> Czech Philharmonic Orchestra
-> 1 / 1
-> Classical | 2018 | SUPRAPHON a.s.
->  | 
->  | 
-
 > Dvořák: Symphonic Works
-> Bruno Bělčík
+> Bruno B?l?ík, Václav Neumann & Czech Philharmonic Orchestra
 > 7 / 8
-> Classical | 2012 | Supraphon a.s.
-> cd093df00e5ebb28f82d72fa94d0e005 | 
->  | 
+> Classical | 1974 | Supraphon
+> b5bc2ec3eb8e2a9075c24f7f381d1b6a | 
+> 529968813 | B0077DDWEE
 
 Antonín Dvořák (1841 – 1904)
 Symphony No. 9 in E minor ‘From the New World’, Op. 95 (B 178; 1893)
@@ -20,5 +13,6 @@ Symphony No. 9 in E minor ‘From the New World’, Op. 95 (B 178; 1893)
   03.  III. Molto vivace
   04.   IV. Allegro con fuoco
 
-  Czech Philharmonic Orchestra
+  Czech Philharmonic
   Václav Neumann, Conductor
+  Rec. 1972-03 in Dvořákova síň Rudolfina, Praha
