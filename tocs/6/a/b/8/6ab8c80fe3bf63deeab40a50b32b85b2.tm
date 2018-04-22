@@ -1,6 +1,6 @@
 > Works of Igor Stravinsky
 > Igor Stravinsky
-> 10 / 22
+> 10 / 22 BOXSET
 > Classical | 2007 | Sony Classical
 > d9e65e75689a17257684223bfc84331f | 
 >  | B000PTYUQG
