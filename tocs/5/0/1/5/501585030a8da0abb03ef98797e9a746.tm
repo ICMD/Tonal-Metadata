@@ -1,9 +1,9 @@
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 41 / 51
+> 41 / 51 BOXSET
 > Classical | 2015 | Decca Records
 > d62b5070406ccdd9ed4381cdb9c7db89 | 
->  | B00000E3IG
+>  | 
 
 Sir Benjamin Britten (1913 – 1976)
 Introduction and Rondo Alla Burlesca, Op. 23 No. 1
