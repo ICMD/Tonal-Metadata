@@ -1,5 +1,5 @@
 > Bach: The Well-Tempered Clavier, Book I
-> Sviatoslav Richter & Johann Sebastian Bach
+> Sviatoslav Richter
 > 1 / 1
 > Classical | 2015 | Melodiya
 > 8d6c45c3a095e79eccb5642ace343ea4 | 
