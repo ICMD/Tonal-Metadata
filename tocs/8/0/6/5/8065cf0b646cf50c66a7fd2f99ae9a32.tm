@@ -9,7 +9,7 @@
 > Chaka Khan
 > 6 / 9
 > R&B | 2013 | Warner Bros. Records
-> fd9d1ca4bb7f46c00a90290a07d168d8 | 
+> 87fc49117060e68c3d5c2099297ed3dd | 
 > 892734930 | B00L926ANE, B00Q5288CO, B00FY3CN30, B014I6FIEE
 
 David Frank, Mic Murphy & Chaka Khan
