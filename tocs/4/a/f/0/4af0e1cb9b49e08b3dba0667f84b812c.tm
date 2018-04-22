@@ -1,15 +1,8 @@
 > Bach: The Well-Tempered Clavier, Book I
 > Sviatoslav Richter
-> 1 / 1
-> Classical | 2015 | Melodiya
-> 8d6c45c3a095e79eccb5642ace343ea4 | 
-> 1224689531 | B06Y3ZVPCD
-
-> Bach: Хорошо темперированный клавир. Том 1
-> Sviatoslav Richter
 > 1 / 2 BOXSET
 > Classical | 1973 | Мелодия
-> 05e6582e397e46f7b4cd31376a59d233 | 
+> 8d6c45c3a095e79eccb5642ace343ea4 | 
 > 969170719 | 
 
 Johann Sebastian Bach (1685 – 1750)
