@@ -1,11 +1,11 @@
-> Bach: Sviatoslav Richter 100, Vol. 32
+> Bach: The Well-Tempered Clavier, Book I
 > Sviatoslav Richter & Johann Sebastian Bach
 > 1 / 1
 > Classical | 2015 | Melodiya
 > 12b763f8ed0e587f7bcbf374a9935b7b | 
 > 1224689531 | B06Y3ZVPCD
 
-> Bach: Хорошо темперированный клавир. Том 1
+> Bach: The Well-Tempered Clavier, Book I
 > Sviatoslav Richter
 > 2 / 2 BOXSET
 > Classical | 1973 | Мелодия
