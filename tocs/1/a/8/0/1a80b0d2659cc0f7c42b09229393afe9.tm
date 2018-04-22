@@ -1,4 +1,4 @@
-> Bach: Das Wohltemperierte Klavier
+> Bach: The Well-Tempered Clavier, Book II
 > Sviatoslav Richter
 > 3 / 4
 > Classical | 1991 | RCA Victor Gold Seal
