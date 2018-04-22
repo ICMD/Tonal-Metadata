@@ -5,7 +5,6 @@
 > cae0b96aa1c084fb7b5cd1c1dd1e578b | 
 > 338428930 | B00AL9F906, B002N4PAY2, B01MPY3PBU, B002Q4TKHC
 
-Zoey Van Goey
 01. The Best Treasure Stays Buried
 02. We Don’t Have That Kind of Bread
 03. Sweethearts in Disguise
@@ -17,4 +16,4 @@ Zoey Van Goey
 09. Cotton Covering
 10. City is Exploding
 
-  Zoey van Goey
+  Zoey Van Goey
