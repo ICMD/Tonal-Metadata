@@ -2,7 +2,7 @@
 > Bessie Smith
 > 1 / 1
 > Blues | 2001 | Frog Records
-> 780a107a8c6758a59772921d5ce42bfb | 
+> 37285be1027c37ac47eb711447316fc6 | 
 >  | B01K8MWWUK
 
 01. Downhearted Blues
