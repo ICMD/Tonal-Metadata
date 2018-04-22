@@ -1,5 +1,5 @@
 > Dvořák: Symphonic Works
-> Bruno B?l?ík, Václav Neumann & Czech Philharmonic Orchestra
+> Václav Neumann & Czech Philharmonic Orchestra
 > 7 / 8
 > Classical | 1974 | Supraphon
 > b5bc2ec3eb8e2a9075c24f7f381d1b6a | 
