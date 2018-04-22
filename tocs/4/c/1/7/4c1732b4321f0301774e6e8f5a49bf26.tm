@@ -30,7 +30,7 @@ Richard Rodgers (1902 – 1979) & Lorenz Hart (1895 – 1943)
 08. You Are Too Beautiful
 
   Sarah Vaughan
-  Roland Hanna - piano
-  Joe Pass - guitar
-  Andy Simpkins - double bass
-  Harold Jones - drums
+  Roland Hanna, piano
+  Joe Pass, guitar
+  Andy Simpkins, double bass
+  Harold Jones, drums
