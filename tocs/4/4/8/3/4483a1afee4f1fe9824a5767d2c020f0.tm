@@ -1,9 +1,9 @@
 > The Esc Years
 > Joe Zawinul
 > 1 / 1
-> Jazz | 2011 | 
+> Jazz | 2011 | ESC Records
 > c39a74e13243fcd0c8ad1362b626a847 | 
->  | 
+>  | B00651J9GY, B00YBLA69O
 
 01. Borges Buenos Aires Part 1
 02. Café Andalusia (Café Andalusia)
