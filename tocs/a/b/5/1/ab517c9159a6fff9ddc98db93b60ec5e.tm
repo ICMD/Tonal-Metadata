@@ -1,5 +1,5 @@
 > Brahms: Symphony No. 1 in C minor, Op. 68
-> Vienna Philharmonic Orchestra & Carlo Maria Giulini
+> Carlo Maria Giulini & Vienna Philharmonic
 > 1 / 1
 > Classical | 1992 | Deutsche Grammophon
 > 013703d8b0be60eb893f43fe3965947a | 
