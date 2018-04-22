@@ -1,31 +1,24 @@
-> Dvořák: Piano Quintets, Op. 5 & 81
-> Sviatoslav Richter & Borodin Quartet
+> Dvořák: Piano Quintets No. 1 & 2
+> Borodin Quartet & Sviatoslav Richter
 > 1 / 1
-> Classical | 1982 | Philips
-> d4df19d7e1ab6812a2a5d24f4bb45460 | 
->  | 
-
-> リヒテル大全集 (Decca, Philips & DG 録音)
-> リヒテル/ボロディン四重奏団
-> 39 / 51
-> Classical | 1987 | 
-> d4df19d7e1ab6812a2a5d24f4bb45460 | 
->  | 
+> Classical | 1985 | Philips Classics
+> 391c3f2090a76d2df61ca6640d7aaec8 | 
+> 135904564, 171577679, 1118339932 | B000V6Q90S, B00GU11FKC, B000E8N7QC
 
 Antonín Dvořák (1841 – 1904)
-Piano Quintet No. 1 in A major, Op. 5, B 28
+Piano Quintet No. 1 in A major, Op. 5
 
-  01.    I. Allegro Ma Non Troppo
-  02.   II. Andante Sostenuto
-  03.  III. Finale: Allegro con Brio
+  01.    I. Allegro ma non troppo
+  02.   II. Andante sostenuto
+  03.  III. Finale (Allegro con brio)
 
-Piano Quintet No. 2 in A major, Op. 81, B 155
+Piano Quintet No. 2 in A major, Op. 81
 
-  04.    I. Allegro, Ma Non Tanto
-  05.   II. Dumka
-  06.  III. Scherzo: Molto Vivace
-  07.   IV. Finale: Allegro
+  04.    I. Allegro, ma non tanto
+  05.   II. Dumka (Andante con moto)
+  06.  III. Scherzo (Furiant) (Molto vivace)
+  07.   IV. Finale (Allegro)
 
-  Borodin Quartet
-  Sviatoslav Richter, Conductor
-  Rec. 1982-06, Live Recording
+  Sviatoslav Richter, Piano
+  Borodin Quartet, Strings
+  Rec. 1982-06-03 in Rudolfinum, Praha, Live Recording
