@@ -2,7 +2,7 @@
 > Earl Hines
 > 1 / 1
 > Jazz | 1988 | Columbia
->  | 
+> 63c560272d784a251dd110999f635bc1 | 
 >  | B0000026J8
 
 Earl Hines (1903 – 1983)
