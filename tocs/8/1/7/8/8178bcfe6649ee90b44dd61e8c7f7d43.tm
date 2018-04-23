@@ -15,69 +15,72 @@
 Johannes Brahms (1833 – 1897)
 49 Deutsche Volkslieder
 
-  01.   II. Book 5: XXX. All mein’ Gedanken
+  Book 5
+  01.  XXX. All mein’ Gedanken
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  02.  III. Book 5: 3I. Dort in den Weiden
+  02. XXXI. Dort in den Weiden
 
     Edith Mathis, Soprano
     Karl Engel, Piano
 
-  03.   IV. Book 5: 3II. So will ich frisch und fröhlich sein
+  03. XXXII. So will ich frisch und fröhlich sein
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  04.    V. Book 5: 3III. Och Mod'r, ich well en Ding han!
+  04. XXXIII. Och Mod'r, ich well en Ding han!
 
     Edith Mathis, Soprano
     Karl Engel, Piano
 
-  05.   VI. Book 5: 3IV. Wie komm' ich denn zur Tür herein
-  06.  VII. Book 5: 3V. Soll sich der Mond nicht heller scheinen
-
-    Edith Mathis, Soprano
-    Peter Schreier, Tenor
-    Karl Engel, Piano
-
-  07.    I. Book 6: 3VI. Es wohnet ein Fiedler
-
-    Edith Mathis, Soprano
-    Karl Engel, Piano
-
-  08.   II. Book 6: 3VII. Du mein einzig Licht
-
-    Peter Schreier, Tenor
-    Karl Engel, Piano
-
-  09.  III. Book 6: 3VIII. Des Abends kann ich nicht schlafen gehn
+  05. XXXIV. Wie komm' ich denn zur Tür herein
+  06. XXXV. Soll sich der Mond nicht heller scheinen
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  10.   IV. Book 6: 3IX. Schöner Augen schöne Strahlen
-  11.    V. Book 6: XL. Ich weiß mir'n Maidlein
+  Book 6
+  07. XXXVI. Es wohnet ein Fiedler
+
+    Edith Mathis, Soprano
+    Karl Engel, Piano
+
+  08. XXXVII. Du mein einzig Licht
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  12.   VI. Book 6: 4I. Es steht ein’ Lind'
-  13.  VII. Book 6: 4II. in stiller Nacht
+  09. XXXVIII. Des Abends kann ich nicht schlafen gehn
+
+    Edith Mathis, Soprano
+    Peter Schreier, Tenor
+    Karl Engel, Piano
+
+  10. XXXIX. Schöner Augen schöne Strahlen
+  11. XXXX. Ich weiß mir'n Maidlein
+
+    Peter Schreier, Tenor
+    Karl Engel, Piano
+
+  12. XXXXI. Es steht ein’ Lind'
+  13. XXXXII. in stiller Nacht
 
     Edith Mathis, Soprano
     Karl Engel, Piano
     Rec. 1974-09 in Plenarsaal der Akademie der Wissenschaften, Munich
 
-  14.    I. Book 7: 4III. Es stunden drei Rosen
-  15.   II. Book 7: 4IV. Dem Himmel will ich klagen
-  16.  III. Book 7: 4V. Es saß ein schneeweiß' Vögelein
-  17.   IV. Book 7: 4VI. Es war einmal ein Zimmergesell
-  18.    V. Book 7: 4VII. Es ging sich unsre Fraue
-  19.   VI. Book 7: 4VIII. Nachtigall, sag
-  20.  VII. Book 7: 4IX. Verstohlen geht der Mond auf
+  Book 7
+  14. XXXXIII. Es stunden drei Rosen
+  15. XXXXIV. Dem Himmel will ich klagen
+  16. XXXXV. Es saß ein schneeweiß' Vögelein
+  17. XXXXVI. Es war einmal ein Zimmergesell
+  18. XXXXVII. Es ging sich unsre Fraue
+  19. XXXXVIII. Nachtigall, sag
+  20. XXXXIX. Verstohlen geht der Mond auf
 
   Edith Mathis, Soprano
   Gernot Kahl, Piano
