@@ -1,7 +1,7 @@
 > Bach: The Well-Tempered Clavier, Book I
 > Sviatoslav Richter
 > 2 / 2
-> Classical | 1973 | Melodiya
+> Classical | 2011 | Melodiya
 > 8d6c45c3a095e79eccb5642ace343ea4 | 
 > 969170719 | 
 
