@@ -1,12 +1,12 @@
 > Brahms: Vocal Ensembles
-> Berlin Philharmonic/Various Artists
+> Berlin Philharmonic, et al.
 > 4 / 4
 > Classical | 1996 | Deutsche Grammophon
 > fe07858e6cabc408efa1bce818d3b90b | 
 > 300941284, 389685151 | B0041H333Y, B01G4BXOBA, B0000012Y8
 
 > Brahms: Complete Edition
-> Berlin Philharmonic/Various Artists
+> Berlin Philharmonic, et al.
 > 39 / 46 BOXSET
 > Classical | 2009 | Deutsche Grammophon
 >  | 
