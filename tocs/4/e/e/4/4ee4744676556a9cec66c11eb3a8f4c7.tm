@@ -1,5 +1,5 @@
-> Beethoven: String Quartets, Op. 59 “Razumovsky” (Nos. 1 – 3) &, Op. 74 “Harp”
-> Various Artists
+> Beethoven: String Quartets, Op. 59 “Razumovsky” (Nos. 1 – 3) & Op. 74 “Harp”
+> Lindsay Quartet
 > 1 / 2
 > Classical | 2015 | Musical Concepts
 > f6c90713bc002367d7b6c58ec6b57db0 | 
