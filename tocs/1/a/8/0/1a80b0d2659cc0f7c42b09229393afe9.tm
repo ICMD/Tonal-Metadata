@@ -1,8 +1,8 @@
 > Bach: The Well-Tempered Clavier, Book II
 > Sviatoslav Richter
 > 1 / 2
-> Classical | 1991 | RCA Victor Gold Seal
-> 5c1ece3d4314e9c15a22e42e2cf6b948 | 
+> Classical | 1991 | Melodiya
+> 2ac5dfb8e7331e62b97a0b7dac27a2af | 
 > 270296141 | B000026OHN
 
 Johann Sebastian Bach (1685 – 1750)
