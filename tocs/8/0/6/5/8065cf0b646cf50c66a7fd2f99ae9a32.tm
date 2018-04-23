@@ -1,16 +1,16 @@
+> I Feel For You
+> Chaka Khan
+> 1 / 1
+> R&B | 2013 | Warner Bros. Records
+> 368c384843ad7f3be9c865d28456a0de | 
+> 892734930 | B00L926ANE, B00Q5288CO, B00FY3CN30, B014I6FIEE
+
 > Original Album Series
 > Chaka Khan
 > 5 / 5 BOXSET
 > R&B | 2010 | Rhino
-> 368c384843ad7f3be9c865d28456a0de | 
+> 9048b84cd4c604d918c6c03dc81796db | 
 >  | B01MG6JF7D
-
-> I Feel For You
-> Chaka Khan
-> 6 / 9
-> R&B | 2013 | Warner Bros. Records
-> 87fc49117060e68c3d5c2099297ed3dd | 
-> 892734930 | B00L926ANE, B00Q5288CO, B00FY3CN30, B014I6FIEE
 
 David Frank, Mic Murphy & Chaka Khan
 01. This is My Night
