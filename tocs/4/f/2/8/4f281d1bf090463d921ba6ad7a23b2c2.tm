@@ -76,7 +76,7 @@ Jorge Calandrelli & Ástor Piazzolla (1921 – 1992)
 
 10. Milonga Del Ángel
 
-  Yo-Yo Ma, Jr., Cello
+  Yo-Yo Ma
   Hector Console
   Leonardo Marconi
   Edwin Barker
