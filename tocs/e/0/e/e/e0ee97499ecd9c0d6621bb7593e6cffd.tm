@@ -23,7 +23,7 @@ String Quartet No. 12 in D-flat major, Op. 133
 
   Rec. 1977-07 in All Saints’ Church, Richmond upon Thames
 
-10. String Quartet No. 13 in B-flat minor, Op. 138: III. Adagio – Doppio movimento – Tempo primo
+10. String Quartet No. 13 in B-flat minor, Op. 138: Adagio – Doppio movimento – Tempo primo
 
   Christopher Rowland, Violin
   Jonathan Sparey, Violin
