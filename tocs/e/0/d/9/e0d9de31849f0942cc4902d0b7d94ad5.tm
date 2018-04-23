@@ -21,8 +21,8 @@ Piano Sonata No. 10 in C major, K. 330
 
   05.    I. Allegro
   06.   II. Andante cantabile
+  07.  III. Allegretto
 
-07. Piano Sonata No. 1 0 in C major, K. 330: III. Allegretto
 08. Fantasy in C minor, K. 475
 
   Yeol Eum Son
