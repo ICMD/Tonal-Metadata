@@ -1,7 +1,7 @@
 > Bach: The Well-Tempered Clavier, Book II
 > Sviatoslav Richter
-> 4 / 4
-> Classical | 1991 | RCA Victor Gold Seal
+> 2 / 2
+> Classical | 1991 | Melodiya
 > 5c1ece3d4314e9c15a22e42e2cf6b948 | 
 > 270296141 | B000026OHN
 
