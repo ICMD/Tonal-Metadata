@@ -1,10 +1,11 @@
 > Summertime
 > Sidney Bechet
 > 1 / 1
-> Jazz | 2000 | Jazz Reference / Dreyfus Jazz
-> 6b2f5ffe24c07c93a205f0bc96f067eb | 
->  | 
+> Jazz | 2000 | Dreyfus Jazz
+> 491dd5296e18c91bbcfa8f2e78722399 | 
+> 1191956533 | B00004YML5, B002L2AJBA
 
+Sidney Bechet (1897 – 1959)
 01. Indian Summer
 02. Shake It and Break It
 03. Blues in Thirds
@@ -22,7 +23,7 @@
 15. Rose Room
 16. High Society
 17. Margie
-18. St Louis Blues
+18. St. Louis Blues
 19. Summertime
 20. When the Sun Sets down South
 21. Georgia Cabin
