@@ -1,8 +1,8 @@
-> The Duke Box
+> At Fargo 1940 Special 60th Anniversary Edition
 > Duke Ellington
-> 3 / 8
+> 2 / 2
 > Jazz | 2008 | Storyville
->  | 
+> 9abd2e0f18e7f6837fbd091c86e81c4e | 
 >  | 
 
 01. Slap Happy
