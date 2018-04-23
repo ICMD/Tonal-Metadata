@@ -9,7 +9,7 @@
 > Berlin Philharmonic/Various Artists
 > 39 / 46 BOXSET
 > Classical | 2009 | Deutsche Grammophon
-> 289cca7ea22c95fcd477237b2cd9cbbf | 
+>  | 
 > 322504650 | B002HK4MIW, B001TH28EO
 
 Johannes Brahms (1833 – 1897)
@@ -94,15 +94,15 @@ Johannes Brahms (1833 – 1897)
 
   21.    I. Dornröschen
   22.   II. Die Nachtigall
-  23.    V. Der Mann
+  23.  III. Der Mann
   24.   IV. Sandmännchen
-  25.  III. Die Henne
+  25.    V. Die Henne
   26.   VI. Heidenröslein
   27.  VII. Das Schlaraffenland
   28. VIII. Beim Ritt auf dem Knie
   29.   IX. Der Jäger in dem Walde
-  30.   XI. Wiegenlied
-  31.    X. Das Mädchen und die Hasel
+  30.    X. Wiegenlied
+  31.   XI. Das Mädchen und die Hasel
   32.  XII. Weihnachten
   33. XIII. Marienwürmchen
   34.  XIV. Dem Schützengel
