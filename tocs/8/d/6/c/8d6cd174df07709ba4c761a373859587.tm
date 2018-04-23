@@ -6,7 +6,7 @@
 > 995297232 | B00018D5M6
 
 Stanislaw Skrowaczewski (b. 1923)
-Concerto Nicolò
+Concerto Nicolò (For Piano Left Hand and Orchestra)
 
   01.    I. Lento
   02.   II. Largo
