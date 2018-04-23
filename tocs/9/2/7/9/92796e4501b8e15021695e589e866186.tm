@@ -2,7 +2,7 @@
 > Ella Fitzgerald
 > 3 / 4
 > Jazz | 1998 | Verve
-> 978350da9eaa468d3f9dd417d22c737f | 
+> 746e7476aefffa8eb48b72a74ab7d562 | 
 > 3848696, 19553697 | B000WS2WT2, B000006P6L, B01KARRODS
 
 George Gershwin (1898 – 1937) & Ira Gershwin (1896 – 1983)
