@@ -15,111 +15,116 @@
 Johannes Brahms (1833 – 1897)
 49 Deutsche Volkslieder
 
-  01. Book 1: I. Sagt mir, o schönste Schäf'rin mein
+  Book 1
+  01.    I. Sagt mir, o schönste Schäf'rin mein
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  02. Book 1: II. Erlaube mir, fein’s Mädchen
-  03. Book 1: III. Gar lieblich hat sich gesellet
+  02.   II. Erlaube mir, fein’s Mädchen
+  03.  III. Gar lieblich hat sich gesellet
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  04. Book 1: IV. Guten Abend
+  04.   IV. Guten Abend
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  05. Book 1: V. Die Sonne scheint nicht mehr
-  06. Book 1: VI. Da unten im Tale
-  07. Book 1: VII. Gunhilde
+  05.    V. Die Sonne scheint nicht mehr
+  06.   VI. Da unten im Tale
+  07.  VII. Gunhilde
 
     Edith Mathis, Soprano
     Karl Engel, Piano
 
-  08. Book 2: VIII. Ach, englische Schäferin
-  09. Book 2: IX. Es war eine schöne Jüdin
-  10. Book 2: X. Es ritt ein Ritter
-  11. Book 2: XI. Jungfräulein, soll ich mit euch gehn
-  12. Book 2: XII. Feinliebchen, du sollst
-  13. Book 2: XIII. Wach auf, mein Hort
-
-    Edith Mathis, Soprano
-    Peter Schreier, Tenor
-    Karl Engel, Piano
-
-  14. Book 2: XIV. Maria ging aus wandern
-
-    Edith Mathis, Soprano
-    Karl Engel, Piano
-
-  15. Book 3: XV. Schwesterlein
+  Book 2
+  08. VIII. Ach, englische Schäferin
+  09.   IX. Es war eine schöne Jüdin
+  10.    X. Es ritt ein Ritter
+  11.   XI. Jungfräulein, soll ich mit euch gehn
+  12.  XII. Feinliebchen, du sollst
+  13. XIII. Wach auf, mein Hort
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  16. Book 3: XVI. Wach auf, mein’ Herzensschöne
-  17. Book 3: XVII. Ach Gott, wie weh tut scheiden
+  14.  XIV. Maria ging aus wandern
 
-    Peter Schreier, Tenor
+    Edith Mathis, Soprano
     Karl Engel, Piano
 
-  18. Book 3: XVIII. So wünsch' ich ihr ein’ gute Nacht
+  Book 3
+  15.   XV. Schwesterlein
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  19. Book 3: XIX. Nur ein Gesicht auf Erden lebt
-  20. Book 3: XX. Schönster Schatz
+  16.  XVI. Wach auf, mein’ Herzensschöne
+  17. XVII. Ach Gott, wie weh tut scheiden
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  21. Book 3: 2I. Es ging ein Maidlein zarte
-
-    Edith Mathis, Soprano
-    Karl Engel, Piano
-
-  22. Book 4: 2II. Wo gehst du hin
-
-    Peter Schreier, Tenor
-    Karl Engel, Piano
-
-  23. Book 4: 2III. Der Reiter
+  18. XVIII. So wünsch' ich ihr ein’ gute Nacht
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  24. Book 4: 2IV. Mir ist ein schön’s braun’s Maidlein
-  25. Book 4: 2V. Mein Mädel hat einen Rosenmund
+  19.  XIX. Nur ein Gesicht auf Erden lebt
+  20.   XX. Schönster Schatz
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  26. Book 4: 2VI. Ach könnt' ich diesen Abend
+  21.  XXI. Es ging ein Maidlein zarte
+
+    Edith Mathis, Soprano
+    Karl Engel, Piano
+
+  Book 4
+  22. XXII. Wo gehst du hin
+
+    Peter Schreier, Tenor
+    Karl Engel, Piano
+
+  23. XXIII. Der Reiter
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  27. Book 4: 2VII. Ich stand auf hohem Berge
+  24. XXIV. Mir ist ein schön’s braun’s Maidlein
+  25.  XXV. Mein Mädel hat einen Rosenmund
 
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  28. Book 4: 2VIII. Es reit’t ein Herr
+  26. XXVI. Ach könnt' ich diesen Abend
 
     Edith Mathis, Soprano
     Peter Schreier, Tenor
     Karl Engel, Piano
 
-  29. Book 5: 2IX. Es war ein Markgraf
+  27. XXVII. Ich stand auf hohem Berge
+
+    Peter Schreier, Tenor
+    Karl Engel, Piano
+
+  28. VIII. Es reit’t ein Herr
+
+    Edith Mathis, Soprano
+    Peter Schreier, Tenor
+    Karl Engel, Piano
+
+  Book 5
+  29. XXIX. Es war ein Markgraf
 
   Edith Mathis, Soprano
   Karl Engel, Piano
