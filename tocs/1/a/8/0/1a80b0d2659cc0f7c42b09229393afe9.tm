@@ -6,8 +6,9 @@
 > 270296141 | B000026OHN
 
 Johann Sebastian Bach (1685 – 1750)
-The Well – Tempered Clavier, Book 2
+The Well-Tempered Clavier, BWV 846–893
 
+  Book II
   01. Prelude and Fugue No. 1 in C major, BWV 870
   02. Prelude and Fugue No. 2 in C minor, BWV 871
   03. Prelude and Fugue No. 3 in C-sharp major, BWV 872
