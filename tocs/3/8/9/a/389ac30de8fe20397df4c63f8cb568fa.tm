@@ -2,15 +2,15 @@
 > Sarah Vaughan
 > 1 / 1
 > Jazz | 1958 | EmArcy
-> 390a635c45724c9ace31938b652ac080 | 
->  | 
+> ad73f2bdbbbf3859ca5d5dbf92703085 | 
+>  | B07CHVFVSZ, B00KYVRXXC
 
 > Milestones of a Jazz Legend
 > Sarah Vaughan
 > 5 / 10
-> Jazz | 1957 | 
-> 390a635c45724c9ace31938b652ac080 | 
->  | 
+> Jazz | 1957 | MEMBRAN
+> 628c84dc1ba061b473e59b0ad58fa556 | 
+>  | B074ZZW4WX
 
 01. Isn’t It a Pity?
 02. Of Thee I Sing
