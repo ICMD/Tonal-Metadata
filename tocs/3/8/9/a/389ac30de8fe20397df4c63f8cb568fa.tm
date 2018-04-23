@@ -7,7 +7,7 @@
 
 > Milestones of a Jazz Legend
 > Sarah Vaughan
-> 5 / 10
+> 5 / 10 BOXSET
 > Jazz | 1957 | MEMBRAN
 > 628c84dc1ba061b473e59b0ad58fa556 | 
 >  | B074ZZW4WX
