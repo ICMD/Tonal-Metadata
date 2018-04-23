@@ -90,7 +90,6 @@ Johannes Brahms (1833 – 1897)
   Günter Jena, Conductor
   Rec. 1981-06 in NDR Funkhaus, Hamburg
 
-Johannes Brahms (1833 – 1897) & Traditional
 14 Volks – Kinderlieder, WoO 31
 
   21.    I. Dornröschen
