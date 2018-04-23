@@ -2,12 +2,13 @@
 > Sviatoslav Richter
 > 2 / 2
 > Classical | 1991 | Melodiya
-> 2ac5dfb8e7331e62b97a0b7dac27a2af | 
+> 5c1ece3d4314e9c15a22e42e2cf6b948 | 
 > 270296141 | B000026OHN
 
 Johann Sebastian Bach (1685 – 1750)
-The Well – Tempered Clavier, Book 2
+The Well-Tempered Clavier, BWV 846–893
 
+  Book II
   01. Prelude and Fugue No. 14 in F-sharp minor, BWV 883
   02. Prelude and Fugue No. 15 in G major, BWV 884
   03. Prelude and Fugue No. 16 in G minor, BWV 885
