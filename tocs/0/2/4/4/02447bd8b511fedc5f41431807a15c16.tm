@@ -11,7 +11,7 @@ Sonata for Cello and Piano No. 4 in C major, Op. 102 No. 1
   01.    I. Andante – Allegro vivace
   02.   II. Adagio – Tempo d'andante – Allegro vivace
 
-  Rec. 1963-03
+  Rec. 1962-06 in Vienna, Austria
 
 Sonata for Cello and Piano No. 5 in D major, Op. 102 No. 2
 
@@ -21,4 +21,4 @@ Sonata for Cello and Piano No. 5 in D major, Op. 102 No. 2
 
   Mstislav Rostropovich, Cello
   Sviatoslav Richter, Piano
-  Rec. 1962-06
+  Rec. 1963-03 in Vienna, Austria
