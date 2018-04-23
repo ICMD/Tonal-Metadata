@@ -1,3 +1,10 @@
+> Richter the Master, Vol. 4: Beethoven
+> Sviatoslav Richter
+> 2 / 2
+> Classical | 1993 | Decca Records
+> 2919fbded59db7d09de0e7bad1fe09e2 | 
+> 256705048, 261085012 | B0016128N4, B000PY302G
+
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
 > 37 / 51 BOXSET
