@@ -2,9 +2,10 @@
 > Blue Man Group
 > 1 / 1
 > New Age | 2016 | Rhino
-> 213e5616ab94edc6d0ad327d68fe5630 | 
->  | 
+> 2afb3bc8dfd13ea083408b8be4b8e459 | 
+> 1086603889 | B01C2IXVXA, B01BZGFX5Y
 
+Blue Man Group
 01. Dispatches 1
 02. The Forge
 03. Hex Suit
@@ -16,7 +17,7 @@
 
   Blue Man Group
 
-09. Creature
+09. Creature Feature
 
   Blue Man Group
   Re
