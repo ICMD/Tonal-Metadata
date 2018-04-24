@@ -59,4 +59,4 @@ Domenico Scarlatti (1685 – 1757)
 32. Keyboard Sonata in D minor, KK 141 (L. 422 / P. 271)
 33. Keyboard Sonata in D minor, KK 32 (L. 423 / P. 14)
 
-  David Fung
+  David Fung, Piano
