@@ -55,7 +55,7 @@ Frédéric Chopin (1810 – 1849)
 30. Nocturne No. 21 in C minor, Op. Posth.
 
 Domenico Scarlatti (1685 – 1757)
-31. Keyboard Sonata in D Minor, Kk. 34 (L.S 7 / P. 15)
+31. Keyboard Sonata in D Minor, KK 34 (L.S 7 / P. 15)
 32. Keyboard Sonata in D minor, KK 141 (L. 422 / P. 271)
 33. Keyboard Sonata in D minor, KK 32 (L. 423 / P. 14)
 
