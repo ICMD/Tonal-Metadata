@@ -3,7 +3,7 @@
 > 1 / 1
 > Blues | 1967 | 
 > 45f6ab2b5e6ac9daff8bc97cd2318a8e | 
->  | 
+>  | B00G2IRP3O
 
 01. Born under a Bad Sign
 02. Crosscut Saw
