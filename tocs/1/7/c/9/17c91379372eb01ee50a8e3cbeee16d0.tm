@@ -5,50 +5,52 @@
 >  | 
 >  | 
 
-01. Things Ain’t What They Used to Be
-02. Across the Track Blues
-03. C – Jam Blues
-04. Blues
-05. Main Stem
+Blues
 
-  Duke Ellington
+  01. Things Ain’t What They Used to Be
+  02. Across the Track Blues
+  03. C – Jam Blues
+  04. Blues
+  05. Main Stem
 
-06. The Blues #
+    Duke Ellington
 
-  Duke Ellington
-  Jimmy Blanton
+  06. The Blues #
 
-07. Yellow Dog Blues
-08. The Blues with a Feeling
-09. Saratoga Swing
+    Duke Ellington
+    Jimmy Blanton
 
-  Duke Ellington
+  07. Yellow Dog Blues
+  08. The Blues with a Feeling
+  09. Saratoga Swing
 
-10. Beggar’s Blues
+    Duke Ellington
 
-  Sonny Greer and His Memphis Men
+  10. Beggar’s Blues
 
-11. Sweet Chariot
+    Sonny Greer and His Memphis Men
 
-  The Harlem Footwarmers
+  11. Sweet Chariot
 
-12. Bundle of Blues
-13. Blue Feeling
-14. Indigo Echoes
+    The Harlem Footwarmers
 
-  Duke Ellington
+  12. Bundle of Blues
+  13. Blue Feeling
+  14. Indigo Echoes
 
-15. Jeep’s Blues
+    Duke Ellington
 
-  Johnny Hodges & His Orchestra
+  15. Jeep’s Blues
 
-16. Mobile Blues
+    Johnny Hodges & His Orchestra
 
-  Cootie Williams & His Rug Cutters
+  16. Mobile Blues
 
-17. Subtle Lament
-18. Beale Street Blues
-19. Memphis Blues
-20. Royal Garden Blues
+    Cootie Williams & His Rug Cutters
+
+  17. Subtle Lament
+  18. Beale Street Blues
+  19. Memphis Blues
+  20. Royal Garden Blues
 
   Duke Ellington
