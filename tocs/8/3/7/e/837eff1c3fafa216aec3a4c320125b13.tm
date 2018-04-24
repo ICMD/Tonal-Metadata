@@ -1,5 +1,5 @@
 > Bruckner: Symphony No. 2
-> Carlo Maria Giulini & Wiener Symphoniker
+> Carlo Maria Giulini & Vienna Symphony Orchestra
 > 1 / 1
 > Classical | 2014 | Wiener Symphoniker
 > 692dee028bdf54382788e6bdff43e035 | 
