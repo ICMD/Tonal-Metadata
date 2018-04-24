@@ -18,5 +18,5 @@ Piano Concerto in A minor
 07. Last Spring, Op. 34 No. 2
 
   Audun Kayser, Piano
-  Karsten Andersen (Cond.)
+  Karsten Andersen, Conductor
   Bergen Symphony Orchestra
