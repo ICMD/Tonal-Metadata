@@ -26,11 +26,11 @@ Tan Dun (b. 1957)
 Sergei Rachmaninoff (1873 – 1943)
 13 Preludes, Op. 32
 
-  11. No. 8 in A minor: . Vivo
-  12. No. 9 in A major: . Allegro Moderato
-  13. No. 10 in B minor: . Lento
-  14. No. 11 in B major: . Allegretto
-  15. No. 12 in G-sharp minor: . Allegro
+  11. No. 8 in A minor: Vivo
+  12. No. 9 in A major: Allegro Moderato
+  13. No. 10 in B minor: Lento
+  14. No. 11 in B major: Allegretto
+  15. No. 12 in G-sharp minor: Allegro
 
 Robert Schumann (1810 – 1856)
 16. Arabeske in C major, Op. 18
