@@ -13,7 +13,6 @@ Symphony No. 2 in C minor (1877 Version)
   03.  III. Scherzo. Mäßig schnell
   04.   IV. Finale. Mehr schnell
 
-  Wiener Symphoniker
-  Vienna Philharmonic Orchestra
+  Vienna Symphony Orchestra
   Carlo Maria Giulini, Conductor
   Rec. 1974-12-08 – 1974-12-10 in Wiener Musikverein: Großer Musikvereinssaal, Wien
