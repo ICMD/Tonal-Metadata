@@ -1,9 +1,9 @@
-> Roussel / 室内楽曲全集 (Piano Trio: Piano と管楽五重奏の為の嬉遊曲: Vn sonata 1)
-> Schoenberg Quartet
-> 1 / 3
-> Classical | 1994 | LyraMediaGroup
-> 49bd1888be79124a40d5e254e88d8e16 | 
->  | 
+> Roussel: Complete Chamber Music, Vol. 1
+> Jet Röling, Jean Jacques Kantorow & Herre-Jan Stegenga
+> 1 / 1
+> Classical | 1994 | Brilliant Classics
+> 8c9c5aea080fbe4d2d06faa24d348df7 | 
+> 1239429954 | B00FNB6HLM, B0711XPVV7, B000KEHMHU, B01KBHLHA8
 
 Albert Roussel (1869 – 1937)
 / Piano Trio in E-flat major, Op. 2
@@ -12,24 +12,29 @@ Albert Roussel (1869 – 1937)
   02.   II. Lent
   03.  III. Très lent – vif et gaiement
 
-  Jet Röling
-  Jean-Jacques Kantorow
-  Herre-Jan Stegenga
+  Jean-Jacques Kantorow, Violin
+  Herre-Jan Stegenga, Cello
+  Jet Röling, Piano
 
-04. / Divertissement Pour Flûte, Hautbois, Clarinette, Basson, Cor et Piano, Op. 6 Animé: Lent – animé
+04. Divertissement for Wind Quintet and Piano, Op. 6: Lent – animé
 
-  Jet Röling
-  Paul Verhey
-  Hans Roerade
-  Frank van Den Brink
-  Herman Jeurissen
-  Jos de Lange
+  Paul Verhey, Flute
+  Hans Roerade, Oboe
+  Frank van Den Brink, Clarinet
+  Jos de Lange, Bassoon
+  Jet Röling, Piano
+  Herman Jeurissen, French Horn
 
-/ Vn Sonata 1 in D minor, Op. 11
+Sonata No. 1 in D minor for Piano and Violin, Op. 11
 
-  05.    I. Lent – très animé – lent
-  06.   II. Assez animé – très lent – assez animé
-  07.  III. Très animé – très modéré – très animé
+  05.    I. Lent – Très animé – Lent
+  06.   II. Assez animé – Très lent – Assez animé
 
-  Jet Röling
-  Jean-Jacques Kantorow
+    Jean-Jacques Kantorow, Violin
+    Herre-Jan Stegenga, Cello
+    Jet Röling, Piano
+
+  07.  III. Très animé – Très modéré – Très animé
+
+  Jean-Jacques Kantorow, Violin
+  Jet Röling, Piano
