@@ -1,10 +1,3 @@
-> Bruckner: Symphony No. 2 in C minor
-> Carlo Maria Giulini & Wiener Symphoniker
-> 1 / 1
-> Classical | 2001 | Testament
-> 62ef9acae224a88215343c68079f0c0d | 
->  | B00005K3PZ
-
 > Bruckner: Symphony No. 2
 > Carlo Maria Giulini & Wiener Symphoniker
 > 1 / 1
