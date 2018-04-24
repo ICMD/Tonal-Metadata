@@ -5,7 +5,6 @@
 > 2afb3bc8dfd13ea083408b8be4b8e459 | 
 > 1086603889 | B01C2IXVXA, B01BZGFX5Y
 
-Blue Man Group
 01. Dispatches 1
 02. The Forge
 03. Hex Suit
