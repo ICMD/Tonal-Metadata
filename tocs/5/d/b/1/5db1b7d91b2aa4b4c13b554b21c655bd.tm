@@ -1,11 +1,12 @@
 > Anniversary
-> Duke Ellington
-> 10 / 13
-> Jazz | 1999 | Masters Of Jazz
+> Duke Ellington and His Famous Orchestra
+> 7 / 9
+> Jazz | 1999 | disques concord
 >  | 
->  | 
+>  | B000008ATO
 
-01. Black Beauty
+"Duke" Ellington (1899 – 1974)
+01. Black Beauty (Portrait of Florence Mills)
 02. A Gypsy without a Song
 03. Old King Dooji
 04. Portrait of the Lion
@@ -17,7 +18,7 @@
 
   Duke Ellington & His Orchestra
 
-10. Menelik the Lion of Judah
+10. Menelik (The Lion of Judah)
 11. Poor Bubber
 
   Rex Stewart & His Orchestra
@@ -25,13 +26,13 @@
 12. Fancy Dan
 13. Jennie
 14. The Unbooted Character
-15. Hearsay
-16. THE Beautiful Indians 2. Hiawatha
-17. THE Beautiful Indians 1. Minnehaha: Vkd
+15. Hearsay or Orson Welles
+16. The Beautiful Indians, Part 1: Hiawatha
+17. The Beautiful Indians, Part 2: Minnehaha
 
   Duke Ellington & His Orchestra
 
-18. Golden
+18. Golden Feather
 
   Er
   Duke Ellington & His Orchestra
