@@ -1,5 +1,5 @@
 > The Great Summit: Complete Sessions (Deluxe Edition)
-> Louis Armstrong and Duke Ellington
+> Louis Armstrong and Duke Ellington, Louis Armstrong & Duke Ellington
 > 1 / 2
 > Jazz | 2000 | Roulette Jazz
 > ee0639832ba20c4ec0d4b5d6f956fe3d | 
