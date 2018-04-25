@@ -1,15 +1,8 @@
-> Akritas
-> Akritas
-> 1 / 1
-> Rock | 1973 | 
->  | 
->  | B000XS1N32, B005PNY1IO, B01A7U9ZQM
-
 > Ακρίτας
 > Akritas
 > 1 / 1
 > Rock | 1994 | Polydor
->  | 
+> 652b02319daa77aca538f7d1248eeff9 | 
 >  | B000XS1N32, B005PNY1IO, B01A7U9ZQM
 
 Aris Tasoulis
