@@ -1,11 +1,11 @@
 > Anniversary
 > Duke Ellington
-> 7 / 13
+> 10 / 13
 > Jazz | 1999 | Masters Of Jazz
 >  | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+Portraits
 01. Black Beauty (Portrait of Florence Mills)
 02. A Gypsy without a Song
 03. Old King Dooji
