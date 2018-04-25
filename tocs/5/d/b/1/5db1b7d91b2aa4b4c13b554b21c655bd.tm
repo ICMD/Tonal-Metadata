@@ -9,7 +9,8 @@ Portraits
 
   01. Black Beauty (Portrait of Florence Mills)
 
-  Rec. 1928-03-26
+    Rec. 1928-03-26
+
   02. A Gypsy without a Song
   03. Old King Dooji
   04. Portrait of the Lion	
