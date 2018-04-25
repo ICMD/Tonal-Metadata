@@ -1,9 +1,9 @@
-> Roussel: Complete Chamber Music, Vol. 1
-> Jet Röling, Jean Jacques Kantorow & Herre-Jan Stegenga
-> 1 / 1
-> Classical | 1994 | Brilliant Classics
-> 8c9c5aea080fbe4d2d06faa24d348df7 | 
-> 1239429954 | B00FNB6HLM, B0711XPVV7, B000KEHMHU, B01KBHLHA8
+> Roussel: Chamber Music Complete
+> Jet Röling, Herre-Jan Stegenga & Schönberg Quartet
+> 1 / 3
+> Classical | 2006 | Brilliant Classics
+> 4cf76d82c0040a56ee5e5ca9167537ca | 
+> 720790014 | B00FNB6HLM, B000KEHMHU, B01KBHLHA8
 
 Albert Roussel (1869 – 1937)
 Piano Trio in E-flat major, Op. 2
