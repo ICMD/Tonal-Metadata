@@ -35,3 +35,7 @@ Louis Armstrong (1901 – 1971) & "Duke" Ellington (1899 – 1974)
 
   Louis Armstrong
   Duke Ellington
+  Barney Bigard, Clarinet
+  Danny Barcelona, Drums
+  Mort Herbert, Bass
+  Trummy Young, Trombone
