@@ -1,18 +1,12 @@
-> Shangri-La
+> Shangri – La
 > Mark Knopfler
 > 1 / 1
-> Rock | 2004 | Mercury
-> 50573f327eadae36651f6f212c7ac717 | 
->  | 
+> Rock | 2004 | Warner Bros. Records
+> 7214e61443fdcd249e00b201be573d82 | 
+> 22641281, 24030882, 276624562 | B00122L1R6, B0002VKZL6, B00G2I8X9E, B0002V4SXC, B01G664I6I, B00MLDRIZO, B00049QP74
 
-> Shangri-La
-> Mark Knopfler
-> 1 / 2
-> Rock | 2004 | Straightjacket Songs
-> 50573f327eadae36651f6f212c7ac717 | 
->  | 
-
-01.    V.15 A.M.
+Mark Knopfler
+01. 5: 15 A.M.
 02. Boom, like That
 03. Sucker Row
 04. The Trawlerman’s Song
