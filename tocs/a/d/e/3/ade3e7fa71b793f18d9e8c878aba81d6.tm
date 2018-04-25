@@ -40,3 +40,4 @@
   Jimmy Blanton, Bass
   Fred Guy, Guitar
   Sonny Greer, Drums
+  Rec. 1940-11-07
