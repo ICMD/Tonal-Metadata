@@ -1,9 +1,9 @@
 > Anniversary
-> Duke Ellington and His Famous Orchestra
-> 7 / 9
-> Jazz | 1999 | disques concord
+> Duke Ellington
+> 7 / 13
+> Jazz | 1999 | Masters Of Jazz
 >  | 
->  | B000008ATO
+>  | 
 
 "Duke" Ellington (1899 – 1974)
 01. Black Beauty (Portrait of Florence Mills)
