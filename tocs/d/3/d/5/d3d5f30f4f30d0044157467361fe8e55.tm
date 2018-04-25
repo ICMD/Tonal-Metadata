@@ -6,7 +6,7 @@
 > 1239429954 | B00FNB6HLM, B0711XPVV7, B000KEHMHU, B01KBHLHA8
 
 Albert Roussel (1869 – 1937)
-/ Piano Trio in E-flat major, Op. 2
+Piano Trio in E-flat major, Op. 2
 
   01.    I. Modéré, sans lenteur – très animé
   02.   II. Lent
