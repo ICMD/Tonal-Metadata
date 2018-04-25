@@ -1,52 +1,70 @@
-> The Ultimate Demonstration Disc Vol 2: Chesky Records
-> CD Prova
+> The Ultimate Demonstration Disc Vol. 2
+> Various Artists
 > 1 / 1
-> Jazz | 2008 | 
+> Jazz | 2008 | Chesky Records
 > 1dd50bca2d96d3060898dfd4cc83ebaa | 
 >  | 
 
-01. Sugar Hill: In a Mellow Tone (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+"Duke" Ellington (1899 – 1974)
+01. In a Mellow Tone
 
-  Sugar Hill
+  Javon Jackson
+  David Hazeltine
+  Tony Reedus
+  Paul Gill
 
-02. John Faddis: Speak like a Child (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+John Faddis
+02. Speak like a Child
 
   John Faddis
 
-03. The Persuasions: Angel of HarlemClub Descarga (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+The Persuasions
+03. Angel of Harlem
 
   The Persuasions
 
-04. The Body Acoustic: Club Descarga (The Ultimate Demonstration Disc Vol 2 – Chesky Records)..
+The Body Acoustic
+04. Club Descarga
 
-  The Body Acoustic
+  Andy González, Bass
+  Randy Brecker, Trumpet
+  David Chesky, Piano
+  Giovanni Hidalgo, Congas
+  Bob Mintzer, Bass Clarinet
 
-05. I Ching: Young Girl’s Heart (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+I Ching
+05. Young Girl’s Heart
 
   I Ching
 
-06. The Jimmy Cobb Quartet: My Foolish Heart (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+COMPOSER NON-APPLICABLE
+06. My Foolish Heart
 
   Jimmy Cobb Quartet
 
-07. Valerie Joyce: Little Wing (The Ultimate Demonstration Disc Vol 2 – Chesky Records) …
+Valerie Joyce
+07. Little Wing
 
   Valerie Joyce
 
-08. Coryell, Bailey & White: Misterioso (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+Larry Coryell (b. 1943), Victor Bailey (b. 1960) & Lenny White (b. 1949)
+08. Misterioso
 
+  Victor Bailey, Bass
+  Lenny White, Drums
   Larry Coryell
-  Victor Bailey
-  Lenny White
 
-09. Rachel Z: Imagine (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+John Lennon (1940 – 1980)
+09. Imagine
 
   Rachel Z
 
-10. David Chesky: Concerto for Bassoon and Orchestra, 3rd Movement (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+David Chesky
+10. Concerto for Bassoon and Orchestra: III.
 
-  David Chesky
+  David Chesky, Piano
 
-11. Billy Burnette: Tear It up (The Ultimate Demonstration Disc Vol 2 – Chesky Records)
+Billy Burnette
+11. Tear It up
 
   Billy Burnette
