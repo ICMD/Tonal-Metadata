@@ -25,3 +25,7 @@
 
   Louis Armstrong
   Duke Ellington
+  Barney Bigard, Clarinet
+  Danny Barcelona, Drums
+  Mort Herbert, Bass
+  Trummy Young, Trombone
