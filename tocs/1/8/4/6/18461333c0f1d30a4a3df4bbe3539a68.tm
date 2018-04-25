@@ -30,3 +30,14 @@
 23. Clarinet Lament
 
   Duke Ellington
+  Johnny Hodges, Alto Saxophone
+  Otto Hardwick, Alto Saxophone
+  Ben Webster, Tenor Saxophone
+  Harry Carney, Baritone Saxophone
+  Barney Bigard, Clarinet
+  Rex Stewart, Cornet
+  Ray Nance, Wallace Jones, Trumpet
+  Tricky Sam Nanton, Juan Tizol, Lawrence Brown, Trombone
+  Jimmy Blanton, Bass
+  Fred Guy, Guitar
+  Sonny Greer, Drums
