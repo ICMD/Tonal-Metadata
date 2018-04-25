@@ -1,9 +1,9 @@
-> The Great Summit: Complete Sessions
-> Louis Armstrong & Duke Ellington
+> The Great Summit: Complete Sessions (Deluxe Edition)
+> Louis Armstrong and Duke Ellington, Louis Armstrong & Duke Ellington
 > 1 / 2
-> Jazz | 2000 | EMI
-> 7022d37cce59c5134fffb0fe5863bcb2 | 
->  | 
+> Jazz | 2000 | Roulette Jazz
+> ee0639832ba20c4ec0d4b5d6f956fe3d | 
+> 695988623 | B00KR71J9M, B00BYH06A2, B00G2JATPY
 
 01. Duke’s Place
 02. I’m Just a Lucky so and So
