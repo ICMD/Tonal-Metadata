@@ -1,5 +1,5 @@
 > Sweet Baby James
-> James Taylor, ジェイムス・テイラー, ジェイムス・テイラー
+> James Taylor
 > 1 / 1
 > Rock | 1970 | Warner Bros. Records
 > 0fa071befd98d3418a465342c945a56e | 
@@ -23,5 +23,4 @@ James Taylor
 11. Suite for 20 G
 
   James Taylor
-  ジェイムス・テイラー
   Rec. Sunset Sound, Hollywood
