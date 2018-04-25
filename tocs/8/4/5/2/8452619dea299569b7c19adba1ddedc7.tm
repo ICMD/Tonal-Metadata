@@ -29,3 +29,4 @@
   Danny Barcelona, Drums
   Mort Herbert, Bass
   Trummy Young, Trombone
+  Rec. 1940-11-07
