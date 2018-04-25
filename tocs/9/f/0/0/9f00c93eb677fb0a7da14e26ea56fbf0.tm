@@ -46,3 +46,13 @@ Mlle Duval (1718 – 1775)
 26. Pause Track
 
   Duke Ellington
+  Cat Anderson, Shorty Baker, Herbie Jones, Ray Nance, Clark Terry, Gerald Wilson, Trumpet
+  Quentin Jackson, Britt Woodman, Trombone
+  John Sanders, Valve Trombone
+  Jimmy Hamilton, Clarinet & Tenor Saxophone, tenor saxophone
+  Johnny Hodges, Alto Saxophone
+  Russell Procope, Alto Saxophone & Clarinet, clarinet
+  Paul Gonsalves, Tenor Saxophone
+  Harry Carney, Clarinet & Baritone Saxophone & Bass Clarinet
+  Jimmy Woods, Bass
+  James Johnson, Drums
