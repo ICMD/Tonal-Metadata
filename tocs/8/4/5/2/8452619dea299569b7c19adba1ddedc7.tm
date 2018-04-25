@@ -1,10 +1,3 @@
-> The Great Summit: The Master Takes
-> Louis Armstrong & Duke Ellington
-> 1 / 1
-> Jazz | 2012 | Black Sheep Music
-> ece51b38fd7e930016e99cf1cc881841 | 
->  | 
-
 > The Great Summit: Complete Sessions
 > Louis Armstrong & Duke Ellington
 > 1 / 2
