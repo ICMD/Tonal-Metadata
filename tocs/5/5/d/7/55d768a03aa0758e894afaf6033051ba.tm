@@ -1,16 +1,9 @@
-> Brahms: Symphony No. 3 “Haydn – Variations”
-> Vienna Philharmonic Orchestra & Carlo Maria Giulini
-> 1 / 1
-> Classical | 1991 | Deutsche Grammophon
+> Brahms: The Complete Symphonies; Tragic Overture; Haydn Variations
+> Carlo Maria Giulini & Wiener Philharmoniker
+> 3 / 4
+> Classical | 2011 | Deutsche Grammophon
 >  | 
-> 316379147, 389664989 | B0041IXD4W, B00000E4RK
-
-> Giulini in Vienna
-> Vienna Symphony Orchestra, Vienna Philharmonic Orchestra & Carlo Maria Giulini
-> 5 / 15 BOXSET
-> Classical | 2014 | Deutsche Grammophon
-> 607b3ffbdafeee39e5e98245b7dbd880 | 
-> 836747258, 892073382 | 
+> 284187213, 389671291 | B00000E52D
 
 Johannes Brahms (1833 – 1897)
 Symphony No. 3 in F major, Op. 90
