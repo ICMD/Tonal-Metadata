@@ -1,9 +1,9 @@
-> Brahms: Symphony No. 4, Tragic Overture
-> Carlo Maria Giulini & Vienna Philharmonic
-> 1 / 1
-> Classical | 1990 | Deutsche Grammophon
-> 966342c3e6d2af6880643940a8759e65 | 
-> 367432272 | B01LYP3DGD, B000I0S8JW, B01KASIXCS, B019WQAUDY
+> Brahms: The Complete Symphonies; Tragic Overture; Haydn Variations
+> Carlo Maria Giulini & Wiener Philharmoniker
+> 4 / 4
+> Classical | 2011 | Deutsche Grammophon
+>  | 
+> 284187213, 389671291 | B00000E52D
 
 > Giulini in Vienna
 > Vienna Symphony Orchestra, Vienna Philharmonic Orchestra & Carlo Maria Giulini
