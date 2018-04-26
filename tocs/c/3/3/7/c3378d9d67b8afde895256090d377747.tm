@@ -33,10 +33,9 @@ Violin Concerto in D minor, BWV 1052r
   Bach-Collegium Stuttgart
   Helmuth Rilling, Conductor
 
-05. Violin Concerto in G minor, BWV 1056r, 1. Allegro
-
 Violin Concerto in G minor, BWV 1056r
 
+  05.    I. Allegro
   06.   II. Largo
   07.  III. Presto
 
