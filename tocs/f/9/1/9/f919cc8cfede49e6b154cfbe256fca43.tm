@@ -15,4 +15,4 @@ Symphony No. 2 in D major, Op. 73
 
   Wiener Philharmoniker
   Carlo Maria Giulini, Conductor
-  Rec. 1991-04 in Wiener Musikverein: Großer Musikvereinssaal, Wien
+  Rec. 1991-04 in Wiener Musikverein: Großer Musikvereinssaal, Wien, Live Recording
