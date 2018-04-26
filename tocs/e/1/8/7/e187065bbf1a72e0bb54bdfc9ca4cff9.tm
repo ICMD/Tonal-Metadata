@@ -1,16 +1,9 @@
 > Schubert: Wanderers Nachtlied
-> Matthias Goerne
+> Matthias Goerne, Helmut Deutsch & Eric Schneider
 > 1 / 2
-> Classical | 2014 | Harmonia Mundi
-> 6237685c602bb755e4ccbeae56fdf31b | 
->  | 
-
-> Schubert: Wanderers Nachtlied
-> Matthias Goerne, Helmut Deutsch
-> 1 / 12
-> Classical | 2014 | 
-> ee7f61cbe3f394481fa47c8f563fcddc | 
->  | 
+> Classical | 2014 | harmonia mundi
+> 7de8d10d9ea0bd9aadbf0c69aa95a36b | 
+> 830471323 | B00IPMJ5HO, B00H287OSO
 
 Franz Schubert (1797 – 1828)
 01. An Die Untergehende Sonne, D 457
