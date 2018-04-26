@@ -1,18 +1,11 @@
-> Beethoven for All: Symphonys No. 7 & 8
-> Daniel Barenboim
-> 1 / 1
-> Classical | 2000 | 
-> 870fa03d446a689ca80367e627cd5ef5 | 
->  | 
-
-> Beethoven für Alle: Sinfonien No. 1-9
+> Beethoven for All: Symphonys 1 – 9
 > Daniel Barenboim & West-Eastern Divan Orchestra
 > 4 / 5
-> Classical | 2012 | Decca Music Group Limited
-> 22767d972feff10150eed4e217164ea4 | 
->  | 
+> Classical | 2012 | Decca Records
+> 7cb660ddd46cab3bccc17f2c63b5cade | 
+>  | B0089IRPOO, B007TKKPZO
 
-Beethoven for All
+Ludwig van Beethoven (1770 – 1827)
 Symphony No. 7 in A major, Op. 92
 
   01.    I. Poco sostenuto – Vivace
@@ -29,3 +22,4 @@ Symphony No. 8 in F major, Op. 93
 
   West-Eastern Divan Orchestra
   Daniel Barenboim, Conductor
+  Rec. 2011-08 in Kölner Philharmonie, Cologne, Live Recording
