@@ -1,7 +1,7 @@
 > Brahms: The Complete Symphonies; Tragic Overture; Haydn Variations
 > Carlo Maria Giulini & Wiener Philharmoniker
 > 3 / 4
-> Classical | 2011 | Deutsche Grammophon
+> Classical | 2011 | Newton Classics
 > f7574063bba647260ce2ee50a1b8ac6e | 
 > 284187213, 389671291 | B00000E52D
 
