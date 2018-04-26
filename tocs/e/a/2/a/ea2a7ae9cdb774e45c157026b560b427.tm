@@ -1,13 +1,14 @@
-> Reset EP
+> Reset: EP
 > Flying Lotus
 > 1 / 1
-> Electronica | 2007 | VidZone Digital Media
+> Electronica | 2007 | Warp
 >  | 
->  | 
+> 263228560 | B001GU2W4K, B000VH36WG, B000VH36WG, B01M72FRRH
 
+Flying Lotus
 01. Tea Leaf Dancers
 
-  Flying Lotus
+  Andreya Triana, Lead Vocals
 
 02. Vegas Collie
 
