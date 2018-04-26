@@ -1,32 +1,26 @@
-> Beethoven for All: Symphonys No. 5 & 6 `Pastoral`
-> Daniel Barenboim
-> 1 / 1
-> Classical | 2000 | 
-> 870fa03d446a689ca80367e627cd5ef5 | 
->  | 
-
-> Beethoven: L’ Hymne à la Joie; Symphonys
+> Beethoven for All: Symphonys 1 – 9
 > Daniel Barenboim & West-Eastern Divan Orchestra
 > 3 / 5
-> Classical | 2012 | Decca Music Group Limited
-> afaf3a563dc2014860c97cde2cbbf952 | 
+> Classical | 2012 | Decca Records
+> ee9c7111f0e7785f3d920f68f764d47c | 
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
 Symphony No. 5 in C minor, Op. 67 `Fate`
 
-  01.    I. Allegro Com Brio
-  02.   II. Andante con Moto
+  01.    I. Allegro con brio
+  02.   II. Andante con moto
   03.  III. Allegro
   04.   IV. Allegro
 
-Symphony No. 6 in F major, Op. 68 `Pastoral`
+Symphony No. 6 in F major, Op. 68 “Pastoral”
 
-  05.    I. Erwachen Heiterer Empfindungen Bei der Ankunft Auf Dem Lande. Allegro Ma Non Troppo
-  06.   II. Szene am Bach. Andante Molto Mosso
-  07.  III. Lustiges Zusammensein der Landleute. Allegro
-  08.   IV. Gewitter, Sturm. Allegro
-  09.    V. Hirtengesang. Frohe und Dankbare Gefühle Nach Dem Sturm. Allegretto
+  05.    I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande: Allegro ma non troppo
+  06.   II. Szene am Bach: Andante molto mosso
+  07.  III. Lustiges Zusammensein der Landleute (Allegro)
+  08.   IV. Gewitter, Sturm (Allegro)
+  09.    V. Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm: Allegretto
 
   West-Eastern Divan Orchestra
   Daniel Barenboim, Conductor
+  Rec. 2011-08 in Kölner Philharmonie, Cologne, Live Recording
