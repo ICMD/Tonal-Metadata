@@ -15,4 +15,4 @@ Symphony No. 1 in C minor, Op. 68
 
   Wiener Philharmoniker
   Carlo Maria Giulini, Conductor
-  Rec. 1991-04 in Wiener Musikverein: Großer Musikvereinssaal, Wien
+  Rec. 1991-04 in Wiener Musikverein: Großer Musikvereinssaal, Wien, Live Recording
