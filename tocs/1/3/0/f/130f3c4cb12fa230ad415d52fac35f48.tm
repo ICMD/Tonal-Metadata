@@ -1,23 +1,16 @@
 > Schubert: Wanderers Nachtlied
-> Matthias Goerne, Eric Schneider
+> Matthias Goerne, Helmut Deutsch & Eric Schneider
 > 2 / 2
-> Classical | 2014 | Harmonia Mundi
-> 6237685c602bb755e4ccbeae56fdf31b | 
->  | 
-
-> Schubert: Wanderers Nachtlied
-> Matthias Goerne, Eric Schneider
-> 2 / 12
-> Classical | 2014 | 
-> 6237685c602bb755e4ccbeae56fdf31b | 
->  | 
+> Classical | 2014 | harmonia mundi
+> 7de8d10d9ea0bd9aadbf0c69aa95a36b | 
+> 830471323 | B00IPMJ5HO, B00H287OSO
 
 Franz Schubert (1797 – 1828)
 01. Wanderers Nachtlied, D 768
 02. Schäfers Klagelied, D 121
 03. Heidenröslein, D 257
 04. Rastlose Liebe, D 138
-05. An Den Mond, D 259
+05. An Den Mond, D 296
 06. Trost in Tränen, D 120
 07. Erster Verlust, D 226
 08. Der Musensohn, D 764
