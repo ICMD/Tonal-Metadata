@@ -16,14 +16,14 @@ Symphony No. 3 in F major, Op. 90
 Variations on a Theme by Haydn, Op. 56a
 
   05. Theme “Chorale St. Antoni”
-  06.    I. Variation I. Poco più animato
-  07.   II. Variation II. Più vivace
-  08.  III. Variation III. Con moto
-  09.   IV. Variation IV. Andante con moto
-  10.    V. Variation V. Vivace
-  11.   VI. Variation VI. Vivace
-  12.  VII. Variation VII. Grazioso
-  13. VIII. Variation VIII. Presto non troppo
+  06. Variation I. Poco più animato
+  07. Variation II. Più vivace
+  08. Variation III. Con moto
+  09. Variation IV. Andante con moto
+  10. Variation V. Vivace
+  11. Variation VI. Vivace
+  12. Variation VII. Grazioso
+  13. Variation VIII. Presto non troppo
   14. Finale. Andante
 
   Wiener Philharmoniker
