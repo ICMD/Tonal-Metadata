@@ -1,42 +1,38 @@
 > American Mystic
-> Gerard Schwarz, Seattle Symphony, Charles Butler, Michael York, Diane Schmidt, Shanghai Quartet, Keith Brion & Ohio State University Concert Band
+> Charles Butler, Michael York; Gerard Schwarz & Seattle Symphony Orchestra, Shanghai Quartet
 > 1 / 1
 > Classical | 2011 | Delos
-> 30a86e1276cd4446fa1ec865c686c0b0 | 
-> 459505956 | B005JDP3Y6, B005KMX8DE
+> 34cd1b036cc735b56b47323672a8a0cc | 
+>  | 
 
-Alan Hovhaness (1911 – 2000)
 01. Prayer of St. Gregory, Op. 62b
 
-  Seattle Symphony
-  Charles Butler
+  Seattle Symphony Orchestra
   Gerard Schwarz, Conductor
 
-Omar Khayyam & Alan Hovhaness (1911 – 2000)
 02. Rubaiyat, Op. 308
 
   Michael York
   Diane Schmidt
-  Seattle Symphony
+  Seattle Symphony Orchestra
   Gerard Schwarz, Conductor
 
-Alan Hovhaness (1911 – 2000)
 4 Bagatelles, Op. 30
 
-  03. No. 1: . —
-  04. No. 2: . —
-  05. No. 3: . —
-  06. No. 4: . —
+  03. No. 1
+  04. No. 2
+  05. No. 3
+  06. No. 4
 
   Shanghai Quartet
 
 Symphony No. 2, Op. 132 “Mysterious Mountain”
 
-  07.    I. Andante con moto
+  07.    I. Andante con Moto
   08.   II. Double Fugue
-  09.  III. Andante espressivo
+  09.  III. Andante Espressivo
 
-  Seattle Symphony
+  Seattle Symphony Orchestra
   Gerard Schwarz, Conductor
 
 String Quartet No. 2, Op. 147
@@ -62,5 +58,5 @@ The Flowering Peach, Op. 125
 
 20. And God Created Great Whales, Op. 229 No. 1
 
-  Seattle Symphony
+  Seattle Symphony Orchestra
   Gerard Schwarz, Conductor
