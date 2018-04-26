@@ -15,6 +15,6 @@ Symphony No. 4 in E minor, Op. 98
 
 05. Tragic Overture, Op. 81: Allegro non troppo – molto più moderato – Tempo primo – un poco sostenuto – in tempo
 
-  Vienna Philharmonic
+  Wiener Philharmoniker
   Carlo Maria Giulini, Conductor
   Rec. 1989 in Musikverein, Vienna, Live Recording
