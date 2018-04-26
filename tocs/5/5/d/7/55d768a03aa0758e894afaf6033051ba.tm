@@ -8,10 +8,10 @@
 Johannes Brahms (1833 – 1897)
 Symphony No. 3 in F major, Op. 90
 
-  01.    I. Allegro con brio – Un poco sostenuto – Tempo I (Live at Musikverein, Vienna / 1990)
-  02.   II. Andante (Live at Musikverein, Vienna / 1990)
-  03.  III. Poco allegretto (Live at Musikverein, Vienna / 1990)
-  04.   IV. Allegro (Live at Musikverein, Vienna / 1990)
+  01.    I. Allegro con brio – Un poco sostenuto – Tempo I
+  02.   II. Andante
+  03.  III. Poco allegretto
+  04.   IV. Allegro
 
 Variations on a Theme by Haydn, Op. 56a
 
