@@ -1,16 +1,9 @@
-> Brahms: Symphony No. 1
-> Carlo Maria Giulini & Vienna Philharmonic
-> 1 / 1
-> Classical | 1992 | Deutsche Grammophon
-> 013703d8b0be60eb893f43fe3965947a | 
-> 950871049, 962616951 | B00SYAT392, B000I0S8DS, B00000E52C
-
-> Giulini in Vienna
-> Vienna Symphony Orchestra, Vienna Philharmonic Orchestra & Carlo Maria Giulini
-> 3 / 15 BOXSET
-> Classical | 2014 | Deutsche Grammophon
-> 607b3ffbdafeee39e5e98245b7dbd880 | 
-> 836747258, 892073382 | 
+> Brahms: The Complete Symphonies; Tragic Overture; Haydn Variations
+> Carlo Maria Giulini & Wiener Philharmoniker
+> 1 / 4
+> Classical | 2011 | Deutsche Grammophon
+>  | 
+> 284187213, 389671291 | B00000E52D
 
 Johannes Brahms (1833 – 1897)
 Symphony No. 1 in C minor, Op. 68
