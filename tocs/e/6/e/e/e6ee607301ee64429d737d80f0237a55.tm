@@ -1,12 +1,13 @@
 > Los Angeles
 > Flying Lotus
 > 1 / 1
-> Electronica | 2008 | WARP RECORDS
+> Electronica | 2008 | Warp
 >  | 
->  | 
+> 279977486 | B001DXFBQG, B00177Z58M, B019GLWU9C, B01KB2QQE0
 
+Flying Lotus
 01. Brainfeeder
-02. Breathe . Something: Stellar STar
+02. Breathe Something: Stellar Star
 03. Beginners Falafel
 04. Camel
 05. Melt!
@@ -20,21 +21,25 @@
 
   Flying Lotus
 
-13. Robertaflack
+Flying Lotus & Dolly
+13. Roberta Flack
 
   Flying Lotus
   Dolly
 
-14. Sexslaveship
+Flying Lotus
+14. Sex Slave Ship
 15. Auntie’s Harp
 
   Flying Lotus
 
+Flying Lotus & Gonja Sufi
 16. Testament
 
   Flying Lotus
   Gonja Sufi
 
+Flying Lotus & Laura Darlington
 17. Auntie’s Lock: Infinitum
 
   Flying Lotus
