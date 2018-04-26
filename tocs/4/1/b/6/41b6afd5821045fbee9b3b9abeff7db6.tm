@@ -17,4 +17,4 @@ Symphony No. 4 in E minor, Op. 98
 
   Wiener Philharmoniker
   Carlo Maria Giulini, Conductor
-  Rec. 1989 in Musikverein, Vienna, Live Recording
+  Rec. 1989-05 in Musikverein, Vienna, Live Recording
