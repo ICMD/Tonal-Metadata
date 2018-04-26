@@ -28,7 +28,6 @@ Paul Waaktaar-Savoy
 04. The Blue Sky (Album Version)
 
   A-Ha
-  アーハ
 
 Morten Harket & Paul Waaktaar
 05. Living a Boy’s Adventure Tale (Album Version)
@@ -48,4 +47,3 @@ Paul Waaktaar-Savoy
 10. Here I Stand and Face the Rain
 
   A-Ha
-  アーハ
