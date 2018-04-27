@@ -1,4 +1,4 @@
-> Inédito (Special Edition) [With Booklet]
+> Inédito (Special Edition)
 > Laura Pausini
 > 1 / 1
 > Pop | 2012 | Atlantic
