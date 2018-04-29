@@ -2,7 +2,7 @@
 > Lucie Silvas
 > 1 / 1
 > Pop | 2004 | Mercury Records
->  | 
+> 4d44fb8eab81c11d6bfb2dd9adb38469 | 
 > 26211219 | B0002QFFPM, B013GWFVX4
 
 Lucie Silvas, Judie Tzuke, Charlie Russell, Graham Kearns & Michael Peden
