@@ -2,9 +2,10 @@
 > Lamb
 > 1 / 1
 > Electronica | 2014 | Strata Music
-> bc57d0f91408bb94856a07e111d56bc4 | 
->  | 
+> bc54519572308f0ac525fe7ea4463dee | 
+> 918502875 | B00OH3FFM4, B00MVALJPC, B01M7W3ISD, B00N86M6U0
 
+Louise Rhodes & Andrew Barlow
 01. In Binary
 02. We Fall in Love
 03. As Satellites Go By
