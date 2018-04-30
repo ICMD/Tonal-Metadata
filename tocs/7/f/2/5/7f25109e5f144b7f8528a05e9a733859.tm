@@ -1,62 +1,48 @@
-> The Best of Groove Note
-> True Audiophile
+> True Audiophile: The Best of Groove Note, Vol. 1
+> Various Artists
 > 1 / 1
-> Jazz |  | 
+> Jazz | 2006 | Groove Note Records
 > ef637599e761ab7c052c5c9318688887 | 
->  | 
+>  | B003Y9V7X8, B000FKNRCS, B013Q7HFFG
 
+Jacintha
 01. Boulevard of Broken Dreams
 
-  Jacintha
-
+Roy Gaines
 02. Stormy Monday
 
-  Roy Gaines
+Eden Atwood
+03. Meditation
 
-03. Eden Atwood
-
-  Eden Atwood
-
+Anthony Wilson
 04. She’s so Heavy
 
-  Anthony Wilson
-
+Jacintha
 05. Light My Fire
 
-  Jacintha
-
+Eden Atwood
 06. Deep Purple
 
-  Eden Atwood
-
+Bill Cunliffe (b. 1956)
 07. Imagine
 
-  Bill Cunliffe
-
+Bennie Wallace (b. 1946)
 08. April in Paris
 
-  Bennie Wallace
-
+Jacintha
 09. O Ganso
-
-  Eden Atwood
-
 10. Something Cool
 
-  Jacintha
-
+Anthony Wilson
 11. Fleur D'Ennui
 
-  Anthony Wilson
-
+Eden Atwood
 12. Blame It on My Youth
 
-  Eden Atwood
-
+Luqman Hamza
 13. Just One of Those Things
 
-  Luqman Hamza
-
+Jacintha
 14. Danny Boy
 
-  Jacintha
+  Various Artists
