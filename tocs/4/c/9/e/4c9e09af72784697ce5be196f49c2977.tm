@@ -1,40 +1,34 @@
 > The Four Seasons
-> Salzburg Baroque Orchestra
+> Antonio Vivaldi
 > 1 / 1
-> Classical | 2000 | 
+> Classical | 1990 | Universal
 >  | 
->  | 
+>  | B01FZ8OKM0
 
 Antonio Vivaldi (1678 – 1741)
-The Four Seasons No. 1 in E major, Op. 8
+Concerto No. 1 in E major, Op. 8, RV. 269 “La Primavera” (Spring)
 
-  01. , RV. 269 “Spring” – I. Allegro
-  02. , RV. 269 “Spring” – II. Largo
-  03. , RV. 269 “Spring” – III. Allegro
+  01.    I. Allegro
+  02.   II. Largo
+  03.  III. Allegro pastorale
 
-The Four Seasons No. 2 in G minor, Op. 8
+Concerto No. 2 in G minor, Op. 8, RV. 315 “L’Estate” (Summer)
 
-  04. , RV. 315 “Summer” – I. Allegro Non Molto, Allegro
-  05. , RV. 315 “Summer” – II. Adagio
-  06. , RV. 315 “Summer” – III. Presto
+  04.    I. Allegro non molto
+  05.   II. Adagio e piano – Presto e forte
+  06.  III. Presto
 
-  Salzburg Baroque Orchestra
-  Ettore Stratta, Conductor
+Concerto No. 3 in F major, Op. 8, RV. 293 “L’Autunno” (Autumn)
 
-The Four Seasons No. 3 in F major, Op. 8
+  07.    I. Allegro
+  08.   II. Adagio molto
+  09.  III. Allegro
 
-  07. , RV. 293 “Autumn” – I. Allegro
-  08. , RV. 293 “Autumn” – II. Adagio
+Concerto No. 4 in F minor, Op. 8, RV. 297 “L’Inverno” (Winter)
 
-    Salzburg Baroque Orchestra
+  10.    I. Allegro non molto
+  11.   II. Largo
+  12.  III. Allegro
 
-  09. , RV. 293 “Autumn” – III. Allegro
-
-The Four Seasons No. 4 in F minor, Op. 8
-
-  10. , RV. 297 “Winter” – I. Allegro Non Molto
-  11. , RV. 297 “Winter” – II. Largo
-  12. , RV. 297 “Winter” – III. Allegro
-
-  Salzburg Baroque Orchestra
-  Ettore Stratta, Conductor
+  Salzburger Kammerorchester
+  Alexander von Pitamic, Conductor
