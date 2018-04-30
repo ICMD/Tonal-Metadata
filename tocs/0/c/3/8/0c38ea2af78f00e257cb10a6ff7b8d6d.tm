@@ -1,10 +1,11 @@
 > Törst
 > Ulf Lundell
 > 1 / 1
-> UNKNOWN GENRE | 1976 | EMI
+> UNKNOWN GENRE | 1992 | Harvest
 > 9b1d47b091f823f4c4edd4cfed28c9ae | 
 >  | 
 
+Ulf Lundell
 01. Törst
 02. Jag Vill Ha Ett Lejon
 03. Mitt I Nattens Djungel Ställd
