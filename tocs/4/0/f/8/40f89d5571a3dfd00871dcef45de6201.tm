@@ -1,4 +1,4 @@
-> Rachmaninoff: Complete Piano Concertos, Rhapsody on a Theme of Paganini
+> Rachmaninoff: Complete Piano Concertos – Rhapsody on a Theme of Paganini
 > André Previn, London Symphony Orchestra & Vladimir Ashkenazy
 > 3 / 3 BOXSET
 > Classical | 2002 | Decca Records
