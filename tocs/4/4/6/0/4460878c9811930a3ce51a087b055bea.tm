@@ -16,7 +16,7 @@ Ralph Vaughan Williams (1872 – 1958)
   Sir Neville Marriner, Conductor
   Rec. Unknown
 
-Ralph Vaughan Williams (1872 – 1958) – Ralph Greaves (? – 1966)
+Ralph Vaughan Williams (1872 – 1958) – Ralph Greaves (1889 – 1966)
 02. Fantasia on Greensleeves
 
   William Bennett, Flute
