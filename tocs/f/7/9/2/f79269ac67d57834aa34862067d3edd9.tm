@@ -1,67 +1,49 @@
-> Burmester: Art for the Ear
+> Burmester Art of the Ear: Vorfuhrungs 2
 > Various Artists
 > 1 / 1
 > Other |  | 
 >  | 
 >  | 
 
+Radka Toneff
 01. The Moon is a Harsh Mistress
 
-  Radka Toneff
-
+Paco de Lucía
 02. Live in America
 
-  Paco de Lucía
-
+Hans Theessink
 03. Call Me
 
-  Hans Theessink
-
+unknown]
 04. Konzertante Barockmusik
 
-  Dabringhaus & Grimm-Label
-
+Quincy Jones
 05. Back on the Block
 
-  Quincy Jones
-
+Ben Webster
 06. Gentle Ben (1972)
 
-  Ben Webster
-
+Gerhard Oppelt
 07. Lindenkirche Berlin
 
-  Gerhard Oppelt
+Václav Nelhýbel
+08. Dallas Wind Symphony
 
-Dallas Wind Symphony
-08. Vaclav Nelhybel
-
-  Dallas Wind Symphony
-
-COMPOSER NON-APPLICABLE
+Rickie Lee Jones
 09. Dat Dere
 
-  Rickie Lee Jones
+Dmitri Dmitrievich Shostakovich
+10. Symphony No. 9 (Wiener Symphoniker)
 
-10. Inbal + Wiener Symph.: Schostakovich Symph. No. 9
-
-  Vienna Symphony Orchestra
-  Eliahu Inbal, Conductor
-
+Stevie Ray Vaughan
 11. Tin Pan Alley
 
-  Stevie Ray Vaughan
+Musica Antiqua Cologne
+12. Mariengesänge
 
-Hans Theessink
-12. Haec Est Regina Virginum, HWV 235
-
-  Anne Sofie von Otter
-  Musica Antiqua Köln
-  Reinhard Goebel, Conductor
-
-COMPOSER NON-APPLICABLE
-13. Another Brick in the Wall I
+Pink Floyd
+13. Another Brick in the Wall, Part 1
 14. The Happiest Days of Our Lives
-15. Another Brick in the Wall
+15. Another Brick in the Wall, Part 2
 
-  Pink Floyd
+  Various Artists
