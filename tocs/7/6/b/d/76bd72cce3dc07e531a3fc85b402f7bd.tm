@@ -5,7 +5,7 @@
 > 61d34338f9f4850388c7638a8dc566fc | 
 > 80148121, 81059367 | B000VGMBEG, B000076GYF, B013GW986A
 
-> Rachmaninoff: Complete Piano Concertos, Rhapsody on a Theme of Paganini
+> Rachmaninoff: Complete Piano Concertos – Rhapsody on a Theme of Paganini
 > André Previn, London Symphony Orchestra & Vladimir Ashkenazy
 > 1 / 3 BOXSET
 > Classical | 2002 | Decca Records
