@@ -9,14 +9,22 @@ Mikhail Glinka (1804 – 1857)
 01. Ruslan and Lyudmila, Act 1: Overtüre
 
 Aram Khachaturian (1903 – 1978)
-02. Gayaneh: I. Sabre Dance
-03. Spartacus: II. Adagio of Spartacus and Phrygia
+Gayaneh Suite
+
+  02.    I. Sabre Dance
+
+Spartacus Suite
+
+  03.   II. Adagio of Spartacus and Phrygia
 
   Kirov Orchestra
   Valery Gergiev, Conductor
 
 Alexander Borodin (1833 – 1887)
-04. Prince Igor, Act 2: Polovtsian Dances
+Prince Igor
+
+  Act 2
+  04. Polovtsian Dances
 
   St. Petersburg
   Kirov Orchestra
@@ -34,7 +42,7 @@ Anatole Konstantinovich Liadov
   Valery Gergiev, Conductor
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-08. Ouverture Solennelle “1812,”, Op. 49
+08. Ouverture Solennelle “1812”, Op. 49
 
   Marinierskapel der Koninklijke Marine, Instrument
   Kirov Orchestra
