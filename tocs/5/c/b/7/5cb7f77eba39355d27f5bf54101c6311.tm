@@ -32,7 +32,11 @@ Prince Igor
   Kirov Chorus
   Valery Gergiev, Conductor
 
-05. Prince Igor: Arranged by No. Rimsky – Korsakov (1844-1908) – Act 2: Polovtsian March
+Alexander Borodin (1833 – 1887) – Rimsky–Korsakov (1844 – 1908)
+Prince Igor
+
+  Act 2
+  05. Polovtsian March
 
 Anatole Konstantinovich Liadov
 06. Baba – Yaga, Op. 56
