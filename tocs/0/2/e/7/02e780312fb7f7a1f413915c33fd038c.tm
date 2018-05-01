@@ -2,43 +2,41 @@
 > Brad Mehldau
 > 1 / 1
 > Jazz | 2018 | Nonesuch
-> b3419024a392ab3b7119ca0a527fffc7 | 
->  | 
+> eec5d2db9fbf91b39d1f9525b1ee5211 | 
+>  | B0795B3KQC, B079B6TYMQ
 
-Before Bach
-01. Benediction
+Brad Mehldau (b. 1970)
+01. Before Bach: Benediction
 
-COMPOSER NON-APPLICABLE
+Johann Sebastian Bach (1685 – 1750)
 02. Prelude No. 3 in C major# Major from the Well – Tempered Clavier Book I, BWV 848
 
-After Bach
-03. Rondo
+Brad Mehldau (b. 1970)
+03. After Bach: Rondo
 
-COMPOSER NON-APPLICABLE
+Johann Sebastian Bach (1685 – 1750)
 04. Prelude No. 1 in C major from the Well – Tempered Clavier Book Ii, BWV 870
 
-After Bach
-05. Pastorale
+Brad Mehldau (b. 1970)
+05. After Bach: Pastorale
 
-COMPOSER NON-APPLICABLE
+Johann Sebastian Bach (1685 – 1750)
 06. Prelude No. 10 in E minor from the Well – Tempered Clavier Book I, BWV 855
 
-After Bach
-07. Flux
+Brad Mehldau (b. 1970)
+07. After Bach: Flux
 
-COMPOSER NON-APPLICABLE
+Johann Sebastian Bach (1685 – 1750)
 08. Prelude and Fugue No. 12 in F minor from the Well – Tempered Clavier Book I, BWV 857
 
-After Bach
-09. Dream
+Brad Mehldau (b. 1970)
+09. After Bach: Dream
 
-COMPOSER NON-APPLICABLE
+Johann Sebastian Bach (1685 – 1750)
 10. Fugue No. 16 in G minor from the Well – Tempered Clavier Book Ii, BWV 885
 
-After Bach
-11. Ostinato
-
-COMPOSER NON-APPLICABLE
+Brad Mehldau (b. 1970)
+11. After Bach: Ostinato
 12. Prayer for Healing
 
   Brad Mehldau
