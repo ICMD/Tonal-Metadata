@@ -1,47 +1,43 @@
-> Tchaikovsky: 1812 Overture; Borodin: Polovtsian Dances, Etc.
-> Valery Gergiev & Mariinsky Theatre Orchestra
+> White Nights: Romantic Russian Showpieces
+> Chorus of the Kirov Opera, St. Petersburg, Orchestra of the Kirov Opera, St. Petersburg & Royal Netherland Navy Marine Band
 > 1 / 1
-> Classical | 1994 | Philips
-> de6cc47b1fb79baa9ce49edb11b80623 | 
->  | 
-
-> ゲルギエフ・ロシア管弦楽曲集 (2CD)
-> ゲルギエフ/マリインスキー歌劇場O
-> 11 / 12
-> Classical | 2010 | 
-> 15ebdf9313e6a3bf8613183fe1c69a7c | 
->  | 
+> Classical | 1994 | Philips Classics
+> 73cd8d06f4ad4c792b3ba08f795e4efc | 
+> 4784899, 16202445, 350847218 | B00353AYRS, B0058TJAQS, B002UIWSMS
 
 Mikhail Glinka (1804 – 1857)
-01. Ruslan & Ludmila: Overture
+01. Ruslan and Lyudmila, Act 1: Overtüre
 
 Aram Khachaturian (1903 – 1978)
-02. Gayaneh Suite 3: I. Sabre Dance
-03. Spartacus Suite: II. Adagio
+02. Gayaneh: I. Sabre Dance
+03. Spartacus: II. Adagio of Spartacus and Phrygia
 
-  Mariinsky Theatre Orchestra
+  Kirov Orchestra
   Valery Gergiev, Conductor
 
 Alexander Borodin (1833 – 1887)
-Prince Igor
+04. Prince Igor, Act 2: Polovtsian Dances
 
-  04. Polovtsian Dances
+  St. Petersburg
+  Kirov Orchestra
+  Mariinsky Theatre Chorus
+  Kirov Chorus
+  Valery Gergiev, Conductor
 
-    Mariinsky Theatre Orchestra
+05. Prince Igor: Arranged by No. Rimsky – Korsakov (1844-1908) – Act 2: Polovtsian March
 
-  05. Polovtsian March
-
-Anatol Liadov (1855 – 1914)
+Anatole Konstantinovich Liadov
 06. Baba – Yaga, Op. 56
 07. Kikimora, Op. 63
 
-  Mariinsky Theatre Orchestra
+  Kirov Orchestra
   Valery Gergiev, Conductor
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-08. 1812 Overture, Op. 49
+08. Ouverture Solennelle “1812,”, Op. 49
 
-  St. Petersburg Kirov Orchestra
+  Marinierskapel der Koninklijke Marine, Instrument
+  Kirov Orchestra
   Royal Dutch Marines Band
   Valery Gergiev, Conductor
   Rec. 1993-04-29, 1993-04-30, 1993-05-01
