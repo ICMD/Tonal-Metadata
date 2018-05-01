@@ -8,21 +8,21 @@
 Wolfgang Amadeus Mozart (1756 – 1791)
 MOZART Violin Concerto in D major, K. 218
 
-  01.    I. Allegro (MQA remix 2016)
-  02.   II. Andante cantabile (MQA remix 2016)
-  03.  III. Rondeau: Andante grazioso (MQA remix 2016)
+  01.    I. Allegro
+  02.   II. Andante cantabile
+  03.  III. Rondeau: Andante grazioso
 
 MOZART Violin Concerto in G major, K. 216
 
-  04.    I. Allegro (MQA remix 2016)
-  05.   II. Andante (MQA remix 2016)
-  06.  III. Rondeau: Allegro (MQA remix 2016)
+  04.    I. Allegro
+  05.   II. Andante
+  06.  III. Rondeau: Allegro
 
 MOZART Violin Concerto in A major, K. 219
 
-  07.    I. Allegro aperto (MQA remix 2016)
-  08.   II. Adagio (MQA remix 2016)
-  09.  III. Rondeau: Tempo di Menuetto (MQA remix 2016)
+  07.    I. Allegro aperto
+  08.   II. Adagio
+  09.  III. Rondeau: Tempo di Menuetto
 
   Marianne Thorsen, Solo & Violin
   Trondheim Soloists
