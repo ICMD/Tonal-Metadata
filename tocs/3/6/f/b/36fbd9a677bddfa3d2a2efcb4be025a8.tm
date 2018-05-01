@@ -1,9 +1,9 @@
 > Some Girls
 > The Rolling Stones
 > 1 / 2
-> Rock | 2012 | Rolling Stones Records
+> Rock | 2012 | A&M Records
 > 730f2cce261cdcc16c1c8bdf602c0490 | 
-> 580009478, 661952946 | B0064Y3RHY
+> 585901355, 660765725 | B005N95JO0, B00NJ1MNDE, B019GRXZVI
 
 > Some Girls (Deluxe Edition)
 > The Rolling Stones
