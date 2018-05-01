@@ -1,6 +1,6 @@
-> Some Girls (Deluxe Video Edition)
+> Some Girls
 > The Rolling Stones
-> 2 / 3
+> 2 / 2
 > Rock | 2012 | A&M Records
 > 730f2cce261cdcc16c1c8bdf602c0490 | 
 > 585901355, 660765725 | B005N95JO0, B00NJ1MNDE, B019GRXZVI
