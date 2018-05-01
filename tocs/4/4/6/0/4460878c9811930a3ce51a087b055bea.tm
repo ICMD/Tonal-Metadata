@@ -1,4 +1,4 @@
-> Williams: Tallia Fantasia, Fantasia on Greensleeves & The Lark Ascending
+> Williams: Tallis Fantasia, Fantasia on Greensleeves & The Lark Ascending
 > Academy of St. Martin in the Fields & Sir Neville Marriner
 > 1 / 1
 > Classical | 1972 | Argo
