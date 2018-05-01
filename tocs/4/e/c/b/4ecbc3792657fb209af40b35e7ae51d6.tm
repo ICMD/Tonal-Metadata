@@ -24,12 +24,9 @@ Piano Concerto No. 3 in D minor, Op. 30
 
   01.    I. Allegro ma non tanto
   02.   II. Intermezzo (Adagio)
-
-    Rec. 1971-03-29 – 1971-03-30 in Kingsway Hall, London
-
   03.  III. Finale (Alla breve)
 
-  Rec. 1971-03 in Kingsway Hall, London
+  Rec. 1971-03-29 – 1971-03-30 in Kingsway Hall, London
 
 Piano Concerto No. 4 in G minor, Op. 40
 
