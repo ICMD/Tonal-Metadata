@@ -70,7 +70,7 @@ Stuart Duncan, Edgar Meyer (b. 1960), Chris Thile & Yo-Yo Ma (b. 1955)
   Stuart Duncan
   Chris Thile, Mandolin & Vocal
 
-10. 13: 8
+10. 13 – 8
 11. Goat Rodeo
 
   Yo-Yo Ma, Cello
