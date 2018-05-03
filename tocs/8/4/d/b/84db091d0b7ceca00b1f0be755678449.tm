@@ -1,12 +1,13 @@
 > Solid Silver
 > Mike Silver
 > 1 / 1
-> Country & Folk | 2003 | Stockfisch
+> Country & Folk | 2003 | Stockfisch Records
 >  | 
->  | 
+>  | B00008S0DG
 
-01. Reaching out for Love
-02. Not a Matter of Pride
+Mike Silver
+01. Not a Matter of Pride
+02. Reaching out for Love
 03. Old Fashioned Saturday Night
 04. Love’s Another Colour
 05. Leaving Song
