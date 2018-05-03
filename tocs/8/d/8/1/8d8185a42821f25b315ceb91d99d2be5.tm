@@ -5,10 +5,10 @@
 > 44b690a04affd0e15a6ff70c3643984e | 
 > 90104677, 91422304 | B000VA8I3A, B00007KL5V, B01K8NVJO4
 
-Mario Castelnuovo-Tedesco (1895 – 1968) & Gioacchino Rossini (1792 – 1868)
+Gioacchino Rossini (1792 – 1868) – Mario Castelnuovo-Tedesco (1895 – 1968)
 01. Paraphrase on “Largo Al Factotum” from G. Rossini’s Opera “Il Barbiere di Siviglia”
 
-Pablo de Sarasate (1844 – 1908) & Wolfgang Amadeus Mozart (1756 – 1791)
+Wolfgang Amadeus Mozart (1756 – 1791) – Pablo de Sarasate (1844 – 1908)
 02. Fantasie Sur “La Flûte Enchantée de Mozart”, Op. 54 Andante: Moderato – Allegro – Lento – Andantino – Allegro vivo
 
 Christoph Willibald von Gluck (1714 – 1787) – Fritz Kreisler (1875 – 1962)
