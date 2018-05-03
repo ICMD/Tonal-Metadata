@@ -3,23 +3,54 @@
 > 1 / 1
 > Pop | 2009 | Stockfisch Records
 >  | 
->  | 
+>  | B001U1K53U, B01AXLM4HW
 
-01. Ol' 55 …
+Tom Waits
+01. Ol'55
+
+John Fogerty
 02. Who’ll Stop the Rain..
-03. Imagine (John Lennon)..
-04. Sugar Mountain (Neil Young).
-05. Louisiana Rain (Tom Petty).
-06. A Hard Rain’s a Gonna Fall (Bob Dylan) …
-07. Father and Son (Cat Stevens)..
-08. 500 Miles (Hedy West)..
-09. Purple Rain (Prince) …
-10. Hello in There (John Prine).
-11. Forever Young (Bob Dylan).
-12. Fire and Rain (James Taylor).
+
+John Lennon
+03. Imagine
+
+Neil Young
+04. Sugar Mountain
+
+Tom Petty
+05. Louisiana Rain
+
+Bob Dylan
+06. A Hard Rain’s a – Gonna Fall
+
+Cat Stevens
+07. Father and Son
+
+Hedy West
+08. 500 Miles
+
+Prince
+09. Purple Rain
+
+John Prine
+10. Hello in There
+
+Bob Dylan
+11. Forever Young
+
+James Taylor
+12. Fire and Rain
+
+David Munyon
 13. Yesterday (John Lennon: Paul McCartney)..
-14. Angel from Montgomery (John Prine).
-15. Atlantic City (Bruce Springsteen)..
+
+John Prine
+14. Angel of Montgomery
+
+Bruce Springsteen
+15. Atlantic City
+
+David Munyon
 16. Industry (Lee Clayton)..
 
   David Munyon
