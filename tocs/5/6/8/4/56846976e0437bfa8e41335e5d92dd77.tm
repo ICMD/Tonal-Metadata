@@ -1,11 +1,11 @@
-> Reich: Pulse / Quartet
-> Various Artists
+> Pulse: Quartet
+> Steve Reich
 > 1 / 1
-> Classical | 2018 | Nonesuch Records
-> 2f600d22fffc0f9ed70fbb1fc25803eb | 
->  | 
+> Classical | 2018 | Nonesuch
+> 4573847ecbce69b21260f84a5987a2f4 | 
+>  | B077ZMR9N3, B07B16NSGL, B0785VL9DB, B07BWGZWMW
 
-Cäcilie Reich
+Steve Reich (b. 1936)
 01. Pulse
 
   International Contemporary Ensemble
