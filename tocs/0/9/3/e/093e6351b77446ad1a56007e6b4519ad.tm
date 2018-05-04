@@ -5,7 +5,6 @@
 > 2f11e9cb3720afbf32c613515fd5695d | 
 >  | B0001ZWHW8, B01AXL508M
 
-David Roth
 01. Before I Die
 02. Bake Sale
 03. Rising in Love
