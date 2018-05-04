@@ -20,8 +20,8 @@ Franz Schubert (1797 – 1828)
 06. Aufenthalt, S. 560 No. 3 from Schwanengesang: Franz Liszt)
 07. Liebesbotschaft, S. 560 No. 10 from Schwanengesang: Franz Liszt)
 
-Nikolai Rimsky-Korsakov
-08. Flight of the Bumblebee (Interlude from the Tale of the Tsar Saltan): György Cziffra)
+Nikolai Rimsky-Korsakov (1844 – 1908) – György Cziffra (1921 – 1994)
+08. Flight of the Bumblebee (Interlude from the Tale of the Tsar Saltan)
 
 Sergey Prokofiev (1891 – 1953)
 Ballet Cinderella
@@ -36,7 +36,7 @@ Pyotr Il'yich Tchaikovsky (1840 – 1893)
 Johann Sebastian Bach (1685 – 1750) – Samuil Feinberg (1890 – 1962)
 13. Trio Sonata No. 5, BWV 529: II. Largo
 
-Wolfgang Amadeus Mozart (1756 – 1791) & Arcadi Volodos (b. 1972)
+Wolfgang Amadeus Mozart (1756 – 1791) – Arcadi Volodos (b. 1972)
 14. Turkish March (Concert Paraphrase), Based on Rondo a la Turka from Piano Sonata in A major,, K. 331
 
   Arcadi Volodos
