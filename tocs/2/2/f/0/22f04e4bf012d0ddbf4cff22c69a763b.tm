@@ -1,25 +1,57 @@
-> Piano Concertos Nos. 2 & 3
-> Sergei Rachmaninov
+> Grosse Pianisten: Sergei Rachmaninoff
+> Sergei Rachmaninoff, Leopold Stokowski, The Philadelphia Orchestra & Eugene Ormandy
 > 1 / 1
-> Classical | 2014 | Revolver Records
-> 4d9dd0204e7cc915530e1a1b76025bf9 | 
->  | 
+> Classical | 2005 | Naxos Historical
+> 5e8531069c0c07db9d5e6a4fe3b85307 | 
+> 604020071, 797807141, 913129550, 914059781 | B000026B8F
 
-> Rachmaninov Plays Rachmaninov
-> Sergei Rachmaninov; Leopold Stokowski & Philadelphia Orchestra
-> 2 / 2
-> Classical | 1929 | RCA
-> 4d9dd0204e7cc915530e1a1b76025bf9 | 
+> Rachmaninoff: The Four Piano Concertos; Rhapsody on a Theme of Paganini
+> Sergei Rachmaninoff, Leopold Stokowski & The Philadelphia Orchestra
+> 2 / 2 BOXSET
+> Classical | 1993 | RCA Victor Gold Seal
 >  | 
+> 401486561 | B000001HDR, B01KAQTWRU
+
+> Complete RCA Recordings
+> Sergei Rachmaninoff, __ & The Philadelphia Orchestra
+> 1 / 10 BOXSET
+> Classical | 1942 | RCA Red Seal
+> bb7500904572b4a8d80708ec98b1761d | 
+> 911386640 | B00KV190HC
+
+> 20 Große Pianisten: 20 Famous Pianists
+> Arthur Rubinstein, Clara Haskil, Claudio Arrau, Robert Casadesus, Edwin Fischer, Walter Gieseking, Shura Cherkassky, Wanda Landowska, Ignacy Jan Paderewski & Various Artists
+> 4 / 20 BOXSET
+> Classical | 2005 | Membran Music Ltd.
+>  | 
+>  | B000BBQP5W
 
 Sergei Rachmaninoff (1873 – 1943)
-01. 1901RACHau; Piano Concerto No. 2 in C minor, Op. 18: I. Moderato – allegro
-02. 1901RACHav; Piano Concerto No. 2 in C minor, Op. 18: II. Adagio sostenuto
-03. 1901RACHaw; Piano Concerto No. 2 in C minor, Op. 18: III. Allegro scherzando
-04. 1909RACHav; Piano Concerto No. 3 in D minor, Op. 30: I. Allegro ma non tanto
-05.   II. Intermezzo: II. Adagio
-06. 1909RACHax; Piano Concerto No. 3 in D minor, Op. 30: III. Finale: Alla Breve
+Konzert für Klavier und Orchester No. 2 in C minor, Op. 18
 
-  Sergei Rachmaninov, Piano
+  01.    I. Moderato – Allegro
+
+    Rec. 1929-04-10
+
+  02.   II. Adagio sostenuto
+
+    Rec. 1929-04-10 – 1929-04-13
+
+  03.  III. Allegro scherzando
+
+  Sergei Rachmaninoff, Piano
   Philadelphia Orchestra
   Leopold Stokowski, Conductor
+  Rec. 1929-04-13
+
+Konzert für Klavier und Orchester No. 3 in D minor, Op. 30
+
+  04.    I. Allegro ma non tanto
+  05.   II. Intermezzo, Adagio
+  06.  III. Finale, Alla breve
+
+  Sergei Rachmaninoff, Piano
+  Philadelphia Orchestra
+  Eugene Ormandy, Conductor
+  Leopold Stokowski, Conductor
+  Rec. 1939-12-04 – 1940-02-24
