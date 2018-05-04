@@ -5,7 +5,6 @@
 > 243e7e515bc00f6dd84ba283f41063a1 | 
 >  | B00008S0DG
 
-Mike Silver
 01. Not a Matter of Pride
 02. Reaching out for Love
 03. Old Fashioned Saturday Night
