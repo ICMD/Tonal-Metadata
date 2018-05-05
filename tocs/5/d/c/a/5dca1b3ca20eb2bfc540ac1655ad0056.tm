@@ -12,15 +12,7 @@ Vespers, Op. 37
   02.   II. Bless the Lord, O my soul
   03.  III. Blessed is the man
   04.   IV. Peaceful light
-
-    St. Petersburg Capella
-    Vladislav Tchernouchenko, Chorus Master
-
   05.    V. Lord, now lettest thou thy servant depart in peace (Nunc dimittis)
-
-    St. Petersburg Capella
-    Vladislav Tchernouchenko, Chorus Master & Conductor
-
   06.   VI. Rejoice, Virgin (Ave Maria)
   07.  VII. The Hexapsalm
   08. VIII. Praise the name of the Lord
