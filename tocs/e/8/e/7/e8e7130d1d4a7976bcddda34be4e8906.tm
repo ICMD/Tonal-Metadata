@@ -5,7 +5,7 @@
 > 19dad929860ee283caf05028908fe550 | 
 > 60622053 | B06XYY96BX, B000QQUDIM, B00068CVKI
 
-Peter Sculthorpe (b. 1929)
+Peter Sculthorpe (1929 – 2014)
 01. Earth Cry
 02. Memento Mori
 03. Piano Concerto
