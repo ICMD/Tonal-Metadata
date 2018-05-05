@@ -13,18 +13,11 @@ Symphony No. 1 in D minor, Op. 13
   03.  III. Larghetto
   04.   IV. Allegro con fuoco
 
-  Royal Concertgebouw Orchestra
-  Vladimir Ashkenazy, Conductor
   Rec. 1982-08 in Concertgebouw: Grote Zaal, Amsterdam
 
 Symphonic Dances, Op. 45
 
   05.    I. non allegro
-
-    Concertgebouw Kamerorkest
-    Royal Concertgebouw Orchestra
-    Vladimir Ashkenazy, Conductor
-
   06.   II. Andante con moto (Tempo di valse)
   07.  III. Lento assai – Allegro vivace
 
