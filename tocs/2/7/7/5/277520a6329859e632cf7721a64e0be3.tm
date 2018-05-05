@@ -5,7 +5,6 @@
 > f420942278dd37c086915619b2d4f543 | 
 >  | B07B9PK75Z, B00J608V60, B00J608V60, B014I62BV2
 
-Cara Dillon
 01. Jacket so Blue
 02. Bright Morning Star
 03. My Donald
