@@ -1,4 +1,4 @@
-> The Classical Jazz Quartet Play Rachmaninov (Feat. Kenny Barron, Ron Carter, Stefon Harris & Lewis Nash)
+> The Classical Jazz Quartet Play Rachmaninov
 > The Classical Jazz Quartet, Ron Carter, Kenny Barron, Stefon Harris & Lewis Nash
 > 1 / 1
 > New Age | 2006 | Kind of Blue Records
@@ -18,3 +18,7 @@ Piano Concerto No. 2 in C minor
   09. Movement III, Part 2
 
   Classical Jazz Quartet
+  Kenny Barron
+  Ron Carter
+  Stefon Harris
+  Lewis Nash
