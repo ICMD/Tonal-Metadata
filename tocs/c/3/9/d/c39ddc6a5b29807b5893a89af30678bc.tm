@@ -1,18 +1,18 @@
-> Unleashed in the West: Live in Berlin
+> Unleashed in the West: Official Bootleg
 > Prong
 > 1 / 1
-> Metal | 2014 | Prong
->  | 
->  | 
+> Metal | 2015 | Thomas M. Victor
+> d9f2733427965101943ef672fcdc6dce | 
+> 1047021019 | B0169OWVES
 
-01. For Deal Life
+01. For Dear Life
 02. Beg to Differ
 03. Unconditional
 04. Lost and Found
 05. Cut Rate
 06. Rude Awakening
 07. Broken Peace
-08. Another Worldy Device
+08. Another Worldly Device
 09. Power of the Damager
 10. Close the Door
 11. Dark Signs
