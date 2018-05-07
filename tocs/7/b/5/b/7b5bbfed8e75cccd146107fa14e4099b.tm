@@ -1,9 +1,9 @@
 > Hello Troll
 > Helge Lien Trio
 > 1 / 1
-> Jazz | 2008 | Ozella Music
->  | 
->  | 
+> Jazz | 2008 | Ozella
+> b1535a244736bdd8de119e5e4a3c189b | 
+> 289233676 | B001GXL0Q8, B07C3W9964, B001DHUL80, B01MQCW78R, B00Y3ZVASO
 
 01. Gamut Warning
 02. Axis of Free Will
