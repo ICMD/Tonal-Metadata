@@ -30,17 +30,14 @@ The Bells, Op. 35
 
   05.   II. Lento (Golden Bells)
 
-  Natalia Troitskaya, Soprano
-  Ryszard Karczykowski, Tenor
-  Tom Krause, Baritone
-  Concertgebouw Orchestra, Soprano
-  Vladimir Ashkenazy, Conductor
-
-The Bells, OP. 35
+    Natalia Troitskaya, Soprano
+    Ryszard Karczykowski, Tenor
+    Tom Krause, Baritone
+    Concertgebouw Orchestra, Soprano
+    Vladimir Ashkenazy, Conductor
 
   06.  III. Presto (Alarm Bells)
-
-07. The Bells, Op. 35: IV. Lento lugubre (Iron Bell)
+  07.   IV. Lento lugubre (Iron Bell)
 
   Ryszard Karczykowski, Tenor
   Tom Krause, Baritone
