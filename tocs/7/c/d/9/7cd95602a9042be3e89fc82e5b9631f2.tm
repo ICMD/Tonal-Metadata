@@ -9,9 +9,7 @@ Sergei Rachmaninoff (1873 – 1943)
 Symphony No. 3 in A minor, Op. 44
 
   01.    I. Lento – Allegro moderato
-
-  II. Adagio ma non troppo
-  02. Allegro vivace
+  02.   II. Adagio ma non troppo – Allegro vivace
   03.  III. Allegro, Allegro Vivace
 
   Natalia Troitskaya, Soprano
