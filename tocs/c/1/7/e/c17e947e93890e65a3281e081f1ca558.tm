@@ -1,5 +1,5 @@
 > Varèse: The Complete Works
-> Asko Ensemble, Riccardo Chailly, Royal Concertgebouw Orchestra & Various Artists
+> Riccardo Chailly, Royal Concertgebouw Orchestra & Asko Ensemble
 > 1 / 2
 > Classical | 1998 | London Classics
 > 14f7679097cd4f74bc8f9832945a3206 | 
