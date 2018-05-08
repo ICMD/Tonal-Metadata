@@ -1,10 +1,11 @@
-> Together Again
-> Juan Pablo Torres
+> Together Again (Juan Pablo Torres with Arturo Sandoval)
+> Juan Pablo Torres & Arturo Sandoval
 > 1 / 1
-> Jazz | 2008 | Termidor Music
-> 551cbd372452fa78ac7a3aaef7cc567f | 
->  | 
+> Jazz | 2000 | Pimienta Records
+> f24b84f8e1dfc273688c8b3010a32dc3 | 
+> 64378036 | B0011XAAKU, B0009Z6668
 
+Juan Pablo Torres, Chucho Valdés (b. 1941) & Arturo Sandoval (b. 1949)
 01. When Day Breaks
 02. Slide Force
 03. Salt and Pepper
@@ -16,4 +17,5 @@
 09. All Rhythm Ahead
 10. Blowing Up
 
-  Juan Pablo Torres
+  Juntos Otra Vez
+  Arturo Sandoval
