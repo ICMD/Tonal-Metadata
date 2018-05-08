@@ -1,10 +1,11 @@
 > Peter Cincotti
 > Peter Cincotti
 > 1 / 1
-> Easy Listening | 2000 | HarmoniaMundi Jazz
+> Easy Listening | 2003 | Concord Records
 >  | 
 >  | 
 
+Peter Cincotti
 01. I Changed the Rules
 02. Comes Love
 03. Are You the One?
