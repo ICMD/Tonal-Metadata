@@ -1,7 +1,7 @@
 > Varèse: The Complete Works
 > Riccardo Chailly, Royal Concertgebouw Orchestra & Asko Ensemble
 > 2 / 2
-> Classical | 1998 | London Classics
+> Classical | 1998 | Decca Classics
 > 14f7679097cd4f74bc8f9832945a3206 | 
 > 39111514, 39249761 | B000VHPYIK, B00000AFR8
 
