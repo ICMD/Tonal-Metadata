@@ -1,49 +1,45 @@
-> Varèse: Complete Works
-> Riccardo Chailly & Royal Concertgebouw Orchestra
+> Varèse: The Complete Works
+> Asko Ensemble, Riccardo Chailly, Royal Concertgebouw Orchestra & Various Artists
 > 1 / 2
-> Classical | 1998 | Decca
-> 7bdc253966c03aff9edb86e03dfe288c | 
->  | 
-
-> ヴァレーズ 管弦楽曲集 (シャイー)
-> シャイー/ロイヤル・コンセルトヘボウO
-> 13 / 16
-> Classical | 1998 | 
->  | 
->  | 
+> Classical | 1998 | London Classics
+> 14f7679097cd4f74bc8f9832945a3206 | 
+> 39111514, 39249761 | B000VHPYIK, B00000AFR8
 
 Edgard Varèse (1883 – 1965)
-01. ヴァレーズ チューニング・アップ (1947, 1998チョウ・ウェンチェン復元校訂版)
+01. Tuning up (1947)
 
-  Rec. 1998-05
+  Rec. 1998-05 in Concertgebouw: Grote Zaal, Amsterdam
 
-02. ヴァレーズ アメリカ (1918 – 1921, 1996自筆譜に基づくチョウ・ウェンチェン校訂オリジナル版)
-
-  Rec. 1996-12
-
-03. ヴァレーズ ポエム・エレクトロニク (1857-58)
-
-  Rec. Unknown
-
-04. ヴァレーズ アルカナ (1925 – 1927)
+02. Amériques: Original version. Ed. Professor Chou Wen – Chung
 
   Royal Concertgebouw Orchestra
   Riccardo Chailly, Conductor
-  Rec. 1992-04
+  Rec. 1996-12 in Concertgebouw: Grote Zaal, Amsterdam
 
-05. ヴァレーズ ノクターナル (1961 “チョウ・ウェンチェン補筆校訂版)”
+03. Poème Électronique (1957-1958)
 
-  サラ・レナード, Soprano
+  Edgard Varèse
+  Rec. Unknown
+
+04. Arcana (1925-1927)
+
+  Royal Concertgebouw Orchestra
+  Riccardo Chailly, Conductor
+  Rec. 1992-04 in Concertgebouw: Grote Zaal, Amsterdam
+
+05. Nocturnal: Original version
+
   Sarah Leonard, Soprano
   シャイー指揮
   ロイヤル・コンセルトヘボウ管弦楽団
   Royal Concertgebouw Orchestra
+  Prague Philharmonic Choir
   Riccardo Chailly, Conductor
-  Rec. 1996-12
+  Rec. 1996-12 in Concertgebouw: Grote Zaal, Amsterdam
 
-06. ヴァレーズ (アントニー・ボーモン編) 暗く深い眠り (1906)
+06. Un Grand Sommeil Noir: Orchestral version arr. Antony Beaumont
 
-  Mireille Delunsch
+  Mireille Delunsch, Soprano
   Royal Concertgebouw Orchestra
   Riccardo Chailly, Conductor
-  Rec. 1998-05
+  Rec. 1998-05 in Concertgebouw: Grote Zaal, Amsterdam
