@@ -1,9 +1,9 @@
 > Give It up to Love
 > Mighty Sam McClain
 > 1 / 1
-> Blues | 1992 | Sledgehammer Blues
-> 04bf4e3cf1234dc70c6656c7a6e90a93 | 
->  | 
+> Blues | 1993 | Sledgehammer Blues
+> dea4c500605e859ebb279c257c6e0271 | 
+> 75010261 | B0079YVMV6, B000N0LITY, B00008EOFM, B014I60RD6, B01K8NYZIQ, B009P25TRS
 
 01. Give It up to Love
 02. Too Proud
