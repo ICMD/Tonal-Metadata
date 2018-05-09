@@ -5,7 +5,7 @@
 > 5c87d44aca3faa3c9b6e453537eaba10 | 
 >  | B00MBFY364
 
-> Brothers & Sisters
+> Brothers & Sisters (Anniversary Edition)
 > SOIL&“PIMP”SESSIONS
 > 2 / 2
 > Jazz | 2014 | VICTOR ENTERTAINMENT
@@ -20,4 +20,4 @@
 06. Summer Goddess
 07. A: I. E
 
-  SOIL&"PIMP"SESSIONS
+  SOIL&“PIMP”SESSIONS
