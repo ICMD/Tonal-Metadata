@@ -1,21 +1,27 @@
-> Machine Gun: The Fillmore East First Show 12 / 31/1969
+> Machine Gun: Live at the Fillmore East 12 / 31/1969 (First Show)
 > Jimi Hendrix
 > 1 / 1
-> Rock | 2016 | Legacy
-> 9136939711d1edf5bdff061ad09ed648 | 
->  | 
+> Rock | 2016 | Experience Hendrix
+> 9cf7d1f6e18c90f0752d49efab6cf4d1 | 
+> 1141176400 | 
 
-Machine Gun
-01. Power of Soul
-02. Lover Man
-03. Hear My Train a Comin'
-04. Changes
-05. Izabella
-06. Machine Gun
-07. Stop
-08. Ezy Ryder
-09. Bleeding Heart
-10. Earth Blues
-11. Burning Desire
+Jimi Hendrix
+01. Power of Soul (Live at the Fillmore East)
+02. Lover Man (Live at the Fillmore East)
+03. Hear My Train a Comin’ (Live at the Fillmore East)
+04. Changes (Live at the Fillmore East)
+05. Izabella (Live at the Fillmore East)
+06. Machine Gun (Live at the Fillmore East)
+07. Stop (Live at the Fillmore East)
+08. Ezy Ryder (Live at the Fillmore East)
 
-  Jimi Hendrix
+Jimi Hendrix & Elmore James
+09. Bleeding Heart (Live at the Fillmore East)
+
+Jimi Hendrix
+10. Earth Blues (Live at the Fillmore East)
+11. Burning Desire (Live at the Fillmore East)
+
+  Buddy Miles, Drums & Background Vocals
+  Billy Cox, Bass Guitar & Background Vocals
+  Rec. Fillmore East, Manhattan, Live Recording
