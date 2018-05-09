@@ -1,10 +1,11 @@
 > Keep on Movin'
 > Mighty Sam McClain
 > 1 / 1
-> Blues | 1995 | Sledgehammer Blues
-> 22d6be78506323553d6e9a4f12fb59ae | 
->  | 
+> Blues | 1995 | JVC
+> 05d3bf8a87d9916497d29dcc6cc12382 | 
+> 181544589 | B0079YSIX6, B00004STNZ, B01KB4DFHE, B01K0CE0KI, B000003HKV, B00FZ1AWRK
 
+Mighty Sam McClain
 01. Can You Stand the Test of Love
 02. I’m so Lonely
 03. Lord Will Make a Way
