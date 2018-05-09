@@ -1,16 +1,17 @@
 > Trouble Monkey
 > Lloyd Jones
 > 1 / 1
-> Blues | 1995 | Sledgehammer Blues
-> 7c635ff72ae870b2a8ad213266e31e9e | 
->  | 
+> Blues | 1995 | AudioQuest Music
+> 5f23dddd1eeab92529547f067568dbea | 
+> 79058552 | B0079YVZ3Q, B000003HL1, B01G65RVJU
 
-01. Can’t Get You off My Mind
+Lloyd Jones
+01. Can’t Get You off of My Mind
 02. I Broke My Baby’s Heart
 03. Trouble Monkey
 04. Old Friends
-05. I’ll Be Laughing (When He Makes You Cry)
-06. (Just about To) Bust up a Love
+05. I’ll Be Laughing: When He Makes You Cry
+06. Just about To: Bust up a Love
 07. Don’t Call Me Today
 08. No More Crying
 09. Long, Long Way to Go
