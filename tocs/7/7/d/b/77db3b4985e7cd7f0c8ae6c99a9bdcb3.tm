@@ -1,9 +1,9 @@
-> Brothers & Sisters
+> Brothers & Sisters (Anniversary Edition)
 > SOIL&“PIMP”SESSIONS
-> 1 / 1
+> 1 / 2
 > Jazz | 2014 | VICTOR ENTERTAINMENT
-> a579b9c35dd8aa85c9ea60b9dae3f01b | 
->  | 
+> 5c87d44aca3faa3c9b6e453537eaba10 | 
+>  | B00MBFY364
 
 01. Love Immediately
 02. Apple Gravitate toward Core of Star
@@ -18,4 +18,4 @@
 11. Two Naked
 12. Spartacus Love Theme
 
-  SOIL&"PIMP"SESSIONS
+  SOIL&“PIMP”SESSIONS
