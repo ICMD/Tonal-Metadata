@@ -1,17 +1,18 @@
 > Randori
 > Nik Bärtsch’s Ronin
 > 1 / 1
-> Jazz | 2009 | Ronin Rhythm Records Zebralution
-> e591c0d5e4b3adeb33c09750adbbe1fe | 
->  | 
+> Jazz | 2006 | Ronin Rhythm Records
+> e463f81d66be78c7f2b9cde884070eb2 | 
+> 310014375 | B0023OZWA4, B004J80CZC
 
+Nik Bärtsch
 01. Modul 15
 
 Modul 8
 
   02. 9 I
-  03. 9 II
-  04. 9 III
+  03. 9 Ii
+  04. 9 Iii
 
 05. Modul 10
 06. Modul 13
