@@ -1,4 +1,4 @@
-> Machine Gun: Live at the Fillmore East 12 / 31/1969 (First Show)
+> Machine Gun: Live at the Fillmore East (First Show)
 > Jimi Hendrix
 > 1 / 1
 > Rock | 2016 | Experience Hendrix
@@ -24,4 +24,4 @@ Jimi Hendrix
 
   Buddy Miles, Drums & Background Vocals
   Billy Cox, Bass Guitar & Background Vocals
-  Rec. Fillmore East, Manhattan, Live Recording
+  Rec. 1969-12-31 in Fillmore East, Manhattan, Live Recording
