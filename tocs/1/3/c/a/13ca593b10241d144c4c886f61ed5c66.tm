@@ -1,9 +1,9 @@
 > Perhapsody Live 10.12.06
 > Club d'Elf
 > 2 / 2
-> Rock | 2017 | Face Pelt Records
-> f90e21604c663ad3e0ee08acf3e022c3 | 
->  | 
+> Rock | 2007 | Face Pelt Records
+> 1c66f48f9542652decd97b7d8e41f93a | 
+> 1194656437, 1194874808 | B01MZ9HE2K
 
 01. Cave Man
 02. That is My Voice
