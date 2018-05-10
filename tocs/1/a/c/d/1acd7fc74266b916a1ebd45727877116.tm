@@ -5,20 +5,6 @@
 > 702ae942d4fc5a8d59d2bd04746eb56a | 
 > 186149850 | B00136JM6S, B00YPY37I4, B00Z57EIQ0, B008DVJNL0, B00412VIEA, B014I64AP2, B000026GP4
 
-> Greetings from Asbury Park N.J.: The Wild, the Innocent and the E Street Shuffle / Darkness on the Edge of Town
-> Bruce Springsteen
-> 2 / 3 BOXSET
-> Rock | 1991 | Columbia
->  | 
->  | B000063WD9, B000026GP4
-
-> The Album Collection, Vol. 1 (1973-1984)
-> Bruce Springsteen
-> 2 / 8 BOXSET
-> Rock | 1973 | Columbia
-> ca3cf4fb6cc0339fc04eb423895e1b65 | 
-> 918626472 | B00NHXIYGE, B00NVHRB4W, B003QZ5222, B013H1M9CU, B0143GC0PY
-
 Bruce Springsteen
 01. The E Street Shuffle
 
