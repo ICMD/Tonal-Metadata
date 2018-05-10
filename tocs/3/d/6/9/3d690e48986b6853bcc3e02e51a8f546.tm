@@ -1,11 +1,14 @@
-> REA
+> Rea
 > Nik Bärtsch’s Ronin
 > 1 / 1
-> Jazz | 2006 | Ronin Rhythm Records Zebralution
-> aeced05e0a58cd2e7a60111ea2518547 | 
->  | 
+> Jazz | 2004 | Ronin Rhythm Records
+> 60c6bcf1e728e285a31b60a2e072aee9 | 
+> 310214309 | B0023P1IKQ, B004J80D38
 
+Nik Bärtsch, Sha Hankun (b. 1927), T. Hunziker & T. Tavano
 01. Modul 27
+
+Nik Bärtsch
 02. Modul 22
 03. Modul 18
 04. Modul 26
