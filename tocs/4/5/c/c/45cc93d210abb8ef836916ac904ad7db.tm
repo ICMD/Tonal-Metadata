@@ -1,16 +1,17 @@
 > You’re Driving Me Crazy
 > Van Morrison & Joey DeFrancesco
 > 1 / 1
-> Jazz | 2018 | Legacy
-> 942301c5dbd533585f921cd05eab76d9 | 
->  | 
+> Jazz | 2018 | Sony Legacy
+> 75a0c4467261c8bf4cebdc15bc3fb605 | 
+>  | B07B3RFJ99, B07B64Z7Q4, B07CNM67YL
 
+Van Morrison (b. 1945) & Joey DeFrancesco (b. 1971)
 01. Miss Otis Regrets
 02. Hold It Right There
 03. All Saints Day
 04. The Way Young Lovers Do
 05. The Things I Used to Do
-06. Travelin’ Light
+06. Travellin’ Light
 07. Close Enough for Jazz
 08. Goldfish Bowl
 09. Evening Shadows
