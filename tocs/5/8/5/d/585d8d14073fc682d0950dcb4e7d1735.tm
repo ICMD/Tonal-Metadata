@@ -1,13 +1,14 @@
-> Ronin Live
-> Nik Bärtsch
-> 1 / 1
+> Live
+> Nik Bärtsch’s Ronin
+> 2 / 2
 > Jazz | 2012 | ECM
-> 374d2d3ec534b62e41fc195bbaeaf2b3 | 
->  | 
+> 4691629941f0c739610988e9ddf963e9 | 
+> 553989037, 562524075 | B009BKT786, B008U0FJ0S, B013H2GCZY
 
-01. Modul 45
-02. Modul 48
-03. Modul 47
-04. Modul 55
+Nik Bärtsch
+01. Modul 45 (Mannheim)
+02. Modul 48 (Gateshead)
+03. Modul 47 (Mannheim)
+04. Modul 55 (Salzau)
 
   Nik Bärtsch
