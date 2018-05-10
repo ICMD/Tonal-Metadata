@@ -1,13 +1,14 @@
 > Antiguo
 > Gonzalo Rubalcaba
 > 1 / 1
-> Jazz | 1997 | EMI Japan
-> bb7963b1b9e1f5258f9c76333958f66d | 
->  | 
+> Jazz | 1997 | EMI Music
+> 396dcca54bf2463c5e23b2b4df26be84 | 
+> 724858813 | B00000DMP6
 
+Gonzalo Rubalcaba (b. 1963)
 01. Opening
 02. Circuito III
-03. ELLIOKO (Yoruba Word for “Two”)
+03. Ellioko (Yoruba Word for “Two”)
 04. Desierto
 05. Intermitencia
 06. Coral Negro
@@ -18,3 +19,4 @@
 11. Closing
 
   Gonzalo Rubalcaba
+  Cuban Quartet
