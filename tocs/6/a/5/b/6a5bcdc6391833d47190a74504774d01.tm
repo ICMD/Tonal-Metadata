@@ -1,11 +1,14 @@
 > Eternal
-> Branford Marsalis Quartet
+> The Branford Marsalis Quartet
 > 1 / 1
-> Jazz | 2004 | Marsalis Music
-> e3c92ab67f68102204977d0e569c997f | 
->  | 
+> Jazz | 2010 | Marsalis Music
+> 75f2d3cde7629acdebaec619ea9e5e9c | 
+> 373446816, 919416616 | B003N1GS68, B00NMR24N4, B0002NRREW, B01KAV81CW, B019GQV5G6
 
+Jay Livingston
 01. The Ruby and the Pearl
+
+COMPOSER NON-APPLICABLE
 02. Reika’s Loss
 03. Gloomy Sunday
 04. The Lonely Swan
