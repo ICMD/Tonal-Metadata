@@ -1,10 +1,11 @@
 > Jazz Batá
 > Chucho Valdés Trio
 > 1 / 1
-> Jazz | 2011 | Malanga Music
+> Jazz | 2007 | Malanga Music
 > 26dd3a084a7cae4eaf34dc0922f70e83 | 
->  | 
+>  | B01AXLE9GG, B000M7FOL6, B013Q70FD0
 
+Chucho Valdés (b. 1941)
 01. Irakere
 02. Son No. 2
 03. Neurosis
