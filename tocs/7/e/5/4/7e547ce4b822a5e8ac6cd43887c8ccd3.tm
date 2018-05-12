@@ -1,24 +1,27 @@
 > Silk Road Journeys: When Strangers Meet
-> Yo-Yo Ma & The Silk Road Ensemble
+> Yo-Yo Ma; Silk Road Ensemble
 > 1 / 1
-> Classical | 2001 | Sony
-> 4d38cf4e91854ec753dcd752e1a96105 | 
->  | 
+> Classical | 2001 | Sony Classical
+> 1201c1463004268a18ee13896c9a741e | 
+>  | B009FOCK3W, B0000641CG, B01K0BKT0E
 
 > Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma & The Silk Road Ensemble
-> 76 / 90
-> Classical | 2001 | 
-> 42403f12ff65582c21b8391296cd536a | 
->  | 
+> 76 / 90 BOXSET
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
-01. Mongolian Traditional Longsong
+Traditional
+01. Mongolian Traditional Long Song
 
-  Ganbaatar Khongorzul
+  Yo-Yo Ma, Cello
+  Silk Road Ensemble
 
-Shane Shanahan
+Byambasürengiin Sharav (b. 1952)
 02. Legend of Herlen
 
+  Yo-Yo Ma, Cello
   Ganbaatar Khongorzul
   John Rutherford
   James Pugh
@@ -28,12 +31,12 @@ Shane Shanahan
   Shane Shanahan
   Joel Fan
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
-German Anonymous
-03. Blue Little Flower (藍花花)
-04. Mido Mountain (彌度山歌)
+Traditional
+03. Blue Little Flower
+04. Mido Mountain
 
+  Yo-Yo Ma, Cello
   We Man
   Wu Tong
   Xu Ke
@@ -44,43 +47,45 @@ German Anonymous
   Joel Fan
   Sandeep Das
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
 Zhao Jiping (b. 1945)
-05. Moon over Guan Mountain (赵季平: 月亮 照耀关山上)
+05. Moon over Guan Mountains
 
+  Yo-Yo Ma, Cello
   Yang Wei
   Wu Tong
   Shane Shanahan
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
-Mamiya (間宮)
-5 Finnish Folksongs
+Michio Mamiya (b. 1929)
+5 Finnish Folksongs for Cello & Piano
 
-  06.  III. Miero Vuotti Uutta Kuuta)
+  06.  III. Miero Vuotti Uutta Kuuta
   07.    V. Joiku
 
+  Yo-Yo Ma, Cello
   Joel Fan
-  Yo-Yo Ma, Conductor
+  Silk Road Ensemble
 
-German Anonymous
-08. Avaz – E Dashti (آواز دشتی)
+Traditional
+08. Avaz – E Dashti
 
+  Yo-Yo Ma, Cello
   Siamak Jahangiry
   Siamak Aghaei
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
-ƏLizadə
-09. Habil – Sayağı (In Habil’s Style)
+Franghiz Ali-Zadeh (b. 1947)
+09. Habil – Sajahy for Cello & Prepared Piano
 
+  Yo-Yo Ma, Cello
   Joel Fan
-  Yo-Yo Ma, Conductor
+  Silk Road Ensemble
 
 Kayhan Kalhor (b. 1963)
 10. Blue as the Turquoise Night of Neyshabur (Edited Version)
 
+  Yo-Yo Ma, Cello
   Kayhan Kalhor
   Siamak Jahangiry
   Siamak Aghaei
@@ -92,11 +97,11 @@ Kayhan Kalhor (b. 1963)
   Leo Suzuki
   Edward Arron
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
 Filippo Azzaiolo (? – fl. 1569)
-11. Chi Passa Per'sta Strada
+11. Chi Passa per 'Sta Strada for Voices, Lutes & Violin
 
+  Yo-Yo Ma, Cello
   Yang Wei
   Wu Tong
   Xu Ke
@@ -109,11 +114,11 @@ Filippo Azzaiolo (? – fl. 1569)
   Todd Reynolds
   Wu Man
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
 
 Tan Dun (b. 1957)
-12. Desert Capriccio
+12. Crouching Tiger, Hidden Dragon, Film Score: Desert Capriccio
 
+  Yo-Yo Ma, Cello
   Yang Wei
   Wu Tong
   Xu Ke
@@ -121,4 +126,3 @@ Tan Dun (b. 1957)
   Shane Shanahan
   Joel Fan
   Silk Road Ensemble
-  Yo-Yo Ma, Conductor
