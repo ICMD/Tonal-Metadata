@@ -1,26 +1,19 @@
-> The Bonus Tracks
-> Yo-Yo Ma
-> 2 / 2
-> Classical | 2009 | 
->  | 
->  | 
-
 > Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma
 > 90 / 90
-> Classical | 2009 | 
->  | 
->  | 
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
-Piazzola
-01. Fear Tango (Arr. Jorge Calandrelli)
+Ástor Piazzolla (1921 – 1992)
+01. Five Tango Sensations for Bandoneón & String Quartet (Abridgement and Arrangement of Sette Sequenze): Fear Tango
 
   Yo-Yo Ma, Cello
   Leonardo Marco
   Hector Console
   Néstor Marconi
 
-02. Soledad
+02. Soledad, Tango
 
   Yo-Yo Ma, Cello
   Octavio Brunetti
@@ -33,54 +26,54 @@ John Williams (b. 1941)
   John Williams, Conductor
 
 Traditional
-04. Traditional (Arr. Edgar Meyer): Simple Gifts
+04. Simple Gifts
 
   Yo-Yo Ma, Cello
   Alison Krauss
   Natalie MacMaster
 
 Felix Mendelssohn (1809 – 1847)
-05. Song without Words, Op. 109
+05. Song without Words for Cello & Piano in D major, Op. 109
 
   Yo-Yo Ma, Cello
   Emanuel Ax
 
 John Williams (b. 1941)
-06. Going to School (iTunes Session)
+06. Memoirs of a Geisha, Film Score: Going to School
 
   Yo-Yo Ma, Cello
   John Williams, Conductor
 
-Yo-Yo Ma (b. 1955)
-07. No. 4 Mikin Pekko from Five Finnish Folksongs
+Michio Mamiya (b. 1929)
+07. 5 Finnish Folksongs for Cello & Piano: No. 4: Mikin Pekko
 
   Yo-Yo Ma, Cello
   Joel Fan
 
 Traditional
-08. Yanzi (Swallow Song)
+08. Yanzi (Swallow Song) (Kazakh)
 
-Ahmet Adnan Saygun (1907 – 1991)
-09. Partita, Op. 31: IV. Allegretto
+Ahmed Adnan Saygun
+09. Partita for Solo Cello, Op. 31: IV. Allegretto
 
   Yo-Yo Ma, Cello
 
-Los Angeles Recording Arts Orchestra
-10. I Could Have Danced All Night (Extended Version)
+Frederick Loewe (1901 – 1988)
+10. I Could Have Danced All Night, Song (From “My Fair Lady”)
 
   Yo-Yo Ma, Cello
   Steven Prutsman, Piano
 
 John Williams (b. 1941)
-11. Air and Simple Gifts
+11. Air and Simple Gifts for Cello, Clarinet, Piano & Violin
 
   Yo-Yo Ma, Cello
-  Itzhak Perlman
-  Gabriela Montero
   Anthony McGill
+  Gabriela Montero
+  Itzhak Perlman
 
-Muḥammad ‘Abd al-Wahhāb (1910 – 1991)
-12. Night at the Caravanserai (Arr. Shane Shanahan): 'Abd Al
+Traditional
+12. Night at the Caravanserai (Arr. Shane Shanahan): 'Abd Al – Wahhäb
 
   Yo-Yo Ma, Cello
   The Silk Road Ensemble
