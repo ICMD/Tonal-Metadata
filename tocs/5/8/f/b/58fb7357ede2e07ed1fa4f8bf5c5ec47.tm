@@ -1,41 +1,47 @@
-> Rachmaninov
+> Rachmaninoff: Rachmaninov
 > Yuja Wang; Claudio Abbado & Mahler Chamber Orchestra
 > 1 / 1
 > Classical | 2011 | Deutsche Grammophon
-> 1a42cbbd33c92282364987004fe36fcd | 
->  | 
+> 341d69949ffb49ae927ef1d81b7c6c04 | 
+> 418153008, 422867638 | B004P7WS5Y, B004KD5TPY
 
 Sergei Rachmaninoff (1873 – 1943)
-01. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Introduction. Allegro Vivace
-02. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation I (Precedente)
-03. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Tema. L’istesso Tempo
-04. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation II. L’istesso Tempo
-05. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation III. L’istesso Tempo
-06. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation IV. Piu Vivo
-07. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation v. Tempo Precedente
-08. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation VI. L’istesso Tempo
-09. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation VII. Meno Mosso, a Tempo Moderato
-10. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation VIII. Tempo I
-11. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation IX. L’istesso Tempo
-12. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation 10
-13. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XI. Moderato
-14. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XII. Tempo di Minuetto
-15. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XIII. Allegro
-16. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XIV. L’istesso Tempo
-17. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XV. Piu Vivo. Scherzando
-18. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XVI. Allegretto
-19. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation 17
-20. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XVIII. Andante Cantabile – a Tempo Vivace
-21. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XIX. L’istesso Tempo
-22. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XX. Un Poco Piu Vivo
-23. パガニーニの主題による狂詩曲 作品43 Variation XXI. Un Poco Piu Vivo
-24. パガニーニの主題による狂詩曲 作品43 Variation XXII. Un Poco Piu Vivo (Alla Breve)
-25. ラフマニノフ パガニーニの主題による狂詩曲 作品43 Variation XXIII. L’istesso Tempo
-26. パガニーニの主題による狂詩曲 作品43 Variation XXIV. a Tempo Un Poco Meno Mosso
-27. ラフマニノフ ピアノ協奏曲 第2番 ハ短調 作品18 第1楽章 Moderato – Piu Vivo – Allegro – Maestoso (Alla Marcia) – Moderato
-28. ラフマニノフ ピアノ協奏曲 第2番 ハ短調 作品18 第2楽章 Adagio Sostenuto
-29. ラフマニノフ ピアノ協奏曲 第2番 ハ短調 作品18 第3楽章 Allegro Scherzando – Moderato – Allegro Scherzando – Presto – Moderato – Allegro
+Rhapsody on a Theme of Paganini, Op. 43
 
-  Yuja Wang
+  01. Introduction. Allegro vivace
+  02. Variation 1
+  03. Theme
+  04. Variation 2
+  05. Variation 3
+  06. Variation 4
+  07. Variation 5
+  08. Variation 6
+  09. Variation 7 Meno Mosso A
+  10. Variation 8 Tempo I
+  11. Variation 9 L’istesso Te
+  12. Variation 10
+  13. Variation 11 Moderato
+  14. Variation 12 Tempo di Mi
+  15. Variation 13 Allegro
+  16. Variation 14 L’istesso T
+  17. Variation 15 Più Vivo Scene
+  18. Variation 16 Allegretto
+  19. Variation 17
+  20. Variation 18 Andante Can
+  21. Variation 19
+  22. Variation 20 Un Poco Più
+  23. Variation 21
+  24. Variation 22 Un Poco Più
+  25. Variation 23 L’istesso T
+  26. Variation 24 a Tempo Un
+
+Piano Concerto No. 2 in C minor, Op. 18
+
+  27.    I. Moderato, Allegro
+  28.   II. Adagio sostenuto
+  29.  III. Allegro scherzando
+
+  Yuja Wang, Piano
   Mahler Chamber Orchestra
   Claudio Abbado, Conductor
+  Rec. 2010-04 in Teatro Comunale di Ferrara, Ferrara, Live Recording
