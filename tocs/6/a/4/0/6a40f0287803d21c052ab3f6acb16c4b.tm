@@ -1,9 +1,16 @@
 > Yo Ma Plays Ennio Morricone
-> Yo-Yo Ma
+> Ennio Morricone, Roma Sinfonietta & Yo-Yo Ma
 > 1 / 1
-> Classical | 2004 | Sony Classical
-> bca95c60e429c529a51a8b320ea454ee | 
->  | 
+> Classical | 2003 | Sony Classical
+> e66d5960e417bbb2d5b573cd3fe35cf1 | 
+> 159066112, 380233277, 381519100 | B003V99B16, B0002YCVXI, B00Y3ZL9WQ
+
+> Yo Ma: The Classic Albums Collection
+> Yo-Yo Ma
+> 4 / 11 BOXSET
+> Classical | 1980 | Masterworks
+> 6cbcb3e28df20bd86329da82a3fff42b | 
+> 1036901529 | 
 
 Ennio Morricone (b. 1928)
 The Mission
@@ -11,39 +18,53 @@ The Mission
   01. Gabriel’s Oboe
   02. The Falls
 
-03. The Legend of 1900: Playing Love
+Giuseppe Tornatore Suite
 
-Cinema Paradiso
+  03. Playing Love from “The Legend of 1900”
+  04. Nostalgia from “Cinema Paradiso”
 
-  04. Nostalgia
-  05. Looking for You
+Ennio Morricone (b. 1928) & Andrea Morricone (b. 1964)
+Giuseppe Tornatore Suite
 
-06. Malena: Main Theme
-07. A Pure Formality: Ricordare (Main Theme)
+  05. Looking for You (Love Theme) from “Cinema Paradiso”
 
-Once upon a Time in America
+Ennio Morricone (b. 1928)
+Giuseppe Tornatore Suite
 
-  08. Deborah’s Theme
-  09. Cockeye’s Song
-  10. Main Theme
+  06. Main Theme from “Malena”
 
-11. Once upon a Time in the West: Main Theme
-12. The Good, the Bad, & The Ugly: Ecstasy of Gold
-13. Casualties of War: Main Theme
-14. The Untouchables: Death Theme
+Ennio Morricone (b. 1928), G. TORNATORE & P. QUIGNARD
+Giuseppe Tornatore Suite
 
-Moses
+  07. Main Theme from “A Pure Formality” (Remembering (Ricordare))
 
-  15. Journey
-  16. Main Theme
+Ennio Morricone (b. 1928)
+Sergio Leone Suite
 
-17. Marco Polo: Main Theme
+  08. Deborah’s Theme from “Once Upon a Time in America”
+  09. Cockeye’s Song from “Once Upon a Time in America”
+  10. Main Theme from “Once Upon a Time in America”
+  11. Main Theme from “Once Upon a Time in the West”
+  12. Ecstasy of Gold from “The Good, the Bad, and the Ugly”
+
+Brian DePalma Suite
+
+  13. Main Theme from “Casualities of War”
+  14. Death Theme from “The Untouchables”
+
+Moses and Marco Polo Suite
+
+  15. Journey from “Moses”
+  16. Theme from “Moses”
+  17. Main Theme from “Marco Polo”
 
 The Lady Caliph
 
   18. Dinner
   19. Nocturne
 
-  Yo-Yo Ma
-  Rome Sinfonietta
+  Yo-Yo Ma, Cello
+  Gilda Buttà, Piano
+  Roma Sinfonietta
   Ennio Morricone, Conductor
+  Rec. 2003-06-16 – 2003-06-23 in Forum Music Village, Rome
