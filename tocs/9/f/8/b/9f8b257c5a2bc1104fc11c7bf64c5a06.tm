@@ -5,34 +5,6 @@
 > 4e3ed8fabf67d5878e806b60aece03bd | 
 > 1075566378, 1077069977 | B006T6HH0U, B00000AEVA, B014I7FFWS, B00PUTVMNK
 
-> Capitol Records Concept Albums
-> Frank Sinatra
-> 3 / 14 BOXSET
-> UNKNOWN GENRE | 2004 | Capitol Records
-> e40c08c94a3dcb4fde2145707771e48e | 
->  | B000BWI70W
-
-> Concepts
-> Frank Sinatra
-> 3 / 16 BOXSET
-> Vocal Pop | 1992 | Capitol Records
-> 187611354d274891a6031047d53d3e0a | 
-> 750237468 | B000UNAOZ8, B00004Y9ZN, B000002V2G
-
-> The Capitol Years
-> Frank Sinatra
-> 5 / 21 BOXSET
-> UNKNOWN GENRE | 1998 | Capitol Records
-> 63351ea4b0b4c73fb55498dcd690ed6d | 
->  | B00000FDCY
-
-> The Voice: Over Twenty Years in Music 1939-1960
-> Frank Sinatra & Various Artists
-> 23 / 46 BOXSET
-> UNKNOWN GENRE | 2012 | Documents
-> 63351ea4b0b4c73fb55498dcd690ed6d | 
->  | B006ZUKBVC
-
 Mack Gordon, Josef Myrow & Frank Sinatra
 01. You Make Me Feel so Young
 
