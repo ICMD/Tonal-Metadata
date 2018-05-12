@@ -1,4 +1,4 @@
-> Rachmaninoff: Rachmaninov
+> Rachmaninoff: Rhapsody on a Theme of Paganini, Piano Concerto No. 2
 > Yuja Wang; Claudio Abbado & Mahler Chamber Orchestra
 > 1 / 1
 > Classical | 2011 | Deutsche Grammophon
