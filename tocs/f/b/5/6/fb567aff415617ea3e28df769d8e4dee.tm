@@ -2,7 +2,7 @@
 > Arctic Monkeys
 > 1 / 1
 > Indie Rock | 2018 | Domino
-> 103a54a4a5c7924f8adad3fc9fae15b1 | 
+> 3b63b64c5081024a741ef5745ab82fdf | 
 >  | B07BYQF1GP, B07CDZ6F9H
 
 Arctic Monkeys
