@@ -7,10 +7,10 @@
 
 > Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma & The Silk Road Ensemble
-> 87 / 90
-> Classical | 2001 | 
-> 42403f12ff65582c21b8391296cd536a | 
->  | 
+> 87 / 90 BOXSET
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
 Rabih Abou-Khalil (b. 1957) & Yo-Yo Ma (b. 1955)
 01. Arabian Waltz for Oud, String Quartet, Tuba & Frame Dtrum
