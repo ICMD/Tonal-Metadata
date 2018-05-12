@@ -2,33 +2,43 @@
 > Arcadi Volodos
 > 1 / 1
 > Classical | 2013 | Sony Classical
-> d5dd1f84eddde8c8528c844337db3d51 | 
->  | 
+> 3e42ba3c7a1c9e7e7061fe6f700381f3 | 
+> 641038436 | B01N9CZZF6, B00BAC76MM, B017M3J4J0, B06Y6L6JYN, B014I6VMBC
 
 Frederic Mompou (1893 – 1987)
-01. 前奏曲 第7番 (星でできたシュロの葉 – 花火) Prélude No. 7 “Palmier D'étoiles”: Deciso
-02. 夢の戦い 第1曲 君の上には、ただ花ばかり Damunt de Tu Només Les Flors: Combat Del Somni (Transcribed for Piano by Volodos)
-03. 子供の情景 第1曲 街路での叫び Cris Dans la Rue: Sceneènes D'enfants
-04. 子供の情景 第2曲 浜辺の遊び Jeux Sur la Plage
-05. 子供の情景 第3曲 遊び 2 Jeu 2
-06. 子供の情景 第4曲 遊び 3 Jeu 3
-07. 子供の情景 第5曲 庭のおとめたち Jeunes Filles Au Jardin
-08. ベッケル歌曲集 第1曲 今日、大地と太陽が私に微笑む Hoy la Tierra Y Los Cielos Me Sonrien: Becquerianas (Transcribed for Piano by Volodos)
-09. 風景 第2曲 El Lago (Le Lac): Paisajes
-10. 魔法 (魅惑) 第6曲 喜びを見いだすために Pour Appeler la Joie: Charmes
-11. 前奏曲 第12番 Prélude No. 12: Cantabile
-12. 対話 (ダイアローグ) 第2番 Dialogues 2
-13. 対話 (ダイアローグ) 第1番 Dialogues 1
-14. ひそやかな音楽 第1巻 第1番 天使のように Angelico: Musica Callada, 28 Pieces for Piano in 4 Books: Primer Cuaderno
-15. ひそやかな音楽 第1巻 第2番 レント Lent
-16. ひそやかな音楽 第4巻 第27番 レント・モルト Lento Molto: Musica Callada, 28 Pieces for Piano in 4 Books: Cuarto Cuaderno
-17. ひそやかな音楽 第4巻 第24番 モデラート Moderato
-18. ひそやかな音楽 第4巻 第25番 Quarter Note = 100
-19. ひそやかな音楽 第2巻 第11番 アレグレット Allegretto: Musica Callada, 28 Pieces for Piano in 4 Books: Segundo Cuaderno
-20. ひそやかな音楽 第2巻 第15番 レント – プレンティフ Lento: Plaintif
-21. ひそやかな音楽 第4巻 第22番 モルト・レント・エ・トランクィーロ Molto Lento E Tranquilo
-22. ひそやかな音楽 第2巻 第16番 穏やかにCalme
-23. ひそやかな音楽 第1巻 第6番 レント Lento
-24. ひそやかな音楽 第3巻 第21番 Lento: Musica Callada, 28 Pieces for Piano in 4 Books: Tercer Cuaderno
+01. Prélude VII (Palmier D'étoiles)
+02. Damunt de Tu Només Les Flors
+
+Sceneènes D'enfants
+
+  03.    I. Cris dans la rue
+  04.   II. Jeux sur la plage
+  05.  III. Jeu 2
+  06.   IV. Jeu 3
+  07.    V. Jeunes filles au jardin
+
+Frederic Mompou (1893 – 1987) & Arcadi Volodos (b. 1972)
+08. Hoy la Tierra Y Los Cielos Me Sonríen
+
+Frederic Mompou (1893 – 1987)
+09. Paisajes: II. El Lago
+10. … Pour Appeler la Joie (Charme VI)
+11. Preludi XII
+12. Dialogues 2
+13. Dialogues 1
+
+Musica Callada
+
+  14.    I. Angelico
+  15.   II. Lent
+  16. XXVII. Lento molto
+  17. XXIV. Moderato
+  18.  XXV.
+  19.   XI. Allegretto
+  20.   XV. Lento – plaintif
+  21. XXII. Molto lento e tranquilo
+  22.  XVI. Calme
+  23.   VI. Lento
+  24.  XXI. Lento
 
   Arcadi Volodos, Piano
