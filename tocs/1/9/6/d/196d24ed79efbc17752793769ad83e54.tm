@@ -1,22 +1,24 @@
-> Broadchurch: Music from the Original TV Series
+> Broadchurch: Original Music Composed by Olafur Arnalds (Music from the Original TV Series)
 > Ólafur Arnalds
 > 1 / 1
-> New Age | 2015 | Universal Music Group
-> 30bf6b4ca949509343ef8d20f6590b60 | 
->  | 
+> New Age | 2015 | Mercury Classics
+> 1f6b4563235611b54f49c2d4017a7158 | 
+> 953070768, 956456606 | B00RZMMB8K, B00R3TMCNO
 
-Broadchurch
+Ólafur Arnalds
 01. Main Theme
 02. Danny
 03. The Journey
 
   Ólafur Arnalds
 
+Ólafur Arnalds, Arnor Dan & Chris Chibnall
 04. So Close
 
+  Arnór Dan, Vocal
   Ólafur Arnalds
-  Arnór Dan
 
+Ólafur Arnalds
 05. Suspects
 06. What Did They Ask You?
 07. She’s Your Mother
@@ -27,11 +29,13 @@ Broadchurch
 
   Ólafur Arnalds
 
+Ólafur Arnalds, Arnor Dan & Chris Chibnall
 12. So Far
 
+  Arnór Dan, Vocal
   Ólafur Arnalds
-  Arnór Dan
 
+Ólafur Arnalds
 13. Beth’s Theme
 
   Ólafur Arnalds
