@@ -22,7 +22,7 @@
 > Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma
 > 79 / 90 BOXSET
-> UNKNOWN GENRE | 2009 | Sony Classical
+> Classical | 2009 | Sony Classical
 > eca3e086ce282afc33ec1fed270f0fd8 | 
 >  | B002IC10Y8
 
