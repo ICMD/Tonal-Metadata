@@ -12,7 +12,7 @@
 > d3c046bdea069cb8e6670bf9a9cbf147 | 
 >  | B0080I9JJM, B00CJCHJ9C, B01K8OHBFO
 
-Frédéric Chopin (1810 – 1849) & Frédéric Chopin (1810 – 1849)
+Frédéric Chopin (1810 – 1849)
 Piano Concerto No. 2 in F minor, Op. 21
 
   01.    I. Maestoso
