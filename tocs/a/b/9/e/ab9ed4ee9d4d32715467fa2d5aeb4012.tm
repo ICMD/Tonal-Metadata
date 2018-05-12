@@ -1,18 +1,23 @@
-> Trance Frendz
+> Collaborative Works
 > Ólafur Arnalds & Nils Frahm
-> 1 / 1
-> New Age |  | 
->  | 
->  | 
+> 2 / 2
+> New Age | 2015 | Erased Tapes Records
+> d75511d473b2201ff17e746f650675b4 | 
+>  | B015GH0344
 
-01. Pokets of Light 1
-02. A Snowflake 2
-03. Odyssey 3
-04. Swim 4
-05. You 5
-06. A Winged Victory for the Sullen 6
-07. Burnt 7
-08. That I am 8
+Ólafur Arnalds & Nils Frahm
+01. 20: 17
+02. 21: 05
+
+23
+
+  03. 17
+  04. 52
+
+05. 00: 26
+06. 01: 41
+07. 03: 06
+08. [Untitled]
 
   Ólafur Arnalds
   Nils Frahm
