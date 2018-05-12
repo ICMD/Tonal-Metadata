@@ -1,19 +1,19 @@
-> Tavener: The Protecting Veil, Wake Up… & Die
-> Yo-Yo Ma; David Zinman & Baltimore Symphony Orchestra
+> Tavener: The Protecting Veil & Wake up … and Die
+> Yo-Yo Ma, Baltimore Symphony Orchestra; David Zinman
 > 1 / 1
-> Classical | 1998 | Sony
-> 202f89d15ac75d23430f9add570136a7 | 
->  | 
+> Classical | 1998 | BMG Direct Marketing, Inc.
+> 19d4311a153ececa5d4d6c2a01d6a7fc | 
+> 365455240, 930654935 | B00S220MHE, B000009MON, B01ABBD7MU
 
-> Tavener: The Protecting Veil, Wake Up… & Die; Outside the Box
+> Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma; David Zinman & Baltimore Symphony Orchestra
-> 66 / 90
-> Classical | 1998 | 
-> 202f89d15ac75d23430f9add570136a7 | 
->  | 
+> 66 / 90 BOXSET
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
 Sir John Tavener (b. 1944)
-The Protecting Veil
+The Protecting Veil (For Cello and String Orchestra)
 
   01.    I. The Protecting Veil
   02.   II. Annunciation
@@ -23,8 +23,8 @@ The Protecting Veil
   06.   VI. The Dormition of the Mother of God
   07.  VII. The Protecting Veil
 
-08. Wake up … and Die
+08. Wake up … and Die (For Solo Cello and Orchestral Cello Section)
 
-  Yo-Yo Ma
-  Baltimore Symphony Orchestra
+  Yo-Yo Ma, Cello
+  Baltimore Symphony Orchestra, Cello
   David Zinman, Conductor
