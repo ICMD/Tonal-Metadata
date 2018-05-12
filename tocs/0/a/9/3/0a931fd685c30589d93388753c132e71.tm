@@ -7,10 +7,10 @@
 
 > Yo Ma: The Classic Albums Collection
 > Yo-Yo Ma
-> 1 / 11
-> Classical | 2015 | Masterworks
-> ea3d29a0dbebb5ca8fd7a8afdce63e00 | 
->  | 
+> 1 / 11 BOXSET
+> Classical | 1980 | Masterworks
+> 6cbcb3e28df20bd86329da82a3fff42b | 
+> 1036901529 | 
 
 Stuart Duncan, Edgar Meyer (b. 1960), Chris Thile & Yo-Yo Ma (b. 1955)
 01. Attaboy
