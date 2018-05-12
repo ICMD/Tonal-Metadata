@@ -1,19 +1,12 @@
-> Ma 89: The Bonus Discs
-> Yo-Yo Ma; John Williams & Chicago Symphony Orchestra
-> 1 / 1
-> Classical | 2008 | 
->  | 
->  | 
-
-> Ma 89: The Bonus Discs
+> Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma; John Williams & Chicago Symphony Orchestra
 > 89 / 90
-> Classical | 2008 | 
->  | 
->  | 
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
 John Williams (b. 1941)
-Suite from Memoirs of a Geisha for Cello & Orchestra
+Memoirs of a Geisha, Film Score
 
   01.    I. Sayuri’s Theme
   02.   II. Going to School
