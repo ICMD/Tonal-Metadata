@@ -1,25 +1,25 @@
 > Corigliano: Phantasmagoria
-> Yo-Yo Ma, Emanuel Ax, James Tocco
+> Yo-Yo Ma, James Tocco & Emanuel Ax
 > 1 / 1
-> Classical | 2000 | SONY CLASSICAL
-> 4d928053e8ade97b4216f416eca19288 | 
->  | 
+> Classical | 2000 | Sony Classical
+> e305abe08412a770a3fc533b16513af2 | 
+> 404908271, 584966619 | B00AJMS9QQ, B00004Z3PT, B014I2TS58
 
-> Ma 73: Corigliano: Phantasmagoria
+> Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma, Emanuel Ax, James Tocco
-> 73 / 90
-> Classical | 1999 | 
-> 4d928053e8ade97b4216f416eca19288 | 
->  | 
+> 73 / 90 BOXSET
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
 John Corigliano (b. 1938)
-01. Fancy on a Bach Air
+01. Fancy on a Bach Air for Cello
 
-  Yo-Yo Ma
+  Yo-Yo Ma, Cello
 
-02. Fantasia on an Ostinato
+02. Fantasia on an Ostinato for Piano
 
-  Emanuel Ax
+  Emanuel Ax, Piano
 
 Etude Fantasy (Played without Pause)
 
@@ -29,9 +29,9 @@ Etude Fantasy (Played without Pause)
   06.   IV. Ornaments
   07.    V. Melody
 
-  James Tocco
+  James Tocco, Piano
 
-08. Phantasmagoria
+08. Phantasmagoria (On Themes from “The Ghosts of Versailles”) for Cello & Piano
 
-  Emanuel Ax
-  Yo-Yo Ma
+  Yo-Yo Ma, Cello
+  Emanuel Ax, Piano
