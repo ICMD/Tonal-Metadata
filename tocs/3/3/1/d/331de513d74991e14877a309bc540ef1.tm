@@ -1,6 +1,6 @@
 > The Astaire Story
 > Fred Astaire & Oscar Peterson
-> 2 / 8
+> 1 / 2
 > Easy Listening | 1953 | Verve
 > b40438b54eccfd1201fd588a6dd5d51d | 
 > 1296034453, 1296946429 | B076F8Q4XG, B000008A8N, B074JH5QJ2, B01KBI6BR6, B01KAUUGPI, B00IWUL7RA
