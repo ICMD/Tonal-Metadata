@@ -1,9 +1,9 @@
 > Live at Seiji Ozawa Hall, Tanglewood
 > Lang Lang
 > 1 / 1
-> Classical | 2001 | Telarc
+> Classical | 2001 | Telarc Records
 > debb90ab09260fd9c11db71ebacde003 | 
->  | 
+> 106128301 | B013TZMLRC
 
 Joseph Haydn (1732 – 1809)
 Sonata in E major
@@ -16,11 +16,11 @@ Sergei Rachmaninoff (1873 – 1943)
 Sonata No. 2 in B-flat minor
 
   04.    I. Allegro Agitato
-  05.   II. Non Allegro, Lento
+  05.   II. Non Allegro – Lento
   06.  III. Allegro Molto
 
 Johannes Brahms (1833 – 1897)
-6 Pieces, Op. 118
+Six Pieces, Op. 118
 
   07.    I. Intermezzo in A minor
   08.   II. Intermezzo in A major
@@ -30,8 +30,8 @@ Johannes Brahms (1833 – 1897)
   12.   VI. Intermezzo in E-flat minor
 
 Pyotr Il'yich Tchaikovsky (1840 – 1893)
-13. Dumka in C minor, Op. 59 “Russian Rustic Scene”
-14. Nocturne, Op. 19 No. 4
+13. Dumka (Russian Rustic Scene), Op. 59
+14. Nocturne in C-sharp minor, Op. 19 No. 4
 
 Mily Balakirev (1837 – 1910)
 15. Islamey (Oriental Fantasy)
