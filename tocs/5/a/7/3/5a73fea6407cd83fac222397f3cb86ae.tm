@@ -1,5 +1,5 @@
 > Yo Ma: 30 Years Outside the Box
-> Yo-Yo Ma; John Williams & Chicago Symphony Orchestra
+> Yo-Yo Ma
 > 89 / 90
 > Classical | 2009 | Sony Classical
 > eca3e086ce282afc33ec1fed270f0fd8 | 
