@@ -1,33 +1,33 @@
 > Brahms: The Violin Sonatas
-> Leonidas Kavakos, Yuja Wang
+> Leonidas Kavakos & Yuja Wang
 > 1 / 1
-> Classical | 2014 | Decca Music Group
-> a2bcfcba4f50980c9092c1a9980b576e | 
->  | 
+> Classical | 2014 | Decca Records
+> e342154db276c492ed43a232a3f469c0 | 
+> 829127639 | B00IAD18NM
 
 Johannes Brahms (1833 – 1897)
-01. Scherzo in C minor, WoO 2 “F – a – E Sonata”
+01. Scherzo in C minor for Violin & Piano (From the FAE – Sonata)
 
-Violin Sonata No. 1 in G major, Op. 78
+Sonata for Violin and Piano No. 1 in G major, Op. 78
 
-  02.    I. Vivace Ma Non Troppo
+  02.    I. Vivace ma non troppo
   03.   II. Adagio
-  04.  III. Allegro Molto Moderato
+  04.  III. Allegro molto moderato
 
-Violin Sonata No. 2 in A major, Op. 100
+Sonata for Violin and Piano No. 2 in A major, Op. 100
 
-  05.    I. Allegro Amabile
-  06.   II. Andante Tranquillo
-  07.  III. Allegretto Grazioso
+  05.    I. Allegro amabile
+  06.   II. Andante tranquillo – Vivace – Andante – Vivace di più – Andante vivace
+  07.  III. Allegretto grazioso (Quasi andante)
 
-Violin Sonata No. 3 in D minor, Op. 108
+Sonata for Violin and Piano No. 3 in D minor, Op. 108
 
   08.    I. Allegro
   09.   II. Adagio
-  10.  III. Un Poco Presto E con Sentimento
-  11.   IV. Presto Agitato
+  10.  III. Un poco presto e con sentimento
+  11.   IV. Presto agitato
 
-12. Lullaby, Op. 49 No. 4
+12. Wiegenlied (Lullaby), Op. 49 No. 4
 
   Leonidas Kavakos
   Yuja Wang
