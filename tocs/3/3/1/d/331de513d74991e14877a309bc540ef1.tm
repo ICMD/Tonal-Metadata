@@ -1,5 +1,5 @@
 > The Astaire Story
-> Fred Astaire & Oscar Peterson
+> Fred Astaire
 > 1 / 2
 > Easy Listening | 1953 | Verve
 > b40438b54eccfd1201fd588a6dd5d51d | 
