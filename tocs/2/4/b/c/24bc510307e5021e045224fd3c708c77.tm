@@ -1,34 +1,35 @@
-> Brahms: Piano Concerto No. 2, Cello Sonata, Op. 78
-> Yo-Yo Ma, Emanuel Ax
+> Brahms: Concerto No. 2 for Piano and Orchestra, Op. 83 & Sonata in D major, Op. 78
+> Bernard Haitink & Emanuel Ax
 > 1 / 1
-> Classical | 1999 | Sony
->  | 
->  | 
+> Classical | 1999 | Sony Classical
+> d78f6e3475a60b07c8fa41a995ecbdac | 
+> 400715779, 860765739, 1035067886 | B00000K2UW
 
-> Brahms: Piano Concerto No. 2, Cello Sonata; Outside the Box
+> Yo Ma: 30 Years Outside the Box
 > Yo-Yo Ma
-> 68 / 90
-> Classical | 1999 | 
->  | 
->  | 
+> 68 / 90 BOXSET
+> Classical | 2009 | Sony Classical
+> eca3e086ce282afc33ec1fed270f0fd8 | 
+>  | B002IC10Y8
 
 Johannes Brahms (1833 – 1897)
-Piano Concerto No. 2 in B-flat major, Op. 83
+Piano Concerto No. 2 in B-flat major for Piano and Orchestra, Op. 83
 
-  01.    I. Allegro Non Troppo
-  02.   II. Allegro Appassionato
-  03.  III. Andante
-  04.   IV. Allegretto Grazioso
+  01.    I. Allegro non troppo
+  02.   II. Allegro appassionato
 
-  Emanuel Ax
+03. Concerto No. 2 in B-flat major for Piano and Orchestra, Op. 83: III. Andante
+04. Piano Concerto No. 2 in B-flat major for Piano and Orchestra, Op. 83: IV. Allegretto grazioso
+
+  Emanuel Ax, Piano
   Boston Symphony Orchestra
   Bernhard Haitink, Conductor
 
-Cello Sonata in D major, Op. 78
+Sonata in D major for Cello and Piano, Op. 78
 
-  05.    I. Vivace Ma Non Troppo
-  06.   II. Adagio
-  07.  III. Allegro Molto Moderato
+  05.    I. Vivace ma non troppo (arr. from the Sonata in G major for Violin and Piano): I. Vivace Ma Non Troppo
+  06.   II. Adagio (arr. from the Sonata in G major for Violin and Piano): II. Adagio
+  07.  III. Allegro molto moderato (arr. from the Sonata in G major for Violin and Piano): III. Allegro Molto Moderato
 
-  Yo-Yo Ma
-  Emanuel Ax
+  Yo-Yo Ma, Cello
+  Emanuel Ax, Piano
