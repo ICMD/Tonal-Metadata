@@ -1,9 +1,9 @@
 > The Astaire Story
 > Fred Astaire
 > 2 / 2
-> Easy Listening | 1988 | Verve
-> 4ee8d7c294ab98f056fb3ea29fcd754c | 
->  | B074JH5QJ2, B014I5P4EY
+> Easy Listening | 1953 | Verve
+> b40438b54eccfd1201fd588a6dd5d51d | 
+> 1296034453, 1296946429 | B076F8Q4XG, B000008A8N, B074JH5QJ2, B01KBI6BR6, B01KAUUGPI, B00IWUL7RA
 
 Irving Berlin
 01. Top Hat, White Tie and Tails
