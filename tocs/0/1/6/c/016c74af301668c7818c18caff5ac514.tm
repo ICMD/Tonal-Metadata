@@ -1,6 +1,6 @@
-> The Duke Ellington Centennial Edition: The Complete RCA Victor Recordings (1927-1973)
+> Far East Suite
 > Duke Ellington
-> 21 / 24
+> 1 / 1
 > Jazz | 1999 | RCA
 > 23f93495827e01f7cf21441c7a64a2b6 | 
 >  | 
