@@ -6,14 +6,14 @@
 > 337398918 | B00004S3F3
 
 Art Tatum (1909 – 1956)
-01. Hallelujah! (C. 05 No. 45)
-02. Poor Butterfly (C. 05 No. 45)
-03. Song of the Vagabonds (C. 05 No. 45)
-04. Lover (C. 05 No. 45)
-05. Memories of You (C. 05 No. 45)
-06. Runnin’ Wild! (C. 05 No. 45)
-07. Yesterdays (C. 05 No. 45)
-08. Kerry Dance (C. 05 No. 45)
+01. Hallelujah! (C. 05/1945)
+02. Poor Butterfly (C. 05/1945)
+03. Song of the Vagabonds (C. 05/1945)
+04. Lover (C. 05/1945)
+05. Memories of You (C. 05/1945)
+06. Runnin’ Wild! (C. 05/1945)
+07. Yesterdays (C. 05/1945)
+08. Kerry Dance (C. 05/1945)
 09. Begin the Beguine (C. 1945)
 10. Gershwin Medley (October 26, 1945): The Man I Love / Summertime/I've Got Plenty of Nuttin'
 11. She’s Funny That Way (October 26, 1945)
