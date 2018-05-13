@@ -1,9 +1,9 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 2 / 7
-> Jazz | 2013 | 
-> ed8dcbe510fc5dc6cc737df4ec00dd68 | 
+> Jazz | 2013 | Mosaic Records
 >  | 
+>  | B00D7TCQOE
 
 Joe Bonner (b. 1948)
 01. Love Dance
