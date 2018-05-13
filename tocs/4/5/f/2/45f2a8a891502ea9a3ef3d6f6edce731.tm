@@ -1,7 +1,7 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 7 / 7
-> Jazz | 1986 | 
+> Jazz | 1965 | 
 >  | 
 >  | 
 
