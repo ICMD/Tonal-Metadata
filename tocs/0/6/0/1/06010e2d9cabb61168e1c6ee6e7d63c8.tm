@@ -1,9 +1,9 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 3 / 7
-> Jazz | 2013 | Mosaic Records
+> Jazz | 1983 | 
 >  | 
->  | B00D7TCQOE
+>  | 
 
 Joe Chambers (b. 1942)
 01. Hello to the Wind
