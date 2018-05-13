@@ -1,9 +1,9 @@
-> The Complete Muse Sessions
+> The Complete Muse Sessions Discs IV
 > Woody Shaw
 > 4 / 7
-> Jazz | 2013 | Mosaic Records
+> Jazz | 1965 | 
 >  | 
->  | B00D7TCQOE
+>  | 
 
 01. Cassandranite
 02. Obsequious
