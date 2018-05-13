@@ -1,4 +1,4 @@
-> The Complete Muse Sessions Discs IV
+> The Complete Muse Sessions
 > Woody Shaw
 > 4 / 7
 > Jazz | 1965 | 
