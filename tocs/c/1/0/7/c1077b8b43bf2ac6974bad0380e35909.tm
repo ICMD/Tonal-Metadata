@@ -1,7 +1,7 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 2 / 7
-> Jazz | 1983 | 
+> Jazz | 1976 | 
 >  | 
 >  | 
 
