@@ -1,4 +1,4 @@
-> The Complete Muse Sessions Discs VI
+> The Complete Muse Sessions
 > Woody Shaw
 > 6 / 7
 > Jazz | 1983 | 
