@@ -1,10 +1,11 @@
-> Dazzling Blue
+> Dazzling Blue: The Music of Paul Simon
 > Alexis Cole
 > 1 / 1
-> Easy Listening | 2016 | Kontor New Media
-> e5ee8c6c111367f0d3e1ed4140285d4d | 
->  | 
+> Easy Listening | 2016 | Chesky Records
+> 7f7f808c757c3bd0a236499830c8a43d | 
+> 1074423162 | B01B56FIJA, B01K8N3AXW, B01KASBJHO
 
+Dazzling Blue
 01. St. Judy’s Comet
 02. Jonah
 03. Dazzling Blue
