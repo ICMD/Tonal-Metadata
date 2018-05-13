@@ -1,16 +1,27 @@
-> The Complete Muse Sessions Discs I
+> The Complete Muse Sessions
 > Woody Shaw
 > 1 / 7
-> Jazz | 1974 | 
+> Jazz | 2013 | Mosaic Records
 >  | 
->  | 
+>  | B00D7TCQOE
 
+Woody Shaw (1944 – 1989)
 01. The Moontrane
+
+Onaje Allan Gumbs
 02. Are They Only Dreams
+
+Azar Lawrence (b. 1953)
 03. Tapscott’s Blues
-04. Sanyas
+
+Woody Shaw (1944 – 1989)
+04. Sanyas Steve Turre
 05. Katrina Ballerina
-06. Tapscott’s Blues (Alt Tk)
-07. Katrina Ballerina (Alt Tk)
+
+Azar Lawrence (b. 1953)
+06. Tapscott’s Blues (Alt Take)
+
+Woody Shaw (1944 – 1989)
+07. Katrina Ballerina (Alt Take)
 
   Woody Shaw
