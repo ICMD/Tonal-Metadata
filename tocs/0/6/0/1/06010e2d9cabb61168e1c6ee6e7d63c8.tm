@@ -1,14 +1,23 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 3 / 7
-> Jazz | 2013 | 
-> ed8dcbe510fc5dc6cc737df4ec00dd68 | 
+> Jazz | 2013 | Mosaic Records
 >  | 
+>  | B00D7TCQOE
 
+Joe Chambers (b. 1942)
 01. Hello to the Wind
+
+Larry Young (1940 – 1978)
 02. Obsequious
+
+Steve Turre (b. 1948)
 03. Sanyas
+
+Ronnie Mathews (1935 – 2008)
 04. Jean Marie
+
+Rene McLean (b. 1946)
 05. Bilad as Sudan (Land of the Blacks)
 
   Woody Shaw
