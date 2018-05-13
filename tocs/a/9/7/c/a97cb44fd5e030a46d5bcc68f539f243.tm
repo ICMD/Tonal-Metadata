@@ -1,4 +1,4 @@
-> Complete Jazz Series 1945: 1947
+> Complete Jazz Series 1945 – 1947
 > Art Tatum
 > 1 / 1
 > Jazz | 2009 | Classics Records
