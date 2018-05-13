@@ -1,9 +1,9 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 4 / 7
-> Jazz | 2013 | Mosaic Records
+> Jazz | 1983 | 
 >  | 
->  | B00D7TCQOE
+>  | 
 
 Woody Shaw (1944 – 1989)
 01. Cassandranite
