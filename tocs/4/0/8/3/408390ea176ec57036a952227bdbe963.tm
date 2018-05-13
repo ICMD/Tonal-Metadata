@@ -30,7 +30,7 @@ Gnossiennes
 
   10.    I. Lent
   11.   II. Avec Étonnement
-  12.  III.Lent
+  12.  III. Lent
   13.   IV. Lent
   14.    V. Modéré
   15.   VI. Avec Conviction et Avec Une Tristesse Rigoureuse
