@@ -1,4 +1,4 @@
-> The Complete Muse Sessions Discs III
+> The Complete Muse Sessions
 > Woody Shaw
 > 3 / 7
 > Jazz | 2013 | 
