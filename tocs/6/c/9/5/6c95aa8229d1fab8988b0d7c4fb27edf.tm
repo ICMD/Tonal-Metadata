@@ -1,4 +1,4 @@
-> The Complete Muse Sessions Discs V
+> The Complete Muse Sessions
 > Woody Shaw
 > 5 / 7
 > Jazz | 1976 | 
