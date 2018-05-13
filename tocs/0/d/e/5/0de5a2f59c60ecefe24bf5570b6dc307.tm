@@ -1,9 +1,9 @@
 > The Complete Muse Sessions
 > Woody Shaw
 > 1 / 7
-> Jazz | 2013 | Mosaic Records
+> Jazz | 1986 | 
 >  | 
->  | B00D7TCQOE
+>  | 
 
 Woody Shaw (1944 – 1989)
 01. The Moontrane
