@@ -1,21 +1,23 @@
-> The Complete Muse Sessions Discs II
-> Woody Shaw
-> 1 / 1
-> Jazz | 1975 | 
->  | 
->  | 
-
 > The Complete Muse Sessions
 > Woody Shaw
 > 2 / 7
-> Jazz | 1975 | 
+> Jazz | 2013 | Mosaic Records
 >  | 
->  | 
+>  | B00D7TCQOE
 
+Joe Bonner (b. 1948)
 01. Love Dance
+
+Larry Young (1940 – 1978)
 02. Obsequious
+
+Peggy Stern (b. 1946)
 03. Sun Bath
+
+Woody Shaw (1944 – 1989)
 04. Zoltan
+
+Billy Harper (b. 1943)
 05. Soulfully I Love You (Black Spiritual of Love)
 
   Woody Shaw
