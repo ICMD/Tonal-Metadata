@@ -5,7 +5,6 @@
 > 23f93495827e01f7cf21441c7a64a2b6 | 
 >  | 
 
-Rec. Dec, 1966
 01. Tourist Point of View
 02. Bluebird of Delhi (Mynah)
 03. Isfahan
@@ -21,3 +20,4 @@ Rec. Dec, 1966
 13. Amad (Alternate Take)
 
   Duke Ellington
+  Rec. 1966-12
