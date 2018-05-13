@@ -1,6 +1,6 @@
-> Far East Suite
+> The Duke Ellington Centennial Edition: The Complete RCA Victor Recordings (1927-1973)
 > Duke Ellington
-> 1 / 1
+> 21 / 24
 > Jazz | 1999 | RCA
 > 23f93495827e01f7cf21441c7a64a2b6 | 
 >  | 
@@ -20,4 +20,3 @@
 13. Amad (Alternate Take)
 
   Duke Ellington
-  Rec. 1966-12
