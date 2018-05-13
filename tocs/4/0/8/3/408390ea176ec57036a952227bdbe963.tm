@@ -26,14 +26,9 @@ Erik Satie (1866 – 1925)
 08. Vieux Séquins et Vieilles Cuirasses
 09. Embryons Desséchés
 
-  Rec. Kingsway Hall, London
-
 Gnossiennes
 
   10.    I. Lent
-
-    Rec. 1983-05 in Kingsway Hall, London
-
   11.   II. Avec Étonnement
   12.  III.Lent
   13.   IV. Lent
@@ -44,4 +39,4 @@ Gnossiennes
 17. Le Piccadilly
 
   Pascal Rogé, Piano
-  Rec. Kingsway Hall, London
+  Rec. 1983-05 in Kingsway Hall, London
