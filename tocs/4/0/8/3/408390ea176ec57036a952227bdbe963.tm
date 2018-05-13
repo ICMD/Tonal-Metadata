@@ -30,15 +30,15 @@ Erik Satie (1866 – 1925)
 
 Gnossiennes
 
-  10.    I. No. 1: – Lent
+  10.    I. Lent
 
     Rec. 1983-05 in Kingsway Hall, London
 
-  11.   II. No. 2: – Avec Étonnement
-  12.  III. No. 3: – Lent
-  13. No. 4: IV. Lent
-  14. No. 5: V. Modéré
-  15. No. 6: VI. Avec Conviction et Avec Une Tristesse Rigoureuse
+  11.   II. Avec Étonnement
+  12.  III.Lent
+  13.   IV. Lent
+  14.    V. Modéré
+  15.   VI. Avec Conviction et Avec Une Tristesse Rigoureuse
 
 16. Sonatine Bureaucratique
 17. Le Piccadilly
