@@ -1,24 +1,28 @@
-> Complete Jazz Series 1937: 1939
-> Billie Holiday
+> The Chronological Classics: Billie Holiday and Her Orchestra 1937-1939
+> Billie Holiday and Her Orchestra
 > 1 / 1
-> Jazz | 2009 | Complete Jazz Series
+> Jazz | 1991 | Classics Records
 >  | 
->  | 
+>  | B00007GX60
 
 01. Trav'lin’ All Alone
 02. He’s Funny That Way
 03. Now They Call It Swing
 04. On the Sentimental Side
-05. Back in Your Own Backyard (January 12, 1938)
+05. Back in Our Own Back Yard
 06. When a Woman Loves a Man
 07. You Go to My Head
 08. The Moon Looks down and Laughs
 09. If I Were You
-10. Forget if You Can (May 11, 1938)
+10. Forget It You Can
 11. Having Myself a Time (June 23, 1938)
 12. Says My Heart (June 23, 1938)
 13. I Wish I Had You (June 23, 1938)
-14. I’m Gonna Lock My Heart and Throw Away the Key
+
+Terry Shand
+14. I’m Gonna Lock My Heart (And Throw Away the Key)
+
+COMPOSER NON-APPLICABLE
 15. Any Old Time
 16. The Very Thought of You
 17. I Can’t Get Started
