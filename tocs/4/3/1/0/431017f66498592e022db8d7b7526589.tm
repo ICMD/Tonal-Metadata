@@ -1,11 +1,17 @@
 > The Scene
 > Jimmy Rushing
 > 1 / 1
-> Jazz | 2009 | ADA US
->  | 
->  | 
+> Jazz | 2009 | HighNote Records
+> ebd7bf42854672d3781770b1244b322d | 
+> 308099713, 338600823 | B002KQDAAO, B001SGEUVU, B01KAQRPHO, B01K0BUO3G, B00L0EAFCI
 
-01. Deed I Do (Live Version)
+Fred Rose
+01. 'Deed I Do
+
+  Jimmy Rushing, Vocal
+  Mousey Alexander, Drums
+
+Jimmy Rushing (1902 – 1972)
 02. Gee Baby Ain’t I Good to You? (Live Version)
 03. I Can’t Believe That You’re in Love with Me (Live Version)
 04. I Want a Little Girl (Live Version)
@@ -16,4 +22,4 @@
 09. It’s Noteworthy (Live Version)
 10. Good Morning Blues (Live Version)
 
-  Jimmy Rushing
+  Mousey Alexander, Drums
