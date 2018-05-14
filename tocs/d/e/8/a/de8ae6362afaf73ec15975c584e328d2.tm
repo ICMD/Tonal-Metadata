@@ -46,3 +46,11 @@ Billy Strayhorn (1915 – 1967)
 11. The Feeling of Jazz (Jazz Violin Version)
 
   Duke Ellington
+  Stephane Grappelli, Violin
+  Ray Nance, Violin
+  Svend Asmussen, Viola
+  Buster Cooper, Trombone
+  Russell Procope, Alto Saxophone
+  Paul Gonsalves, Tenor Saxophone
+  Ernie Shepard, Bass
+  Sam Woodyard, Drums
