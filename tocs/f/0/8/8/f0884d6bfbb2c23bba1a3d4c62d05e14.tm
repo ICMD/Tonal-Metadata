@@ -1,14 +1,18 @@
 > Take the a Train
-> Duke Ellington
+> Duke Ellington & His Orchestra
 > 1 / 1
-> Jazz | 1941 | 
+> Jazz | 2002 | Dreyfus Jazz
 > b4022e009fd7062b03e38eb8bb7e1a11 | 
->  | 
+>  | B00005NU5R
 
 01. Take the a Train
 02. In a Sentimental Mood
 03. Things Ain’t What They Used to Be
-04. It Don’t Mean a Thing (If It Ain’t Got That Swing)
+
+"Duke" Ellington (1899 – 1974)
+04. It Don’t Mean a Thing (If It Ani’t Got That Swing)
+
+COMPOSER NON-APPLICABLE
 05. Prelude to a Kiss
 06. Stomp, Look and Listen
 07. I’m Beginning to See the Light
@@ -24,7 +28,7 @@
 17. Creole Love Call
 18. Just a – Sittin’ and a – Rockin'
 19. Mood Indigo
-20. I Got It Bad (And That Ain’t Good)
+20. I Got It Bad and That Ain’t Good
 21. Solitude
 
   Duke Ellington
