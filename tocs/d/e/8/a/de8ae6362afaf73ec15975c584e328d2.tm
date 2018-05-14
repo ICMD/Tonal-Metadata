@@ -70,3 +70,4 @@ Billy Strayhorn (1915 – 1967)
   Paul Gonsalves, Tenor Saxophone
   Ernie Shepard, Bass
   Sam Woodyard, Drums
+  Rec. 1963-02-22
