@@ -1,4 +1,4 @@
-> Keys and Horns
+> Side by Side
 > Duke Ellington & Johnny Hodges
 > 1 / 1
 > Jazz | 2009 | Verve
