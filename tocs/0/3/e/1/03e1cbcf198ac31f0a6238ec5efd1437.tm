@@ -38,3 +38,4 @@ Louis Armstrong (1901 – 1971)
   Jimmy Strong, Clarinet, Tenor Saxophone
   Mancy Carr, Banjo
   Zutty Singleton, Drums
+  Rec. 1928
