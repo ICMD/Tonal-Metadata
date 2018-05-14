@@ -1,15 +1,8 @@
-> The Chronological Classics: Billie Holiday and Her Orchestra 1939-1940
-> Billie Holiday and Her Orchestra
-> 1 / 1
-> Jazz | 1991 | Classics Records
->  | 
->  | B00007GX64
-
-> The Complete Masters 1933–1959
+> Billie Holiday and Her Orchestra, 1939-1940
 > Billie Holiday
-> 6 / 15 BOXSET
-> Jazz | 2011 | Universal Music Classics & Jazz France
-> 9499dbdc4d73dd8d5730dd5c172e96fa | 
+> 1 / 1
+> Jazz | 1996 | Classics Records
+>  | 
 >  | 
 
 01. Why Did I Always Depend on You?
@@ -17,7 +10,6 @@
 
   Billie Holiday
 
-Billie Holiday (1915 – 1959)
 03. Strange Fruit
 04. Yesterdays
 05. Fine and Mellow
@@ -26,22 +18,21 @@ Billie Holiday (1915 – 1959)
   Billie Holiday
   Billie Holiday & Her Orchestra
 
-COMPOSER NON-APPLICABLE
 07. Some Other Spring
 08. Our Love is Different
 09. Them There Eyes
 10. Swing, Brother, Swing
 11. Night and Day
 12. The Man I Love
-13. You’re Just a No Acount
+13. You’re Just a No Account
 14. You’re a Lucky Guy
 15. Ghost of Yesterday
 16. Body and Soul
 17. What is This Going to Get Us?
 18. Falling in Love Again
 19. I’m Pulling Through
-20. Tell Me More and More and Then Some
+20. Tell Me More
 21. Laughing at Life
-22. Time on My Hands (You in My Arms)
+22. Time on My Hands
 
   Billie Holiday
