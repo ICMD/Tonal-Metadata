@@ -35,10 +35,26 @@ Billy Strayhorn (1915 – 1967)
 08. Blues in C major (Jazz Violin Version)
 
   Duke Ellington
+  Stephane Grappelli, Violin
+  Ray Nance, Violin
+  Svend Asmussen, Viola
+  Buster Cooper, Trombone
+  Russell Procope, Alto Saxophone
+  Paul Gonsalves, Tenor Saxophone
+  Ernie Shepard, Bass
+  Sam Woodyard, Drums
 
 09. String along with Strings (Jazz Violin Version)
 
   Billy Strayhorn, Piano
+  Stephane Grappelli, Violin
+  Ray Nance, Violin
+  Svend Asmussen, Viola
+  Buster Cooper, Trombone
+  Russell Procope, Alto Saxophone
+  Paul Gonsalves, Tenor Saxophone
+  Ernie Shepard, Bass
+  Sam Woodyard, Drums
 
 10. Limbo Jazz (Jazz Violin Version)
 
