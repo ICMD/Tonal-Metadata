@@ -1,7 +1,7 @@
 > Soulville
 > Ben Webster
 > 1 / 1
-> Jazz | 2003 | The Verve Music Group, a division of UMG Recordings
+> Jazz | 2003 | Verve Records
 > 8f45c6ed7164d1f3c217eef612319e63 | 
 >  | 
 
