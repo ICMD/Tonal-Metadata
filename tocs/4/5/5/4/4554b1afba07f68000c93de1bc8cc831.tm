@@ -2,15 +2,8 @@
 > Billie Holiday and Her Orchestra
 > 1 / 1
 > Jazz | 1991 | Classics Records
->  | 
->  | B00007GX64
-
-> The Complete Masters 1933–1959
-> Billie Holiday
-> 6 / 15 BOXSET
-> Jazz | 2011 | Universal Music Classics & Jazz France
 > 21ac005ae994bb95618420e4756e93a6 | 
->  | 
+>  | B00007GX64
 
 01. Why Did I Always Depend on You?
 02. Long Gone Blues
