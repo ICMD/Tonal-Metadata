@@ -33,3 +33,8 @@ Louis Armstrong (1901 – 1971)
 21. Tight like This
 
   Louis Armstrong
+  Earl Hines, Piano
+  Fred Robinson, Trombone
+  Jimmy Strong, Clarinet, Tenor Saxophone
+  Mancy Carr, Banjo
+  Zutty Singleton, Drums
