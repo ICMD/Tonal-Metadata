@@ -26,7 +26,6 @@ Don Felder, Donald Henley, Glenn Frey & Eagles
   Glenn Frey, 12 String Guitar & Background Vocals
   Don Henley, Drums & Percussion & Lead Vocals & Background Vocals
   Joe Walsh, Electric Guitar & Background Vocals
-  Eagles
   Rec. 1976
 
 Donald Henley, Glenn Frey, JD Souther, John David & Eagles
@@ -37,7 +36,6 @@ Donald Henley, Glenn Frey, JD Souther, John David & Eagles
   Glenn Frey, Acoustic Guitar & Lead Vocals
   Don Henley, Drums & Percussion & Background Vocals
   Joe Walsh, Hammond Organ & Rhodes Piano
-  Eagles
 
 Donald Henley, Glenn Frey, Joseph Walsh & Eagles
 03. Life in the Fast Lane
@@ -47,7 +45,6 @@ Donald Henley, Glenn Frey, Joseph Walsh & Eagles
   Randy Meisner, Bass Guitar & Background Vocals
   Glenn Frey, Clavinet & Background Vocals
   Don Henley, Drums & Lead Vocals
-  Eagles
 
 Donald Henley, Glenn Frey, Jim Ed Norman, JD Souther & Eagles
 04. Wasted Time
@@ -56,12 +53,10 @@ Donald Henley, Glenn Frey, Jim Ed Norman, JD Souther & Eagles
   Glenn Frey, Piano
   Joe Walsh, Organ
   Don Henley, Lead Vocals
-  Eagles
 
 Donald Henley, Glenn Frey, Jim Ed Norman & Eagles
 05. Wasted Time (Reprise)
 
-  Eagles
   Jim Ed Norman, Conductor
 
 Don Felder, Don Henley, Glenn Frey, JD Souther & Eagles
@@ -69,21 +64,18 @@ Don Felder, Don Henley, Glenn Frey, JD Souther & Eagles
 
   Joe Walsh, Slide Guitar
   Don Henley, Lead Vocals
-  Eagles
 
 Joe Vitale, Joe Walsh & Eagles
 07. Pretty Maids All in a Row
 
   Glenn Frey, Synthesizer
   Joe Walsh, Piano & Synthesizer & Lead Vocals
-  Eagles
 
 Randy Meisner
 08. Try and Love Again
 
   Glenn Frey, Guitar
   Joe Walsh, Guitar
-  Eagles
 
 Don Henley, Glenn Frey & Eagles
 09. The Last Resort
@@ -92,4 +84,3 @@ Don Henley, Glenn Frey & Eagles
   Don Felder, Electric Guitar & Pedal Steel Guitar & Background Vocals
   Joe Walsh, Electric Guitar & Synthesizer & Background Vocals
   Glenn Frey, Piano & Acoustic Guitar & Background Vocals
-  Eagles
