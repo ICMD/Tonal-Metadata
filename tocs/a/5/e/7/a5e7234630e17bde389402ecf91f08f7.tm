@@ -2,9 +2,10 @@
 > The Duke Ellington Octet
 > 1 / 1
 > Jazz | 2006 | Gambit Records
->  | 
->  | 
+> c557abd3b61a2ada6b987121f5038d9f | 
+> 320252741 | B000GFRJ9Y
 
+"Duke" Ellington (1899 – 1974)
 01. Heaven: Le Sucre Velours
 02. In a Sentimental Mood
 03. Azure
