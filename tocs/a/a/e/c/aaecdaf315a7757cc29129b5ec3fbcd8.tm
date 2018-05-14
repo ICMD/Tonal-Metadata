@@ -21,4 +21,4 @@
   Herb Ellis, Guitar
   Stan Levey, Drums
   Oscar Peterson, Piano
-  Rec. 1957-10-15
+  Rec. 1957-10-15 in Capitol Studios, Hollywood
