@@ -20,4 +20,9 @@ Sarah Vaughan (1924 – 1990)
 08. Double Rainbow (Chovendo Na Roseira)
 09. Bonita
 
-  Sarah Vaughan
+  Sarah Vaughan, Vocals
+  Hélio Delmiro, Guitar
+  Andy Simpkins, Double Bass
+  Wilson DasNeves, Drums
+  Grady Tate, Drums
+  Edson Frederico, Arranger
