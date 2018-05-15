@@ -2,9 +2,10 @@
 > Kurt Elling
 > 1 / 1
 > Jazz | 1997 | Blue Note
-> a9a86549823b222861c0a65e6533e7b7 | 
->  | 
+> c4925753f1ca6f3a3c6670ebe149d31e | 
+> 724751309 | B000TEPF9I, B000005H6S, B019GR79HE
 
+Kurt Elling (b. 1967)
 01. Nature Boy
 02. April in Paris
 03. The Beauty of All Things
@@ -13,7 +14,7 @@
 06. Endless
 07. Tanya Jean
 08. It’s Just a Thing
-09. Gingerbread Boy
+09. Ginger Bread Boy
 10. Prelude to a Kiss
 11. Time of the Season
 12. The Messenger
