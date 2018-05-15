@@ -1,10 +1,11 @@
 > Owner of a Lonely Heart
-> Max Graham vs. Yes
+> Max Graham & Yes
 > 1 / 1
 > Dance & House | 2005 | Data Records
-> 00444e45106eb34e489f0d3ffed4419c | 
 >  | 
+>  | B0009F2BQ2, B01K8RKCLQ
 
+Max Graham & Max Graham vs. Yes
 01. Owner of a Lonely Heart (Radio Edit)
 02. Owner of a Lonely Heart (Club Mix)
 03. Owner of a Lonely Heart (Klonhertz Remix)
