@@ -1,4 +1,4 @@
-> Complete Jazz Series 1953: 1954
+> Complete Jazz Series 1953 – 1954
 > Erroll Garner
 > 1 / 1
 > Jazz | 2009 | Classics Records
