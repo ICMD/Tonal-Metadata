@@ -8,7 +8,7 @@
 > The Collection
 > Michael Jackson
 > 2 / 5 BOXSET
-> UNKNOWN GENRE | 2009 | Epic
+> Dance & House | 2009 | Epic
 >  | 
 >  | B0028OF7TA
 
