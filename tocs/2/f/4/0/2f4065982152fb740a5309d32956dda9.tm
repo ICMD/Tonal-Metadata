@@ -1,30 +1,31 @@
-> Rachmaninov: Piano Concertos 1 & 4
+> Rachmaninoff: Piano Concertos Nos. 1 and 4
 > Alexander Ghindin; Vladimir Ashkenazy & Helsinki Philharmonic Orchestra
 > 1 / 1
 > Classical | 2001 | Ondine
-> 7ea0cf04f4d008809c6c2f0397e38382 | 
->  | 
+> d263e59d3922bda3d97bc5135be8561e | 
+> 324924690 | B00005O6BZ
 
 > The Complete Works
-> Sergei Rachmaninov
-> 17 / 32
-> Classical | 2014 | Decca - A universal Music Company
-> 7ea0cf04f4d008809c6c2f0397e38382 | 
->  | 
+> Sergei Rachmaninoff
+> 17 / 32 BOXSET
+> Classical | 2014 | Decca Records
+> 3ca36c60d81f33eb0808504e3bcc5936 | 
+>  | B00KZ73VDG
 
 Sergei Rachmaninoff (1873 – 1943)
-Rachmaninov, Op. 01
+Piano Concerto No. 1 in F-sharp minor, Op. 1 (Original Version)
 
-  01.    I. Konzert für Klavier und Orchester No. 1 in F-sharp minor: I. Vivace
-  02.   II. Konzert für Klavier und Orchester No. 1 in F-sharp minor: III. Andante Cantabile
-  03.  III. Konzert für Klavier und Orchester No. 1 in F-sharp minor: II. Allegro Scherzando
+  01.    I. Vivace
+  02.   II. Andante Cantabile
+  03.  III. Allegro Scherzando
 
-Rachmaninov, Op. 40
+Piano Concerto No. 4 in G minor, Op. 40 (Original Version)
 
-  04.    I. Konzert für Klavier und Orchester No. 4 in -moll: II. Allegro Vivace (Alla Breve)
-  05.   II. Konzert für Klavier und Orchester No. 4 in -moll: III. Largo
-  06.  III. Konzert für Klavier und Orchester No. 4 in -moll: I. Allegro Vivace
+  04.    I. Allegro Vivace Alla Breve
+  05.   II. Largo
+  06.  III. Allegro vivace
 
   Alexander Ghindin, Piano
   Helsinki Philharmonic Orchestra
   Vladimir Ashkenazy, Conductor
+  Rec. 2001-03 in Finlandia‐talo, Helsinki
