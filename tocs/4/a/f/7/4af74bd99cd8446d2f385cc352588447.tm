@@ -24,7 +24,9 @@ Piano Concerto No. 4 in G minor, Op. 40
   Kirill Kondrashin, Conductor
   Rec. 1951-01-23, Live Recording
 
-06. 6 Romances, Op. 38: No. 3: “Daisies”
+6 Romances, Op. 38
+
+  06. No. 3: “Daisies”
 
   Rec. 1945
 
