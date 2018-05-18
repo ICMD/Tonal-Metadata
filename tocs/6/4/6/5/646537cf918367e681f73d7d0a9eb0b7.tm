@@ -1,34 +1,27 @@
-> セルゲイ・ラフマノフ 交響曲第一番 ニ短調作品13
-> サンクト・ペテルブルグ・フィルハーモニー
+> Rachmaninoff: Symphony No. 1 / The Isle of the Dead
+> Mariss Jansons & St Petersburg Philharmonic Orchestra
 > 1 / 1
-> Classical |  | 
-> b1a1f83e43d566e348ce085d29285932 | 
->  | 
+> Classical | 1999 | EMI Classics
+> 819234692c207f193c6bdc0db65c645b | 
+> 696202975 | B00005GJZ1
 
-> Symphonys & Orchestral Works
+> Rachmaninoff: Symphonys 1 – 3
 > Mariss Jansons & St. Petersburg Philharmonic Orchestra
-> 1 / 3
-> Classical | 1993 | 
-> b6764d3e85685261c967ab4c97cf3e60 | 
->  | 
-
-> Rachmaninov: Symphonys, Piano Concertos
-> Mariss Jansons & St. Petersburg Philharmonic Orchestra
-> 1 / 6
-> Classical | 1993 | EMI Classics
-> b03ef2f5171885f619f8940fdf9eafe4 | 
->  | 
+> 1 / 3 BOXSET
+> Classical | 2007 | EMI Classics
+> 8e0ea5e4131fbff5527edd8161d6e1c1 | 
+> 690621989 | B000WAU2LU, B000UZ4EY8, B01K8O5ZG6
 
 Sergei Rachmaninoff (1873 – 1943)
-ラフマニノフ 交響曲 No. 1 ニ短調, Op. 13 (1895)
+Symphony No. 1 in D minor, Op. 13
 
   01.    I. Grave – Allegro ma non troppo
-  02.   II. Scherzo. Allegro animato
+  02.   II. Allegro animato
   03.  III. Larghetto
-  04.   IV. Allegro con fuoco
+  04.   IV. Fourth movement: Allegro con fuoco
 
-05. ラフマニノフ 交響詩 「死の島」, Op. 29 (1909)
+05. The Isle of the Dead, Op. 29
 
-  St. Petersburg Philharmonic Orchestra
+  Philharmonisches Orchester St. Petersburg
   Mariss Jansons, Conductor
   Rec. 1998-01-12 – 1998-01-16
