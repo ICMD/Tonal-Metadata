@@ -21,8 +21,9 @@
   Duke Ellington
   C.Williams
   Cat Anderson
-  H.Jones,, M.Ellington Tp
+  H.Jones, Tp
+  M.Ellington, Tp
   L.Brown
   C.Connors
-  B.Cooper Tb
-  J.Hodges As
+  B.Cooper, Tb
+  J.Hodges, As
