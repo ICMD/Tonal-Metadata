@@ -1,10 +1,11 @@
 > One Alone
 > Dave Brubeck
 > 1 / 1
-> Jazz | 2000 | Telarc Records
+> Jazz | 2000 | Telarc
 >  | 
->  | 
+> 80671121 | B00004WFMB, B014I7MCFG
 
+Dave Brubeck (b. 1920)
 01. That Old Feeling
 02. I’ll Never Smile Again
 03. One Alone
