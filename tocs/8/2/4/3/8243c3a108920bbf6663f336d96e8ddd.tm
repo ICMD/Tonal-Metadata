@@ -1,18 +1,21 @@
-> The Far East Suite
-> Duke Ellington & His Orchestra
+> Far East Suite
+> Duke Ellington and His Famous Orchestra
 > 1 / 1
-> Jazz | 1966 | RCA
-> 8f6b619ec4b5c81d0f4c541b2ce53451 | 
->  | 
+> Jazz | 1967 | Legacy Recordings
+> dff059e48900bb92fa94344b2d83535d | 
+> 1209208698, 1270486056 | B06WWP7WP7, B074QH93YF, B078J1TJPW
 
-01. Tourist Point of View (Ellington – Strayhorn)
-02. Bluebird of Delhi (Mynah) (Ellington – Strayhorn)
-03. Isfahan (Ellington – Strayhorn)
-04. Depk (Ellington – Strayhorn)
-05. Mount Harissa (Ellington – Strayhorn)
-06. Blue Pepper (Far East of the Blues) (Ellington – Strayhorn)
-07. Agra (Ellington – Strayhorn)
-08. Amad (Ellington – Strayhorn)
+"Duke" Ellington (1899 – 1974) & Billy Strayhorn (1915 – 1967)
+01. Tourist Point of View
+02. Bluebird of Delhi (Mynah)
+03. Isfahan
+04. Depk
+05. Mount Harissa
+06. Blue Pepper (Far East of the Blues)
+07. Agra
+08. Amad
+
+"Duke" Ellington (1899 – 1974)
 09. Ad Lib on Nippon
 
   Duke Ellington
