@@ -1,10 +1,11 @@
-> In Search of Momentum
+> In Search of … Momentum [1 – 10]
 > Ahmad Jamal
 > 1 / 1
-> Jazz | 2003 | Dreyfus Records
+> Jazz | 2003 | Dreyfus Jazz
 > a3fc5feb09f0e8ba97c66cd0ac6adbad | 
->  | 
+>  | B01AXM1T2M
 
+Ahmad Jamal (b. 1930)
 01. In Search Of
 02. Should I?
 03. Excerpts from I’ll Take the 20
