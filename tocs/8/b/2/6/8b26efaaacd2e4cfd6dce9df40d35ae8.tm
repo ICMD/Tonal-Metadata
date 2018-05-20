@@ -1,27 +1,41 @@
-> The Dave Brubeck Quartet Live at Newport 1961, 1963, 1964
-> Dave Brubeck P, Paul Desmond As, Eugene Wright B, Joe Morello Dr
-> 1 / 1
-> Jazz | 2009 | 
-> 93a9312cab65ae77c0364cf2543b956f | 
->  | 
-
-> 2 Live at Newport 1961, 1963, 1964
+> Time Out
 > The Dave Brubeck Quartet
 > 2 / 2
-> Jazz | 2009 | Columbia/Legacy
-> 93a9312cab65ae77c0364cf2543b956f | 
->  | 
+> Jazz | 1959 | Legacy
+> c2202bbe287781ea6e1eb6ca6f2d6ac7 | 
+> 316351910, 316475425 | B002A5WQ8W, B009Z62LSE, B01G7NQK6G, B019GM53ZO
 
-01. St. Louis Blues: Rec. 6 / 30/1961 [Previously Unreleased]
-02. Waltz Limp Rec. 7: 7/1963 [Previously Unreleased]
-03. Since Love Had Its Way: Rec. 7 / 71963 [Previously Unreleased]
-04. Koto Song: Rec. 7/4/1964 [Previously Unreleased]
-05. Pennies from Heaven: Rec. 6 / 30/1961 [Previously Unreleased]
-06. You Go to My Head – Rec. 7: 4/1964 [Previously Unreleased]
-07. Blue Rondo À la Turk: Rec. 6 / 30/1961 [Previously Unreleased]
-08. Take Five: Rec. 7/4/1964 [Previously Unreleased]
+W. C. Handy (1873 – 1958)
+01. St. Louis Blues (Previously Unreleased): Live]
+
+Dave Brubeck (b. 1920)
+02. Waltz Limp (Previously Unreleased): Live]
+
+  Rec. Live Recording
+
+03. Since Love Had Its Way (Previously Unreleased): Rec. 7 / 71963 [Previously Unreleased]
+04. Koto Song (Previously Unreleased): Live]
+
+  Rec. Unknown
+
+Sonny Burke (1914 – 1980) & Arthur Johnston
+05. Pennies from Heaven (Previously Unreleased): Live]
+
+  Rec. Live Recording
+
+Haven Gillespie & J. Fred Coots
+06. You Go to My Head (Previously Unreleased): Live]
+
+  Rec. Unknown
+
+Dave Brubeck (b. 1920)
+07. Blue Rondo À la Turk (Previously Unreleased): Live]
+
+Paul Desmond (1924 – 1977)
+08. Take Five (Previously Unreleased): Rec. 7/4/1964 [Previously Unreleased]
 
   Dave Brubeck
   Paul Desmond As
   Eugene Wright B
   Joe Morello Dr
+  Rec. Live Recording
