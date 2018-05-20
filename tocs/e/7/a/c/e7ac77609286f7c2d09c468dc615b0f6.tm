@@ -1,10 +1,11 @@
 > Först Nu
-> Cajsalisa
+> Cajsalisa Ejemyr
 > 1 / 1
-> Pop | 1997 | WM Sweden
+> Pop | 1997 | wea
 > e31ebd4ccb04e43d3980fa3b65035a06 | 
 >  | 
 
+Cajsalisa Ejemyr
 01. Först Då
 02. Ingenting
 03. Han Är Min
