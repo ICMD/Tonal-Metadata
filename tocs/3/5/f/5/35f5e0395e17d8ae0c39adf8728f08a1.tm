@@ -1,11 +1,11 @@
 > Lost Love
 > Paula Castle
 > 1 / 1
-> Jazz | 2014 | Bethlehem Records
->  | 
->  | 
+> Jazz | 2013 | Bethlehem Records
+> 2cf8c8ac50305022e6029c21af35f9ae | 
+> 689039913 | B00HFN4O2A, B01KAS4CLE, B00005HTLT
 
-01. I’m Shoothing High
+01. I’m Shooting High
 02. Yesterday’s Gardenias
 03. Here I am in Love Again
 04. Mountain Greenery
