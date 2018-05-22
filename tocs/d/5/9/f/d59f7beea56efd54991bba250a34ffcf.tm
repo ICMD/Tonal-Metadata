@@ -1,9 +1,9 @@
 > Sinner’s Syndrome
-> Moderator
+> The Moderator
 > 1 / 1
 > Rap | 2018 | melting records
-> 48196865d481e75576fad8bc3f175ae1 | 
->  | 
+> 0e35a564b3b0bf2fdee895211e362159 | 
+>  | B07CH2K9Z5
 
 01. Cat’s Eyes (Private Little World)
 02. Burning Bridges
