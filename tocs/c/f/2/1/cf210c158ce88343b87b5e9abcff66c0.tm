@@ -7,10 +7,10 @@
 
 > The Complete Columbia Studio Albums Collection
 > The Dave Brubeck Quartet
-> 14 / 19
-> Jazz | 2013 | Columbia/Legacy
->  | 
->  | 
+> 14 / 19 BOXSET
+> Jazz | 2011 | Legacy
+> 80363d621618313eddd2130a9a595b39 | 
+> 673910146 | B0077PPQGO
 
 Dave Brubeck (b. 1920)
 01. Tokyo Traffic
