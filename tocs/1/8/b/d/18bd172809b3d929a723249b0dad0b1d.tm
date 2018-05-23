@@ -15,9 +15,9 @@
 > Original Album Classics
 > The Dave Brubeck Quartet
 > 1 / 5 BOXSET
-> Jazz | 2010 | Sony / Columbia
+> Jazz | 2010 | Columbia/Legacy
 > 2e83bbda85ca3e862d903d0b98501315 | 
->  | B003924NZ4, B00YBLFSRO
+> 390481829 | B003924NZ4, B00YBLFSRO
 
 > The Perfect Jazz Collection
 > Various Artists
