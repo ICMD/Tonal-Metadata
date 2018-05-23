@@ -7,10 +7,10 @@
 
 > The Complete Columbia Studio Albums Collection
 > The Dave Brubeck Quartet
-> 8 / 19
-> Jazz | 2013 | Columbia/Legacy
->  | 
->  | 
+> 8 / 19 BOXSET
+> Jazz | 2011 | Legacy
+> 80363d621618313eddd2130a9a595b39 | 
+> 673910146 | B0077PPQGO
 
 Dave Brubeck (1920 – 2012)
 Dialogues for Jazz Combo and Orchestra
