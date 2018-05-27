@@ -1,103 +1,135 @@
 > Now That’s What I Call Music! 44
 > Various Artists
-> 1 / 1
-> Pop | 1999 | 
->  | 
->  | 
-
-> Now 44
-> Various Artists
 > 2 / 2
 > Pop | 1999 | EMI
 >  | 
->  | 
+>  | B00002MFCV
 
-01. R Kelley: If. I Could Turn Back the Hands of Time (1998)
+R. Kelly – Paul Riser
+01. If I Could Turn Back the Hands of Time
 
-  R. Kelly
+  LaFayette Carthon,, Jr., Keyboard
+  Bruce Kelly, Background Vocals
+  S Club 7, Background Vocals
+  Hart Hollman, Additional
+  The Motown Romance Orchestra
+  Paul Riser, Conductor
 
-02. Geri Halliwell: Lift Me Up
+Geri Halliwell – Absolute
+02. Lift Me Up
 
-  Geri Halliwell
+  Tracy Ackerman, Background Vocals
+  Gavyn Wright, Strings
+  Phil Hudson, Guitar
+  Nick Ingman, Conductor
 
-03. TIN TIN OUT: What I Am
+Tin Tin Out & Emma Bunton
+03. What I Am
 
   Tin Tin Out
-  Emma Bunton
+  Emma Bunton, Guest
 
-04. Martin McCUTCHEON: I've Got You (1999)
+Martine McCutcheon
+04. I've Got You
 
   Martine McCutcheon
+  Rec. Unknown
 
-05. Backstreet Boys: Larger than Life
+Backstreet Boys
+05. Larger than Life
 
-  Backstreet Boys
+  A.J. McLean, Vocal
+  Howie Dorough, Vocal
+  Kevin Richardson, Vocal
+  Brian T. Littrell, Vocal
+  Nick Carter, Vocal
+  Esbjörn Öhrwall, Guitar
+  Rec. Cheiron Studios, Stockholm
 
-06. Jordan Knight: Give It to You
+Jordan Knight
+06. Give It to You
 
   Jordan Knight
 
-07. Gabrielle: Sunshine
+Gabrielle
+07. Sunshine
 
   Gabrielle
 
-08. Honeyz: Never Let You Down
+Howie Dorough
+08. Never Let You Down
 
-  Honeyz
+  Howie Dorough, Vocal
+  Rec. Unknown
 
-09. S Club 7
+S Club 7
+09. S Club Party
 
-  S Club 7
+  S Club 7, Background Vocals
+  Rec. StarGate Studios, Trondheim
 
-10. Lolly: Mickey
+Lolly
+10. Mickey
 
   Lolly
 
-11. ANN LEE: 2 Times (1998)
+Ann Lee
+11. 2 Times
 
   Ann Lee
 
-12. Vengaboys: We’re Going to Ibiza!
+Vengaboys
+12. We’re Going to Ibiza!
 
   Vengaboys
 
-13. Enrique Iglesias: Bailamos
+Enrique Iglesias
+13. Bailamos
 
   Enrique Iglesias
 
-14. Shaft: Mucho Mambo Sway
+Pablo Beltrán Ruiz
+14. (Mucho Mambo) Sway
 
   S Club 7
 
-15. ATB: Don’t Stop
+André Tanneberger
+15. Don’t Stop
 
-  ATB
+  Yolanda Rivera, Guest & Spoken
 
-16. DJ Jean: The Launch
+DJ Jean
+16. The Launch
 
   DJ Jean
 
-17. Groove Armada: I. See You Baby (
+Andy Cato
+17. I See You Baby (Fatboy Slim Radio Edit)
 
   Groove Armada
-  Gram'Ma Funk
+  Gram'ma Funk, Guest
 
-18. Wamdue Project: King of My Castle
+Chris Brann
+18. King of My Castle
 
   Wamdue Project
 
-19. Alic Deejay: Back in My Life (1998)
+Alice DeeJay
+19. Back in My Life
 
   Alice DeeJay
 
-20. Alena: Turn It Around
+Carlo Resoort
+20. Turn It Around
 
   Alena
 
-21. Tina Cousins: Angel
+Tina Cousins
+21. Angel
 
   Tina Cousins
 
-22. Liquid Child: Diving Faces
+Liquid Child
+22. Diving Faces
 
   Liquid Child
