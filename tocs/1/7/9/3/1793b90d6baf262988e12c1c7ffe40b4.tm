@@ -10,7 +10,7 @@
 > 1 / 6 BOXSET
 > Pop | 2012 | Analogue Productions
 >  | 
->  | B00AFPL248
+>  | 
 
 Jesse Harris
 01. Don’t Know Why
