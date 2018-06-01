@@ -18,7 +18,7 @@ Piano Sonata No. 2 in B-flat minor, Op. 35 “Funeral March”
   01.    I. Grave – Doppio movimento
   02.   II. Scherzo – Più lento – Tempo I
 
-Piano Sonata No. 2 in B-flat minor, Op. 35~
+Piano Sonata No. 2 in B-flat minor, Op. 35
 
   03.  III. Marche funèbre (Lento)
   04.   IV. Finale (Presto)
