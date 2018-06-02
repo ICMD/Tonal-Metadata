@@ -1,10 +1,11 @@
 > Vapen & Ammunition
 > Kent
 > 1 / 1
-> UNKNOWN GENRE | 2002 | RCA
-> 5c40904fb95679be41a43224eb1289a1 | 
->  | 
+> Pop | 2002 | RCA
+> b514da9f5b19d15a5d8592a0761e54bc | 
+> 253700051, 458559835, 581435921 | 
 
+Joakim Berg
 01. Sundance Kid
 02. Pärlor
 03. Dom Andra
@@ -14,7 +15,7 @@
 04. Duett
 
   Kent
-  Titiyo
+  Titiyo, Guest
 
 05. Hur Jag Fick Dig Att Älska Mig
 06. Kärleken Väntar
@@ -22,16 +23,21 @@
 
   Kent
 
-08. FF
+08. Ff
 
   Kent
-  Nancy Danino
+  Nancy Danino, Guest
 
 09. Elite
 
+  Martin von Schmalensee, Acoustic Guitar
+  Ingela Olsson
+  Niklas Gabrielsson
+  Jessica Pilnäs
+  Henrik Rongedal
   Kent
 
 10. Sverige
 
+  Jojje Wadenius, Acoustic Guitar
   Kent
-  Jojje Wadenius
