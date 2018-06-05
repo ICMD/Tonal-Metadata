@@ -7,8 +7,8 @@
 
 > Rockferry (Intl Deluxe Edition)
 > Duffy
-> 1 / 2 BOXSET
-> Pop | 2008 | A&M
+> 1 / 2
+> Pop | 2008 | A&M Records
 > e41f70ad8af2f996536ba12dae4d3760 | 
 > 692887422 | 
 
