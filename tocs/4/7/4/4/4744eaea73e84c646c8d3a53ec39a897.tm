@@ -2,9 +2,10 @@
 > John Zorn
 > 1 / 1
 > Jazz | 2009 | Tzadik
-> b64477e6935f56c70c5d16aa77f99873 | 
->  | 
+> 7411eb520a3a770a689a426cabeb8ce8 | 
+> 1189728395 | 
 
+John Zorn (b. 1953)
 01. Miller’s Crake
 02. Akialoa
 03. Po'o'uli
@@ -14,7 +15,7 @@
 07. Archaeopteryx
 08. Solitaire
 09. Piopio
-10. Zapata Rail
+10. The Zapata Rail
 11. Kakawahie
 12. Magdalena
 
