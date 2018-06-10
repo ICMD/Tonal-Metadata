@@ -1,29 +1,33 @@
-> 2L: The Nordic Sound (Sampler 2007)
+> The Nordic Sound: 2L Audiophile Reference Recordings
 > Various Artists
-> 1 / 1
-> Classical | 2007 | 2L Music
+> 1 / 2
+> Classical | 2009 | 2L
 >  | 
 >  | 
 
-01. Violin Concerto D Maj, K. 218 – Allegro (Mozart)
+Wolfgang Amadeus Mozart (1756 – 1791)
+01. Violin Concerto in D major, Allegro (, K. 218)
 
+  Marianne Thorsen, Solo & Violin
   Trondheim Soloists
-  Marianne Thorsen, Conductor
+  Øyvind Gimse, Conductor
+  Rec. 2006-05 in Selbu kirke, Selbu
 
-02. Sonata for Solo Violin – Fuga (Bartók)
+Béla Bartók (1881 – 1945)
+02. Sonata for Solo Violin, Fuga
 
-  Annar Folleso
+  Annar Folleso, Violin
 
-J. Martens
-03. Grotesques and Arabesques: Dmitri
+Trygve Madsen
+03. Grotesques and Arabesques, Dimitri
 
 Wolfgang Plagge (b. 1960)
-04. Mare: Un Poco Piu Inquieto
+04. Mare, Un Poco Piu Inquieto
 
   Aurora Piano Quartett
 
-Grex Vocalis
-05. Lyrical Pieces, Op. 65: Bryllupsdag På Troldhaugen (Weddingday at Troldhaugen)
+Edvard Grieg (1843 – 1907)
+05. Weddingday at Troldghaugen (Steffen Horn): Bryllupsdag På Troldhaugen (Weddingday at Troldhaugen)
 
   Steffen Horn
 
@@ -32,58 +36,64 @@ Sigismondo D'India (c. 1582 – ?)
 
   Tone Wik
 
-COMPOSER NON-APPLICABLE
-07. Var Ii: Her Kommer Dine Arme Små
+Traditional
+07. Var. II Her Kommer Dine Arme Små
 
   Wolfgang Plagge
 
 08. Triangel
 
-  Sturla Eide
+  Sturla Eide, andreas
   Andreas Aase
 
-09. North Country Ii
+Ola Gjeilo
+09. Tom Barber, Johannes Martens)
 
+  Johannes Martens, Cello
   Ola Gjeilo
-  T. Barber
-  J. Martens
+  Thomas Barber, Flugelhorn
 
-10. Julefantasi: Harpesolo
+Ellen Sejersted Bodtker
+10. Christmas Fantasy (Ellen Sejersted Bødtker): Harpesolo
 
   Ellen Sejersted Bodtker
 
-11. Sonata in F Maj, K. 533 No. 494 Rondo Allegretto (Mozart: Grieg)
+Wolfgang Amadeus Mozart (1756 – 1791)
+11. Sonata in F Mayor, Rondo Allegretto (K. 533, 494)
 
   Dena Piano Duo
 
 Henryk Wieniawski (1835 – 1880)
-12. Fantaisie Orientale, Op. 24
+12. Fantasia Orientale
 
   Piotr Janowski
   Wolfgang Plagge
 
 Johan Halvorsen (1864 – 1935)
-13. Suite Mosaique: Intermezzo Orientale
+13. Intermezzo Orientale
 
   Per Kristian Skalstad
   Tor Espen Aspaas
 
-COMPOSER NON-APPLICABLE
-14. 4 Psalms, Op. 74 – in Heav' N Above
+Edvard Grieg (1843 – 1907)
+14. Fire Salmer: I. Himmelen
 
   Grex Vocalis
   M. Staveland
   C. Hogset
+  Rec. Unknown
 
-Islandsmoens Requiem
-15. Lacrymosa
-16. Confutatis
+Sigurd Islandsmoen
+15. Requiem, Lacrymosa
+16. Requiem, Confutatis
 
   Kristiansand Symfoniorkester
-  Trondheim Soloists
+  The Norwegian Soloists Choir
+  Terje Boye Hansen, Conductor
+  Rec. 2006-03 in Kristiansand domkirke, Kristiansand
 
 Knut Nystedt (b. 1915)
-17. Immortal Bach
+17. Inmortal Bach (Ensemble 96 “Øystein Fevang)”
 
-  Øystein Fevang
   Ensemble 96
+  Øystein Fevang, Conductor
