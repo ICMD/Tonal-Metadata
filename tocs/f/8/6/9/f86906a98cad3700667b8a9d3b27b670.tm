@@ -1,37 +1,35 @@
 > Idyla
-> Appassionata
+> Ensemble Instrumental Appassionata
 > 1 / 1
-> Classical | 2008 | 
+> Classical | 2008 | Fidelio
 > e60fa06074dca6b1cbe16db85712bfb2 | 
->  | 
+> 334117730 | 
 
+Leoš Janáček (1854 – 1928)
 Idyla
 
-  01. Andante
-  02. Allegro
-  03. Moderato
-  04. Allegro
-  05. Adagio
-  06. Scherzo
-  07. Moderato
+  01.    I. Andante
+  02.   II. Allegro
+  03.  III. Moderato
+  04.   IV. Allegro
+  05.    V. Adagio
+  06.   VI. Scherzo
+  07.  VII. Moderato
 
-  Leoš Janáček
-
+Guillaume Lekeu (1870 – 1894)
 08. Adagio Pour Orchestre À Cordes, Op. 3
 
-  Guillaume Lekeu
-
+Edvard Grieg (1843 – 1907)
 Two Elegiac Melodies, Op. 34
 
-  09. Heart’s Wounds
-  10. Last Spring
+  09.    I. Heart’s wounds
+  10.   II. Last Spring
 
-  Edvard Grieg
-
+Wolfgang Amadeus Mozart (1756 – 1791)
 Serenata Notturna, K. 239
 
-  11. Marcia
-  12. Menuetto
-  13. Rondeau
+  11.    I. Marcia
+  12.   II. Menuetto
+  13.  III. Rondeau
 
-  Wolfgang Amadeus Mozart
+  Ensemble Instrumental Appassionata
