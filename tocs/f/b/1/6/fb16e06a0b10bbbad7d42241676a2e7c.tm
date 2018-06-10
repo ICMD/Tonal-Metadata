@@ -1,10 +1,11 @@
-> The Gnostic Preludes: Music of Splendor
+> The Gnostic Preludes
 > John Zorn
 > 1 / 1
 > Jazz | 2012 | Tzadik
-> 313c35686825632074d6e5fad8ff8883 | 
->  | 
+> 533542fa4ffd800b5ebe0db3c46f582c | 
+> 1189761208 | 
 
+John Zorn (b. 1953)
 01. Prelude 1: The Middle Pillar
 02. Prelude 2: The Book of Pleasure
 03. Prelude 3: Prelude of Light
@@ -14,5 +15,6 @@
 07. Prelude 7: Sign and Sigil
 08. Prelude 8: The Invisibles
 
-  John Zorn
-  Rnig the Gnostic Trio
+  Bill Frisell, Guitar
+  Carol Emanuel, Harp
+  Kenny Wollesen, Bells & Vibraphone
