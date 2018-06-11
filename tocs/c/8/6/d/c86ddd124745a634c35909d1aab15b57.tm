@@ -1,8 +1,8 @@
 > Piano Concerto “No. 5”
-> Wolfram Schmitt-Leonardy, Janáčkova filharmonie Ostrava, Theodore Kuchar & Arrangement of Symphony N° 2
+> Wolfram Schmitt-Leonardy, Janáček Philharmonic Orchestra & Theodore Kuchar
 > 1 / 1
 > Classical | 2008 | Brilliant Classics
->  | 
+> 7f25e5b83f92a51c77f8fe5d53a172a4 | 
 >  | 
 
 Sergei Rachmaninoff (1873 – 1943) – Alexander Warenberg
