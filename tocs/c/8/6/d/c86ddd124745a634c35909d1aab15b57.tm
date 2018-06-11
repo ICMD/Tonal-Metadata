@@ -5,11 +5,13 @@
 >  | 
 >  | 
 
-Sergei Rachmaninoff (1873 – 1943) & Alexander Warenberg
-01. Piano Concerto “No. . 5” 1. Largo – Allegro Moderato [Symphony No. 2 in Eminor, Op. 27 Arranged (Arranged by Alexander Warenberg)]: Largo – allegro moderato
-02. Piano Concerto “No. . 5” 2. Adagio – Molt Allegro [Symphony No. 2 in Eminor, Op. 27 Arranged (Arranged by Alexander Warenberg)]: Adagio – molto allegro
-03. Piano Concerto “No. . 5” 3. Allegro Vivace [Symphony No. 2 in Eminor, Op. 27 Arranged (Arranged by Alexander Warenberg)]: Allegro vivace
+Sergei Rachmaninoff (1873 – 1943) – Alexander Warenberg
+Piano Concerto “No. 5”, After Symphony No. 2 in E-minor, Op. 27
 
-  Wolfram Schmitt-Leonardy
+  01.    I. Largo – Allegro Moderato
+  02.   II. Adagio – Molt Allegro
+  03.  III. Allegro Vivace
+
+  Wolfram Schmitt-Leonardy, Piano
   Janáček Philharmonic Orchestra
   Theodore Kuchar, Conductor
