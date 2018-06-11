@@ -1,9 +1,9 @@
 > Gypsy Cry
 > Attila Zoller
 > 1 / 1
-> Jazz | 2005 | Rhino/Atlantic
->  | 
->  | 
+> Jazz | 2005 | Rhino Atlantic
+> 0f010c1fbc0da3f81437b45e8a3529de | 
+> 68081160 | 
 
 01. Wild Wild Wes
 02. Another Kind of Love
