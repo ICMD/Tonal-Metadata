@@ -48,11 +48,11 @@ Symphony No. 9 in D minor, Op. 125 “Choral”
   03.  III. Adagio molto e cantabile
   04. IVa. Presto
 
-  Berliner Philharmoniker
-  Herbert von Karajan, Conductor
-  Rec. 1983-09-20 – 1983-09-27 in Berliner Philharmonie, Berlin
+    Berliner Philharmoniker
+    Herbert von Karajan, Conductor
+    Rec. 1983-09-20 – 1983-09-27 in Berliner Philharmonie, Berlin
 
-05. Symphony No. 9 in D minor, Op. 125 “Choral” / 4.: IVb. “O Freunde nicht diese Töne” –
+  05. IVb. “O Freunde nicht diese Töne” –
 
   Janet Perry, Soprano
   Vinson Cole, Tenor
