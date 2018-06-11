@@ -5,7 +5,7 @@
 > 7f25e5b83f92a51c77f8fe5d53a172a4 | 
 >  | 
 
-Sergei Rachmaninoff (1873 – 1943) – Alexander Warenberg
+Sergei Rachmaninoff (1873 – 1943) – Alexander Warenberg (b. 1952)
 Piano Concerto “No. 5”, After Symphony No. 2 in E-minor, Op. 27
 
   01.    I. Largo – Allegro Moderato
