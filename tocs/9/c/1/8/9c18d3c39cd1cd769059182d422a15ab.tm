@@ -1,10 +1,11 @@
-> Here Comes
-> Earl “Fatha” Hines
+> Here Comes Earl “Fatha” Hines: Spontaneous Explorations
+> Earl Hines
 > 1 / 2
-> Jazz | 1966 | Contact
+> Jazz | 1993 | Red Baron
 > a09758fab6b4b3e5a89c56b38632b86d | 
 >  | 
 
+Earl Hines (1903 – 1983)
 01. Save It, Pretty Mama
 02. Bye, Bye, Baby
 03. Smoke Rings
