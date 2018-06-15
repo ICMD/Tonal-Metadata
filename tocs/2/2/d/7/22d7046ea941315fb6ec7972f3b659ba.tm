@@ -2,8 +2,8 @@
 > Bruce Springsteen
 > 1 / 2
 > Rock | 1980 | Columbia
-> d036ba0aa25b4abf92b93a825e95ef96 | 
-> 186064796 | 
+> b71d3d31ccfc989ce3e75c0ab3b3f506 | 
+>  | 
 
 > The Ties That Bind: The River Collection
 > Bruce Springsteen
