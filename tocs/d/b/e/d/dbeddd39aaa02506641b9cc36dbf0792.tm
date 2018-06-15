@@ -13,9 +13,9 @@
 > 652720151, 1046362897 | 
 
 Felix Mendelssohn (1809 – 1847)
-01. Violin Concerto in E minor for Violin and Orchestra, Op. 64: I. Allegro molto appassionato
-02. Concerto in E minor for Violin and Orchestra, Op. 64: II. Andante
-03. Violin Concerto in E minor for Violin and Orchestra, Op. 64: III. Allegretto non troppo – Allegro molto vivace
+01.    I. Allegro molto appassionato
+02.   II. Andante
+03.  III. Allegretto non troppo – Allegro molto vivace
 
   Hilary Hahn, Violin
   Oslo Philharmonic Orchestra
