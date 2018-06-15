@@ -1,10 +1,18 @@
 > Tattoo You
 > The Rolling Stones
 > 1 / 1
-> Rock | 1981 | CBS / Virgin
-> 128d7baeece16d62825ca72337a00d60 | 
->  | 
+> Rock | 2012 | Virgin
+> 7d8f4cf4f9274052696f6b1842d50b30 | 
+> 580009872, 656876440 | 
 
+> The Complete Collection 1971-2013
+> The Rolling Stones
+> 9 / 22 BOXSET
+> Rock | 2013 | Polydor
+> 59229a1361ff2ee79210a9c108d28799 | 
+> 659435098, 659475637 | 
+
+Mick Jagger, Keith Richards & The Rolling Stones
 01. Start Me Up
 02. Hang Fire
 03. Slave
