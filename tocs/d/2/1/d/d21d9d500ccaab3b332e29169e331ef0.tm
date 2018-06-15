@@ -1,10 +1,11 @@
-> Featuring Cachaíto
+> Featuring Cachaito
 > Chucho Valdés
 > 1 / 1
 > Jazz | 1982 | Disconforme
 >  | 
 >  | 
 
+Chucho Valdés (b. 1941)
 01. El Manisero
 02. Dos Perlas Y Un Dolor
 03. La Sombra
@@ -15,14 +16,14 @@
 08. Sony
 09. Realidad Y Fantasia
 10. Novia Mia
-11. Tu, Mi Delirio
+11. Tu Mi Delirio
 12. Invento No. 4
-13. Evocación a Ingatio Cervantes
-14. Evocación a Manuel Saumell
-15. Evocación a Lico Jiménez
-16. Evocación a José White
+13. Evocation a Ignacio Cervantes
+14. Evocation a Manuel Saumell
+15. Evocation a Lico Jiménez
+16. Evocation a José White
 17. Berceuse a Jessie
-18. Desde Longina
+18. Desde Longia
 19. Preludio a Catalina
 20. My Reverie
 
