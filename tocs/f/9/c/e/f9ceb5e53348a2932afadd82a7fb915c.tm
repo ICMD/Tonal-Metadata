@@ -1,15 +1,16 @@
 > Live at the Village Vanguard
 > Bebo Valdés & Javier Colina
 > 1 / 1
-> Jazz | 2008 | Calle 54 Records
-> 2339da87facf7422990db5487e79fe35 | 
->  | 
+> Jazz | 2014 | Calle 54 Records
+> cc4c7b215caeb7e34954e799b94d2748 | 
+> 880920389 | 
 
+Bebo Valdés & Javier Colina
 01. Con Poco Coco
 
-  Bebo & Colina
+  Javier Colina
 
-02. Sabor a Mi
+02. Sabor a Mí
 03. Ritmando El Cha – Cha – Cha
 04. Rosa Mustia
 05. Andalucía
@@ -25,4 +26,4 @@
 
   Bebo Valdés
   Javier Colina
-  Rec. Live Recording
+  Rec. Village Vanguard, New York, Live Recording
