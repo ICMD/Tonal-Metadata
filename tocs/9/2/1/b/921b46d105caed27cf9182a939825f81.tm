@@ -1,10 +1,11 @@
 > Live at the Village Vanguard
 > Chucho Valdés
 > 1 / 1
-> Jazz | 2000 | Blue Note Records
-> 222f35f68efd85852a2059976dc5edd4 | 
->  | 
+> Jazz | 2000 | Blue Note
+> 7d1a41916174493b0e45f79b3cf1b430 | 
+> 724342730 | 
 
+Chucho Valdés (b. 1941)
 01. Anabis
 02. Son XXI (Para Pia)
 03. Punto Cubano
@@ -23,4 +24,4 @@
 09. Encore: Lorraine’s Habanera
 
   Chucho Valdés
-  Rec. Live Recording
+  Rec. Village Vanguard, New York, Live Recording
