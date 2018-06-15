@@ -2,7 +2,7 @@
 > Chucho Valdés
 > 1 / 1
 > Jazz | 1982 | Disconforme
->  | 
+> f538691e15dc4b783af5e36fac83f2b6 | 
 >  | 
 
 Chucho Valdés (b. 1941)
