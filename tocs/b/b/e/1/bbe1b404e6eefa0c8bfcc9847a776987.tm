@@ -78,7 +78,7 @@ Johnny Cash
   Benmont Tench, Harmonium & Reed Organ
   Dave Ferguson, Ukulele
 
-Johnny Cash & traditional]
+Johnny Cash & Traditional
 10. Danny Boy
 
   Benmont Tench, Pipe Organ
