@@ -13,6 +13,8 @@ String Quartet No. 15 in G major, Op. 161 (D 887)
   03.  III. Scherzo. Allegro Vivace
   04.   IV. Allegro Assai
 
-05. String Quartet No. 12 in C minor, Op. Posth., D 703 “Quartettsatz”: I. Allegro Assai
+String Quartet No. 12 in C minor, Op. Posth., D 703 “Quartettsatz”
+
+  05.    I. Allegro Assai
 
   Melos Quartett, Strings
