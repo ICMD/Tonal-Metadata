@@ -2,7 +2,7 @@
 > Rosemary Clooney
 > 1 / 1
 > Easy Listening | 1979 | Concord Records
->  | 
+> 32bfbad098d02a77f755c362af24b407 | 
 > 123906016, 292283377 | 
 
 > From Bing to Billie
