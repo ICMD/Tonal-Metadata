@@ -7,15 +7,15 @@
 
 > The Complete Album Collection: The 70’s
 > Bob Dylan
-> 16 / 16
-> Rock | 2013 | Columbia/Legacy
-> 7c9134732dc9ce79e63cc5a7a39060ee | 
->  | 
+> 16 / 16 BOXSET
+> Rock | 1973 | Columbia/Legacy
+> 3d2cf38920ff63ea6ec202160bbaa308 | 
+> 716996806 | 
 
 > The Complete Album Collection, Vol. One
 > Bob Dylan
 > 26 / 47 BOXSET
-> Rock | 2013 | Columbia
+> Alternative | 2013 | Columbia
 > 85fb36e3bb7ea97354c66999b7d21679 | 
 >  | 
 
