@@ -2,7 +2,7 @@
 > Rosemary Clooney
 > 1 / 2
 > Easy Listening | 2002 | Concord Jazz
->  | 
+> 2aad0332e8b0ddcf2a7ed356cee79247 | 
 > 131272614, 295927955 | 
 
 > The Songbook Collection (Box Set)
