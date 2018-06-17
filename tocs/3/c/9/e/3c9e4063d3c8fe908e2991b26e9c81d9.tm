@@ -1,12 +1,20 @@
 > Sings Arlen & Berlin
 > Rosemary Clooney
 > 2 / 2
-> Easy Listening | 2006 | UMG
+> Easy Listening | 2002 | Concord Jazz
 >  | 
->  | 
+> 131272614, 295927955 | 
 
+> The Songbook Collection (Box Set)
+> Rosemary Clooney
+> 4 / 6 BOXSET
+> Jazz | 1990 | Concord Jazz
+> 586d30011afa9946a8a973cca4bff9a2 | 
+> 137056810 | 
+
+Irving Berlin (1888 – 1989)
 01. It’s a Lovely Day Today
-02. Be Careful It’s My Heart
+02. Be Careful, It’s My Heart
 03. Cheek to Cheek
 04. How about Me
 05. The Best Thing for You Would Be Me
