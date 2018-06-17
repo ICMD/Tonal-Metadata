@@ -1,14 +1,14 @@
 > Sings Arlen & Berlin
 > Rosemary Clooney
 > 1 / 2
-> Easy Listening | 2006 | UMG
+> Easy Listening | 2002 | Concord Jazz
 >  | 
->  | 
+> 131272614, 295927955 | 
 
 > The Songbook Collection (Box Set)
 > Rosemary Clooney
 > 3 / 6 BOXSET
-> Jazz | 1990 | Concord Records
+> Jazz | 1990 | Concord Jazz
 > 586d30011afa9946a8a973cca4bff9a2 | 
 > 137056810 | 
 
