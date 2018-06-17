@@ -1,40 +1,32 @@
-> Conférence de Presse Vol. 2
-> Eddy Louiss
-> 1 / 1
-> Jazz | 2012 | Francis Dreyfus Music
-> 5609e04931c1a45011def09cc0f38a3f | 
->  | 
-
-> Conférence de Presse
+> Conférence de Presse, Vol. 2
 > Eddy Louiss & Michel Petrucciani
-> 2 / 2
-> Jazz | 1994 | Dreyfus
-> 5609e04931c1a45011def09cc0f38a3f | 
->  | 
+> 1 / 1
+> Jazz | 1995 | Disques Dreyfus
+> 4b9dbfa1e368311789ea03f47866ac75 | 
+> 1192076195 | 
 
-> 3 CD Original Classics
-> Michel Petrucciani
-> 1 / 3
-> Jazz | 2012 | Francis Dreyfus Music
-> 121ba4f9f136612d9d35fb3b70f8d36e | 
->  | 
-
-> The Complete Dreyfus Jazz Recordings
-> Michel Petrucciani
-> 4 / 12
-> Jazz | 2012 | Francis Dreyfus Music
-> 0fedae1465915aecc8d498a5e5afd717 | 
->  | 
-
+Joseph Kosma (1905 – 1969)
 01. Autumn Leaves
+
+Michel Petrucciani (1962 – 1999)
 02. Hub Art
+
+"Duke" Ellington (1899 – 1974)
 03. Caravan
+
+Eddy Louiss (b. 1941)
 04. Naissance
+
+Michel Petrucciani (1962 – 1999)
 05. Rachid
+
+Eddy Louiss (b. 1941)
 06. Caraïbes
 07. Au P'tit Jour
+
+George Gershwin (1898 – 1937)
 08. Summertime
 
   Eddy Louiss
   Michel Petrucciani
-  Rec. Live Recording
+  Rec. 1994-06-14 – 1994-06-16 in Petit Journal Montparnasse, Paris, Live Recording
