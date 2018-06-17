@@ -1,9 +1,9 @@
 > Sings Arlen & Berlin
 > Rosemary Clooney
 > 1 / 2
-> Easy Listening | 2002 | Concord Records
+> Easy Listening | 2006 | UMG
 >  | 
-> 131272614, 295927955 | 
+>  | 
 
 > The Songbook Collection (Box Set)
 > Rosemary Clooney
