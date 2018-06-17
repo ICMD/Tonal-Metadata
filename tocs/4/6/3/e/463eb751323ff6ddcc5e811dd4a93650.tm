@@ -2,7 +2,7 @@
 > Bob Dylan
 > 1 / 1
 > Rock | 1976 | Columbia
->  | 
+> 7c130a3797da604e48f11599f16fd20b | 
 > 181455682 | 
 
 > The Complete Album Collection: The 70’s
