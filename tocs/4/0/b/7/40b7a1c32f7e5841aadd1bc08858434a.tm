@@ -30,8 +30,8 @@
 > Various Artists
 > 6 / 25 BOXSET
 > Jazz | 2011 | Sony Music UK
-> bf762c3fcea8a7f411f848e037637e03 | 
->  | B004Q9SO0O
+> dec9b2ce39d9266ba1bb94cb44adebaa | 
+>  | 
 
 Charles Mingus (1922 – 1979)
 01. Better Git It in Your Soul
