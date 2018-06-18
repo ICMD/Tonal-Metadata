@@ -1,10 +1,11 @@
 > For You
 > Prince
 > 1 / 1
-> R&B | 1978 | Warner Bros.
-> 5b29ea159769253d442b7326b9759518 | 
->  | 
+> R&B | 1978 | Warner Bros. Records
+> 908cdc54c62f04e32d19e42f2830cdfa | 
+> 663586846 | 
 
+Prince
 01. For You
 02. In Love
 03. Soft and Wet
@@ -16,3 +17,4 @@
 09. I’m Yours
 
   Prince
+  Rec. The Record Plant, Sausalito
