@@ -1,8 +1,8 @@
 > Blow Up
-> Isao Suzuki
+> Isao Suzuki Trio
 > 1 / 1
 > Jazz | 1973 | Three Blind Mice
-> 8eb9115d193e36e5904f6bd139919f0d | 
+>  | 
 >  | 
 
 01. Aqua Marine
