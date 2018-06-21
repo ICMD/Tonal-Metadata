@@ -1,9 +1,9 @@
 > Private Life: The Compass Point Sessions
 > Grace Jones
 > 1 / 2
-> Alternative | 1998 | Island Records
+> Alternative | 1998 | Island
 > cc21d3380092fe872e192ae7f116ed50 | 
->  | 
+> 14975206 | 
 
 Chrissie Hynde
 01. Private Life (Long Version)
