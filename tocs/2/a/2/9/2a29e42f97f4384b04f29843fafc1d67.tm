@@ -1,19 +1,20 @@
 > Cross Road Blues
 > Robert Johnson
 > 1 / 1
-> Blues | 2010 | Penny
+> Blues | 1997 | Penny
 > 7b0f42227f82f300de659a1296cc860d | 
 >  | 
 
+Robert Johnson
 01. Kindhearted Woman Blues
 02. I Believe I’ll Dust My Broom
 03. Sweet Home Chicago
-04. Ramblin’ on My Mind
-05. When You Got a Good Friend
+04. Rambling on My Mind
+05. When You Got a Friend
 06. Come on in My Kitchen
 07. Terraplane Blues
 08. Phonograph Blues
-09. 32 – 20 Blues
+09. 30 – 20 Blues
 10. They’re Red Hot
 11. Dead Shrimp Blues
 12. Cross Road Blues
