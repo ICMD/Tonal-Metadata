@@ -1,7 +1,7 @@
 > Mosaic Select
 > Sidney Bechet
 > 3 / 3
-> Jazz | 1947 | Mosaic
+> Jazz | 1937 | 
 >  | 
 >  | 
 
