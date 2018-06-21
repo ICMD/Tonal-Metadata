@@ -1,7 +1,7 @@
 > Mosaic Select 22
 > Sidney Bechet
 > 1 / 3
-> Jazz | 1923 | 
+> Jazz | 1937 | 
 >  | 
 >  | 
 
