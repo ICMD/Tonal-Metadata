@@ -1,11 +1,18 @@
 > Dire Straits
 > Dire Straits
 > 1 / 1
-> Rock | 1978 | Warner
-> 9121127f9226a97742cbbe23a3c5a582 | 
->  | 
+> Rock | 1978 | Warner Bros. Records
+> fb49ac56ca212945fddde2c0b4da6082 | 
+> 15009402, 28918024, 307029087 | 
 
+Mark Knopfler
 01. Down to the Waterline
+
+  David Knopfler, Guitar
+  Pick Withers, Drums
+  John Illsley, Bass Guitar
+  Dire Straits
+
 02. Water of Love
 03. Setting Me Up
 04. Six Blade Knife
