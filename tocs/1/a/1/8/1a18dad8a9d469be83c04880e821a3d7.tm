@@ -24,12 +24,12 @@ Willie Mitchell, Al Green & Al Jackson, Jr.
 06. Let’s Stay Together
 
 Elton John & Bernie Taupin
-07. Your Song
+07. Your Song (Single Version)
 
 J. Lang, B. Sigler & Billy Paul
 08. I’m Gonna Make It This Time
 
 Kenneth Gamble, Leon Huff, Cary Gilbert & Billy Paul
-09. Me and Mrs. Jones
+09. Me and Mrs. Jones (Single Version)
 
   Billy Paul
