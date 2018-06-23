@@ -1,19 +1,47 @@
 > One Nation under a Groove
 > Funkadelic
 > 1 / 1
-> R&B | 2001 | VICTOR ENTERTAINMENT
+> R&B | 2000 | Victor
 >  | 
 >  | 
 
+Funkadelic
 01. One Nation under a Groove
-02. Groovallegiance
+
+  Junie Morrison
+  Garry Shider
+  George Clinton
+
+02. Grooveallegiance
+
+  Junie Morrison
+  George Clinton
+  Bernie Worrell
+
+Junie Morrison
 03. Who Says a Funk Band Can’t Play Rock?
+
+Funkadelic
 04. Promentalshitbackwashpsychosis Enema Squad (The Doo Doo Chasers)
 05. Into You
+
+  Funkadelic
+
 06. Cholly
-07. Lunchmeataphobia (Think, It Ain’t Illegal Yet!)
-08. P.E. Squad: Doo Doo Chasers
+
+  Junie Morrison
+  George Clinton
+  Bootsy Collins
+
+07. Lunchmeataphobia (Think! It Ain’t Illegal Yet!)
+08. P.E. Squad: Doodoo Chasers Going All – The – Way – Off (instrumental version)
+
+  Rec. Unknown
+
 09. Maggot Brain
-10. One Nation under a Groove (12" Version A+B Side)
+
+  Rec. Live Recording
+
+10. One Nation under a Groove (12" Version)
 
   Funkadelic
