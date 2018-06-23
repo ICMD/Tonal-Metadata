@@ -1,17 +1,18 @@
 > Semper Femina
 > Laura Marling
 > 1 / 1
-> Indie Rock | 2017 | More Alarming
-> 97badd1806ed57e1db399de9a6b0e98e | 
->  | 
+> Indie Rock | 2017 | Kobalt Music
+> 6546ad3633fda49aacf83cb06017e71e | 
+> 1179022496 | 
 
 > Semper Femina (Deluxe Edition)
 > Laura Marling
-> 1 / 2
-> Indie Rock |  | More Alarming Records
-> 97badd1806ed57e1db399de9a6b0e98e | 
->  | 
+> 1 / 2 BOXSET
+> Indie Rock | 2017 | More Alarming Records
+> 1303da92800789a0cf557847eefd2e76 | 
+> 1302118025 | 
 
+Laura Marling
 01. Soothing
 02. The Valley
 03. Wild Fire
@@ -22,4 +23,10 @@
 08. Nouel
 09. Nothing, Not Nearly
 
-  Laura Marling
+  Sebastian Steinberg, Bass
+  Nick Pini, Double Bass
+  Peter Randall, Guitar
+  Blake Mills, Guitar
+  Matt Ingram, Drums
+  Matt Chamberlain, Drums
+  Rob Moose, Strings
