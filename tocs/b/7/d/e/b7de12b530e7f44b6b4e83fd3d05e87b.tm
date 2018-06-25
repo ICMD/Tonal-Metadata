@@ -5,7 +5,7 @@
 >  | 
 > 307840664 | 
 
-Johann Sebastian Bach (1685 – 1750) & Jacques Loussier (b. 1934)
+Johann Sebastian Bach (1685 – 1750) – Jacques Loussier (b. 1934)
 01. Partita in E major
 02. Invention for Two Voices No. 8
 03. Siciliana in G minor
