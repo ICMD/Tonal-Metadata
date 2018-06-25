@@ -2,7 +2,7 @@
 > Jacques Loussier Trio
 > 1 / 1
 > Jazz | 2009 | Telarc
->  | 
+> 9a37c3435852074862b713ce9a3ba9ec | 
 > 307840664 | 
 
 Johann Sebastian Bach (1685 – 1750) – Jacques Loussier (b. 1934)
