@@ -1,17 +1,17 @@
-> Plays Bach: The 50th Anniversary Recording
+> Jacques Loussier Plays Bach: The 50th Anniversary Recording
 > Jacques Loussier Trio
 > 1 / 1
 > Jazz | 2009 | Telarc
 >  | 
->  | 
+> 307840664 | 
 
-Plays Bach
+Johann Sebastian Bach (1685 – 1750) & Jacques Loussier (b. 1934)
 01. Partita in E major
 02. Invention for Two Voices No. 8
 03. Siciliana in G minor
 04. Vivace from Concerto in C minor
 
-Toccata and Fugue in C minor
+Toccata and Fugue in C major
 
   05. Overture
   06. Adagio
