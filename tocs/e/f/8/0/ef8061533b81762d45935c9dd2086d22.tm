@@ -14,10 +14,10 @@
 
 > Classic Albums Collection
 > Miles Davis
-> 2 / 12 BOXSET
+> 2 / 12
 > Jazz | 1972 | Columbia/Legacy
 > 8b36769f0ec2a932b8bd5e5cb3a1310a | 
-> 830638388 | B00IQ045A2
+> 830638388 | 
 
 Miles Davis (1926 – 1991)
 01. So What (Mono Version)
