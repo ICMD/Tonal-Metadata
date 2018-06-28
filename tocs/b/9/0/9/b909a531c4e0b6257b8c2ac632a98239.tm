@@ -7,7 +7,7 @@
 
 > Classic Albums Collection
 > Miles Davis
-> 5 / 12
+> 5 / 12 BOXSET
 > Jazz | 1972 | Columbia
 > 8b36769f0ec2a932b8bd5e5cb3a1310a | 
 > 830638388 | 
