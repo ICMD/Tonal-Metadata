@@ -16,7 +16,7 @@
 > Miles Davis
 > 1 / 22 BOXSET
 > Jazz | 2011 | Columbia
-> dec9b2ce39d9266ba1bb94cb44adebaa | 
+>  | 
 >  | 
 
 > Perfect Jazz Collection II
@@ -30,7 +30,7 @@
 > Miles Davis
 > 2 / 71 BOXSET
 > Jazz | 2009 | Columbia
-> dec9b2ce39d9266ba1bb94cb44adebaa | 
+>  | 
 >  | 
 
 Thelonious Monk (1917 – 1982), B. Hanighen & Cootie Williams (1911 – 1985)
