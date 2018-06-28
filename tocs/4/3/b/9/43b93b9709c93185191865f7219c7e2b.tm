@@ -2,12 +2,12 @@
 > Miles Davis
 > 1 / 2
 > Jazz | 1970 | Sony Records International
->  | 
+> a562dd58a8ccca2b37347a9c9cc99de6 | 
 > 168376392 | 
 
 > Classic Albums Collection
 > Miles Davis
-> 7 / 12
+> 7 / 12 BOXSET
 > Jazz | 1972 | Columbia
 > 8b36769f0ec2a932b8bd5e5cb3a1310a | 
 > 830638388 | 
