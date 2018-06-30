@@ -1,31 +1,29 @@
-> Chopin: Piano; Arrau
+> Arrau Heritage: Chopin
 > Claudio Arrau
 > 7 / 8
-> Classical | 1970 | 
+> Classical | 2003 | Philips Classics
+> b037bd25b5d55ca965027d685255de29 | 
 >  | 
->  | 
-
-01. Concerto Pour Piano No. 2 en Fa Mineur, Op. 21 (Maestoso)
 
 Frédéric Chopin (1810 – 1849)
+01. Piano Concerto No. 2 in F minor, Op. 21: I. Maestoso
 02. Piano Concerto No. 2 in F minor, Op. 21, B 43: II. Larghetto
+03. Piano Concerto No. 2 in F minor, Op. 21: III. Allegro vivace
 
-COMPOSER NON-APPLICABLE
-03. Concerto Pour Piano No. 2 en Fa Mineur, Op. 21 (Allegro Vivace)
-
-  Claudio Arrau
+  Claudio Arrau, Piano
   London Philharmonic Orchestra
   Eliahu Inbal, Conductor
+  Rec. 1970-10-17 – 1970-10-22 in Brent Town Hall, Brent
 
-04. Fantaisie en Fa Mineur, Op. 49
-05. Impromptus No. 1 en la Bémol Majeur in A-flat major, Op. 29
+04. Fantasia in F minor, Op. 49
 
-Frédéric Chopin (1810 – 1849)
-06. Impromptu No. 2 in F-sharp major, Op. 36
+  Rec. 1977-04
+
+05. Impromptu No. 1 in A-flat major, Op. 29
+06. Impromptu No. 2 in F-sharp minor, Op. 36
 07. Impromptu No. 3 in G-flat major, Op. 51
+08. Impromptu No. 4 in C-sharp minor, Op. 66
+09. Barcarolle in F-sharp major, Op. 60
 
-COMPOSER NON-APPLICABLE
-08. Impromptus No. 4 en Ut Dièse Mineur, Op. 66 Fantaisie – Impromptu in C-sharp minor
-09. Barcarolle en Fa Dièse Majeur in F-sharp major, Op. 60
-
-  Claudio Arrau
+  Claudio Arrau, Piano
+  Rec. 1953
