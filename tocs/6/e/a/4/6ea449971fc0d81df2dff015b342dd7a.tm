@@ -1,37 +1,38 @@
-> Bach: English Suites
+> Bach: Richter the Master, Vol. 8
 > Sviatoslav Richter
-> 1 / 3
-> Classical | 1991 | Philips
+> 1 / 2
+> Classical | 1993 | Decca Classics
 > a666cc37bd834e6e2addf581dc2cbc15 | 
->  | 
+> 263344559 | 
 
 Johann Sebastian Bach (1685 – 1750)
 English Suite No. 3 in G minor, BWV 808
 
-  01. Prelude
-  02. Allemande
-  03. Courante
-  04. Sarabande
-  05. Gavottes 1 & 2
-  06. Gigue
+  01.    I. Prélude
+  02.   II. Allemande
+  03.  III. Courante
+  04.   IV. Sarabande
+  05.    V. Gavotte I – Gavotte II ou la musette
+  06.   VI. Gigue
 
 English Suite No. 4 in F major, BWV 809
 
-  07. Prelude
-  08. Allemande
-  09. Courante
-  10. Sarabande
-  11. Menuets 1 & 2
-  12. Gigue
+  07.    I. Prélude
+  08.   II. Allemande
+  09.  III. Courante
+  10.   IV. Sarabande
+  11.    V. Menuet I – II
+  12.   VI. Gigue
 
 English Suite No. 6 in D minor, BWV 811
 
-  13. Prelude
-  14. Allemande
-  15. Courante
-  16. Sarabande
-  17. Double
-  18. Gavottes 1 & 2
-  19. Gigue
+  13.    I. Prélude
+  14.   II. Allemande
+  15.  III. Courante
+  16.   IV. Sarabande
+  17.    V. Double
+  18.   VI. Gavotte I – II
+  19.  VII. Gigue
 
-  Sviatoslav Richter
+  Sviatoslav Richter, Piano
+  Rec. 1991-03-05 in Rolandseck Station, Remagen, Live Recording
