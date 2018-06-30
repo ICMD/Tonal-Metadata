@@ -2,7 +2,7 @@
 > Sviatoslav Richter
 > 1 / 2
 > Classical | 1993 | Decca Classics
-> a666cc37bd834e6e2addf581dc2cbc15 | 
+> 97fe8aeae870ef88a73525ffa2e53c93 | 
 > 263344559 | 
 
 Johann Sebastian Bach (1685 – 1750)
