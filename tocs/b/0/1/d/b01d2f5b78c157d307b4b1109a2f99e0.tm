@@ -1,8 +1,8 @@
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 38 / 51
+> 38 / 51 BOXSET
 > Classical | 2015 | Decca Records
-> d62b5070406ccdd9ed4381cdb9c7db89 | 
+> 83b1a7b6cd38a5c990f009da0751a42c | 
 >  | 
 
 Johannes Brahms (1833 – 1897)
