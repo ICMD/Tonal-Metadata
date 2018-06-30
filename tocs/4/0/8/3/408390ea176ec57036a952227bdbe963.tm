@@ -9,7 +9,7 @@
 > Various Artists
 > 43 / 50 BOXSET
 > Classical | 2008 | Decca Records
->  | 
+> 3deee6277149d3254e34f928814bd0d5 | 
 > 294091970 | 
 
 Erik Satie (1866 – 1925)
