@@ -1,8 +1,8 @@
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 39 / 51
+> 39 / 51 BOXSET
 > Classical | 2015 | Decca Records
-> d62b5070406ccdd9ed4381cdb9c7db89 | 
+> 83b1a7b6cd38a5c990f009da0751a42c | 
 >  | 
 
 Antonín Dvořák (1841 – 1904)
