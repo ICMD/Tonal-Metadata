@@ -1,50 +1,52 @@
-> Haydn: Piano Sonatas
+> Haydn: Piano Sonatas No. 40, 41, 44, 48 & 52
 > Sviatoslav Richter
 > 1 / 1
-> Classical | 1987 | Decca
+> Classical | 1993 | Decca Records
 > 31b0fc89e4ce8df1bc0d84058f95c90c | 
->  | 
+> 4566571, 14722560 | 
 
-> Piano Masterworks
+> Piano Masterworks: The World’s Favourite Piano Classics
 > Various Artists
-> 27 / 50
-> Classical | 2008 | Decca
+> 27 / 50 BOXSET
+> Classical | 2008 | Decca Records
 > 3deee6277149d3254e34f928814bd0d5 | 
->  | 
+> 294091970 | 
 
-> リヒテル大全集 (Decca, Philips & DG 録音)
-> スヴャトスラフ・リヒテル
-> 4 / 51
-> Classical | 1987 | 
-> 166faf4eeeca9342c435ed14aa396451 | 
+> Complete Decca, Philips & DG Recordings
+> Sviatoslav Richter
+> 4 / 51 BOXSET
+> Classical | 2015 | Decca Records
+> 83b1a7b6cd38a5c990f009da0751a42c | 
 >  | 
 
 Joseph Haydn (1732 – 1809)
-Piano Sonata No. 32 in G minor, H. 16 / 44
+Piano Sonata in G minor, H. XVI No. 44
 
   01.    I. Moderato
   02.   II. Allegretto
 
-Piano Sonata No. 54 in G major, H. 16 / 40
+Piano Sonata in G major, H. XVI No. 40
 
-  03.    I. Allegretto E Innocente
+  03.    I. Allegretto e innocente
   04.   II. Presto
 
-Piano Sonata No. 55 in B-flat major, H. 16 / 41
+Piano Sonata in B-flat major, Hob. XVI No. 41
 
   05.    I. Allegro
-  06.   II. Allegro di Molto
+  06.   II. Allegro di molto
 
-Piano Sonata No. 58 in C major, H. 16 / 48
+  Rec. 1987-02-14 – 1987-02-21 in Teatro Bibiena, Mantua, Live Recording
 
-  07.    I. Andante con Espressione
-  08.   II. Rondo: Presto
+Piano Sonata in C major, H. XVI No. 48
 
-Piano Sonata No. 62 in E-flat major, H. 16 / 52
+  07.    I. Andante con espressione
+  08.   II. Rondo (Presto)
+
+Piano Sonata in E-flat major, H. XVI No. 52
 
   09.    I. Allegro
   10.   II. Adagio
-  11.  III. Finale: Presto
+  11.  III. Finale (Presto)
 
-  Sviatoslav Richter
-  Rec. 1987-02, Live Recording
+  Sviatoslav Richter, Piano
+  Rec. 1986-05-25 in Teatro Bibiena, Mantua, Live Recording
