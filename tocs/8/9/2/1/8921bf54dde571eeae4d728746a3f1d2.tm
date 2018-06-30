@@ -1,10 +1,11 @@
 > The Door
-> Keb' Mo'
+> Keb’ Mo’
 > 1 / 1
-> Blues | 2000 | OKeh
+> Blues | 2000 | Epic
 > 2e67185ec68b5ead068ec2f6ef479ce1 | 
 >  | 
 
+Keb' Mo'
 01. The Door
 02. Loola Loo
 03. It Hurts Me Too
