@@ -12,21 +12,21 @@ Piano Concerto No. 1 in E minor, Op. 11
   02.   II. Romance. Larghetto
   03.  III. Rondo. Vivace
 
-  Claudio Arrau、インバル&ロンドン・フィルハーモニック交響楽団, Piano
+  Claudio Arrau, Piano
   London Philharmonic Orchestra
   Eliahu Inbal, Conductor
   Rec. 1970-10 in Brent Town Hall, Brent
 
 04. Andante Spianato et Grande Polonaise Brillante in E-flat major, Op. 22
 
-  Claudio Arrau、インバル&ロンドン・フィルハーモニック交響楽団, Piano
+  Claudio Arrau, Piano
   London Philharmonic Orchestra
   Eliahu Inbal, Conductor
   Colin Davis, Conductor
 
 05. Variations on “Là Ci Darem la Mano” from Mozart’s Don Giovanni for Piano and Orchestra in B-flat major, Op. 2
 
-  Claudio Arrau、インバル&ロンドン・フィルハーモニック交響楽団, Piano
+  Claudio Arrau, Piano
   London Philharmonic Orchestra
   Eliahu Inbal, Conductor
   Rec. 1972-06
