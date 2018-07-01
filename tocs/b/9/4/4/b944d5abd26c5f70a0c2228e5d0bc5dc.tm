@@ -1,19 +1,16 @@
 > Stranger in the Alps
 > Phoebe Bridgers
 > 1 / 1
-> UNKNOWN GENRE | 2017 | Dead Oceans
-> e19b7d04da9efdf7bd37929da68368e4 | 
->  | 
+> Alternative | 2017 | Dead Oceans
+> b9f259e1cd7ec4e0884bb7e9ed85d206 | 
+> 1256607808 | 
 
+Phoebe Bridgers
 01. Smoke Signals
 02. Motion Sickness
 03. Funeral
 04. Demi Moore
-
-Scott
-05. Street
-
-COMPOSER NON-APPLICABLE
+05. Scott Street
 06. Killer
 07. Georgia
 08. Chelsea
