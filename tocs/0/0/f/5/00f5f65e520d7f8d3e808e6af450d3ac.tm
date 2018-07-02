@@ -1,67 +1,62 @@
-> Authorized Recordings
-> Sviatoslav Richter
-> 1 / 1
-> Classical | 1998 | Philips
->  | 
->  | 
-
-> Complete Decca, Philips, DG Recordings: Solo Recordings
+> Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
 > 33 / 51
-> Classical | 1998 | 
->  | 
+> Classical | 2015 | Decca Records
+> 83b1a7b6cd38a5c990f009da0751a42c | 
 >  | 
 
 César Franck (1822 – 1890)
-01. Prélude, Choral et Fugue (Florence, Juin 1966): Prélude
+Prélude, Chorale et Fugue
 
-- Prélude, Choral et Fugue
-
-  02. Choral
+  01. Prélude
+  02. Chorale
   03. Fugue
 
   Rec. 1966-06, Live Recording
 
 Claude Debussy (1862 – 1918)
-04. Préludes, Book 1 (Ferrara, Nov. 1966): No. 9: La Sérénade Interrompue
-05. Préludes, Book 1: No. 11
+Préludes: Book 1, L. 117
+
+  04.   IX. La sérénade interrompue
+  05.   XI. La danse de Puck
 
   Rec. 1966-11, Live Recording
 
 Richard Wagner (1813 – 1883)
-06. Elegie la B M (Copenhagen, Juil. 1986)
+06. Elegy in A-flat major
 
   Rec. 1986-07
 
 Frédéric Chopin (1810 – 1849)
-07. Etudes, Op. Posth. “Méthode Des Méthodes” (Como, FéV. 1989): No. 1: Fa M
-08. Etudes, Op. Posth. “Méthode Des Méthodes”: No. 2: Ré B M
+3 Etudes, Op. Posth. “Méthode Des Méthodes”
+
+  07. No. 1 in F minor
+  08. No. 2 in A-flat major
 
   Rec. 1989-02, Live Recording
 
 Sergei Rachmaninoff (1873 – 1943)
-09. Etudes Tableaux, Op. 39 (Livorno, Nov. 1966): No. 3: Fa D M
-10. Etudes Tableaux, Op. 39: No. 4: Si M
+09. Etude – Tableau in F-sharp minor, Op. 39 No. 3
+10. Etude – Tableau in B minor, Op. 39 No. 4
 
   Rec. 1966-11, Live Recording
 
 Robert Schumann (1810 – 1856)
-11. Toccata Ut M, Op. 7 (Copenhagen, Juil. 1986)
+11. Toccata in C major, Op. 7
 
   Rec. 1986-07
 
 Franz Liszt (1811 – 1886)
-12. Mephisto – Valse No. 2, S. 515 (Cologne, Mars 1988)
+12. Mephisto Waltz No. 2, S. 515
 
   Rec. 1988-03, Live Recording
 
 Béla Bartók (1881 – 1945)
-13. 3 Burlesques (Harom Burlesk), Op. 8c, BB 55 (London, Mars 1989): 1 Querrelle (Perpatvar), Presto
+3 Burlesques, Sz. 47, Op. 8c (BB 55)
 
-3 Burlesques (Harom Burlesk), Op. 8c, BB 55
-
-  14. 2 Un Peu Gris (Kicsit Azottan), Allegretto
-  15. 3 Molto Vivo, Capriccioso
+  13.    I. Presto
+  14.   II. Allegretto
+  15.  III. Molto vivo, capriccioso
 
   Sviatoslav Richter
   Rec. 1989-03, Live Recording
