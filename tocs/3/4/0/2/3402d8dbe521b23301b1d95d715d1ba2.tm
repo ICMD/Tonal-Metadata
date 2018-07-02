@@ -1,17 +1,18 @@
-> The Private Collection: Volume Ten, Studio Sessions New York & Chicago 1965, 1966, 1971
+> The Private Collection, Vol. 6: Studio Sessions, New York and Chicago, 1965, 1966, 1971
 > Duke Ellington
 > 1 / 1
-> Jazz | 1989 | Demon
-> 321b4ebba4745ab3c89dc464ef71c6e4 | 
->  | 
+> Jazz | 1989 | Rhino Atlantic
+> 9e8f42f60ad8a1e83c628e4c26d683a2 | 
+> 279155030, 1203482359 | 
 
-01. Black
+"Duke" Ellington (1899 – 1974)
+01. Black and Blue
 02. Comes Sunday
 03. Light
 04. West Indian Dance
 05. Emancipation Celebration
 06. The Blues
-07. CY Runs Rock Waltz
+07. Cy Runs Rock Waltz
 08. Beige
 09. Sugar Hill Penthouse
 10. Harlem
