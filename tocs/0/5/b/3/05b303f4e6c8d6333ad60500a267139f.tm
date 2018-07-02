@@ -1,9 +1,9 @@
 > Brahms: Complete Chamber Music
 > Various Artists
-> 8 / 11
+> 8 / 11 BOXSET
 > Classical | 2012 | Deutsche Grammophon
 > d5d2cd2a2c7647912fc54ea76f18e88b | 
-> 544883745, 569373465 | B009P3QJYO, B01K8OIVOE, B008CYUZWE
+> 544883745, 569373465 | B008CYUZWE
 
 > Complete Recordings on Deutsche Grammophon
 > Emerson String Quartet & Leon Fleisher
