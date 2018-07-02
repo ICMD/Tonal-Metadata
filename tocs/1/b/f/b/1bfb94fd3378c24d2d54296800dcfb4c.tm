@@ -2,7 +2,7 @@
 > Charles Mingus
 > 5 / 7
 > Jazz | 2012 | Mosaic Records
->  | 
+> b555adf2c17a528907b0f9a9687e2d6d | 
 >  | 
 
 Charles Mingus (1922 – 1979)
