@@ -1,11 +1,11 @@
 > Tribute to Irakere: Live in Marciac
 > Chucho Valdés
 > 1 / 1
-> Jazz | 2016 | Jazz Village
-> 418ea900773db6797689a2408a57bf8a | 
->  | 
+> Jazz | 2015 | Jazz Village
+> 6dcd7d3312b7772df1473ce18178c90e | 
+> 1048908735, 1081830549 | 
 
-Tribute to Irakere
+Chucho Valdés (b. 1941)
 01. Juana 1600
 02. Lorena’s Tango
 03. Congadanza
