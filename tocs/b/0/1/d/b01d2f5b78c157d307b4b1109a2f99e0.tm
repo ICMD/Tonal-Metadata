@@ -1,6 +1,6 @@
 > Complete Decca, Philips & DG Recordings
 > Sviatoslav Richter
-> 38 / 51
+> 38 / 51 BOXSET
 > Classical | 2015 | Decca Records
 > 83b1a7b6cd38a5c990f009da0751a42c | 
 >  | 
