@@ -1,5 +1,5 @@
 > The Jazz Workshop Concerts 1964 – 1965
-> Charles Mingus Sextet Feat. Eric Dolphy
+> Charles Mingus
 > 3 / 7
 > Jazz | 2012 | Mosaic Records
 >  | 
