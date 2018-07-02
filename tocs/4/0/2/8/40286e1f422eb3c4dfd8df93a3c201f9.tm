@@ -1,7 +1,7 @@
 > The Jazz Workshop Concerts 1964 – 1965
 > Charles Mingus
 > 1 / 7
-> Jazz | 2012 | 
+> Jazz | 2012 | Mosaic Records
 >  | 
 >  | 
 
