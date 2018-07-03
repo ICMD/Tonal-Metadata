@@ -1,18 +1,18 @@
 > Sviatoslav Richter’s Boston Debut
-> Anonymous, Sviatoslav Richter; Charles Munch & Boston Symphony Orchestra
+> Charles Münch, Boston Symphony Orchestra & Sviatoslav Richter
 > 1 / 2
 > Classical | 2013 | West Hill Radio Archives
-> 514fd535fe2d23f439bdbaeed44b4c1a | 
->  | 
+> 530bfa16bf491b7048ac9dc83cd034f7 | 
+> 717406867 | 
 
-01. Opening Announcement
+—
+01. Announcement 1
 
   Anonymous
 
-Die Geschopfe Des Prometheus (The Creatures of Prometheus), Op. 43
-
-  02. Overture
-  03. Overture – Announcement
+Ludwig van Beethoven (1770 – 1827)
+02. Die Geschöpfe Des Prometheus, Op. 43: Overture
+03. Announcement 2: Overture – Announcement
 
   Boston Symphony Orchestra
   Charles Munch, Conductor
@@ -21,8 +21,9 @@ Piano Concerto No. 1 in C major, Op. 15
 
   04.    I. Allegro con brio
   05.   II. Largo
-  06.  III. Rondo: Allegro scherzando
-  07. Applause and announcement
+  06.  III. Rondo. Allegro scherzando
+
+07. Announcement 3: Applause and announcement
 
   Sviatoslav Richter
   Boston Symphony Orchestra
