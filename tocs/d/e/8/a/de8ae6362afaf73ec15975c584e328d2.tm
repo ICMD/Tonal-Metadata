@@ -7,10 +7,10 @@
 
 > Original Album Series
 > Duke Ellington & His Orchestra
-> 2 / 5 BOXSET
-> Pop | 2010 | Rhino
+> 2 / 5
+> Jazz | 2010 | Rhino
 > ceb6e1e4b82627b9cf2f25151836c4b4 | 
-> 1067476831 | B014I7DR8C
+> 1067476831 | 
 
 Billy Strayhorn (1915 – 1967)
 01. Take the “A” Train (Jazz Violin Version)
