@@ -1,8 +1,8 @@
-> Original Album Series
+> Ellington '66
 > Duke Ellington & His Orchestra
-> 5 / 5
+> 1 / 1
 > Jazz | 2010 | Rhino
-> ceb6e1e4b82627b9cf2f25151836c4b4 | 
+> 5969a369ef071e84330c4bef1c179099 | 
 > 1067476831 | 
 
 Sir Richard Rodney Bennett (b. 1936) & S. Tepper
