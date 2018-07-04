@@ -8,16 +8,16 @@
 > Shine On
 > Pink Floyd
 > 2 / 9 BOXSET
-> Rock | 1992 | Columbia
-> 1b6e4bcc4886b72cb919c16acb44a186 | 
->  | B000025MKW
+> Rock | 1992 | Sony Records
+> 2b7606fa4d1da250436a3b2ca70e3768 | 
+>  | 
 
 > Oh by the Way
 > Pink Floyd
 > 7 / 16 BOXSET
 > Rock | 2007 | EMI
 >  | 
->  | B000X1LH6C, B01A7UK90S
+>  | 
 
 > Discovery
 > Pink Floyd
