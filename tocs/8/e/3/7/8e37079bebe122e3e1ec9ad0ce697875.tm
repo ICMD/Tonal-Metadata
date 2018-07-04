@@ -1,42 +1,23 @@
-> Complete Chick Webb & Ella Fitzgerald Decca Sessions (1934-1941)
-> Ella Fitzgerald, Chick Webb
+> The Complete Chick Webb & Ella Fitzgerald Decca Sessions
+> 1934-1941
 > 3 / 8
-> Jazz | 1937 | 
->  | 
+> Jazz | 2013 | Mosaic Records
+> 60244f6a2ff1bd49ff5ef539de3e5f9f | 
 >  | 
 
+Ella Fitzgerald (1917 – 1996) & Chick Webb (1909 – 1939)
 01. Rusty Hinge
-
-  Louis Jordan, Vocal
-  Chick Webb & His Orchestra
-
 02. Wake up and Live
-
-  Louis Jordan, Vocal
-  Charles Linton, Vocals
-  Ella Fitzgerald
-  Chick Webb & His Orchestra
-
 03. It’s Swell of You
-
-  Louis Jordan, Vocal
-  Chick Webb & His Orchestra
-
 04. You Showed Me the Way
-05. Clap Hands! Here Comes Charlie!
+05. Clap Hands, Here Comes Charlie!
 06. Cryin’ Mood
 07. Love is the Thing, so They Say
 08. That Naughty Waltz
-
-  Chick Webb & His Orchestra
-
 09. All over Nothing at All
 10. If You Ever Should Leave
 11. Everyone’s Wrong but Me
 12. Deep in the Heart of the South
-
-  Ella Fitzgerald
-
 13. In a Little Spanish Town
 14. I Got Rhythm
 15. I Ain’t Got Nobody
@@ -48,7 +29,7 @@
 21. Rock It for Me
 22. Squeeze Me
 23. Harlem Congo
-24. You Showed Me the Way
-25. If You Ever Should Leave
+24. You Showed Me the Way (– B)
+25. If You Every Should Leave (– B)
 
-  Chick Webb & His Orchestra
+  1934-1941
