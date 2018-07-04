@@ -2,9 +2,10 @@
 > Chucho Valdés
 > 1 / 1
 > Jazz | 2010 | World Village
-> f61ffbb55e6e7c5ca18937082c255bd6 | 
->  | 
+> a873ff9d4d970c83a5735891d5154f2e | 
+> 383580319, 587840345 | 
 
+Chucho Valdés (b. 1941)
 01. Las Dos Caras (Both Sides)
 02. Danzón
 03. Zawinul’s Mambo
@@ -15,3 +16,4 @@
 08. Chucho’s Steps
 
   Chucho Valdés
+  The Afro-Cuban Messengers
