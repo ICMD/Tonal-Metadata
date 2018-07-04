@@ -17,7 +17,7 @@
 > 12 / 16 BOXSET
 > Rock | 2007 | EMI
 >  | 
->  | B000X1LH6C, B01A7UK90S
+>  | 
 
 > Discovery
 > Pink Floyd
