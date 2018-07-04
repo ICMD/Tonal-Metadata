@@ -1,8 +1,8 @@
-> Original Album Series
+> Ellington '65
 > Duke Ellington & His Orchestra
-> 4 / 5
+> 1 / 1
 > Jazz | 2010 | Rhino
-> ceb6e1e4b82627b9cf2f25151836c4b4 | 
+> 74fd795fe7d4fcc7c1e3b605b73785f5 | 
 > 1067476831 | 
 
 Jerry Herman (b. 1933)
