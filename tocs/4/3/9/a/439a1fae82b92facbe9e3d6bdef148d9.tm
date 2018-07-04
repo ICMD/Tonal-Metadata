@@ -1,8 +1,8 @@
-> Magiske Toner I TIVOLI, Vol. 4
+> Sassy Swings The Tivoli
 > Sarah Vaughan
 > 1 / 1
-> Jazz | 2013 | HatTrick
-> 77cff46f52b83d3877f53f626f3875e3 | 
+> Jazz | 1963 | Mercury Records
+> b8bdd0ee11ba5a9b7f05804d6cf7baec | 
 > 783004994 | 
 
 01. Won’t You Come Home Bill Bailey
