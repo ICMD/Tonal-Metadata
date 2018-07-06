@@ -1,19 +1,20 @@
-> Scotty Hard`s Radical Reconstructive Surgery
-> John Medeski, Matthew Shipp
+> Radical Reconstructive Surgery
+> Radical Reconstructive Surgery
 > 1 / 1
-> Jazz | 2006 | Thirsty Ear
+> Jazz | 2006 | Thirsty Ear Recordings
 >  | 
->  | 
+> 185278725 | 
 
-01. Primary Humor
-02. Chance Operation
-03. St. Claire`s Hospital
-04. Noonday Demon
+John Medeski (b. 1965) & Matthew Shipp (b. 1960)
+01. Intro
+02. Primary Humor
+03. St. Clare’s Hospital
+04. Joint Desease
 05. The General
 06. Eclipse
-07. Apothecary`s Cabinet
+07. Apothecary’s Cabinet
 08. The Peeler
 09. Anatomy of Melancholy
-10. Round
+10. Round 2
 
-  Scotty Hard
+  Radical Reconstructive Surgery
