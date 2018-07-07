@@ -1,10 +1,11 @@
 > Blue Plate Special
 > Will Bernard
 > 1 / 1
-> Jazz | 2014 | Palmetto Records
->  | 
->  | 
+> Jazz | 2008 | Palmetto Records
+> 7db25ae621c36be0ba4885db04b6a00e | 
+> 947710711 | 
 
+Will Bernard
 01. Baby Goats
 02. Magpie
 03. Blue Plate Special
