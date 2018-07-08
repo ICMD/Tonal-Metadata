@@ -1,32 +1,36 @@
-> Brahms: Double Concerto, Piano Quartets Nos. 1 & 3
-> Issac Stern, Jamie Laredo, Yo-Yo Ma
+> Brahms: Concerto for Violin, Cello and Orchestra in A minor, Op. 102 & Piano Quartet No. 3 in C minor, Op. 60 – Expanded Edition
+> Isaac Stern, Jaime Laredo, Yo-Yo Ma, Emanuel Ax; Claudio Abbado & Chicago Symphony Orchestra
 > 1 / 1
-> Classical | 2003 | Sony
+> Classical | 1990 | Sony Music
 > 5b931b66096bcdf902a309c1445f162c | 
->  | 
+> 344771519 | 
 
 Johannes Brahms (1833 – 1897)
-Concerto in A minor for Violin & Cello, Op. 102 “Double”
+Concerto for Violin, Cello and Orchestra in A minor, Op. 102
 
   01.    I. Allegro
   02.   II. Andante
-  03.  III. Vivace Non Troppo
+  03.  III. Vivace non troppo
 
-  Isaac Stern
-  Yo-Yo Ma
+  Isaac Stern, Violin
+  Yo-Yo Ma, Cello
   Chicago Symphony Orchestra
   Claudio Abbado, Conductor
+  Rec. 1987 in Symphony Center: Orchestra Hall, Chicago
 
 Piano Quartet No. 3 in C minor, Op. 60
 
-  04.    I. Allegro Non Troppo
+  04.    I. Allegro non troppo
   05.   II. Scherzo: Allegro
   06.  III. Andante
-  07.   IV. Finale: Allegro Comodo
+  07.   IV. Finale: Allegro comodo
 
-08. Piano Quartet No. 1 in G minor, Op. 25
+  Rec. 1986 in サントリーホール, Minato
 
-  Emanuel Ax
-  Isaac Stern
-  Jaime Laredo
-  Yo-Yo Ma
+08. Quartet in G minor for Piano and Strings, Op. 25: IV. Rondo alla Zingarese. Presto
+
+  Isaac Stern, Violin
+  Jaime Laredo, Viola
+  Yo-Yo Ma, Cello
+  Emanuel Ax, Piano
+  Rec. 1989
