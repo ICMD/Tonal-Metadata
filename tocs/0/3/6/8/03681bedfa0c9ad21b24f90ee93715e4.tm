@@ -1,10 +1,11 @@
 > Purple Night
 > Sun Ra
 > 1 / 1
-> Jazz | 1990 | 
+> Jazz | 1990 | A&M Records
 > d0ce8c6f54132fbd9b8d052118de9c68 | 
 >  | 
 
+Sun Ra (1914 – 1993)
 01. Journey towards Stars
 02. Friendly Galaxy
 03. Love in Outer Space
