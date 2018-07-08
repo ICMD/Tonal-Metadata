@@ -1,5 +1,5 @@
 > Chopin: Piano Sonatas Nos. 2 & 3 and Barcarolle
-> Vlado Perlemuter & disc 2
+> Vlado Perlemuter
 > 1 / 1
 > Classical | 1986 | Nimbus Records
 > d0713d48cb60aeb3a92ca36b550945dc | 
