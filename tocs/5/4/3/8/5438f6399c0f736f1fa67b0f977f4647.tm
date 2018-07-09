@@ -2,15 +2,8 @@
 > Christophe Coin, Andreas Scholl & Ensemble Baroque de Limoges
 > 1 / 1
 > Classical | 1994 | Auvidis Astrée
-> 72f449fead6896a5b3cf4de8d0081a55 | 
+> 2a101f2341e37a2d187242540928f85c | 
 > 315639339, 659774872, 1201737663 | 
-
-> Bach: Cantates
-> Gotthold Schwarz, Christophe Coin & Laurence Equilbey
-> 1 / 3 BOXSET
-> Classical | 1994 | Auvidis Astrée
-> d1dd6c4588a30d8b70811476a6a2873c | 
-> 1195065858 | 
 
 Johann Sebastian Bach (1685 – 1750), Johann Burchard Freystein & Johann Franck (1618 – 1677)
 Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
