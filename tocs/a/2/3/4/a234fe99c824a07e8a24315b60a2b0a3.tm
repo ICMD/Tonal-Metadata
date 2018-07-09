@@ -1,10 +1,11 @@
-> Schoenberg Quatuors À Cordes en Ré Majeur (1897) & No. 2, Op. 10 (1907-8) ; Trio À Cordes, Op. 45 (1946)
+> Schoenberg: String Quartets Nos. 0 & 2, Trio
 > Pražák Quartet
 > 1 / 1
 > Classical | 1994 | Praga
 > dea08665ec1a37adf56d3470e35599fc | 
 >  | 
 
+Arnold Schoenberg (1874 – 1951)
 Quatuor À Cordes No. “0” en Ré Majeur (1897)
 
   01.    I. Allegro Molto
