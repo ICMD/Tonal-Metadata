@@ -12,7 +12,7 @@ Verklärte Nacht, Op. 4 (1899)
   02. Breiter (bar 100)
   03. Schwer betont (bar 201)
   04. Sehr breit und langsam (bar 229)
-  05. Sehr ruhig (Bar 370)
+  05. Sehr ruhig (bar 370)
 
   Yo-Yo Ma
   Robert Mann
