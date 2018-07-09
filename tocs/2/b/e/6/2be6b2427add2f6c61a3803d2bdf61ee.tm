@@ -14,12 +14,12 @@ Three Piano Pieces, Op. 11 (1909)
 
 Sechs Kleine Klavierstücke, Op. 19
 
-  04.    I. No. 1: – Leicht, Zart
-  05.   II. No. 2: – Langsam
-  06.  III. No. 3: – Sehr Langsame Viertal
-  07.   IV. No. 4: – Rasch, Aber Leicht
-  08.    V. No. 5: – Etwas Rasch
-  09.   VI. No. 6: – Sehr Langsam
+  04.    I. Leicht, Zart
+  05.   II. Langsam
+  06.  III. Sehr Langsame Viertal
+  07.   IV. Rasch, Aber Leicht
+  08.    V. Etwas Rasch
+  09.   VI. Sehr Langsam
 
 Fünf Klavierstücke
 
