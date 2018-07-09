@@ -1,30 +1,33 @@
-> New Viennese School
-> Lasalle Quartet
+> Neue Wiener Schule
+> LaSalle Quartet
 > 4 / 4
 > Classical | 1971 | Deutsche Grammophon
-> 2fd2279328b1b451df2bda4646d89e92 | 
 >  | 
+> 116994946 | 
 
-> Schoenberg / Webern / Berg / Zemlinsky / Apostel: Complete String Quartets
-> Lasalle Quartet
-> 4 / 6
-> Classical | 1971 | 
-> 2fd2279328b1b451df2bda4646d89e92 | 
->  | 
+> Schoenberg, Webern, Berg, Zemlinsky & Apostel: Complete String Quartets
+> LaSalle Quartet
+> 4 / 6 BOXSET
+> Classical | 2013 | Deutsche Grammophon
+> 8d202b20bbd2d20359402abbfd50c385 | 
+> 694746152, 723316332 | 
 
 Alban Berg (1885 – 1935)
-Lyric Suite for String Quartet
+Lyric Suite for String Quartet (1926)
 
-  01.    I. Allegretto Gioviale
-  02.   II. Andante Amoroso
-  03.  III. Allegro Misterioso, Trio Estatico
-  04.   IV. Adagio Appassionato
-  05.    V. Presto Delirando, Tenebroso
-  06.   VI. Largo Desolato
+  01.    I. Allegretto gioviale
+  02.   II. Andante amoroso
+  03.  III. Allegro misterioso – Trio estatico
+  04.   IV. Adagio appassionato
+  05.    V. Presto delirando – Tenebroso
+  06.   VI. Largo desolato
+
+  Rec. 1968-12
 
 String Quartet, Op. 3
 
   07.    I. Langsam
-  08.   II. Mäßige Viertel
+  08.   II. Mäßige viertel
 
-  Lasalle Quartet
+  LaSalle Quartet, Strings
+  Rec. 1968-03
