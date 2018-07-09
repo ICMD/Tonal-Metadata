@@ -1,4 +1,4 @@
-> Shostakovich: Violin Concertos Nos. 1 & 2, Etc.
+> Oistrakh Plays Shostakovich & Ysaÿe
 > David Oistrakh
 > 1 / 1
 > Classical | 2001 | BBC Music
