@@ -1,50 +1,77 @@
-> Bach: Cantatas No. 180, 49 & 115
-> Christophe Coin & Limoges Baroque Ensemble, Concerto Vocale Leipzig
+> Bach: Cantatas 180, 49 & 115
+> Christophe Coin, Andreas Scholl & Ensemble Baroque de Limoges
 > 1 / 1
-> Classical | 1993 | Astrée
-> 0ef45b6e94fae974f9e32d6d2c661f4b | 
->  | 
+> Classical | 1994 | Auvidis Astrée
+> 72f449fead6896a5b3cf4de8d0081a55 | 
+> 315639339, 659774872, 1201737663 | 
 
-> Le Violoncelle Baroque 1. Bach: Cantatas With Violoncello Piccolo, BWV 180, 49, 115. Coin
-> Christophe Coin & Limoges Baroque Ensemble. Concerto Vocale Leipzig. Schick, Barbara; Andreas Scholl; Christoph Prégardien; Gothold Schwartz
-> 4 / 4
-> Classical | 1993 | 
-> 0ef45b6e94fae974f9e32d6d2c661f4b | 
->  | 
+> Bach: Cantates
+> Gotthold Schwarz, Christophe Coin & Laurence Equilbey
+> 1 / 3 BOXSET
+> Classical | 1994 | Auvidis Astrée
+> d1dd6c4588a30d8b70811476a6a2873c | 
+> 1195065858 | 
+
+Johann Sebastian Bach (1685 – 1750), Johann Burchard Freystein & Johann Franck (1618 – 1677)
+Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
+
+  01.    I. Choir “Schmücke dich, o liebe Seele”
+
+Johann Sebastian Bach (1685 – 1750) & Johann Burchard Freystein
+Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
+
+  02.   II. Aria “Ermuntre dich, dein Heiland klopft”
+
+Johann Sebastian Bach (1685 – 1750), Johann Burchard Freystein & Johann Franck (1618 – 1677)
+Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
+
+  03.  III. Recitativo und arioso “Wie teuer sind des heilgen Mahles Gaben! – Ach, wie hungert mein Gemüte”
+
+Johann Sebastian Bach (1685 – 1750) & Johann Burchard Freystein
+Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
+
+  04.   IV. Recitativo “Mein Herz fühlt in sich Furcht und Freude”
+  05.    V. Aria “Lebens Sonne, Licht der Sinnen”
+  06.   VI. Recitativo “Herr, laß an mir dein treues Lieben”
+
+Johann Sebastian Bach (1685 – 1750), Johann Burchard Freystein & Johann Franck (1618 – 1677)
+Cantata, BWV 180 “Shmücke Dich, O Liebe Seele”
+
+  07.   VI. Choral “Jesu, wahres Brot des Lebens”
 
 Johann Sebastian Bach (1685 – 1750)
-Cantata No. 180, BWV 180 “Schmücke Dich, O Liebe Seele”
-
-  01.    I. Schmücke Dich, O Liebe Seele
-  02.   II. Ermuntre Dich: Dein Heiland Klopft
-  03.  III. Wie Teür Sind Des Heilgen Mahles Gaben!
-  04.   IV. Mein Herz Fuhlt in Sich Furcht und Freude
-  05.    V. Lebens Sonne, Licht der Sinnen
-  06.   VI. Herr, Lass an Mir Dein Treüs Lieben
-  07.  VII. Jesu, Wahres Brot Des Lebens
-
-Cantata No. 49, BWV 49 “Ich Geh' Und Suche Mit Verlangen”
+Cantata, BWV 49 “Ich Geh'und Suche Mit Verlangen”
 
   08.    I. Sinfonia
-  09.   II. Ich Geh' Und Suche Mit Verlangen
-  10.  III. Mein Mahl Ist Zubereit
-  11.   IV. Ich Bin Herrlich, Ich Bin Schon
-  12.    V. Mein Glaube Hat Mich Selbst
-  13.   VI. Dich Hab Ich Je und Je Geliebet
 
-Cantata No. 115, BWV 115 “Mache Dich, Mein Geist, Bereit”
+Johann Sebastian Bach (1685 – 1750) & Johann Burchard Freystein
+Cantata, BWV 49 “Ich Geh'und Suche Mit Verlangen”
 
-  14.    I. Mache Dich, Mein Geist, Bereit
-  15.   II. Ach Schlafrige Seele
-  16.  III. Gott, So Vor Deine Seele Wacht
-  17.   IV. Bete Aber Auch Dabei
-  18.    V. Er Sehnet Sich Nach Unserm Schreien
-  19.   VI. Drum So Lasst Uns Immerdar
+  09.   II. Aria “Ich geh und suche mit Verlangen”
 
+10. Cantata, BWV 49 “Ich Geh' Und Suche Mit Verlangen”: III. Recitativo “Mein Mahl ist zubereit'”
+
+Cantata, BWV 49 “Ich Geh'und Suche Mit Verlangen”
+
+  11.   IV. Aria “Ich bin herrlich, ich bin schön”
+  12.    V. Recitativo “Mein Glaube hat mich selbst so angezogen”
+
+13. Cantata, BWV 49, 'Ich Geh'und Suche Mit Verlangen': VI. Duetto “Dich hab ich je und je geliebet – Wie bin ich doch so herzlich froh”
+
+Cantata, BWV 115 “Mache Dich, Mein Geist, Bereit”
+
+  14.    I. Choir “Mache dich, mein Geist, bereit”
+  15.   II. Aria “Ach schläfrige Seele, wie? ruhest du noch?”
+  16.  III. Recitativo “Gott, so vor deine Seele wacht”
+  17.   IV. Aria “Bete aber auch dabei”
+  18.    V. Recitativo “Er sehnet sich nach unserm Schreien”
+  19.   VI. Choral “Drum so laßt uns immerdar”
+
+  Barbara Schlick, Soprano
   Andreas Scholl, Alto
   Christoph Prégardien, Tenor
   Gothold Schwartz, Bass
   Concerto Vocale Leipzig
-  Barbara (Sop.)
   Limoges Baroque Ensemble
   Christophe Coin, Conductor
+  Rec. Die Evangelisch-Lutherische Friedenskirche zu Ponitz, Ponitz
