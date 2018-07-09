@@ -1,8 +1,8 @@
-> Schoenberg: Piano Works – Webern: Variations, Op. 27
+> Schoenberg: Piano Works; Webern: Variations, Op. 27
 > Maurizio Pollini
 > 1 / 1
 > Classical | 2001 | Deutsche Grammophon
-> 7adf8a1b97a821cbbdadb03fcb876154 | 
+> 54bdfdf448b6f0f09112a71564592f95 | 
 > 82133984 | 
 
 Arnold Schoenberg (1874 – 1951)
