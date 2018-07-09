@@ -2,15 +2,15 @@
 > LaSalle Quartet
 > 1 / 4
 > Classical | 1971 | Deutsche Grammophon
-> 0abc2c660843712bffd7d8678d2074e8 | 
+>  | 
 > 116994946 | 
 
-> Schoenberg / Webern / Berg / Zemlinsky / Apostel: Complete String Quartets
-> Lasalle Quartet
-> 1 / 6
-> Classical | 2013 | Deutsche Grammophon (DG)
-> b69a55adaf457ec14e39c3f0e77e3b38 | 
->  | 
+> Schoenberg, Webern, Berg, Zemlinsky & Apostel: Complete String Quartets
+> LaSalle Quartet
+> 1 / 6 BOXSET
+> Classical | 2013 | Deutsche Grammophon
+> 8d202b20bbd2d20359402abbfd50c385 | 
+> 694746152, 723316332 | 
 
 Arnold Schoenberg (1874 – 1951)
 String Quartet No. 1 in D minor, Op. 7
