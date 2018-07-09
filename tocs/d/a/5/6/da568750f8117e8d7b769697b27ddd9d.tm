@@ -1,14 +1,14 @@
-> Handel: Laudate Pueri, Nisi Dominus, Salve Regina
-> Alfred Deller & The Deller Consort
+> Handel: Laudate Pueri, Nisi Dominus
+> Deller Consort & Mark Deller
 > 1 / 1
-> Classical | 1980 | Harmonia Mundi
->  | 
->  | 
+> Classical | 2000 | harmonia mundi
+> c798b23831c90cf5c3f859f9adfa6aa9 | 
+> 284102075 | 
 
 George Frideric Handel (1685 – 1759)
-Laudate Pueri
+Laudate Pueri (Psalm 112)
 
-  01.    I. Laudate Pueri Dominus
+  01.    I. Laudate Pueri Dominum
   02.   II. Sit Nomen Domini
   03.  III. A Solis Ortu
   04.   IV. Excelsus Super Omnes
@@ -17,7 +17,7 @@ Laudate Pueri
   07.  VII. Qui Habitare Facit
   08. VIII. Gloria Patri
 
-Nisi Dominus
+Nisi Dominus (Psalm 127)
 
   09.    I. Nisi Dominus
   10.   II. Vanum Est Vobis
@@ -33,5 +33,8 @@ Salve Regina
   17.  III. Eja Ergo Advocata Nostra
   18.   IV. O Clemens, O Pia
 
-  The Deller Consort
+  Deller Consort
+  Mark Deller
+  the King’s Musick
+  Deller Choir
   Alfred Deller, Conductor
