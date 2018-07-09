@@ -46,18 +46,17 @@ Sonata for Harpsichord in A minor, BWV 965
 
   Robert Hill, Clavichord
 
-Fugue in B-flat major, BWV 954
-
-  20.    I.
-
 Johann Sebastian Bach (1685 – 1750)
 Fugue in B-flat major, BWV 954
 
+  20.    I.
   21.   II. Adagio
   22.  III. Fuga. Allegro
   23.   IV.
 
-24. Sonate for Violin Solo No. 1 in G minor, BWV 1001: IV. Presto
+Sonate for Violin Solo No. 1 in G minor, BWV 1001
+
+  24.   IV. Presto
 
   Robert Hill, Lautenwerck
   Rec. Pfarrkirche Mariä Krönung, Oberried
