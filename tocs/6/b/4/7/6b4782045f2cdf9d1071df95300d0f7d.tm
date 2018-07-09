@@ -5,12 +5,12 @@
 >  | 
 > 116994946 | 
 
-> Schoenberg, Webern, Berg, Zemlinsky & Apostel: Complete String Quartets
-> LaSalle Quartet
-> 2 / 6 BOXSET
-> Classical | 2013 | Deutsche Grammophon
-> 8d202b20bbd2d20359402abbfd50c385 | 
-> 694746152, 723316332 | 
+> Schoenberg / Webern / Berg / Zemlinsky / Apostel: Complete String Quartets
+> Lasalle Quartet
+> 2 / 6
+> Classical | 1971 | 
+> 2fd2279328b1b451df2bda4646d89e92 | 
+>  | 
 
 Arnold Schoenberg (1874 – 1951)
 String Quartet No. 3, Op. 30
