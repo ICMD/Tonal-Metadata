@@ -1,21 +1,35 @@
-> Shostakovich: Cello Concerto No. 2; Tchaikovsky: Andante Cantabile, Etc
+> Cello Concerto No. 2: Andante cantabile / Chant du ménestrel
 > Mstislav Rostropovich; Seiji Ozawa & Boston Symphony Orchestra
 > 1 / 1
-> Classical | 1979 | Deutsche Grammophon
+> Classical | 1991 | Deutsche Grammophon
 >  | 
 >  | 
 
 Dmitry Shostakovich (1906 – 1975)
-Cello Concerto No. 2 in G major, Op. 126
+Concerto for Violoncello and Orchestra No. 2, Op. 126
 
   01.    I. Largo
   02.   II. Allegretto
   03.  III. Allegretto
 
-Pyotr Il'yich Tchaikovsky (1840 – 1893)
-04. String Quartet No. 1 in D major, Op. 11
-05. Chant Du Ménestrel, Op. 71
-
-  Mstislav Rostropovich
+  Mstislav Rostropovich, Cello
   Boston Symphony Orchestra
   Seiji Ozawa, Conductor
+  Rec. 1975-08 in Symphony Hall, Boston
+
+Pyotr Il'yich Tchaikovsky (1840 – 1893)
+04. Andante Cantabile for Violoncello and String Orchestra, Op. Posth.
+
+  Berliner Philharmoniker
+  Boston Symphony Orchestra
+  Mstislav Rostropovich, Conductor & Cello
+  Seiji Ozawa, Conductor
+  Rec. 1978-06 in Berliner Philharmonie, Berlin
+
+Alexander Glazunov (1865 – 1936)
+05. Chant Du Ménestrel for Violoncello and Orchestra, Op. 71
+
+  Mstislav Rostropovich, Cello
+  Boston Symphony Orchestra
+  Seiji Ozawa, Conductor
+  Rec. 1975-08 in Symphony Hall, Boston
