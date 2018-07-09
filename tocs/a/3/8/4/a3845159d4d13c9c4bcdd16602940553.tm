@@ -1,9 +1,9 @@
 > Bach: Original & Transcription
 > Robert Hill
 > 1 / 2
-> Classical | 1999 | Master Music
-> a59503b960c36af77ee1d51b4558a3f3 | 
-> 42061101, 346780851 | 
+> Classical | 2000 | haenssler classic
+> 463a26efd99143bbbc619c55e22e679d | 
+>  | 
 
 > The Complete Works
 > Edition Bachakademie
