@@ -17,11 +17,7 @@ Symphony No. 7 in E minor “Lied der Nacht”
 
   01.    I. Langsam (Adagio)
   02.   II. Nachtmusik I. Allegro moderato
-
-03. Symphony No. 7 in E minor: III. Scherzo. Schattenhaft. Fließend, aber nicht schnell; In Den Anfangstakten noch etwas zögernd, Trio
-
-Symphony No. 7 in E minor “Lied der Nacht”
-
+  03.  III. Scherzo. Schattenhaft. Fließend, aber nicht schnell; In Den Anfangstakten noch etwas zögernd, Trio
   04.   IV. Nachtmusik II. Andante amoroso
   05.    V. Rondò – Finale. Tempo I (Allegro ordinario)
 
