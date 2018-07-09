@@ -28,6 +28,7 @@ Violin Concerto No. 2 in C-sharp minor, Op. 129
   USSR State Symphony Orchestra
   Evgeny Svetlanov, Conductor
 
+Eugene Ysaye (1858 - 1931)
 09. Alone, Op. 26
 
   David Oistrakh
