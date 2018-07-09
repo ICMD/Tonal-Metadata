@@ -2,7 +2,7 @@
 > Christophe Coin, Andreas Scholl & Ensemble Baroque de Limoges
 > 1 / 1
 > Classical | 1994 | Auvidis Astrée
-> 2a101f2341e37a2d187242540928f85c | 
+> def592c875cd2c5ba4970243a06da556 | 
 > 315639339, 659774872, 1201737663 | 
 
 Johann Sebastian Bach (1685 – 1750), Johann Burchard Freystein & Johann Franck (1618 – 1677)
