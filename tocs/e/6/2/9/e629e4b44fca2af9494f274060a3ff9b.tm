@@ -1,10 +1,3 @@
-> Mozart: Don Giovanni
-> Carlo Maria Giulini, Dame Joan Sutherland & Elisabeth Schwarzkopf
-> 1 / 3
-> Classical | 1997 | EMI Classics
-> fc5f91860933d9d673f5a90824f9e3c2 | 
-> 712262705, 1164873211 | 
-
 > Don Giovanni
 > Eberhard Wächter, Dame Joan Sutherland, Elisabeth Schwarzkopf, Chorus & Philharmonia Orchestra & Carlo Maria Giulini
 > 1 / 3
