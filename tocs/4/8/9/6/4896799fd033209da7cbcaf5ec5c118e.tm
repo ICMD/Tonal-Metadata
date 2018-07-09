@@ -1,9 +1,9 @@
-> Mozart: Don Giovanni
-> Carlo Maria Giulini, Dame Joan Sutherland & Elisabeth Schwarzkopf
+> Don Giovanni
+> Eberhard Wächter, Dame Joan Sutherland, Elisabeth Schwarzkopf, Chorus & Philharmonia Orchestra & Carlo Maria Giulini
 > 3 / 3
-> Classical | 1997 | EMI Classics
-> fc5f91860933d9d673f5a90824f9e3c2 | 
-> 712262705, 1164873211 | 
+> Classical | 2010 | EMI Classics
+> 7b77ef839d1e3ba91a6b3c7e71e644cb | 
+> 404259195, 693243595, 696265136, 734668394 | 
 
 Wolfgang Amadeus Mozart (1756 – 1791)
 Don Giovanni, K. 527, Act 2 Scene 11
