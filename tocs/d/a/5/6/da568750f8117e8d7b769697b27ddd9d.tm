@@ -35,6 +35,6 @@ Salve Regina
 
   Deller Consort
   Mark Deller
-  the King’s Musick
+  The King’s Musick
   Deller Choir
   Alfred Deller, Conductor
