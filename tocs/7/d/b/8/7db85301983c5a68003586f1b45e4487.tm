@@ -1,19 +1,20 @@
 > Anniversary
 > Duke Ellington
-> 9 / 13
-> Jazz | 1999 | Masters Of Jazz
+> 6 / 9
+> Jazz | 1999 | disques concord
 >  | 
 >  | 
 
+"Duke" Ellington (1899 – 1974)
 01. Black Beauty
 02. Swampy River
-03. Lots O'fingers (Fast and Furious)
-04. Mood Indigo: Solitude/Mood Indigo
-05. In a Sentimental Mood: Sophisticated Lady
+03. Fast and Furious (Lots o' Fingers)
+04. Mood Indigo: Solitude
+05. Sophisticated Lady: In a Sentimental Mood
 
   Duke Ellington
 
-06. Swing, Baby, Swing
+06. Love in My Heart (Swing Baby Swing)
 
   Rex Stewart & His 52nd St. Stompers
 
@@ -29,11 +30,11 @@
 09. Dear Old Southland
 10. Solitude
 11. Frankie and Johnny
-12. Jumpin'room Only
+12. Jumpin’ Room Only
 
   Duke Ellington
 
-13. Dancers in Love
+13. Dancer in Love
 
   Duke Ellington
   Junior Raglin
@@ -48,6 +49,6 @@
 17. There Was Nobody Looking
 18. New York City Blues
 19. The Clothed Woman
-20. “New World a – Comin'”
+20. New World A' Comin'
 
   Duke Ellington
