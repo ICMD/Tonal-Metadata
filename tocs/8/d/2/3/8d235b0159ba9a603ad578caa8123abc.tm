@@ -1,10 +1,11 @@
-> The Complete Verve Johnny Hodges Small Group Sessions 1956 – 1961
-> Johhny Hodges
+> The Complete Verve Small Sessions (1956: 1961)
+> Johnny Hodges
 > 4 / 6
-> Jazz | 1960 | Mosaic
-> 9e8dcd912b9ba28d970ad89f7d38702a | 
->  | 
+> Jazz | 2011 | Mosaic Records
+> b51d1266f27043f42dfa94787d3ab3a8 | 
+> 467150809 | 
 
+Johnny Hodges (1907 – 1970)
 01. Br' Rabbit
 02. Starting with You (I’m Through)
 03. The Hare
@@ -17,7 +18,11 @@
 10. Ben’s Web
 11. Side Door (Don’t Kid Yourself)
 12. Blues’ll Blow Your Fuse
+
+Clarence Gaskill, Jimmy McHugh (1894 – 1969) & Johnny Hodges (1907 – 1970)
 13. I Can’t Believe That You’re in Love with Me
+
+Johnny Hodges (1907 – 1970)
 14. Dual Highway
 
   Johnny Hodges
