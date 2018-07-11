@@ -1,12 +1,13 @@
 > Anniversary
 > Duke Ellington
-> 6 / 13
-> Jazz | 1999 | Masters Of Jazz
+> 3 / 9
+> Jazz | 1999 | disques concord
 >  | 
 >  | 
 
-01. Prologue to Black & Tan Fantasy
-02. The New Black & Tan Fantasy
+"Duke" Ellington (1899 – 1974)
+01. Prologue to Black and Tan Fantasy
+02. The New Black and Tan Fantasy
 03. The Mooche
 04. Saturday Night Function
 
@@ -31,7 +32,7 @@
   The Ten Blackberries
 
 11. Echoes of the Jungle
-12. Baby When You Ain’t There
+12. Baby, When You Ain’t There
 13. Dear Old Southland
 14. The New East St. Louis Toodle – Oo
 
@@ -47,7 +48,7 @@
 
 17. Way Low
 18. A Gathering in a Clearing
-19. Liberian Suite (Excerpt: Dance No. 5)
+19. Liberian Suite: Dance No. 5
 20. Air Conditioned Jungle
 
   Duke Ellington Orchestra
