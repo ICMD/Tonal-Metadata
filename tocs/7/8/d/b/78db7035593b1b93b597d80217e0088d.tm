@@ -1,11 +1,12 @@
 > Anniversary
 > Duke Ellington
-> 8 / 13
-> Jazz | 1999 | Masters Of Jazz
+> 5 / 9
+> Jazz | 1999 | disques concord
 >  | 
 >  | 
 
-01. Harlem Air – Shaft
+"Duke" Ellington (1899 – 1974)
+01. Harlem Air Shaft
 02. The Sidewalks of New York
 03. Uptown Downbeat
 04. Harlem River Quiver
@@ -18,8 +19,11 @@
 
   The Jungle Band
 
+Ike Quebec (1918 – 1963)
 08. Blue Harlem
-09. Drop Me off in Harlem
+
+"Duke" Ellington (1899 – 1974)
+09. Drop Me off at Harlem
 10. Harlem Speaks
 11. It Was a Sad Night in Harlem: Via
 12. Scattin’ at the Kit – Kat
