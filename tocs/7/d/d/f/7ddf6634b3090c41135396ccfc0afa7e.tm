@@ -5,13 +5,6 @@
 > 4557cec9e1c51834ecb9d7011526b7b4 | 
 > 1189144296 | 
 
-> Vivaldi by Biondi
-> Fabio Biondi & Europa Galante
-> 4 / 4 BOXSET
-> Classical | 2011 | naïve
-> fe32d7a61ece12c6b15520bbe665669f | 
->  | 
-
 Antonio Vivaldi (1678 – 1741)
 Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
