@@ -1,13 +1,14 @@
 > Anniversary
 > Duke Ellington
-> 4 / 13
-> Jazz | 1999 | Masters Of Jazz
+> 2 / 9
+> Jazz | 1999 | disques concord
 >  | 
 >  | 
 
+"Duke" Ellington (1899 – 1974)
 01. Caravan
 02. Conga Brava
-03. Moonlight Fiesta
+03. Moonlight Fiesta (Porto – Rican Chaos)
 
   Duke Ellington & His Orchestra
 
@@ -26,9 +27,9 @@
 
 08. That Lindy Hop
 09. Truckin'
-10. Skrontch (Scrounch)
+10. The Skrontch
 11. Swingtime in Honolulu
-12. I’m Slappin Seventh Avenue with the Sole of My Shoe
+12. I’m Slappin’ Seventh Avenue with the Sole of My Shoe
 13. Hip Chic
 14. The Lambeth Walk
 
@@ -40,8 +41,8 @@
 
 16. The Flaming Sword
 17. Bakiff
-18. Moon Overe Cuba
-19. Black Brown and Beige, (Excerpt Of) Three Dances
-20. Liberian Suite 4. Dance No. 3
+18. Moon over Cuba
+19. Black, Brown and Beige: Three Dances
+20. Liberian Suite: Dance No. 3
 
   Duke Ellington & His Orchestra
