@@ -1,86 +1,87 @@
-> Sonate di Dresa: Fabio Biondi
-> Fabio Biondi & Europa Galante
-> 1 / 1
-> Classical | 1996 | Opus 111
-> 93253a058ba65333015b7cc774f47983 | 
->  | 
-
 > Vivaldi: Sonate di Dresda
+> Fabio Biondi, Maurizio Naddeo & Rinaldo Alessandrini
+> 1 / 1
+> Classical | 1996 | naïve
+> 4557cec9e1c51834ecb9d7011526b7b4 | 
+> 1189144296 | 
+
+> Vivaldi by Biondi
 > Fabio Biondi & Europa Galante
-> 4 / 4
-> Classical | 1996 | 
-> 93253a058ba65333015b7cc774f47983 | 
+> 4 / 4 BOXSET
+> Classical | 2011 | naïve
+> fe32d7a61ece12c6b15520bbe665669f | 
 >  | 
 
-Xiii No. 5
-RV. 26
+Antonio Vivaldi (1678 – 1741)
+Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
-  01.    I. Adagio: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): I. Adagio in G minor, RV. 26: I. Adagio
-  02.   II. Allegro: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): II. Allegro in G minor, RV. 26: II. Allegro
-  03.  III. Adagio: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): III. Adagio in G minor, RV. 26: III. Adagio
-  04.   IV. Allegro: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): IV. Allegro in G minor, RV. 26: IV. Allegro
+  01.    I. Adagio
+  02.   II. Allegro
+  03.  III. Adagio
+  04.   IV. Allegro
 
-05.    V. Giga
+05. Violin Sonata in G minor, RV. 26: V. Giga
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
   Xiii No. 10
   In Do Minore
 
-RV. 34
+Violin Sonata in B-flat major (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
   06.    I. Adagio
   07.   II. Allegro
   08.  III. Largo
   09.   IV. Allegro
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
   Xiii No. 15
   In Sol Minor
 
-RV. 5
+Violin Sonata in C minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
-  10.    I. Andante: Violin Sonata in C minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): I. Andante in C minor, RV. 5: I. Andante
-  11.   II. Allegro: Violin Sonata in C minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): II. Allegro in C minor, RV. 5: II. Allegro
-  12.  III. Largo: Violin Sonata in C minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): III. Largo in C minor, RV. 5: III. Largo
-  13.   IV. Allegro: Violin Sonata in C minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): IV. Allegro in C minor, RV. 5: IV. Allegro
+  10.    I. Andante
+  11.   II. Allegro
+  12.  III. Largo
+  13.   IV. Allegro
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
   Xiii No. 10
   In Sol Minore
 
-RV. 15
+Violin Sonata in D minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
-  14.    I. Preludio: Largo: Violin Sonata in D minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): I. Preludio. Largo in D minor, RV. 15: I. Preludio. Largo
-  15.   II. Corrente. Allegro: Violin Sonata in D minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): II. Corrente. Allegro in D minor, RV. 15: II. Corrente. Allegro
-  16.  III. Allegro: Violin Sonata in D minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): III. Allegro in D minor, RV. 15: III. Allegro
+  14.    I. Preludio. Largo
+  15.   II. Corrente. Allegro
+  16.  III. Allegro
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
   Xiii No. 15
   In Do Minore
 
-RV. 28
+Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11)
 
-  17.    I. Largo: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): I. Largo in G minor, RV. 28: I. Largo
-  18.   II. Allegro: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): II. Allegro in G minor, RV. 28: II. Allegro
-  19.  III. Largo: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): III. Largo in G minor, RV. 28: III. Largo
-  20.   IV. Allegro: Violin Sonata in G minor (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): IV. Allegro in G minor, RV. 28: IV. Allegro
+  17.    I. Largo
+  18.   II. Allegro
+  19.  III. Largo
+  20.   IV. Allegro
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
   Xiii No. 15
   In Sol Minore
 
-21. RV. 61: IV. Saraband: Allegro
+21. Trio Sonata No. 3 in C major (Vivaldi, Europa Galante (Alessandrini, Naddeo),1995.11): IV. Sarabanda. Allegro
 
-  Fabio Biondi
-  Rinaldo Alessandrini
-  Maurizio Naddeo
+  Fabio Biondi, Violin
+  Rinaldo Alessandrini, Cello
+  Maurizio Naddeo, Harpsichord
+  Rec. 1995-11 in Chiesa di San Gottardo, Asolo
