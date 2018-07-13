@@ -2,7 +2,7 @@
 > Louis Armstrong & His All-Stars
 > 5 / 6
 > Jazz | 1993 | Mosaic Records
->  | 
+> b2e2d5d5d9d4231460dd596ef4ddd1f4 | 
 >  | 
 
 Louis Armstrong (1901 – 1971)
