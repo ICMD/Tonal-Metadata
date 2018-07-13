@@ -1,8 +1,8 @@
-> The Complete Decca Studio Recordings of Louis Armstrong and the All Stars:
+> The Complete Decca Studio Recordings of Louis Armstrong and the All Stars
 > Louis Armstrong & His All Stars
 > 3 / 6
-> Jazz | 1993 | Mosaic
->  | 
+> Jazz | 1957 | Mosaic
+> 41852c8de2721fd4cd49c67abb38306b | 
 >  | 
 
 01. C. 1 Muskrat Ramble
