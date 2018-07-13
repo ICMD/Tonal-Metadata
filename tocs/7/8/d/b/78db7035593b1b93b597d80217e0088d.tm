@@ -5,7 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+New York
 01. Harlem Air Shaft
 02. The Sidewalks of New York
 03. Uptown Downbeat
