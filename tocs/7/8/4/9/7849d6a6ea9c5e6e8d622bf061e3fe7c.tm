@@ -1,16 +1,17 @@
-> The Complete Decca Studio Recordings of Louis Armstrong and the All Stars:
-> Louis Armstrong & His All Stars
+> The Complete Decca Studio Recordings of Louis Armstrong and the All Stars
+> Louis Armstrong & His All-Stars
 > 5 / 6
-> Jazz | 1993 | Mosaic
+> Jazz | 1993 | Mosaic Records
 >  | 
 >  | 
 
+Louis Armstrong (1901 – 1971)
 01. Hotter than That
 02. Gut Bucket Blues
 03. Weary Blues
 04. Potato Head Blues
 05. Cornet Chop Suey
-06. Of Alll the Wrongs You've Done to Me
+06. Of All the Wrongs You've Done to Me
 07. Two Deuces
 08. Mandy Make up Your Mind
 09. Wild Man Blues
