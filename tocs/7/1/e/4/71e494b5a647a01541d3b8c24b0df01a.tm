@@ -5,7 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+Jungle
 01. Prologue to Black and Tan Fantasy
 02. The New Black and Tan Fantasy
 03. The Mooche
