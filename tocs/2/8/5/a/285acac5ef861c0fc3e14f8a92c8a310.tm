@@ -1,12 +1,13 @@
 > The Complete Decca Studio Recordings of Louis Armstrong and the All Stars
-> Louis Armstrong & All His Stars
-> 1 / 1
-> Jazz | 1993 | Mosaic
+> Louis Armstrong & His All-Stars
+> 1 / 6
+> Jazz | 1993 | Mosaic Records
 >  | 
 >  | 
 
+Louis Armstrong (1901 – 1971)
 01. Panama
-02. New Orleans Function
+02. New Orleans Function: Flee as a Bird / Oh Didn’t He Ramble
 03. Twelfth Street Rag
 04. That’s for Me
 05. Bugle Call Rag: Ole Miss
