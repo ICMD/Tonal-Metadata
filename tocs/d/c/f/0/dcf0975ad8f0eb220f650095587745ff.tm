@@ -5,7 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+Ladies
 01. Sophisticated Lady
 02. Dinah Lou: Via
 03. The Lady Who Couldn’t Be Kissed
