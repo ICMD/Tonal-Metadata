@@ -1,14 +1,18 @@
 > A Meeting by the River
-> Ry Cooder & V.M. Bhatt
+> Ry Cooder & Vishwa Mohan Bhatt
 > 1 / 1
 > Traditional | 1993 | Water Lily Acoustics
 >  | 
 >  | 
 
-01. Ry Cooder Massage 1
-02. Ry Cooder Massage 2
-03. Ry Cooder Massage 3
-04. Ry Cooder Massage 4
+Ry Cooder
+01. A Meeting by the River
+02. Longing
+03. Ganges Delta Blues
+
+Abner Caten
+04. Isa Lei
 
   Ry Cooder
-  V.M. Bhatt
+  Vishwa Mohan Bhatt
+  Rec. Christ the King Chapel, St Anthony’s Seminary, Santa Barbara
