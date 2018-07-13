@@ -5,6 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
+Ballads
 01. All Too Soon
 02. I Got It Bad (And That Ain’t Good)
 03. Solitude
