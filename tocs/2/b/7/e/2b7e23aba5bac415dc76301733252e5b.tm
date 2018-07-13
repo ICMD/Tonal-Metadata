@@ -5,7 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+Dance
 01. Caravan
 02. Conga Brava
 03. Moonlight Fiesta (Porto – Rican Chaos)
