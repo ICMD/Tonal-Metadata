@@ -5,6 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
+Swing
 01. Cotton Tail
 02. It Don’t Mean a Thing (If It Ain’t Got That Swing)
 03. Jubilee Stomp
