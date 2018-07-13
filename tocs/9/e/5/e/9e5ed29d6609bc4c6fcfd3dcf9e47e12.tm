@@ -5,6 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
+Soloists
 01. Liberian Suite: Dance No. 4
 02. Doin’ the Voom Voom
 03. Black and Tan Fantasy
