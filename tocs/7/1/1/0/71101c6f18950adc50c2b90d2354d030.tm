@@ -20,13 +20,13 @@ The Art of Fugue, BWV 1080
   10.    X. Contrapunctus
   11.   XI. Contrapunctus
 
-    André Isoir
+    André Isoir, Organ
 
   12.  XII. Contrapunctus
   13. XIII. Contrapunctus
 
-    André Isoir
-    Pierre Farago
+    André Isoir, Organ
+    Pierre Farago, Organ
 
   14.  XIV. Contrapunctus
   15.   XV. Contrapunctus
@@ -36,4 +36,4 @@ The Art of Fugue, BWV 1080
   19.  XIX. Contrapunctus
   20.   XX. Contrapunctus
 
-  André Isoir
+  André Isoir, Organ
