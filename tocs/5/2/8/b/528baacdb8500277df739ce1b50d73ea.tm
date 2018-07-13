@@ -1,7 +1,7 @@
 > Anniversary
 > Duke Ellington
 > 8 / 9
-> Jazz | 1999 | disques concord
+> Jazz | 1999 | Masters Of Jazz
 >  | 
 >  | 
 
