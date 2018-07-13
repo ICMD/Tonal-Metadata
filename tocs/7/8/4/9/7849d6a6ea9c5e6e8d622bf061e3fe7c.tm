@@ -1,7 +1,7 @@
 > The Complete Decca Studio Recordings of Louis Armstrong and the All Stars
-> Louis Armstrong & His All Stars
+> Louis Armstrong & His All-Stars
 > 5 / 6
-> Jazz | 1956 | 
+> Jazz | 1993 | Mosaic Records
 >  | 
 >  | 
 
