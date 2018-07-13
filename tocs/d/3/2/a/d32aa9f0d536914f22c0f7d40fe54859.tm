@@ -1,16 +1,13 @@
 > The Complete Decca Studio Recordings of Louis Armstrong and the All Stars
-> Louis Armstrong & His All Stars
+> Louis Armstrong & His All-Stars
 > 3 / 6
-> Jazz | 1957 | Mosaic
-> 41852c8de2721fd4cd49c67abb38306b | 
+> Jazz | 1993 | Mosaic Records
+>  | 
 >  | 
 
+Louis Armstrong (1901 – 1971)
 01. C. 1 Muskrat Ramble
-
-Medley
-02. C. 2 Medley
-
-COMPOSER NON-APPLICABLE
+02. Medley: Tenderly / You’ll Never Walk Alone
 03. C. 3 Yeh!
 04. C. 4 Mm – Mm
 05. C. 5 Baby, Your Sleep is Showing
