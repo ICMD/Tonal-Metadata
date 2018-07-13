@@ -5,7 +5,7 @@
 > e14ddc12d3f8e6d196beda7c2c88239e | 
 >  | 
 
-"Duke" Ellington (1899 – 1974)
+Pianist
 01. Black Beauty
 02. Swampy River
 03. Fast and Furious (Lots o' Fingers)
