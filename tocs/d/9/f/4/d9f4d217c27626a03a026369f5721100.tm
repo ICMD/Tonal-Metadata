@@ -1,7 +1,7 @@
 > The Platinum Collection
 > Frank Sinatra
 > 1 / 3
-> Easy Listening | 2004 | EMI
+> Easy Listening | 2004 | EMI Records
 >  | 
 >  | 
 
