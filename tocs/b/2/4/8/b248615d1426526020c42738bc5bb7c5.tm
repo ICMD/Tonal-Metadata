@@ -1,10 +1,11 @@
 > At Symphony Hall
 > Louis Armstrong
 > 1 / 1
-> Jazz | 2003 | Dreyfus Jazz
-> 902e46b00dc5212147b318c27f746b6c | 
->  | 
+> Jazz | 1947 | Dreyfus Jazz
+> 79312b80e4b34ed3efb6342d6796e2cc | 
+> 1191896206 | 
 
+Louis Armstrong (1901 – 1971)
 01. Mahogany Hall Stomp
 02. Black and Blue
 03. Royal Garden Blues
