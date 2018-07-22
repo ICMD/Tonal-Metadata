@@ -5,20 +5,6 @@
 > a694ae15eb693175f888fff118658c84 | 
 > 805565507 | 
 
-> Exclusively for My Friends (Box Set)
-> Oscar Peterson
-> 4 / 4
-> Jazz | 1992 | Verve
->  | 
-> 3451905 | 
-
-> Exclusively for My Friends
-> Oscar Peterson
-> 4 / 8 BOXSET
-> Jazz | 2015 | MPS
-> 17e77e22508936894b0bfb207fdf2309 | 
->  | 
-
 George Gershwin (1898 – 1937) & Oscar Peterson (1925 – 2007)
 01. Someone to Watch over Me
 
