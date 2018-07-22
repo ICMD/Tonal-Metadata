@@ -1,10 +1,11 @@
-> Exclusively for My Friends
+> Exclusively for My Friends (Box Set)
 > Oscar Peterson
 > 3 / 4
-> Jazz | 2005 | Universal Music Classics & Jazz, a division of Universal Music
-> b33a0a3e1c29c02e2462748fe0b14ea7 | 
+> Jazz | 1992 | Verve
 >  | 
+> 3451905 | 
 
+Oscar Peterson (1925 – 2007)
 01. On Green Dolphin Street
 02. Summertime
 03. Sometimes I’m Happy
@@ -13,6 +14,10 @@
 06. Emily
 07. Quiet Nights of Quiet Stars
 08. Sax No End
+
+Benny Carter (1907 – ?), Spencer Williams (1880 – 1965) & Oscar Peterson (1925 – 2007)
 09. When Lights Are Low
 
+  Bob Durham
   Oscar Peterson
+  Sam Jones
