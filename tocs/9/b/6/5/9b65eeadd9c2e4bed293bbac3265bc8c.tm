@@ -7,7 +7,7 @@
 
 > Exclusively for My Friends (Box Set)
 > Oscar Peterson
-> 4 / 4 BOXSET
+> 4 / 4
 > Jazz | 1992 | Verve
 >  | 
 > 3451905 | 
