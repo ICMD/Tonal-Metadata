@@ -1,52 +1,56 @@
-> Ella and Oscar
+> Ella and Oscar (Original Jazz Classics Remasters)
 > Ella Fitzgerald & Oscar Peterson
 > 1 / 1
 > Jazz | 2011 | Concord Music Group
-> b3dbc38ed63f38564158c69327b66919 | 
->  | 
+> 5efca54b371457f8dc8e89a3a20c390f | 
+> 423954516, 424941888 | 
 
+Fred E. Ahlert, Roy Turk, Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 01. Mean to Me
 
-  Oscar Peterson
-
+George Gershwin (1898 – 1937), Ira Gershwin (1896 – 1983), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 02. How Long Has This Been Going On?
 
-  Ella Fitzgerald
-
+Einar A. Swan, Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 03. When Your Lover Has Gone
 
-  Oscar Peterson
-
+Vincent Youmans (1898 – 1946), Billy Rose, Edward Eliscu, Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 04. More than You Know
 
-  Ella Fitzgerald
-
+Mack Gordon, Harry Revel (1905 – 1958), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 05. There’s a Lull in My Life
 
-  Oscar Peterson
+  Ella Fitzgerald, Vocal
+  Oscar Peterson, Piano
 
+Johnny Mercer (1909 – 1976), Sonny Burke (1914 – 1980), Lionel Hampton (1908 – 2002), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 06. Midnight Sun
+
+Frank Loesser (1910 – 1969), Burton Lane (1912 – 1997), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 07. I Hear Music
 
-  Ella Fitzgerald
-
+Victor Young (1900 – 1956), Sam M. Lewis, Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 08. Street of Dreams
 
-  Oscar Peterson
-
+Vernon Duke (1903 – 1969), Yip Harburg (1896 – 1981), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
 09. April in Paris
-10. How Long Has This Been Going On?
 
-  Ella Fitzgerald
+  Ella Fitzgerald, Vocal
+  Ray Brown, Double Bass
+  Oscar Peterson, Piano
+  Rec. 1975-05-19 in Cherokee Studios, Hollywood
 
-11. More than You Know
+George Gershwin (1898 – 1937), Ira Gershwin (1896 – 1983), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
+10. How Long Has This Been Going On? (Take 5)
 
-  Oscar Peterson
+Vincent Youmans (1898 – 1946), Billy Rose, Edward Eliscu, Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
+11. More than You Know (Take 1)
 
-12. Midnight Sun
+Johnny Mercer (1909 – 1976), Sonny Burke (1914 – 1980), Lionel Hampton (1908 – 2002), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
+12. Midnight Sun (Take 1)
 
-  Ella Fitzgerald
+Vernon Duke (1903 – 1969), Yip Harburg (1896 – 1981), Ella Fitzgerald (1917 – 1996) & Oscar Peterson (1925 – 2007)
+13. April in Paris (Take 2)
 
-13. April in Paris
-
-  Oscar Peterson
+  Ella Fitzgerald, Vocal
+  Oscar Peterson, Piano
