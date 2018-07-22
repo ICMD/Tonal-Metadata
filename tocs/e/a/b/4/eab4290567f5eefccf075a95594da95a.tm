@@ -1,6 +1,6 @@
-> Exclusively for My Friends (Box Set)
+> Exclusively for My Friends: Action, Vol. I
 > Oscar Peterson
-> 1 / 4
+> 1 / 1
 > Jazz | 1992 | Verve
 >  | 
 > 3451905 | 
