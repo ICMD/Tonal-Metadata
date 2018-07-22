@@ -1,26 +1,37 @@
-> Exclusively for My Friends
+> Exclusively for My Friends (Box Set)
 > Oscar Peterson
 > 1 / 4
-> Jazz | 1992 | Universal Music Classics & Jazz, a division of Universal Music
-> b33a0a3e1c29c02e2462748fe0b14ea7 | 
+> Jazz | 1992 | Verve
 >  | 
+> 3451905 | 
 
+Oscar Peterson (1925 – 2007)
 01. At Long Last Love
 02. Easy Walker
 03. Tin Tin Deo
-04. I've Got a Crush on You
+04. I Ve Got a Crush on You
 
-  Oscar Peterson
-
+George Gershwin (1898 – 1937), Ira Gershwin (1896 – 1983) & Oscar Peterson (1925 – 2007)
 05. A Foggy Day
 
-  Bobby Durham
-  Oscar Peterson
-  Sam Jones
-
+Oscar Peterson (1925 – 2007)
 06. Like Someone in Love
-07. On a Clear Day You Can See Forever
+
+Burton Lane (1912 – 1997)
+07. On a Clear Day (You Can See Forever)
+
+  Sam Jones, Bass
+  Oscar Peterson, Piano
+  Bobby Durham, Drums
+
+Jimmy McHugh (1894 – 1969)
 08. I’m in the Mood for Love
+
+Neal Hefti (b. 1922)
 09. Girl Talk
 
-  Oscar Peterson
+  Sam Jones, Bass
+  Oscar Peterson, Piano
+  Bobby Durham, Drums
+  Louis Hayes
+  Ray Brown
