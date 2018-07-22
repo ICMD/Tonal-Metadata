@@ -2,7 +2,7 @@
 > The Oscar Peterson Trio
 > 1 / 1
 > Jazz | 2000 | Verve
-> b8ba2d5f0df6c4c50d88362dfacde21b | 
+> 424793b547818d4d7eef4872dbe250be | 
 > 53902, 14776992, 580223472 | 
 
 Oscar Pettiford (1922 – 1960)
