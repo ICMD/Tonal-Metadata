@@ -1,6 +1,6 @@
-> Exclusively for My Friends (Box Set)
+> Exclusively for My Friends: The Way I Really Play, Vol. III
 > Oscar Peterson
-> 3 / 4
+> 1 / 1
 > Jazz | 1992 | Verve
 >  | 
 > 3451905 | 
