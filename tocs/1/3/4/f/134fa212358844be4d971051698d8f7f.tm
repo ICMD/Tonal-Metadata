@@ -1,16 +1,9 @@
-> ザ・ツアー Vol. 2
-> ウディ・ショウ, ルイ・ヘイズ
-> 1 / 1
-> Jazz | 2017 | 株式会社キングインターナショナル
-> 3acec6933aa16657a7b87d1c95c07424 | 
->  | 
-
-> The Tour: Volume Two
+> The Tour: Volume Two – EP
 > Woody Shaw
-> 1 / 2
-> Jazz | 1976 | HighNote
-> 3acec6933aa16657a7b87d1c95c07424 | 
->  | 
+> 1 / 1
+> Jazz | 2017 | HighNote
+> 45bf5f5c3210522b5bb6da39612dad5a | 
+> 1261484927, 1272454666 | 
 
 01. All the Things You Are: March 1976-11 Hamburg, Germany
 
@@ -20,7 +13,7 @@
 
   Rec. 1976-03-26, Live Recording
 
-03. `Round Midnight: April 1976-05 Jazzclub Ostertor, Bremen, Germany
+03. 'Round Midnight: April 1976-05 Jazzclub Ostertor, Bremen, Germany
 
   Rec. 1976-04-05, Live Recording
 
