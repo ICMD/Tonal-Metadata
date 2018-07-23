@@ -1,18 +1,60 @@
-> Slowhand
+> Slowhand 35th Anniversary
 > Eric Clapton
 > 1 / 1
-> Rock | 1977 | Polygram
-> fd23a7e117f3f9b5dc12836347c3f225 | 
->  | 
+> Rock | 2012 | Polydor
+> 53d0ef45ccd015bf6f50906d9b2cedd6 | 
+> 579450575, 586105295 | 
 
+J.J. Cale
 01. Cocaine
-02. Wonderful Tonight
-03. Lay down Sally
-04. Next Time You See Her
-05. We’re All the Way
-06. The Core
-07. May You Never
-08. Mean Old Frisco
-09. Peaches & Diesel
 
-  Eric Clapton
+  George Terry, Guitar
+  Yvonne Elliman, Background Vocals
+  Marcy Levy, Background Vocals
+  Jamie Oldaker, Drums (drum Set)
+  Eric Clapton, Guitar & Lead Vocals
+  Dick Sims, Electronic Organ
+  Carl Radle, Bass Guitar
+
+Eric Clapton
+02. Wonderful Tonight
+
+Eric Clapton, Marcy Levy & George Terry
+03. Lay down Sally
+
+  George Terry, Guitar
+  Yvonne Elliman, Background Vocals
+  Marcy Levy, Background Vocals
+  Jamie Oldaker, Drums (drum Set)
+  Dick Sims, Electronic Organ
+  Carl Radle, Bass Guitar
+
+Eric Clapton
+04. Next Time You See Her
+
+  Carl Radle, Bass Guitar
+
+Don Williams
+05. We’re All the Way
+
+  Eric Clapton, Guitar & Lead Vocals
+  Carl Radle, Bass Guitar
+
+Eric Clapton & Marcy Levy
+06. The Core
+
+  Carl Radle, Bass Guitar
+
+John Martyn
+07. May You Never
+
+Arthur “Big Boy” Crudup
+08. Mean Old Frisco
+
+  Eric Clapton, Guitar & Lead Vocals
+  Carl Radle, Bass Guitar
+
+Eric Clapton & Albhy Galuten
+09. Peaches and Diesel
+
+  Carl Radle, Bass Guitar
