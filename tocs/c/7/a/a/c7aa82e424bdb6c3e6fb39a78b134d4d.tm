@@ -5,27 +5,6 @@
 > 9f4e25af1c1f2c0e6579326112898797 | 
 > 401186200 | B01929HGH4, B00KJN9S8I, B0025KVLUQ, B000002UB3, B008GRCTZ8, B01KB0KZW6, B00G2HQPNG, B002OF7TGC
 
-> The Beatles Box Set
-> The Beatles
-> 12 / 14 BOXSET
-> Rock | 2009 | EMI Music
->  | 
-> 402060584 | 
-
-> The Beatles Box Set
-> The Beatles
-> 13 / 16 BOXSET
-> Rock | 1988 | Apple Records
->  | 
->  | B000002UU7
-
-> The Beatles
-> The Beatles
-> 13 / 17 BOXSET
-> Rock | 2009 | Apple Records
->  | 
->  | 
-
 John Lennon, Paul McCartney & The Beatles
 01. Come Together
 
