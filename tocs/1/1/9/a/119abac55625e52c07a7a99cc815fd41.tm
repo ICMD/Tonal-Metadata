@@ -1,4 +1,4 @@
-> Fi Ellington Uptown
+> Hi-Fi Ellington Uptown
 > Duke Ellington & His Orchestra
 > 1 / 1
 > Jazz | 1992 | Sony Records
