@@ -12,7 +12,7 @@ Juan Tizol (1900 – 1984) & Oscar Peterson (1925 – 2007)
 02. Perdido
 
 Johnny Green & Oscar Peterson (1925 – 2007)
-03. Body and Sould
+03. Body and Soul
 
 Leslie Bricusse & Oscar Peterson (1925 – 2007)
 04. Who Can I Turn to (When Nobody Needs Me)
