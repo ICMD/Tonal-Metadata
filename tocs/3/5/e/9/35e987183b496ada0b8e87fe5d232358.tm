@@ -1,8 +1,8 @@
-> The Complete Columbia Studio Albums Collection (1951-1958)
+> The Cosmic Scene
 > Duke Ellington & His Orchestra
-> 9 / 9
-> Pop | 2012 | Legacy
-> bd8c8fd4137245348fa0908011dc0fb2 | 
+> 1 / 1
+> Jazz | 2012 | Legacy
+> 8a235b572f844b508612a471535b4fbd | 
 > 678736056 | 
 
 Buddy DeSylva, Vincent Rose, Al Jolson & Duke Ellington
