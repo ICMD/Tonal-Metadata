@@ -1,7 +1,7 @@
-> Hi-Fi Ellington Uptown
-> Duke Ellington
+> Fi Ellington Uptown
+> Duke Ellington & His Orchestra
 > 1 / 1
-> Jazz | 1952 | 
+> Jazz | 1992 | Sony Records
 > da6f083f419da1ef92792975807abc6a | 
 >  | 
 
