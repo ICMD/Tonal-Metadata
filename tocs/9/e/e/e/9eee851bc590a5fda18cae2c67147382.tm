@@ -2,7 +2,7 @@
 > Joe Pass, Niels-Henning Ørsted Pedersen & Oscar Peterson
 > 1 / 1
 > Jazz | 1974 | Original Jazz Classics
->  | 
+> 4c284a2916be5f86a5fe6bbdc0586a57 | 
 > 201797535 | 
 
 Oscar Peterson (1925 – 2007), Joe Pass (1929 – 1994) & Niels-Henning Ørsted Pedersen (1946 – 2005)
