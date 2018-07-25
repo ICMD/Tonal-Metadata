@@ -5,13 +5,6 @@
 > 0ef6c4089c71361d5957f8a76c96ea0f | 
 >  | 
 
-> Opposite People: Sorrow Tears and Blood
-> Fela Kuti & Africa 70
-> 1 / 1
-> Pop | 2006 | Barclay
-> 0ef6c4089c71361d5957f8a76c96ea0f | 
->  | 
-
 > The Complete Works of Fela Anikulapo Kuti
 > Fela Kuti
 > 25 / 27 BOXSET
