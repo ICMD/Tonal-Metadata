@@ -1,10 +1,11 @@
 > Earl Hines Plays Duke Ellington
-> Earl “Fatha” Hines
-> 1 / 2
-> Jazz | 1988 | New World Records
+> Earl Hines
+> 1 / 1
+> Jazz | 1996 | New World Records
 > 21e3f99da9aee8df7ec84782eced65ac | 
 >  | 
 
+Earl Hines (1903 – 1983)
 01. Love You Madly
 02. Sophisticated Lady
 03. I’m Beginning to See the Light
