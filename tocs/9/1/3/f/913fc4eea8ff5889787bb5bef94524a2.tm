@@ -1,8 +1,8 @@
-> 1947-1949
-> Earl “Fatha” Hines
+> The Chronological Classics: Earl Hines and His Orchestra 1947-1949
+> Earl Hines and His Orchestra
 > 1 / 1
-> Jazz | 2000 | Classics Records
-> 7b71863f9dbd0da1517452f05a07ec31 | 
+> Jazz | 1996 | Classics Records
+> 70859184e1dd3e028503373c0f8f674c | 
 > 461638072, 929396963 | 
 
 01. Blues for Garroway (12 – ? – 47)
