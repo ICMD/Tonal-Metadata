@@ -1,7 +1,7 @@
 > Earl Hines Plays Duke Ellington
-> Earl “Fatha” Hines
-> 2 / 2
-> Jazz | 1988 | New World Records
+> Earl Hines
+> 2 / 3
+> Jazz | 1996 | New World Records
 > 21e3f99da9aee8df7ec84782eced65ac | 
 >  | 
 
