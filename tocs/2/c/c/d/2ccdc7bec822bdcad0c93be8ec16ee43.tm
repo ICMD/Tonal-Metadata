@@ -1,10 +1,11 @@
 > Just a Lucky so and So
 > Charles Brown
 > 1 / 1
-> Blues | 2011 | New Rounder
-> 667e8dcd2396ad51531cec877f50b2d8 | 
->  | 
+> Blues | 1994 | Blues
+> 614e6ab3ff9e8c2148c8a6b7417f87fb | 
+> 419564587 | 
 
+Charles Brown
 01. I Won’t Cry Anymore
 02. Just a Lucky so and So
 03. Black Night
