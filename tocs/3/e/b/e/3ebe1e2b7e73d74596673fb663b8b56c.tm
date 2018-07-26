@@ -1,6 +1,6 @@
 > Earl Hines Plays Duke Ellington
 > Earl Hines
-> 1 / 1
+> 1 / 3
 > Jazz | 1996 | New World Records
 > 21e3f99da9aee8df7ec84782eced65ac | 
 >  | 
