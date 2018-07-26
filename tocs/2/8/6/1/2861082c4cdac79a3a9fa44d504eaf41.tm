@@ -1,17 +1,20 @@
 > Tango: Zero Hour
 > Astor Piazzolla
 > 1 / 1
-> Latin | 1986 | Nonesuch
+> Latin | 2005 | Nonesuch
 >  | 
->  | 
+> 79574688 | 
 
-Tango
+Astor Piazzolla
 01. Tanguedia III
-02. Milonga Del Angel
+02. Milonga Del Ángel
 03. Concierto Para Quinteto
 04. Milonga Loca
 05. Michelangelo '70
-06. Contrabajisimo
+06. Contrabajíssimo
 07. Mumuki
 
-  Astor Piazzolla
+  Fernando Suárez Paz, Violin
+  Héctor Console, Double Bass
+  Horacio Malvicino, Guitar
+  Pablo Ziegler, Piano
