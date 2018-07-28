@@ -1,10 +1,11 @@
-> Pianostykker Fra en Bygård
+> Hanssen: Pianostykker Fra en Bygård
 > Bengt E. Hanssen
 > 1 / 1
 > Classical | 2015 | Månestein
-> 20c4deb6d6a5e633d7e2af6084a3da1e | 
->  | 
+> 83016bd06a81a3c0cb271348b4610862 | 
+> 1065270494 | 
 
+Bengt E. Hanssen
 01. Nattpiano
 02. Søndag Morgen
 03. Vår
