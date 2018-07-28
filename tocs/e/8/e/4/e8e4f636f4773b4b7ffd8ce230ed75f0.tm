@@ -1,61 +1,83 @@
-> Orff: Camina burana
+> Orff: Carmina Burana
 > Sarah Tynan; Andrew Kennedy; Rodion Pogossov; Trinity Boys Choir, London Philharmonic Orchestra & Choir / Hans Graf
 > 1 / 1
-> Classical | 2013 | 
-> 25633991cf9fd7faa65d75840c469f6c | 
->  | 
+> Classical | 2014 | LPO
+> edd9eabe67577f8ae5bb18cf88028d66 | 
+> 825848076 | 
 
 Carl Orff (1895 – 1982)
-Carmina Burana (1935 – 1936): Fortuna Imperatrix Mundi
+Carmina Burana
 
-  01. O Fortuna
-  02. Fortune plango vulnera
+  01. Fortuna Imperatrix Mundi. O Fortuna
+  02. Fortuna Imperatrix Mundi. Fortune plango vulnera
 
-Carmina Burana (1935 – 1936): I. – Primo vere
+Carmina Burana, Part 1
 
-  03. Veris leta tacies
-  04. Omnia sol temperat (B)
-  05. Ecce gratum
+  03.    I. Primo vere. Veris leta facies
+  04.    I. Primo vere. Omnia sol temperat
+  05.    I. Primo vere. Ecce gratum
+  06. Uf dem anger. Tanz
+  07. Uf dem anger. Floret Silva
+  08. Uf dem anger. Chramer, gip die varwe mir
+  09. Uf dem anger. Reie – Swaz hie gat umbe – Chume, chum, geselle min – Swaz hie gat umbe
+  10. Uf dem anger. Were diu werlt alle min
 
-Carmina Burana (1935 – 1936): Uf dem Anger
+Carmina Burana, Part 2
 
-  06. Tanz
-  07. Floret silva
-  08. Chramer, gip die varwe mir
-
-09. Carmina Burana (1935 – 1936): Uf dem Anger — Reie (Orchestra) — Swaz hie gat umbe (Chorus) — Chume, chum geselle min (Chorus) — Swaz hie gat umbe (reprise)
-
-Carmina Burana (1935 – 1936): Uf dem Anger
-
-  10. Were diu werlt alle min
-
-Carmina Burana (1935 – 1936): II. – In taberna
-
-  11. Estuans interius (Bar)
-  12. Olim lacus colueram
-  13. Ego sum abbas
-  14. In taberna quando sumus
-
-Carmina Burana (1935 – 1936): III. – Cours d'amour
-
-  15. Amor volat undique
-  16. Dies, nox et omnia (Bar)
-  17. Stetit puella
-  18. Circa mea pectora
-  19. Si puer cum puellula
-  20. Veni, veni, venias
-  21. In trutina
-  22. Tempus est Iocundum
-  23. Dulcissime
-
-Carmina Burana (1935 – 1936)
-
-  24. Blanziflor et Helena: Ave formosissima
-  25. Fortuna Imperatrix Mundi: O Fortuna (reprise)
+  11.   II. In taberna. Estuans interius
+  12.   II. In taberna. Olim lacus colueram
+  13.   II. In taberna. Ego sum abbas
+  14.   II. In taberna. In taberna quando sumus
 
   Sarah Tynan, Soprano
   Andrew Kennedy, Tenor
   Rodion Pogossov, Baritone
   Hans Graf
   London Philharmonic Orchestra
-  Choir (Chorus Master: Neville Creed)
+  London Philharmonic Orchestra & Choir
+
+Carmina Burana, Part 3
+
+  15.  III. Cour d'amours. Amor volat undique
+
+    Sarah Tynan, Soprano
+    Andrew Kennedy, Tenor
+    Rodion Pogossov, Baritone
+    Hans Graf
+    London Philharmonic Orchestra
+    Trinity Boys Choir
+
+  16.  III. Cour d'amours. Dies, nox et omnia
+  17.  III. Cour d'amours. Stetit puella
+  18.  III. Cour d'amours. Circa mea pectora
+  19.  III. Cour d'amours. Si puer cum puellula
+  20.  III. Cour d'amours. Veni, veni, venias
+  21.  III. Cour d'amours. In trutina
+
+    Sarah Tynan, Soprano
+    Andrew Kennedy, Tenor
+    Rodion Pogossov, Baritone
+    Hans Graf
+    London Philharmonic Orchestra
+    London Philharmonic Orchestra & Choir
+
+  22.  III. Cour d'amours. Tempus est iocundum
+
+    Sarah Tynan, Soprano
+    Andrew Kennedy, Tenor
+    Rodion Pogossov, Baritone
+    Hans Graf
+    London Philharmonic Orchestra
+    Trinity Boys Choir
+
+  23.  III. Cour d'amours. Dulcissime
+  24. Blanziflor et Helena. Ave formosissima
+
+25. Carmina Burana: Fortuna Imperatrix Mundi. O Fortuna (Da capo)
+
+  Sarah Tynan, Soprano
+  Andrew Kennedy, Tenor
+  Rodion Pogossov, Baritone
+  Hans Graf
+  London Philharmonic Orchestra
+  London Philharmonic Orchestra & Choir
