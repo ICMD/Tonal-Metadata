@@ -6,10 +6,9 @@
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
-01. Sonata No. 1 in D major, Op. 12 No. 1: I. Allegro con brio
-
 Violin Sonata No. 1 in D major, Op. 12 No. 1
 
+  01.    I. Allegro con brio
   02.   II. Tema con variazioni (Andante con moto)
   03.  III. Rondo (Allegro)
 
@@ -23,9 +22,11 @@ Violin Sonata No. 3 in E-flat major, Op. 12 No. 3
 
   Rec. 1956-09
 
-07. Sonata No. 4 in A minor, Op. 23: I. Presto
-08. Violin Sonata No. 4 in A minor, Op. 23: II. Andante scherzoso, più allegretto
-09. Sonata No. 4 in A minor, Op. 23: III. Allegro molto
+Violin Sonata No. 4 in A minor, Op. 23
+
+  07.    I. Presto
+  08.   II. Andante scherzoso, più allegretto
+  09.  III. Allegro molto
 
   Rec. 1957-01
 
