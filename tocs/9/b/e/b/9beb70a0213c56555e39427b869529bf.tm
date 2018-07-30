@@ -1,8 +1,8 @@
-> J.J. Johnson: The Complete Columbia Small Group Sessions
+> The Complete Columbia J.J. Johnson Small Group Sessions
 > J.J. Johnson
 > 3 / 7
-> Jazz | 1957 | Mosaic
->  | 
+> Jazz | 1996 | Mosaic Records
+> 7d41c5a45bc071b5d49f416056e9dee0 | 
 >  | 
 
 Anthony Rolfe Johnson (b. 1940)
@@ -13,9 +13,28 @@ Anthony Rolfe Johnson (b. 1940)
 05. Kev
 06. Gone with the Wind
 07. Blue Trombone
+
+  Paul Chambers, Double Bass
+  Tommy Flanagan, Piano
+  Max Roach, Drums
+
 08. Come Rain or Come Shine
 09. Tea Pot
+
+  Bobby Jaspar, Tenor Saxophone
+  Wilbur Little, Double Bass
+  Tommy Flanagan, Piano
+  Elvin Jones, Drums
+
 10. So Sorry Please
+
+  Wilbur Little, Double Bass
+  Tommy Flanagan, Piano
+  Elvin Jones, Drums
+
 11. Old Devil Moon
 
-  The J.J. Johnson Quintet
+  Bobby Jaspar, Tenor Saxophone
+  Wilbur Little, Double Bass
+  Tommy Flanagan, Piano
+  Elvin Jones, Drums
