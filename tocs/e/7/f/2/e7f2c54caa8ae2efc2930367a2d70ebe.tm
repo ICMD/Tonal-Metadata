@@ -8,9 +8,9 @@
 > The Complete Studio Albums Collection
 > Simon & Garfunkel
 > 7 / 7 BOXSET
-> Pop | 2014 | Columbia
+> Folk | 2014 | Columbia
 > 51f354c527198e560220d91fdab81ccc | 
-> 939831605 | B00PD890RS, B00N9LNNQA
+> 939831605 | B00N9LNNQA
 
 01. Mrs. Robinson
 02. For Emily, Whenever I May Find Her
