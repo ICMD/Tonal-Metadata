@@ -7,8 +7,8 @@
 
 > The Songbook Collection (Box Set)
 > Rosemary Clooney
-> 5 / 6 BOXSET
-> Jazz | 1990 | Concord Records
+> 5 / 6
+> Easy Listening | 1990 | Concord Jazz
 > 586d30011afa9946a8a973cca4bff9a2 | 
 > 137056810 | 
 
