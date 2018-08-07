@@ -1,8 +1,8 @@
 > TANGO 3.0
-> GOTAN プロジェクト
+> GOTAN
 > 1 / 1
 > Electronica | 2010 | Barclay
->  | 
+> 4ce80f1ccc4403f4a0ef0bec6de5c821 | 
 > 366939024 | 
 
 Gotan Project
