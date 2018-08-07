@@ -18,4 +18,4 @@ Gotan Project
 10. Panamericana
 11. Érase una Vez
 
-  GOTAN プロジェクト
+  Gotan Project
