@@ -5,13 +5,6 @@
 >  | 
 >  | 
 
-> The Complete Recordings: Vol. 5
-> Bessie Smith
-> 5 / 8
-> Blues | 2003 | Frog
-> f597cc6837907a3f9d2b5bdc23154d77 | 
->  | 
-
 01. What’s the Matter Now?
 02. I Want Ev'ry Bit of It
 03. Jazzbo Brown from Memphis Town
