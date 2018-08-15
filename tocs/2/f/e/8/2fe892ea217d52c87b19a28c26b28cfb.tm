@@ -1,7 +1,7 @@
-> The Compete Recordings: Vol. 4
+> The Complete Recordings of Bessie Smith
 > Bessie Smith
 > 4 / 8
-> Blues | 2002 | 
+> Blues | 2002 | Frog
 >  | 
 >  | 
 
