@@ -1,8 +1,8 @@
-> The Complete Recordings, Vol. 2
+> The Complete Recordings of Bessie Smith
 > Bessie Smith
-> 1 / 1
-> Blues | 2001 | Orchard
-> a44477434ed676a94bb946046d4a1852 | 
+> 2 / 8
+> Blues | 2002 | Frog
+>  | 
 >  | 
 
 01. Graveyard Dream Blues
