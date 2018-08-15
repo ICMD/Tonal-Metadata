@@ -1,9 +1,9 @@
-> The Complete Recordings
+> The Complete Recordings of Bessie Smith
 > Bessie Smith
 > 1 / 8
-> Blues | 2001 | Frog Records
-> 37285be1027c37ac47eb711447316fc6 | 
->  | B01K8MWWUK
+> Blues | 2002 | Frog
+>  | 
+>  | 
 
 01. Downhearted Blues
 02. Gulf Coast Blues
