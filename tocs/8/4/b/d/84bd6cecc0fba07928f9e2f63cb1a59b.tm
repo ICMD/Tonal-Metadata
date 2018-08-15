@@ -1,7 +1,7 @@
-> The Complete Recordings of Bessie Smith, Vol. 8
+> The Complete Recordings of Bessie Smith
 > Bessie Smith
-> 1 / 1
-> Blues | 2004 | Orchard
+> 8 / 8
+> Blues | 2002 | Frog
 >  | 
 >  | 
 
