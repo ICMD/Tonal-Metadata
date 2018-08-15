@@ -1,7 +1,7 @@
-> The Complete Recordings of Bessie Smith, Vol. 6
+> The Complete Recordings of Bessie Smith
 > Bessie Smith
-> 1 / 1
-> Blues | 2004 | Frog
+> 6 / 8
+> Blues | 2002 | Frog
 >  | 
 >  | 
 
