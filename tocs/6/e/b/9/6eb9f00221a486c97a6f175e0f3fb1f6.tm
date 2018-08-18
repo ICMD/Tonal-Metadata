@@ -1,16 +1,20 @@
-> BelewPrints: The Acoustic Adrian Belew Volume Two
+> Belew Prints: The Acoustic Adrian Belew, Vol. 2
 > Adrian Belew
 > 1 / 1
 > Rock | 1998 | 
 >  | 
 >  | 
 
+> Belewprints
+> Adrian Belew
+> 1 / 1
+> Rock | 1998 | 
+>  | 
+>  | 
+
+Adrian Belew
 01. Men in Helicopters
-
-Cage
 02. Cage
-
-COMPOSER NON-APPLICABLE
 03. I Remember How to Forget
 04. Young Lions
 05. Never Enough
@@ -22,7 +26,7 @@ COMPOSER NON-APPLICABLE
 11. Return of the Chicken
 12. Dinosaur
 13. 1967
-14. Free as a Bird (Live at the Longacre Theater, New York City)
+14. Free as a Bird (Live at Longacre Theater)
 15. Nude Wrestling with a Christmas Tree
 
   Adrian Belew
