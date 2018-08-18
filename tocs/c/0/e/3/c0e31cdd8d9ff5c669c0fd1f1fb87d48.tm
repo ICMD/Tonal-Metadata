@@ -1,10 +1,11 @@
-> The Acoustic Adrian Belew (1993)
+> Acoustic Adrian Belew
 > Adrian Belew
 > 1 / 1
-> Rock | 1993 | Discipline Global Mobile
+> Rock | 1995 | Discipline Global Mobile
 >  | 
 >  | 
 
+Adrian Belew
 01. The Lone Rhinoceros
 02. Peace on Earth
 03. The Man in the Moon
