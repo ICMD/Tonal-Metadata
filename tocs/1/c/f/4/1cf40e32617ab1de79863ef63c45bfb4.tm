@@ -1,19 +1,19 @@
-> Big Bill Broonzy in Chronological Order, 1949-1951
+> Big Bill Broonzy, Vol. 13 (1949-1951)
 > Big Bill Broonzy
 > 1 / 1
-> Blues | 2017 | Doxy Records
->  | 
->  | 
+> Blues | 2013 | Document Records
+> 5a74623df8a648b2fb69932925ec78c4 | 
+> 685701330 | 
 
-01. Bull Cow Blues No. 3 [Alternate Take]
-02. Married Life is a Pain [Alternate Take]
-03. Black Mare Blues [Alternate Take]
-04. W.P.A. Blues [Alternate Take]
-05. Oh Babe (Don’t Do Me That Way) [Alternate Take]
-06. Little Bug [Alternate Take]
+01. Bull Cow Blues No. 3 (Alt. Take)
+02. Married Life is a Pain (Alt. Take)
+03. Black Mare Blues (Alt. Take)
+04. Wpa Blues (Alt. Take)
+05. Oh Babe (Don’t Do Me That Way) [Alt. Take]
+06. Little Bug (Alt. Take)
 07. (I’m A) Wanderin’ Man
 08. I Love My Whiskey
-09. You've Been Mistreatin’ Me
+09. You've Been Mistreating Me
 10. I Stay Blue All the Time
 11. Water Coast Blues
 12. Five Feet Seven
