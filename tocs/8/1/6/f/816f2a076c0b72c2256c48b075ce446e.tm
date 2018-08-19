@@ -1,12 +1,12 @@
-> Big Bill Broonzy in Chronological Order, 1945-1947
+> Play Your Hand
 > Big Bill Broonzy
 > 1 / 1
-> Blues | 2017 | Doxy Records
->  | 
->  | 
+> Blues | 2008 | Synergie OMP
+> 29a2324a3bcbd14c98e51046d5ba1e1b | 
+> 314687834 | 
 
 01. Please Believe Me
-02. Why Did You Do That to Me
+02. Why Did You Do That to Me?
 03. You Got to Play Your Hand
 04. Just a Dream
 05. Doing the Best I Can
