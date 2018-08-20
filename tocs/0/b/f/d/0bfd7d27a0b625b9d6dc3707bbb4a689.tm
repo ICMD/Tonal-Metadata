@@ -2,7 +2,7 @@
 > Big Bill Broonzy
 > 1 / 1
 > Blues | 1990 | Columbia
->  | 
+> f72b428d4b2f74b9f5f4564683bf880e | 
 > 194000096 | 
 
 Big Bill Broonzy
