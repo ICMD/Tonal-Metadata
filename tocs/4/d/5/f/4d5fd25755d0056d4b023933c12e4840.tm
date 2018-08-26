@@ -1,8 +1,8 @@
 > Girl Talk
-> 山本剛トリオ
+> Tsuyoshi Yamamoto Trio
 > 1 / 1
 > Jazz | 1975 | Three Blind Mice (TBM)
->  | 
+> 5c58b41c281d710188cde2158f7ac943 | 
 >  | 
 
 01. The Way We Were
@@ -16,4 +16,4 @@
 06. What Now My Love
 07. Autumn in New York
 
-  山本剛トリオ
+  Tsuyoshi Yamamoto Trio
