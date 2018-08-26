@@ -1,8 +1,8 @@
-> AKO’S DREAM
-> 鈴木勲
+> Ako’s Dream
+> Isao Suzuki Sextet
 > 1 / 1
 > Jazz |  | 
->  | 
+> 74bd4cfc9eda50ea6be1964689a482a0 | 
 >  | 
 
 01. AKO’S DREAM
@@ -10,4 +10,4 @@
 03. FEEL like MAKIN’ LOVE
 04. SEVEN COME ELEVEN
 
-  鈴木勲
+  Isao Suzuki
