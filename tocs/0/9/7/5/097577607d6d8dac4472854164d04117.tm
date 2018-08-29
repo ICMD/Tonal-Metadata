@@ -2,7 +2,7 @@
 > 山本剛トリオ
 > 1 / 1
 > Jazz | 2015 | Venus Records
->  | 
+> cf9695908dccf0d8f0767ac9e146b844 | 
 >  | 
 
 01. Cool Struttin'
