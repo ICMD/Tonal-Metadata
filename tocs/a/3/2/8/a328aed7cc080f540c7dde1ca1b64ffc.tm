@@ -2,7 +2,7 @@
 > The Dave Brubeck Quartet
 > 1 / 1
 > Jazz | 1982 | Concord Jazz
->  | 
+> 30ed50ee7c5169a1e2121fcd8692684d | 
 > 275123788 | 
 
 Allie Wrubel (1905 – 1973) & Herb Magidson
