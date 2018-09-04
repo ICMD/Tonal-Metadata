@@ -15,7 +15,7 @@
 > Original Album Classics
 > Sonny Rollins
 > 1 / 5 BOXSET
-> Jazz | 1962 | Bluebird/Legacy
+> Jazz | 1962 | RCA Victor
 > abdec23a1bd6790d0b6d01d4cc0d2306 | 
 > 318721855 | 
 
