@@ -6,21 +6,13 @@
 >  | 
 
 Felix Mendelssohn (1809 – 1847)
-Symphony No. 1 in C minor, Op. 11
+Symphony No. 1 in C minor, Op. 11 (1829 Version)
 
   01.    I. Allegro di molto
   02.   II. Andante
   03.  III. Scherzo: Sempre pianissimo e leggiero (1829 London version third movement)
-
-    Rec. 1829
-
   04.  III. Menuetto: Allegro molto (1824 original third movement)
-
-    Rec. 1824
-
   05.   IV. Allegro con fuoco
-
-  Rec. 1829
 
 Symphony No. 4 in A major, 'Italian', Op. 90 (1833 Version)
 
@@ -31,4 +23,3 @@ Symphony No. 4 in A major, 'Italian', Op. 90 (1833 Version)
 
   London Symphony Orchestra
   John Eliot Gardiner, Conductor
-  Rec. 1833
