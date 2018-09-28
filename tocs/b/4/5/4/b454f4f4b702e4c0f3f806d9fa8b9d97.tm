@@ -1,7 +1,7 @@
-> Complete Jazz Series 1934: 1937
-> Earl “Fatha” Hines
+> The Chronological Classics: Earl Hines and His Orchestra 1934-1937
+> Earl Hines and His Orchestra
 > 1 / 1
-> Jazz | 2009 | Complete Jazz Series
+> Jazz | 1990 | Classics Records
 >  | 
 >  | 
 
@@ -20,15 +20,82 @@
 13. Japanese Sandman
 14. Bubbling over (February 12, 1935)
 15. Blue (February 12, 1935)
+
+  Earl Hines, Piano
+
 16. Julia (February 12, 1935)
+
+  Omer Simeon, Alto Saxophone
+  Cecil Irwin, Tenor Saxophone
+  Jimmy Mundy, Tenor Saxophone
+  George Dixon, Saxophone
+  Walter Fuller, Trumpet
+  Charlie Allen, Trumpet
+  Trummy Young, Trombone
+  Louis Taylor, Trombone
+  Billy Franklin, Trombone
+  Lawrence Dixon, Guitar
+  Earl Hines, Piano
+  Quinn Wilson, Tuba
+  Darnell Howard, Reeds
+
 17. Flany Doodle Swing (February 10, 1937)
+
+  Quinn Wilson, Bass
+  Budd Johnson, Tenor Saxophone
+  Milton Fletcher, Trumpet
+  Walter Fuller, Trumpet
+  Charlie Allen, Trumpet
+  Trummy Young, Trombone
+  Louis Taylor, Trombone
+  Ken Stewart, Trombone
+  Lawrence Dixon, Guitar
+  Earl Hines, Piano
+  Wallace Bishop, Drums
+  Darnell Howard, Reeds
+  Omer Simeon, Reeds
+  Willie Randall, Reeds
+
 18. Pianology
 19. Rhythm Sundae
 20. Inspiration (February 10, 1937)
+
+  Earl Hines, Piano
+
 21. I Can’t Believe That You’re in Love with Me (February 10, 1937)
+
+  Quinn Wilson, Bass
+  Budd Johnson, Tenor Saxophone
+  Milton Fletcher, Trumpet
+  Walter Fuller, Trumpet
+  Charlie Allen, Trumpet
+  Trummy Young, Trombone
+  Louis Taylor, Trombone
+  Ken Stewart, Trombone
+  Lawrence Dixon, Guitar
+  Earl Hines, Piano
+  Wallace Bishop, Drums
+  Darnell Howard, Reeds
+  Omer Simeon, Reeds
+  Willie Randall, Reeds
+
 22. Honeysuckle Rose (February 10, 1937)
+
+  Earl Hines, Piano
+
 23. Blue Skies (August 10, 1937)
 24. Hines Rhythm (August 10, 1937)
 25. Rhythm Rhapsody
 
-  Earl Hines
+  Quinn Wilson, Bass
+  Leon Scott, Trumpet
+  Ray Nance, Trumpet
+  Louis Taylor, Trombone
+  Ed Fant, Trombone
+  Ken Stewart, Trombone
+  Hurley Ramey, Guitar
+  Earl Hines, Piano
+  Oliver Coleman, Drums
+  Leon Washington, Reeds
+  Leroy Harris, Reeds
+  Willie Randall, Reeds
