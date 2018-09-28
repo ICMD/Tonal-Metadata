@@ -1,4 +1,4 @@
-> MOZART: DON GIOVANNI •
+> Don Giovanni – Salzburg 1953
 > Cesare Siepi, Elisabeth Schwarzkopf; Wilhelm Furtwängler & Vienna Philharmonic Orchestra, Vienna State Opera Chorus
 > 3 / 3
 > Classical | 1953 | 
