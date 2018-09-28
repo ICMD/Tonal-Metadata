@@ -1,17 +1,21 @@
-> Border-Free
+> Border – Free
 > Chucho Valdés & The Afro-Cuban Messengers
 > 1 / 1
 > Jazz | 2013 | Jazz Village
-> 9a8df8535b74cd59c0d17f27c11a5630 | 
->  | 
+> fb11921f2d921ac950736baaf09ae421 | 
+> 634811759, 647778883 | 
 
+Chucho Valdés (b. 1941) & The Afro-Cuban Messengers
 01. Congadanza
 02. Caridad Amaro
 
   Chucho Valdés
   The Afro-Cuban Messengers
 
+Margarita Lecuona (1910 – 1981), Chucho Valdés (b. 1941) & The Afro-Cuban Messengers
 03. Tabú
+
+Chucho Valdés (b. 1941) & The Afro-Cuban Messengers
 04. Bebo
 
   Chucho Valdés
