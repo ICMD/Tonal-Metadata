@@ -1,11 +1,11 @@
-> The Treasury Shows Vol. 1
-> Duke Ellington
+> Treasury Shows Vol. 1
+> Duke Ellington and His Orchestra
 > 1 / 2
-> Jazz | 2000 | Duke Ellington Treasury Shows
->  | 
->  | 
+> Jazz | 2008 | Storyville Records
+> 08bafc667be8a44f634d5ccb48c466fa | 
+> 282610921 | 
 
-01. Take the ' “A” Train, Part 1
+01. Take the a Train
 02. Blutopia
 03. Midriff
 04. Creole Love Call, Part 1
@@ -13,18 +13,22 @@
 06. Frustration
 07. I’m Beginning to See the Light
 08. The Perfume Suite
-09. Love
-10. Violence
-11. Dancers in Love
-12. Sophistication
+
+The Perfume Suite
+
+  09. Love (Balcony Serenade)
+  10. Violence (Strange Feeling)
+  11. Dancers in Love (A Stomp for Beginners)
+  12. Sophistication (Coloratura)
+
 13. Air Conditioned Jungle
 14. I Ain’t Got Nothin’ but the Blues
 15. Subtle Slough
-16. Passion Flower
-17. Take the “A” Train, Part 2
+16. Passion Flower (Into Closing)
+17. Take the a Train
 18. Hayfoot, Strawfoot
 19. Don’t Get around Much Anymore, Part 1
-20. A Slip of the Lip, Part 1
-21. Take the “A” Train, Part 3
+20. A Slip of the Lip (Can Sink a Ship)
+21. Take the a Train
 
-  Duke Ellington & His Orchestra
+  Duke Ellington and His Orchestra
