@@ -1,15 +1,15 @@
-> Ellington: Cornell University
-> Second Set
-> 1 / 1
-> Jazz | 1997 | MusicMasters
-> b33fb3b5404b8eafc0daa972dd831222 | 
->  | 
-
 > Cornell University Concert
 > Duke Ellington
 > 2 / 2
 > Jazz | 1995 | Jazz Heritage
 > 6f827035c64fc8f2b65dafa136a7d301 | 
+>  | 
+
+> Ellington: Cornell University
+> Duke Ellington & His Orchestra
+> 2 / 2
+> Jazz | 1997 | MusicMasters
+> b33fb3b5404b8eafc0daa972dd831222 | 
 >  | 
 
 "Duke" Ellington (1899 – 1974)
