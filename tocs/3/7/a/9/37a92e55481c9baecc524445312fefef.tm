@@ -1,81 +1,86 @@
-> Chico & Rita (BSO)
+> Chico & Rita
 > Various Artists
 > 1 / 1
-> Latin | 2011 | Calle 54
-> b4db5af60fe2f957a43874d9983330b8 | 
->  | 
+> Latin | 2014 | Calle 54 Records
+> 71d50515f1cebbb5c1ffaecaee58d8e6 | 
+> 880921370 | 
 
+Bebo Valdés
 01. Cachao Del Creador Del Mambo
 
-  Bebo Valdes
+  Various Artists
 
+Bebo Valdés & La Chico
 02. Blues for André (Bebo’s Blues)
 
-  Bebo Valdes
   Rumberos Chico
   Rita Habana Band
 
+Bebo Valdés
 03. Bésame Mucho
 
   Idaina Valdés
   Rolando Luna
 
+Bebo Valdés & La Chico
 04. Con Poco Coco
 
-  Bebo Valdes
   Rumberos Chico
   Rita Habana Band
 
-05. Ebony Concerto
+La Chico
+05. Ebony Concerto (Allegro Moderato)
 06. Persecución
 
-  Bebo Valdes
-  La Chico
+  Bebo Valdés
   Rita Madrid Band
 
+Rolando Luna
 07. Celia
 
-  Rolando Luna
   Amadito Valdés
 
+Georgia Aguirre
 08. Paran Pan Pan
 
-  Georgia Aguirre
+  Various Artists
 
+Bebo Valdés
 09. Sabor a Mí
 
   Idaina Valdés
-  Bebo Valdes
 
+Rumberos Chico & Rita Madrid Band
 10. Ay Que Mala È
 
   Rumberos Chico
+
+La Chico
+11. Sabor a Mí (Versión 2)
+
   Rita Madrid Band
 
-11. Sabor a Mí (Versión 2) (Versión 2)
+Bebo Valdés & La Chico
+12. A Mayra (Desamor Y Coda)
 
-  La Chico
-  Rita Madrid Band
+La Chico
+13. A Mayra (Descarga)
 
-12. A Mayra (Desamor Y Coda) (Desamor Y Coda)
-13. A Mayra (Descarga) (Descarga)
-
-  La Chico
   Rita Habana Band
 
-14. Mayra (Sad Walk) (Sad Walk)
+14. Mayra (Sad Walk)
 
 Medley & Chico's Dream
-15. On the Town, Fascinating Rhythm, El Manisero Y Time Goes By
+15. Fascinating Rhythm / El Manisero / Time Goes By
 
-  La Chico
   Rita Madrid Band
 
-COMPOSER NON-APPLICABLE
+Bebo Valdés
 16. Ecuación
 
-  Bebo Valdes
+  Various Artists
 
+La Chico
 17. Tin Tin Deo
 
   German Velazco
@@ -84,52 +89,55 @@ COMPOSER NON-APPLICABLE
 
   Pedrito Martinez
 
+Bebo Valdés
 19. Nocturno en Batanga
-20. Nocturno en Batanga (Versión 2) (Versión 2)
+20. Nocturno en Batanga (Versión 2)
 
-  Bebo Valdes
+  Various Artists
 
-21. Love for Sale
+La Chico
+21. Love for Sale (Feat. Michael P. Mossman & Chico & Rita New York Band)
 
   Idaina Valdés
 
-22. Love for Sale (Reprise) (Reprise)
+22. Love for Sale (Reprise)
 
-  La Chico
   Rita Madrid Band
 
-23. Lilly
+Bebo Valdés
+23. Lilly (Feat. Chico & Rita New York Band)
 
   Freddy Cole
 
-24. Startdust
+Bobby Lavelle
+24. Startdust (Feat. Jeb Patton, David Wong & Pete van Nostrand)
 
   Bobby Lavelle
 
-25. A Mayra
+Bebo Valdés
+25. A Mayra (Feat. Bebo Valdes, Dany Noel & Horacio ”El Negro”): Lily (Instrumental)
 
   Jimmy Heath
 
+La Chico
 26. Vanguard String
 
-  La Chico
   Rita Madrid Band
 
 27. Mambo Herd
 
   Amadito Valdés
-  La Chico
   Rita Habana Band
 
 28. Deportación
 
-  La Chico
   Rita New York Ochertra
 
 29. Lily
 
   Estrella Morente
 
+Bebo Valdés
 30. La Bella Cubana
 
-  Bebo Valdes
+  Various Artists
