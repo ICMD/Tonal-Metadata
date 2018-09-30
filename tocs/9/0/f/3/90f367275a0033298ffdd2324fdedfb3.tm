@@ -1,7 +1,7 @@
 > Happy Birthday, Duke!
 > Duke Ellington
 > 2 / 5
-> Jazz | 1992 | LaserLight
+> Jazz | 1992 | Lazerlight
 >  | 
 >  | 
 
