@@ -1,12 +1,5 @@
-> Ellington: Cornell University
-> First Set
-> 1 / 1
-> Jazz | 1996 | MusicMasters
->  | 
->  | 
-
 > Cornell University Concert
-> Duke Ellington
+> Duke Ellington & His Orchestra
 > 1 / 2
 > Jazz | 1995 | Jazz Heritage
 > 6f827035c64fc8f2b65dafa136a7d301 | 
