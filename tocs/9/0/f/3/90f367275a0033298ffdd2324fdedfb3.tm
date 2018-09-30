@@ -16,4 +16,4 @@
 09. Perdido
 10. Without a Song
 
-  Duke Ellington
+  Duke Ellington & His Orchestra
