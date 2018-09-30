@@ -1,5 +1,5 @@
 > Happy Birthday, Duke!
-> Duke Ellington & His Orchestra
+> Duke Ellington
 > 3 / 5
 > Jazz | 1992 | Lazerlight
 >  | 
