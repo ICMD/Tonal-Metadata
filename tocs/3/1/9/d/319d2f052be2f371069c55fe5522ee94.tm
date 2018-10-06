@@ -1,11 +1,12 @@
-> Winterland Night
+> Winterland Night 1978: The Classic San Francisco Broadcast
 > Bruce Springsteen & The E Street Band
 > 2 / 3
-> Rock | 1998 | Crystal Cat Records
+> Rock | 2014 | Leftfield Media
 >  | 
 >  | 
 
-01. Intro
+Bruce Springsteen
+01. [Intro]
 02. Santa Claus is Coming to Town
 03. The Fever
 04. Fire
