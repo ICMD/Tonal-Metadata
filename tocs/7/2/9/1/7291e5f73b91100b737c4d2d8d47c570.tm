@@ -1,11 +1,12 @@
-> Winterland Night
-> Bruce Springsteen
+> Winterland Night 1978: The Classic San Francisco Broadcast
+> Bruce Springsteen & The E Street Band
 > 1 / 3
-> Rock | 1978 | 
+> Rock | 2014 | Leftfield Media
 >  | 
 >  | 
 
-01. Intro
+Bruce Springsteen
+01. [Intro]
 02. Badlands
 03. Streets of Fire
 04. Spirit in the Night
