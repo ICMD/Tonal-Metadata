@@ -1,12 +1,13 @@
-> Winterland Night
-> Bruce Springsteen
+> Winterland Night 1978: The Classic San Francisco Broadcast
+> Bruce Springsteen & The E Street Band
 > 3 / 3
-> Rock | 1978 | 
+> Rock | 2014 | Leftfield Media
 >  | 
 >  | 
 
-01. Intro
-02. Born to RUN
+Bruce Springsteen
+01. [Intro]
+02. Born to Run
 03. Devil with the Blue Dress On
 04. Good Golly Miss Molly
 05. C.C. Rider
