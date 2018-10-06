@@ -1,10 +1,11 @@
-> The Agora, Cleveland 1978
+> August 1978-09: The Agora, Cleveland, OH, USA
 > Bruce Springsteen & The E Street Band
 > 1 / 3
-> Rock | 1978 | 
+> Rock | 2015 | nugs.net
 >  | 
 >  | 
 
+Bruce Springsteen
 01. Summertime Blues
 02. Badlands
 03. Spirit in the Night
@@ -18,3 +19,4 @@
 
   Bruce Springsteen
   The E Street Band
+  Rec. 1978-08-09 in Agora Theatre and Ballroom, Cleveland, Live Recording
