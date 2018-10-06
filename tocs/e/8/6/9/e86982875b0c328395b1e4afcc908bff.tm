@@ -1,21 +1,59 @@
 > Mezzanine
 > Massive Attack
 > 1 / 1
-> Electronica | 1998 | 東芝EMI
-> 6c055de7cd8c08bbe52f03b615ac27a2 | 
+> Electronica | 1998 | Virgin
+>  | 
 >  | 
 
+Massive Attack
 01. Angel
+
+  Horace Andy, Guest
+
 02. Risingson
+
+  Massive Attack
+
 03. Teardrop
+
+  Elizabeth Fraser, Guest
+
 04. Inertia Creeps
+
+  Robert Del Naja, Lead Vocals
+
+Bob Hilliard
 05. Exchange
+
+  Massive Attack
+
+Massive Attack
 06. Dissolved Girl
+
+  Sara Jay, Guest & Vocal
+
 07. Man next Door
+
+  Horace Andy, Vocal & Guest
+
 08. Black Milk
+
+  Elizabeth Fraser, Guest & Vocal
+
 09. Mezzanine
+
+  Massive Attack
+
 10. Group Four
+
+  Elizabeth Fraser, Guest & Vocal
+
+Bob Hilliard
 11. (Exchange)
-12. Superpredators [Madprofessor Mix]
+
+  Horace Andy, Guest
+
+Siouxsie Sioux
+12. Superpredators (The Mad Professor Remix)
 
   Massive Attack
