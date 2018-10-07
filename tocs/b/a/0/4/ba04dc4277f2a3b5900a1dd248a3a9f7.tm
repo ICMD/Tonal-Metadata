@@ -1,10 +1,11 @@
 > Raw like Sushi
 > Neneh Cherry
 > 1 / 1
-> Dance & House | 1989 | EMI Music Australia
-> f93068b551a92e0a12e3f5ace80bbe5e | 
->  | 
+> Dance & House | 2008 | Circa Records
+> 58ba388845653e243a49394054d1ab05 | 
+> 716751901 | 
 
+Neneh Cherry
 01. Buffalo Stance
 02. Manchild
 03. Kisses on the Wind
@@ -16,8 +17,8 @@
 09. Outré Risqué Locomotive
 10. So Here I Come
 11. My Bitch
-12. Heart (It’s a Demo!)
+12. Heart (It’s a Demo)
 13. Buffalo Stance (Sukka Mix)
-14. Manchild (The Old School Mix)
+14. Manchild (Old School Mix)
 
   Neneh Cherry
