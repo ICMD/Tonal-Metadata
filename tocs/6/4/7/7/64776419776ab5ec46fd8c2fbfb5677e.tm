@@ -1,10 +1,11 @@
-> Dance Hall Style
+> Dance Hall Style: EP
 > Horace Andy
 > 1 / 1
-> Reggae | 2003 | Finetunes
->  | 
->  | 
+> Reggae | 2005 | Indigo
+> aa380889cf8e10415457dae5b8a0c53a | 
+> 82001903 | 
 
+Horace Hinds & Horace Andy
 01. Money Money
 02. Lonely Woman
 03. Cuss Cuss
