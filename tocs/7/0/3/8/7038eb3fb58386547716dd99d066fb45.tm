@@ -1,32 +1,43 @@
-> ベートーヴェン 交響曲全集 フルトヴェングラー (第1番､第3番)
-> ヴィルヘルム・フルトヴェングラー指揮ウィーン・フィルハーモニー
+> Beethoven: Symphonys 1 & 3
+> Vienna Philharmonic & Wilhelm Furtwängler
 > 1 / 1
-> Classical | 2011 | 
-> 481b64c3b4d3400aaf81c1fb1695900d | 
+> Classical | 1989 | EMI Classics
+> 9af81b12231dc136efca7546b658a964 | 
+> 693201568, 693204244, 696691630 | 
+
+> Beethoven: The 9 Symphonys
+> Wilhelm Furtwängler & Vienna Philharmonic Orchestra
+> 1 / 5 BOXSET
+> Classical | 2000 | EMI Classics
+> b759f420ef0eb81ef181519cc484ddb4 | 
 >  | 
 
-> Beethoven: 9 Symphonys
-> Wolfgang Sawallisch & Royal Concertgebouw Orchestra
-> 1 / 5
-> Classical | 1952 | EMI Classics
->  | 
+> The Great EMI Recordings
+> Wilhelm Furtwängler
+> 1 / 21 BOXSET
+> Classical | 2011 | EMI Classics
+> 089f62a1656259c6c178f934c4d0598b | 
 >  | 
 
 Ludwig van Beethoven (1770 – 1827)
 Symphony No. 1 in C major, Op. 21
 
-  01.    I. Adagio Molto, Allegro con Brio
-  02.   II. Andante Cantabile con Moto
-  03.  III. Menuetto: Allegro Molto E Vivace
-  04.   IV. Finale: Adagio, Allegro Molto E Vivace
+  01.    I. Adagio molto – Allegro con brio
+  02.   II. Andante cantabile con moto
 
-05. Symphony No. 3 in E-flat major, Op. 55 “Eroica”: I. Allegro con Brio
-06.   II. Marcia Funebre: II. Adagio Assai
+03. Symphony No. 1 in C major, Op. 21 & Trio: III. Menuetto (Allegro molto e vivace)
+04. Symphony No. 1 in C major, Op. 21: IV. Finale (Adagio – Allegro molto e vivace)
 
-Symphony No. 3 in E-flat major, Op. 55 “Eroica”
+  Rec. 1952-11-24 – 1952-11-28 in Wiener Musikverein: Großer Musikvereinssaal, Wien
 
-  07.  III. Scherzo: Allegro Vivace
-  08.   IV. Finale: Allegro Molto
+Symphony No. 3 in E-flat major, 'Eroica', Op. 55
 
-  Royal Concertgebouw Orchestra
-  Wolfgang Sawallisch, Conductor
+  05.    I. Allegro con brio
+  06.   II. Marcia funebre (Adagio assai)
+
+07. Symphony No. 3 in E-flat major, 'Eroica', Op. 55 & Trio: III. Scherzo (Allegro vivace) – Trio
+08. Symphony No. 3 in E-flat major, 'Eroica', Op. 55: IV. Finale (Allegro molto – Poco andante – Presto)
+
+  Wiener Philharmoniker
+  Wilhelm Furtwängler, Conductor
+  Rec. 1952-11-26 – 1952-11-27 in Wiener Musikverein: Großer Musikvereinssaal, Wien
