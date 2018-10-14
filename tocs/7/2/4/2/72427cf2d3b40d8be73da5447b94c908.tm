@@ -1,24 +1,23 @@
-> Beethoven: Symphonys
-> Wilhelm Furtwängler & Vienna Philharmonic Orchestra
-> 2 / 5
-> Classical | 1952 | EMI Classics
+> Beethoven: Wilhelm Furtwaengler Vol. 9
+> Wilhelm Furtwängler & The Legacy
+> 1 / 1
+> Classical | 2010 | EMI Classics
 >  | 
->  | 
+> 436912900 | 
 
 Ludwig van Beethoven (1770 – 1827)
-Symphony No. 2 in D major, Op. 36
+01.    I. Adagio Molto. Allegro con Brio: Symphony No. 2 in D major, Op. 36: I. Adagio molto – Allegro con brio
+02.   II. Larghetto: Symphony No. 2 in D major, Op. 36: II. Larghetto
+03.  III. Scherzo. (Allegro): Symphony No. 2 in D major, Op. 36: III. Scherzo (Allegro) & Trio
+04.   IV. Allegro Molto: Symphony No. 2 in D major, Op. 36: IV. Allegro molto
 
-  01.    I. Poco Sostenuto, Vivace
-  02.   II. Allegretto
-  03.  III. Presto
-  04.   IV. Allegro con Brio
+  Rec. 1948-10-03 in Royal Albert Hall, Kensington and Chelsea
 
-Symphony No. 4 in B-flat major, Op. 60
+05.    I. Adagio: Allegro vivace: Symphony No. 4, Op. 60
+06.   II. Adagio: Symphony No. 4, Op. 60
+07.  III. Allegro Vivace: Symphony No. 4, Op. 60
+08.   IV. Allegro Ma Non Troppo: Symphony No. 4, Op. 60
 
-  05.    I. Adagio, Allegro Vivace
-  06.   II. Adagio
-  07.  III. Allegro Vivace
-  08.   IV. Allegro Ma Non Troppo
-
-  Vienna Philharmonic Orchestra
+  Wiener Philharmoniker
   Wilhelm Furtwängler, Conductor
+  Rec. 1952-12-01 – 1952-12-03 in Wiener Musikverein: Großer Musikvereinssaal, Wien
