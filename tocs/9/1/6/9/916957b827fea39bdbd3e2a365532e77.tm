@@ -1,10 +1,11 @@
 > Senzo
 > Abdullah Ibrahim
 > 1 / 1
-> Jazz | 2008 | Intuition
-> 30b81e68e2a89a58c7b166e60b3f767f | 
->  | 
+> Jazz | 2008 | intuition
+> eb7f18270bdd0da64fae896f5fbb2794 | 
+> 290516174, 302471166 | 
 
+Abdullah Ibrahim (b. 1934)
 01. Ocean & The River
 02. In the Evening
 03. Blues for Bea
@@ -25,7 +26,11 @@
 18. Banyana, Children of Africa
 19. Mamma
 20. Blue Bolero
+
+"Duke" Ellington (1899 – 1974)
 21. In a Sentimental Mood
+
+Abdullah Ibrahim (b. 1934)
 22. Ocean & The River
 
   Abdullah Ibrahim
