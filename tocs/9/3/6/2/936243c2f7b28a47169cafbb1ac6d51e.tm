@@ -1,11 +1,4 @@
-> Beethoven: Symphony No. 9 (The 1951 Historical Recording)
-> Bayreuth Festival Orchestra, Bayreuth Festival Chorus & Wilhelm Furtwängler
-> 1 / 1
-> Classical | 2012 | EMI Classics
-> 4969e2839d26d95450ea11ac8f34425a | 
-> 537647021, 693071407, 726253474 | 
-
-> Beethoven: The 9 Symphonys
+> Beethoven: The 9 Symphonies
 > Wilhelm Furtwängler & Bayreuth Festival Orchestra
 > 5 / 5 BOXSET
 > Classical | 2000 | EMI
