@@ -1,12 +1,19 @@
-> Play the Blues
+> Wynton Marsalis & Eric Clapton Play the Blues: Live from Jazz at Lincoln Center
 > Wynton Marsalis & Eric Clapton
 > 1 / 1
-> Blues | 2011 | WARNER MUSIC JAPAN
-> dbd25052427b41c546ac0cb862ff7be7 | 
+> Blues | 2011 | Reprise Records
+>  | 
 >  | 
 
+Wynton Marsalis & Eric Clapton
 01. Ice Cream
-02. Forty – Four
+
+  Rec. Jazz At The Lincoln Center, New York
+
+02. Forty‐Four
+
+  Rec. Jazz At The Lincoln Center, New York, Live Recording
+
 03. Joe Turner’s Blues
 04. The Last Time
 05. Careless Love
@@ -17,8 +24,12 @@
   Wynton Marsalis
   Eric Clapton
 
+Wynton Marsalis, Eric Clapton & Taj Mahal
 09. Just a Closer Walk with Thee
 10. Corrine, Corrina
+
+  Rec. Jazz At The Lincoln Center, New York
+
 11. Stagger Lee
 
   Wynton Marsalis
