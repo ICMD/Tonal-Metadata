@@ -1,9 +1,9 @@
 > Ella Fitzgerald Sings the Cole Porter Song Book
 > Ella Fitzgerald
-> 1 / 2
-> Jazz | 1956 | Verve
-> 78087c214f26e0b42f67f862855c1ad0 | 
->  | 
+> 1 / 2 BOXSET
+> Jazz | 2017 | Verve Records
+> 3749a2e3e684fdc262c39aee62d348e3 | 
+> 1203560174, 1204628822 | 
 
 01. All through the Night
 02. Anything Goes
