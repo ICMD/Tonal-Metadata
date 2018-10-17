@@ -1,7 +1,7 @@
 > Live in Montreux
-> 山本剛トリオ
+> Tsuyoshi Yamamoto Trio
 > 1 / 1
-> Jazz | 1977 | Three Blind Mice
+> Jazz | 1989 | three blind mice
 > c20c784a3c7b9acd05d6a14dade04887 | 
 >  | 
 
