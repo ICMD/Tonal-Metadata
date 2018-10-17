@@ -1,13 +1,6 @@
-> Ella Fitzgerald Sings More Cole Porter (Mono Version)
-> Ella Fitzgerald & Buddy Bregman and His Orchestra
-> 1 / 1
-> Jazz | 1961 | Verve
-> 21d13306c7c67a4e011396ce8d053a04 | 
-> 788705885 | 
-
 > Ella Fitzgerald Sings the Cole Porter Song Book
 > Ella Fitzgerald
-> 2 / 2 BOXSET
+> 2 / 2
 > Jazz | 2017 | Verve Records
 > 3749a2e3e684fdc262c39aee62d348e3 | 
 > 1203560174, 1204628822 | 
