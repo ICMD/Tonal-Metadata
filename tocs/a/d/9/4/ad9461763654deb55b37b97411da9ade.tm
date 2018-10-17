@@ -14,7 +14,7 @@
 
 > Ella Fitzgerald Sings the Cole Porter Song Book
 > Ella Fitzgerald
-> 1 / 2 BOXSET
+> 1 / 2
 > Jazz | 2017 | Verve Records
 > 3749a2e3e684fdc262c39aee62d348e3 | 
 > 1203560174, 1204628822 | 
