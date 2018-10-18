@@ -1,17 +1,11 @@
-> The Concert Years 1977-1983
-> Ella Fitzgerald
-> 1 / 1
-> Jazz |  | 
->  | 
->  | 
-
-> The Concert Years 1953-1967 17 Songs
+> The Concert Years
 > Ella Fitzgerald
 > 4 / 4
-> Jazz | 1994 | 
+> Jazz | 1994 | Pablo
 >  | 
 >  | 
 
+Ella Fitzgerald (1917 – 1996)
 01. Too Close for Comfort
 02. I Ain’t Got Nothin’ but the Blues
 03. Day by Day
