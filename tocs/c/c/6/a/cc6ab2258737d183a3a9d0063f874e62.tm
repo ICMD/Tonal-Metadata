@@ -1,13 +1,14 @@
-> The Concert Years 1974-1975
+> The Concert Years
 > Ella Fitzgerald
 > 3 / 4
-> Jazz | 1994 | 
+> Jazz | 1994 | Pablo
 >  | 
 >  | 
 
+Ella Fitzgerald (1917 – 1996)
 01. Sweet Georgia Brown
 02. They Can’t Take That Away from Me
-03. Every Time We Say Goodbye
+03. Ev'ry Time We Say Goodbye
 04. The Man I Love
 05. It Don’t Mean a Thing (If It Ain’t Got That Swing)
 06. Lemon Drop
