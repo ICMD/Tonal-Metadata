@@ -1,10 +1,11 @@
-> The Concert Years 1953-1967
+> The Concert Years
 > Ella Fitzgerald
 > 1 / 4
-> Jazz | 1994 | 
+> Jazz | 1994 | Pablo
 >  | 
 >  | 
 
+Ella Fitzgerald (1917 – 1996)
 01. On the Sunny Side of the Street
 
   Ella Fitzgerald
@@ -15,9 +16,13 @@
 
 02. Body and Soul
 03. Why Don’t You Do Right
-04. Oh, Lady, Be Good
+04. Oh Lady, Be Good
 05. I Got It Bad (And That Ain’t Good)
+
+Morgan Lewis
 06. How High the Moon?
+
+Ella Fitzgerald (1917 – 1996)
 07. My Funny Valentine
 08. Smooth Sailing
 
@@ -39,7 +44,7 @@
 12. Duke’s Place
 13. Satin Doll
 14. Something to Live For
-15. So Danco Samba
+15. Só Danço Samba
 
   Ella Fitzgerald
   Duke Ellington
