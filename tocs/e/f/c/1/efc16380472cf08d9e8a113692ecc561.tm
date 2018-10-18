@@ -1,17 +1,20 @@
-> The Concert Years 1971-1972
+> The Concert Years
 > Ella Fitzgerald
 > 2 / 4
-> Jazz | 1994 | 
+> Jazz | 1994 | Pablo
 >  | 
 >  | 
 
+Cole Porter (1891 – 1964)
 01. Night and Day
 
   Ella Fitzgerald
+  Rec. Théâtre de Verdure de Nice, Nice, Live Recording
 
-02. The Many Faces of Cole Porter:
-03. The Ballad Medley:
-04. The Bossa Scene:
+Ella Fitzgerald (1917 – 1996)
+02. The Many Faces of Cole Porter: Get Out of Town / Easy to Love You / You Do Something to Me
+03. The Ballad Medley: Body and Soul / The Man I Love / I Loves You Porgy
+04. The Bossa Scene: The Girl from Ipanema / Fly Me to the Moon / O Nosso Amor (Carnival Samba) / Cielto Lindo / Madalena / Aqua de Beber (Water to Drink)
 05. They Can’t Take That Away from Me
 
   Ella Fitzgerald
@@ -23,7 +26,7 @@
 
   Ella Fitzgerald
 
-07. L – O – v
+07. Love
 08. Begin the Beguine
 09. Indian Summer
 10. You've Got a Friend
@@ -35,6 +38,7 @@
   Ella Fitzgerald
   Count Basie Orchestra
 
-15. C – Jam Blues
+"Duke" Ellington (1899 – 1974)
+15. “C” Jam Blues
 
   Ella Fitzgerald
