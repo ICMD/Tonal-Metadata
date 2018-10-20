@@ -30,7 +30,7 @@
 > Various Artists
 > 11 / 25 BOXSET
 > Jazz | 2011 | Sony Music UK
->  | 
+> 990ecd9d2fcf03f9687b1e44d2c3a68d | 
 >  | 
 
 Miles Davis (1926 – 1991)
