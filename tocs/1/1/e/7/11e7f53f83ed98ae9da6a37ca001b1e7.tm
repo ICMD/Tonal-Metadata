@@ -1,9 +1,9 @@
 > Nonet
 > Lee Konitz
 > 1 / 1
-> Jazz | 2005 | IODA
-> fc57dcebb8cae70454bfd8417559420a | 
->  | 
+> Jazz | 2002 | CHIAROSCURO RECORDS
+> 3c86689bbfd1c46bc5b36f64cb402f69 | 
+> 1213737495 | 
 
 01. Fanfare
 02. Chi – Chi
