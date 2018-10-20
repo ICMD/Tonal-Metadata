@@ -23,7 +23,7 @@
 > Various Artists
 > 8 / 25 BOXSET
 > Jazz | 2011 | Sony Music UK
->  | 
+> 990ecd9d2fcf03f9687b1e44d2c3a68d | 
 >  | 
 
 Vincent Youmans (1898 – 1946), Billy Rose & Edward Eliscu – Joe Henderson (1937 – 2001)
