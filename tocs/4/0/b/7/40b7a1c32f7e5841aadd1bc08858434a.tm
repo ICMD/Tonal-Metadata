@@ -30,7 +30,7 @@
 > Various Artists
 > 6 / 25 BOXSET
 > Jazz | 2011 | Sony Music UK
->  | 
+> 990ecd9d2fcf03f9687b1e44d2c3a68d | 
 >  | 
 
 Charles Mingus (1922 – 1979)
