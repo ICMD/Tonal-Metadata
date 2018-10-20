@@ -1,5 +1,5 @@
-> Pärt: Te Deum, Silouans Song, Berliner Messe
-> Tõnu Kaljuste & Estonian National Symphony Orchestra, Estonian Philharmonic Chamber Choir
+> Pärt: Te Deum
+> Tõnu Kaljuste, Eesti Filharmoonia Kammerkoor & Tallinna Kammerorkester
 > 1 / 1
 > Classical | 1993 | ECM
 > 83105d15c4cc4377f803b81167a02fdf | 
@@ -8,18 +8,20 @@
 Arvo Pärt (b. 1935)
 01. Te Deum
 
+  Tallinna Kammerorkester
+  Eesti Filharmoonia Kammerkoor
   Estonian National Symphony Orchestra
-  Estonian Philharmonic Chamber Choir
   Tõnu Kaljuste, Conductor
 
 02. Silouans Song
 
+  Tallinna Kammerorkester
   Tallin Chamber Orchestra
   Tõnu Kaljuste, Conductor
 
 03. Magnificat
 
-  Estonian Philharmonic Chamber Choir
+  Eesti Filharmoonia Kammerkoor
   Tõnu Kaljuste, Conductor
 
 Berliner Messe
@@ -33,6 +35,8 @@ Berliner Messe
   10.  VII. Sanctus
   11. VIII. Agnus Dei
 
+  Tallinna Kammerorkester
+  Eesti Filharmoonia Kammerkoor
   Estonian National Symphony Orchestra
-  Estonian Philharmonic Chamber Choir
   Tõnu Kaljuste, Conductor
+  Rec. 1993
