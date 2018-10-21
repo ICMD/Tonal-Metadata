@@ -1,10 +1,11 @@
 > Dark Shadows
 > Eddie Henderson
 > 1 / 1
-> Jazz | 1995 | 
+> Jazz | 1996 | Milestone
 >  | 
 >  | 
 
+Eddie Henderson (b. 1940)
 01. El Gaucho
 02. 19th Street
 03. Goodbye
