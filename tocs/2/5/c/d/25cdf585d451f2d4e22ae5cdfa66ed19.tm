@@ -2,8 +2,8 @@
 > Coleman Hawkins & Roy Eldridge Quintet
 > 1 / 2
 > Jazz | 2008 | Lone Hill Jazz
->  | 
->  | 
+> 37321a408e920dbb464c951b3454980e | 
+> 385092452 | 
 
 01. Blue Lou
 02. Basin Street Blues
@@ -11,7 +11,7 @@
 04. Rifftide
 
 Ballad Medley
-05. I Can’t Get Started: These Foolish Things
+05. These Foolish Things
 
 COMPOSER NON-APPLICABLE
 06. Undecided
