@@ -1,9 +1,9 @@
 > The Complete Blue Note and Capitol Recordings of Fats Navarro and Tadd Dameron
 > Fats Navarro & Tadd Dameron
 > 1 / 2
-> Jazz | 1995 | EMI
-> 3a3f77fb78ff1bade68c8410b391e4ce | 
->  | 
+> Jazz | 1995 | Blue Note
+> 3a8ce5c361cc0bccf540cee606e6e5b2 | 
+> 724265272 | 
 
 Tadd Dameron (1917 – 1965)
 01. The Chase (Alternate Take)
