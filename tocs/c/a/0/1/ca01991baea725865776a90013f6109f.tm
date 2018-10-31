@@ -3,9 +3,10 @@
 > 1 / 1
 > Jazz | 2000 | Chesky Records
 > 799bdd89085e1d99e58516833eea239d | 
->  | 
+> 74888301 | 
 
-01. L.O: V. E: Monty Alexander
+Clark Terry (b. 1920)
+01. L.O: V.E.
 02. Just for a Thrill: Geri Allen
 03. Liza All the Clouds’ll Roll: Eric Lewis
 04. Intimacy of the Blues: Kenny Barron
