@@ -1,7 +1,7 @@
 > Harlem Renaissance
 > Benny Carter
 > 1 / 2
-> Jazz | 1993 | Jazz Heritage
+> Jazz | 1992 | 
 >  | 
 >  | 
 
