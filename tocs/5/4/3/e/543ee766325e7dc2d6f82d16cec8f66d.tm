@@ -1,5 +1,5 @@
-> マンハッタン・ジャズ・クインテット
-> マンハッタン・ジャズ・クインテット
+> Manhattan Jazz Quintet
+> Manhattan Jazz Quintet
 > 1 / 1
 > Jazz | 2004 | Bellaphon
 > 2f4740d3fcb75abca3dcc93425162a60 | 
