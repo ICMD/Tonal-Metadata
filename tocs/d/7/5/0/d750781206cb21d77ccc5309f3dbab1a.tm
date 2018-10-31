@@ -2,12 +2,12 @@
 > Horace Andy
 > 1 / 1
 > Reggae | 2009 | Abraham
-> 3e492d969de8080d9017bd58532ae077 | 
->  | 
+> bdc543b1519622372cc5cbeeddef47e8 | 
+> 330217340 | 
 
 01. My Guiding Star
-02. A True Love Always Shines Bright
-03. I Don’t Want to Be Outside
+02. A True Lov Always Shines Bright
+03. I Don’t Always Shines Brihgt
 04. Money is the Root of All Evil
 05. Ou Jamaican National Heroes
 06. No Man is an Island
