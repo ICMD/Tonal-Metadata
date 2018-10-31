@@ -1,10 +1,11 @@
 > Harlem Renaissance
 > Benny Carter
 > 2 / 2
-> Jazz | 1992 | 
+> Jazz | 1993 | Jazz Heritage
 >  | 
 >  | 
 
+Benny Carter (1907 – ?)
 Tales of the Rising Sun Suite
 
   01. August Moon
@@ -13,15 +14,10 @@ Tales of the Rising Sun Suite
   04. Samurai Song
   05. Chow Chow
 
-Harlem Renaissance Suite
 06. Lament for Langston
-
-COMPOSER NON-APPLICABLE
 07. Sugar Hill Slow Drag
-
-Harlem Renaissance Suite
 08. Happy Feet
 09. Sunday Morning
-10. Happy Feet
+10. Happy Feet (Reprise)
 
   Benny Carter
