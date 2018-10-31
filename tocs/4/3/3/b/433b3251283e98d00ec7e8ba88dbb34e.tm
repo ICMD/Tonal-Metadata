@@ -5,6 +5,7 @@
 >  | 
 >  | 
 
+Benny Carter (1907 – ?)
 01. What is This Thing Called Love?
 02. Easy Money
 03. The Shadow of Your Smile
@@ -13,6 +14,9 @@
 06. On Green Dolphin Street
 07. But Beautiful
 08. Just in Time
+
+  Rec. Iridium Jazz Club, New York
+
 09. Perdido
 
   Benny Carter
