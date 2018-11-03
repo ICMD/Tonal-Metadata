@@ -1,8 +1,8 @@
-> Elegent & Sophisticated: Vol 1
+> Cosmopolitan
 > Benny Carter with Oscar Peterson
 > 1 / 1
 > Jazz | 2009 | Verve
-> 354d905381d9d02df9af000ca89c62ae | 
+>  | 
 > 342867381 | 
 
 Benny Carter (1907 – ?)
