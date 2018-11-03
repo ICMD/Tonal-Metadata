@@ -2,8 +2,8 @@
 > Leroy Carr
 > 1 / 2
 > Blues | 2004 | Columbia/Legacy
-> 7b734f5ed5f9a2b7e26cc4bec0a3f77d | 
->  | 
+> bb059a92887592d1b15ea16f888706b2 | 
+> 202224347, 789978702 | 
 
 Leroy Carr & J. Mayo 'Ink' Williams
 01. How Long – How Long Blues
