@@ -1,8 +1,8 @@
 > Arrau Heritage: Schumann
 > Claudio Arrau
 > 5 / 7
-> Classical | 2003 | Philips Classics
-> d4742a4ec430edbe34ee8955cd3b054b | 
+> Classical | 1981 | 
+>  | 
 >  | 
 
 Robert Schumann (1810 – 1856)
