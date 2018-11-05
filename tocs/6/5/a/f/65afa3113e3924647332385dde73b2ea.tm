@@ -1,53 +1,50 @@
-> Arrau Plays Schumann, Vol. 5
-> Claudio Arrau
-> 1 / 1
-> Classical | 1977 | 
->  | 
->  | 
-
-> Schumann: Arrau 5
+> Arrau Heritage: Schumann
 > Claudio Arrau
 > 5 / 7
-> Classical | 1977 | 
->  | 
+> Classical | 2003 | Philips Classics
+> d4742a4ec430edbe34ee8955cd3b054b | 
 >  | 
 
+Robert Schumann (1810 – 1856)
 Davidsbündlertänze, Op. 6
 
   01.    I. Lebhaft
   02.   II. Innig
-  03.  III. Etwas Hahnbüchen
+  03.  III. Mit Humor (Etwas hahnbüchen)
   04.   IV. Ungeduldig
   05.    V. Einfach
-  06.   VI. Sehr Rasch Un in Sich Hinein
-  07.  VII. Nicht Schnell Mit Äußerst Starker Empfindung
+  06.   VI. Sehr rasch und in sich hinein
+  07.  VII. Nicht schnell mit äußerst starker Empfindung
   08. VIII. Frisch
-  09.   IX. —
-  10.    X. Balladenmäßig, Sehr Rasch
+  09.   IX. Lebhaft
+  10.    X. Balladenmäßig, sehr rasch
   11.   XI. Einfach
   12.  XII. Mit Humor
-  13. XIII. Wild und Lustig
-  14.  XIV. Zart und Singend
+  13. XIII. Wild und lustig
+  14.  XIV. Zart und singend
   15.   XV. Frisch
-  16.  XVI. Mit Gutem Humor
-  17. XVII. Wie Aus der Ferne
-  18. XVIII. Nicht Schnell
+  16.  XVI. Mit gutem Humor
+  17. XVII. Wie aus der Ferne
+  18. XVIII. Nicht schnell (Ganz zum Überfluss)
 
-19. Blumenstück in D-flat major, Op. 19
+  Rec. 1971-04
 
+19. Blumenstück, Op. 19: Blumenstück
+
+  Claudio Arrau, Piano
   Piano
-  Claudio Arrau, Conductor
+  Rec. 1976-06
 
-Robert Schumann (1810 – 1856)
-Humoreske in B-flat major, Op. 20
+Humoreske, Op. 20
 
   20.    I. Einfach
-  21.   II. Sehr Rasch und Leicht
+  21.   II. Sehr rasch und leicht
   22.  III. Hastig
-  23.   IV. Einfach und Zart
+  23.   IV. Einfach und zart
   24.    V. Intermezzo
   25.   VI. Innig
-  26.  VII. Sehr Lebhaft – Mit Einigem Pomp
-  27. VIII. Zum Beschluß
+  26.  VII. Sehr lebhaft
+  27. VIII. Finale
 
-  Claudio Arrau, Conductor
+  Claudio Arrau, Piano
+  Rec. 1967-10
