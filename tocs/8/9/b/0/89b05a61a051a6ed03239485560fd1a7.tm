@@ -6,7 +6,7 @@
 >  | 
 
 Johann Sebastian Bach (1685 – 1750)
-Suite No. 3 in C major, BWV 1009
+Cello Suite No. 3 in C major, BWV 1009
 
   01.    I. Préludium
   02.   II. Allemande
@@ -15,7 +15,7 @@ Suite No. 3 in C major, BWV 1009
   05. Bourrées I & II
   06. Gigue
 
-Suite No. 4 in E-flat major, BWV 1010
+Cello Suite No. 4 in E-flat major, BWV 1010
 
   07.    I. Prélude (Allegro maestoso)
   08.   II. Allemande (Allegro moderato)
@@ -24,7 +24,7 @@ Suite No. 4 in E-flat major, BWV 1010
   11.    V. Bourrée I & II
   12.   VI. Gigue (Vivace)
 
-Suite No. 5 in C minor, BWV 1011
+Cello Suite No. 5 in C minor, BWV 1011
 
   13.    I. Prélude (Adagio – Allegro moderato)
   14.   II. Allemande (Molto moderato)
