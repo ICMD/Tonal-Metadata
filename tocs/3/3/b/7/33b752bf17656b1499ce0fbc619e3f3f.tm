@@ -1,34 +1,40 @@
-> Schumann: Arrau
+> Arrau Heritage: Schumann
 > Claudio Arrau
-> 1 / 1
-> Classical | 1980 | philips
+> 1 / 7
+> Classical | 2003 | Philips Classics
+> d4742a4ec430edbe34ee8955cd3b054b | 
 >  | 
->  | 
-
-01. Variations Sur le Nom D'abegg, Op. 1: Thema
-02. Variations Sur le Nom D'abegg, Op. 1 No. 1
-03. Variations Sur le Nom D'abegg, Op. 1 No. 2
-04. Variations Sur le Nom D'abegg, Op. 1 No. 3
-
-Variations Sur le Nom D'abegg, Op. 1
-
-  05. Cantabile
-  06. Finale Alla Fantasia
 
 Robert Schumann (1810 – 1856)
+Abegg Variations, Op. 1
+
+  01. Thema
+  02. Var. 1
+  03. Var. 2
+  04. Var. 3
+  05. Cantabile
+  06. Finale alla Fantasia
+
+  Rec. 1970-10
+
 07. Papillons, Op. 2
 
-Fantasie in C major, Op. 17
+  Rec. 1974-03
 
-  08.    I. Durchaus Phantastisch und Leidenschaftlich Vorzutragen
-  09.   II. Mässig. Durchaus Energisch
+Fantasy in C major, Op. 17
 
-10. Fantasy in C major, Op. 17: III. Langsam Getragen
+  08.    I. Il tutto fantastico ed appassionato – In modo d'una leggenda
+  09.   II. Moderato con energia – Poco meno mosso – Più animato
+  10.  III. Lento sostenuto. Il tutto piano – Poco più animato
 
-COMPOSER NON-APPLICABLE
-11. Nachtstucke, Op. 23 No. 1
-12. Nachtstucke, Op. 23 No. 2
-13. Nachtstucke, Op. 23 No. 3
-14. Nachtstucke, Op. 23 No. 4
+  Rec. 1966-09
 
-  Claudio Arrau
+Nachtstücke, Op. 23
+
+  11.    I. Mehr langsam, oft zurückhaltend
+  12.   II. Markiert und lebhaft
+  13.  III. Mit großer Lebhaftigkeit
+  14.   IV. Ad libitum – Einfach
+
+  Claudio Arrau, Piano
+  Rec. 1971-04
