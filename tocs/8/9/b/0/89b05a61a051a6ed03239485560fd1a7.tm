@@ -1,9 +1,9 @@
-> Bach: Cello Suites
+> Bach: CS1-6 Casals 1936-39 Op. Kura
 > Pablo Casals
-> 4 / 5
-> Classical | 2010 | Warner Classics
-> 3766771d44d34a8b0f4e22a4ba27a664 | 
-> 693721269 | 
+> 2 / 2
+> Classical | 1936 | 
+> 3efa5eddb56a18b46a92453068fe1f9a | 
+>  | 
 
 Johann Sebastian Bach (1685 – 1750)
 Suite No. 3 in C major, BWV 1009
