@@ -6,24 +6,18 @@
 >  | 
 
 Johann Sebastian Bach (1685 – 1750)
-Cello SUITE No. 1 in G major, BWV 1007
-
-  01.    I. Praeludium
-
 Cello Suite No. 1 in G major, BWV 1007
 
+  01.    I. Praeludium
   02.   II. Allemande
   03.  III. Courante
   04.   IV. Sarabande
   05.    V. Menuet Nos. 1 & 2
   06.   VI. Gigue
 
-Cello SUITE No. 2 in D minor, BWV 1008
-
-  07.    I. Praeludium
-
 Cello Suite No. 2 in D minor, BWV 1008
 
+  07.    I. Praeludium
   08.   II. Allemande
   09.  III. Courante
   10.   IV. Sarabande
