@@ -1,15 +1,8 @@
-> Arrau Plays Schumann, Vol. 7
-> Claudio Arrau
-> 1 / 1
-> Classical | 1981 | 
->  | 
->  | 
-
 > Arrau Heritage: Schumann
 > Claudio Arrau
 > 7 / 7
-> Classical | 1981 | 
->  | 
+> Classical | 2003 | Philips Classics
+> d4742a4ec430edbe34ee8955cd3b054b | 
 >  | 
 
 Robert Schumann (1810 – 1856)
@@ -19,22 +12,24 @@ Faschingsschwank Aus Wien, Op. 26
   02.   II. Romanze. Piuttosto Lento
   03.  III. Scherzino
   04.   IV. Intermezzo. Colla Più Grande Energia
-  05.    V. Finale. Il Più Vivace Possible
+  05.   IV. Finale
 
-3 Romances, Op. 28
+  Rec. 1967-10
 
-  06. No. 1 in B-flat minor
-  07. No. 2 in F-sharp major
-  08. No. 3 in B major
+06. Three Romances, Op. 28 No. 1 in B-flat minor
+07. Three Romances, Op. 28 No. 2 in F-sharp major
+08. Three Romances, Op. 28 No. 3 in B major
 
-  Claudio Arrau
+  Claudio Arrau, Piano
+  Rec. 1976-06
 
 Piano Concerto in A minor, Op. 54
 
-  09.    I. Allgro affestuoso
-  10.   II. Intermezzo. Andantino grazioso
+  09.    I. Allegro affettuoso
+  10.   II. Intermezzo, andantino grazioso
   11.  III. Allegro vivace
 
-  Claudio Arrau
+  Claudio Arrau, Piano
   Boston Symphony Orchestra
-  Colin Davis, Conductor
+  Sir Colin Davis, Conductor
+  Rec. 1980-03
