@@ -12,4 +12,7 @@
 05. Reflections
 06. Eronel
 
-  Sphere
+  Charlie Rouse, Tenor Saxophone
+  Kenny Barron, Piano
+  Buster Williams, Bass
+  Ben Riley, Drums
