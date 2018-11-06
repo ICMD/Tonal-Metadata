@@ -5,7 +5,6 @@
 > a6be8a33c4c68f264cb6e65e45f96abf | 
 > 128522, 290024886 | 
 
-Robert Earl Bell, George Melvin Brown, Claydes Smith, Dennis Ronald Thomas, Robert Spike Mickens, Richard Allen Westfield, Ronald Nathan Bell, Kool & The Gang
 01. Street Corner Symphony
 02. Fruitman
 03. Rhyme – Tyme People
