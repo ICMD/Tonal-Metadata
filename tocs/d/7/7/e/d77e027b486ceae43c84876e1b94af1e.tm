@@ -1,10 +1,11 @@
 > Orchestrion
 > Pat Metheny
 > 1 / 1
-> Jazz | 2010 | Nonesuch
-> 6b807138bf995921f3821d386eb2313e | 
->  | 
+> Jazz | 2009 | Nonesuch
+> d5dcf085143a3bd9bff2dfac92df68b1 | 
+> 350512618 | 
 
+Pat Metheny (b. 1954)
 01. Orchestrion
 02. Entry Point
 03. Expansion
