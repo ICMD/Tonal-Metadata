@@ -1,9 +1,9 @@
 > Idlewild
-> Everything but the Girl
+> Everything But the Girl
 > 1 / 1
-> Pop | 1988 | Blanco Y Negro / Sire
->  | 
->  | 
+> Pop | 1988 | Chrysalis Records
+> 4ccee308a163b306fe9a4560c6885ea9 | 
+> 1302125845 | 
 
 01. I Don’t Want to Talk about It
 02. Love is Here Where I Live
