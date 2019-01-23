@@ -12,7 +12,7 @@
 > e6332bad7dc798bce32df5336f2b313a | 
 > 652720151, 1046362897 | 
 
-Felix Mendelssohnx (1809 – 1847)
+Felix Mendelssohn (1809 – 1847)
 Violin Concerto in E minor for Violin and Orchestra, Op. 64
 
   01.    I. Allegro molto appassionato
@@ -20,7 +20,6 @@ Violin Concerto in E minor for Violin and Orchestra, Op. 64
   03.  III. Allegretto non troppo – Allegro molto vivace
 
   Hilary Hahn, Violin
-  Vladimir Jurowski, Conductor
   Oslo Philharmonic Orchestra
   Hugh Wolff, Conductor
   Rec. 2002-04-17 – 2002-04-20 in Oslo Konserthus, Oslo
